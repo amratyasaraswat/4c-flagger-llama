@@ -1,0 +1,580 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR C737
+PATIENT?
+
+PATIENT C737 
+Yes ma'am.  How are you today?
+
+DOCTOR C737
+I'm good, how are you?
+
+PATIENT C737
+Okay.  @@@.
+
+DOCTOR C737
+@@@.
+
+PATIENT C737
+@@@.
+
+DOCTOR C737
+Really.  @@@.
+
+PATIENT C737
+You know what @@@ a couple weeks ago I came in, I came into the hospital and I have like a stomach pain or something.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+And um this is from someone in Primary Care and DOCTOR, she suggested I get a course of action which I follow and it seems to resolve itself.  She said not to eat anything for 24 hours or a subsequent 24 hour period to be on a liquid diet.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+She said to allow my colon and things to kind of relax.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+At any rate that seems to have occurred and then this morning I woke up and I had an explosive case of diarrhea.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+And then you know what, sitting there waiting for you it occurred to me what happened to me and I know what I did.
+
+DOCTOR C737
+What'd you do?
+
+PATIENT C737
+I bought a brand new stove.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+And I had the stove put in on Thursday.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+And yesterday was the first time that I actually fried something in it.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+And I fried some chicken.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+And chicken fried too quickly and what I did was, I bit into that chicken and when I bit into a few parts, I realized after I saw I looked at the bone and everything, I realized that chicken wasn't done.
+
+DOCTOR C737
+@@@.
+
+PATIENT C737
+It wasn't cooked right.  So what I did with the subsequent pieces that I made and I smothered them.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+To make sure they were done but I think what gave me the stomach trauma was that piece of chicken that I ate.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+It wasn't done.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+That can do it can't it?
+
+DOCTOR C737
+Oh sure.
+
+PATIENT C737
+Uh-huh and I think that's what it is.
+
+DOCTOR C737
+Okay.  So @@@ made this appointment is for this abdominal pain?
+
+PATIENT C737
+That's right uh-huh.
+
+DOCTOR C737
+And nothing else okay.  How long would that have been?
+
+PATIENT C737
+Oh it started at 7:15 this morning.
+
+DOCTOR C737
+Okay.  When did you eat the chicken though?
+
+PATIENT C737
+Last night.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+And I put some, took sedatives and went to sleep and slept through the night.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+Okay and then when I woke up, I think that the @@@ made me wake up.
+
+DOCTOR C737
+Hmm.
+
+PATIENT C737
+Okay.  I’m not trying to be the doctor.
+
+DOCTOR C737
+Where is there abdominal pain?
+
+PATIENT C737
+Just right here, lower abdomen.
+
+DOCTOR C737
+And has it been constant in nature, is it constant?
+
+PATIENT C737
+No, it's intermittent.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+And that's what I was telling the nurse, it's a 4.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+On the scale, moderate discomfort.
+
+DOCTOR C737
+Uh-huh.  So when was the diarrhea?
+
+PATIENT C737
+Diarrhea’s all gone as we speak.
+
+DOCTOR C737
+How many times have you gone today?
+
+PATIENT C737
+Six times today.  Now it's just kind of.
+
+DOCTOR C737
+Did you @@@ anything?
+
+PATIENT C737
+Yes it is.  So there's nothing left in my stomach but when I went to the washroom it’s as if my bowels in terms of seizing.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+Yeah just as if they were seizing, but there isn't anything in there anymore that'll come out.
+
+DOCTOR C737
+Okay.  No blood?
+
+PATIENT C737
+No ma'am.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+No ma'am.
+
+DOCTOR C737
+Were you able to eat anything today?
+
+PATIENT C737
+Uh I ate some oatmeal and toast.
+
+DOCTOR C737
+How did that go?
+
+PATIENT C737
+It went well.  But @@@ drank a lot of @@@ and water this morning.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+Which is my standard regimen.
+
+DOCTOR C737
+Okay.  How about nausea, vomiting?
+
+PATIENT C737
+No.
+
+DOCTOR C737
+Any new symptoms of chills?
+
+PATIENT C737
+No.
+
+DOCTOR C737
+Any fevers?
+
+PATIENT C737
+Not that I know of no.  When she took my temperature it was 96.7.
+
+DOCTOR C737
+Okay.  Any use of recreational drugs, marijuana, heroin, cocaine @@@
+
+PATIENT C737
+About ten days ago I was highly depressed as the results of my uh prostate and I did have the lapse, okay but I believe it's all out of my system now.
+
+DOCTOR C737
+Okay.  But have you taken anything now?
+
+PATIENT C737
+No not since then no.
+
+DOCTOR C737
+@@@ what your prostate cancer?
+
+PATIENT C737
+Relapse of my addiction @@@.
+
+DOCTOR C737
+Well you said that you.
+
+PATIENT C737
+I had a relapse of my addiction with my recreational drugs.
+
+DOCTOR C737
+Yeah you say you were depressed because of something.
+
+PATIENT C737
+Yeah I was depressed because of the uh, it was a number of things.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+Something going on with my son and uh having problems with my prostate and then when I started taking the Prilosec and it resolved itself.
+
+DOCTOR C737
+Hmm.
+
+PATIENT C737
+And uh it's just a number of things okay.
+
+DOCTOR C737
+So how long @@@
+
+PATIENT C737
+Nine years, so I really felt bad after that.
+
+DOCTOR C737
+After nine years, why did you decide to start using again?
+
+PATIENT C737
+I didn't decide to use it.  It was just a spur of the moment thing. I was at a graduation party and.
+
+DOCTOR C737
+Did you know it was there?
+
+PATIENT C737
+It was there and I was there and @@@.  So it really depressed me.  Cause I'm one of the reasons for this person does them sorts of things.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+Then along comes, @@@ you know I have my fits of depression or paranoia, the guilt.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+There’s a saying in AA and I see now what they mean about it.  If there's not something or anything in the world doctor that a drink or a drug doesn’t make worse.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+@@@ saying.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+You take a drink or a drug, to try and eliminate that feeling.
+
+DOCTOR C737
+Uh-huh.
+
+PATIENT C737
+It makes that feeling worse.
+
+DOCTOR C737
+Yeah exactly.  Okay.  Okay do you have an appointment with your primary care doctor coming up soon?
+
+PATIENT C737
+No.
+
+DOCTOR C737
+You do not?  When was the last time you saw her?
+
+PATIENT C737
+Eight months ago.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+On my way out of the hospital I'm going to walk back over there okay because they said they would give me one cause I really need to see her or maybe you could help me.  I'd like to have a colonoscopy.
+
+DOCTOR C737
+Colonoscopy?
+
+PATIENT C737
+Colonoscopy right.
+
+DOCTOR C737
+No I can set it up for you.
+
+PATIENT C737
+I'd appreciate it very much.  
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+Cause what I'm trying to do with respect to my health is act in a prophylactic manner.
+
+DOCTOR C737
+Are you still going, undergoing therapy for your prostate cancer?
+
+PATIENT C737
+No. I finished.  And my PSA is just wonderful.  0.0025, that's the number isn't it?
+
+DOCTOR C737
+Uh-huh.  @@@.
+
+PATIENT C737
+@@@ probably you don't.  People have, that's kind of a cancer.  What is the probability of the recurrence?
+
+DOCTOR C737
+You know that's not my field at all.  You @@@.
+
+PATIENT C737
+Uh-huh.
+
+DOCTOR C737
+When you see your urologist.
+
+PATIENT C737
+Uh-huh.
+
+DOCTOR C737
+You can ask him.  I don't want to give you the numbers, I'm not sure.
+
+PATIENT C737
+Uh-huh.
+
+DOCTOR C737
+Okay.  @@@.
+
+PATIENT C737
+Okay.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+And your area is internal medicine?
+
+DOCTOR C737
+Yes internal medicine.  Deep breaths.  Okay @@@.
+
+PATIENT C737
+Uh-huh.
+
+DOCTOR C737
+Now you think this pain is getting better in your stomach?
+
+PATIENT C737
+It's getting better @@@.
+
+DOCTOR C737
+Yeah, so just, you know just who did you see, @@@ was it the nurse?
+
+PATIENT C737
+Yeah, yeah.
+
+DOCTOR C737
+Yeah.
+
+PATIENT C737
+@@@.
+
+DOCTOR C737
+Yeah just take it again you know uh.
+
+PATIENT C737
+@@@.
+
+DOCTOR C737
+Yeah just, we'll call it the BRAT diet, crackers um.
+
+PATIENT C737
+Uh-huh.  Some noodles?
+
+DOCTOR C737
+Yeah things like that.  Things that are not too spicy.
+
+PATIENT C737
+Okay.
+
+DOCTOR C737
+Um.
+
+PATIENT C737
+Well anyone who knows me thinks that I'm just renowned for a bland diet anyways.
+
+DOCTOR C737
+You are.
+
+PATIENT C737
+Yes uh-huh.  @@@ oatmeal and a glass of water @@@ stomach and my blood pressure 117 over @@@.  That's how I can do it.
+
+DOCTOR C737
+@@@ you are 61 years old.  @@@ 
+
+PATIENT C737
+Uh-huh.
+
+DOCTOR C737
+I'll be right back.
+
+PATIENT C737
+Okay.
+
+(DOCTOR OUT:  25:05  DOCTOR IN: 28:33)
+
+DOCTOR C737
+Okay so uh they can make an appointment with your primary care doctor okay.
+
+PATIENT C737
+Uh-huh.
+
+DOCTOR C737
+@@@.  So a bland diet, @@@.
+
+PATIENT C737
+Yes @@@.  And now that's going to reflect on what originated @@@.
+
+DOCTOR C737
+Yeah.
+
+PATIENT C737
+Uh-huh.
+
+DOCTOR C737
+No problem so let's see, one to two months.  
+
+PATIENT C737
+Okay.  And I won't be seeing you anymore?
+
+DOCTOR C737
+No.
+
+PATIENT C737
+We're going to have a client divorce is that what it means?  Well thank you doctor you've been very helpful.
+
+DOCTOR C737
+@@@.
+
+PATIENT C737
+And very professional.  Okay.
+
+DOCTOR C737
+@@@.
+
+PATIENT C737
+@@@.  Okay, okay, uh-huh.
+
+DOCTOR C737
+I'm sorry.
+
+PATIENT C737
+Okay.
+
+DOCTOR C737
+Good, okay.
+
+PATIENT C737
+@@@.
+
+DOCTOR C737
+@@@.
+
+PATIENT C737
+@@@.
+
+DOCTOR C737
+Okay.
+
+PATIENT C737
+Okay bye bye.
+
+DOCTOR C737
+Bye bye.
+
+PATIENT C737
+Right there?
+
+DOCTOR C737
+Yeah.
+
+PATIENT C737
+Thank you very much.  You have a good day.
+
+DOCTOR C737
+@@@.
+
+PATIENT C737
+@@@.
+
+DOCTOR C737
+@@@.
+
+PATIENT C737
+Okay, I'm going to go check out then.
+
+DOCTOR C737
+@@@.  Okay.
+
+PATIENT LEAVES:  30:50
+
+Time is 3:10.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1238112
+TRANSACTION # 578-10-2-316-0103

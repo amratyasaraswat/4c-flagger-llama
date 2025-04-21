@@ -1,0 +1,59 @@
+Red Flag (376-407): "Can't seem to get my blood down"
+
+Red Flag (471-528): "It's been uh, I think well I'm averaging lately about 244"
+
+Probe    (550-573): "You're taking metformin"
+
+Probe    (616-635): "1000 mg twice a day"
+
+Red Flag (736-803): "I'm going usually about uh once a day when I'm up in the 240+ range"
+
+Red Flag (838-878): "And every other day when I'm closer to 2"
+
+Red Flag (900-976): "Now this seems uh you know, we don't have a hemoglobin A1c on you in a while"
+
+Red Flag (1070-1109): "Yeah but I got a lot of stress going on"
+
+Probe    (1192-1221): "Um are you eating differently"
+
+Probe    (1192-1221): "Um are you eating differently"
+
+Red Flag (2078-2167): "It was better when I was exercising, I mean when I was walking which I haven't been doing"
+
+Factor   (2172-2236): "I probably in all fairness will not do it as long as it's winter"
+
+Factor   (2172-2236): "I probably in all fairness will not do it as long as it's winter"
+
+CarePlan (2251-2323): "Do you have any way to exercise in your home or do you belong to the gym"
+
+Red Flag (4320-4348): "You look at nutrition labels"
+
+Red Flag (4364-4386): "Uh no I don't you know"
+
+Red Flag (11575-11629): "Now remember I had the kidney stone removed in January"
+
+Red Flag (11644-11676): "Are you still seeing a urologist"
+
+Red Flag (11692-11697): "Um no"
+
+Probe    (12129-12166): "Okay so you're not seeing him anymore"
+
+Red Flag (15213-15313): "Well you know, as I told you previously and you probably don't recall it is I do have traces of gout"
+
+Red Flag (15381-15484): "I really don't know what gout is but when it becomes inflamed I can tell a couple days before it starts"
+
+Factor   (15381-15413): "I really don't know what gout is"
+
+Probe    (18042-18158): "Your weight and everything. Is there anything that you can do about that? I mean you said you're working from home"
+
+Probe    (18195-18276): "Um and is it just trying to get the work done or is it dealing with colleagues or"
+
+Factor   (18508-18537): "So um it's a financial stress"
+
+CarePlan (18912-18982): "Alright, do you think talking with someone would help you deal with it"
+
+Red Flag (18921-18982): "do you think talking with someone would help you deal with it"
+
+Red Flag (18998-19000): "No"
+
+Factor   (19001-19130): "because uh I've been doing this for a long time. I pretty much uh understand that you know there's a lot items out of my control"

@@ -1,0 +1,412 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@
+
+DOCTOR F377
+PATIENT?  Come on back sir.
+
+PATIENT F377
+Okay.
+
+DOCTOR F377
+Haven’t seen you in a while.
+
+PATIENT F377
+Yea.
+
+DOCTOR F377
+@@@ a year.
+
+PATIENT F377
+Yea @@@.
+
+DOCTOR F377
+Alright @@@.  
+
+PATIENT F377
+Maybe @@@.
+
+DOCTOR F377
+@@@.
+
+PATIENT F377
+Yea, yea.  Uh you know, I made an appointment and she canceled them.
+
+DOCTOR F377
+Oh, okay.  You had an abnormal stress test right?
+
+PATIENT F377
+Yea.
+
+DOCTOR F377
+And you never got your colonoscopy.  Right?
+
+PATIENT F377
+She canceled it.
+
+DOCTOR F377
+And then I think she placed a consult for Cardiology @@@.
+
+PATIENT F377
+Yea I think.
+
+DOCTOR F377
+Have you seen them yet?
+
+PATIENT F377
+No.
+
+DOCTOR F377
+No?  Okay. Why not?  
+
+PATIENT F377
+And, and, and, I see them on the 10th.
+
+DOCTOR F377
+Oh.  Alright.  Good.  @@@ right?
+
+PATIENT F377
+That @@@ appointment confused and I thought I was seeing them today and I thought this appointment was on the 10th.
+
+DOCTOR F377
+I see.  You have diabetes and hypertension, hyperlipidemia, COPD.
+
+PATIENT F377
+What is hyperlipidemia?
+
+DOCTOR F377
+High cholesterol.
+
+PATIENT F377
+Oh.
+
+DOCTOR F377
+@@@ or anything like that?  No?
+
+PATIENT F377
+Ah every now and then.
+
+DOCTOR F377
+@@@.
+
+PATIENT F377
+Yea @@@.
+
+DOCTOR F377
+@@@.  
+
+PATIENT F377
+Maybe, yea, a couple of times a month.  
+
+DOCTOR F377
+Not, none right now right?
+
+PATIENT F377
+No.
+
+DOCTOR F377
+Okay and what brings it on?
+
+PATIENT F377
+I don’t know. You know why I think?  I have, you know I have these @@@.
+
+DOCTOR F377
+@@@.
+
+PATIENT F377
+Not just that. You know sometimes my chest will hurt.  You know, like a thump, thump hurt.
+
+DOCTOR F377
+Okay and is that with exertion or just at rest? Like, when you’re exerting yourself?
+
+PATIENT F377
+Yea.  Exertion.
+
+DOCTOR F377
+Any shortness of breath with it?
+
+PATIENT F377
+Yes.
+
+DOCTOR F377
+Has it been increasing in frequency or no?  Been about the same?
+
+PATIENT F377
+Ah, uh huh.
+
+DOCTOR F377
+@@@ times a month @@@ long time now.
+
+PATIENT F377
+Yea.
+
+DOCTOR F377
+Uh, so the Lantus how much do you take?
+
+PATIENT F377
+25 units.
+
+DOCTOR F377
+What do your sugars run?
+
+PATIENT F377
+Ah, @@@.  They been pretty good lately, ah every now and then you know they are high.
+
+DOCTOR F377
+How high?  What are they running?
+
+PATIENT F377
+Say I am running about between 110 and 160 for the most part.
+
+DOCTOR F377
+In the morning?
+
+PATIENT F377
+Yea but I usually do it before I take the insulin and that is in the evening.
+
+DOCTOR F377
+Okay, that is not bad.
+
+PATIENT F377
+Ah a few times, you know, it has been high right.
+
+DOCTOR F377
+Yea.
+
+PATIENT F377
+It’s normally high in the morning.
+
+DOCTOR F377
+@@@.
+
+PATIENT F377
+Yea, I’ve done that a couple of times.
+
+DOCTOR F377
+Where you get too low?
+
+PATIENT F377
+Yes.
+
+DOCTOR F377
+Is that often though?
+
+PATIENT F377
+Ah no.
+
+DOCTOR F377
+Okay.  
+
+PATIENT F377
+That don’t happen maybe, maybe two or three times a month.  
+
+DOCTOR F377
+@@@ take this for?  
+
+PATIENT F377
+Heroin addiction.
+
+DOCTOR F377
+Cholesterol looks good, that looks good, @@@ also uh, @@@ blood pressure is good today.  You take amlodipine, aspirin, glyburide, hydrochlorothiazide, insulin, lisinopril and your inhalers and uh cholesterol medication, is that right?
+
+PATIENT F377
+Yes.  You know what I need @@@?
+
+DOCTOR F377
+What do you need?
+
+PATIENT F377
+A consult so I can get back in the Smoking Clinic.  The one upstairs in the specialty Clinic.
+
+DOCTOR F377
+Um, @@@.  
+
+PATIENT F377
+Yea, I am trying to stop smoking but I want to get back in the clinic so I can get the patches again.
+
+DOCTOR F377
+Okay.  Ah, have you cut back or are you still smoking?
+
+PATIENT F377
+Yea, I am still smoking.  Yes I have cut back.
+
+DOCTOR F377
+Okay.  How much are you smoking?
+
+PATIENT F377
+Now I am still smoking about six to eight cigarettes a day.
+
+DOCTOR F377
+Okay.  
+
+PATIENT F377
+I’m, I’m, I want to cut that to nothing but like I said I need, I am going to get the patches again because that will help me.
+
+DOCTOR F377
+Do you see Podiatry normally?
+
+PATIENT F377
+No.
+
+DOCTOR F377
+Do you check your feet routinely?
+
+PATIENT F377
+Yes.
+
+DOCTOR F377
+Do you get numbness or tingling in them?
+
+PATIENT F377
+Oh sure.
+
+DOCTOR F377
+Yea, any ulcers in your feet?
+
+PATIENT F377
+No, no.
+
+DOCTOR F377
+Okay, can I look at your feet really fast? And do you want your tetanus shot today?
+
+PATIENT F377
+I need a tetanus shot today?  
+
+DOCTOR F377
+Yea. 
+
+PATIENT F377
+If I need it okay.  Why do I need a tetanus shot?
+
+DOCTOR F377
+Ah, you need it once every twenty years.  
+
+PATIENT F377
+@@@ shoes make my feet look @@@ bathe @@@ didn’t oil them.
+
+DOCTOR F377
+Have you ever had a colonoscopy?  You had a colonoscopy before this one?
+
+PATIENT F377
+No.  So what is the abnormality with the heart?
+
+DOCTOR F377
+How long have you @@@ that you have coronary artery disease but we won’t know until you are seen by Cardiology.  And that’s why that’s important.
+
+PATIENT F377
+For what?  Maybe I need a bypass or something?
+
+DOCTOR F377
+Well hopefully not but it is you know, an abnormal stress test is concerting @@@ you do get chest pains.  So you will get testing.  Um, @@@ need to get more information.  Okay?  Your breathing otherwise is stable though?
+
+PATIENT F377
+Uh, as long as I take my medicine.
+
+DOCTOR F377
+Okay.  Good. 
+
+PATIENT F377
+If I don’t take the medicine then I can’t breathe.  I can barely go down the stairs to pick up the paper.
+
+DOCTOR F377
+Oh, okay.  @@@.  Deep breath.  Good.  Again.  Again.  @@@.  Okay.  Let me talk to DOCTOR and I will be right back okay?
+
+PATIENT F377
+Okay.
+
+DOCTOR OUT:  23:17  DOCTOR IN:  27:20
+
+SECOND DOCTOR F377
+Hello NAME.
+
+PATIENT F377
+Hello.
+
+SECOND DOCTOR F377
+Happy New Year.
+
+PATIENT F377
+Happy New Year to you too.
+
+SECOND DOCTOR F377
+Good.  So @@@ Cardiology to say?
+
+PATIENT F377
+Uh huh.
+
+SECOND DOCTOR F377
+But they said that they don’t want to do anything and we asked them whether you are okay to take the colonoscopy.  They are not trying to do angiogram on you.
+
+PATIENT F377
+Okay.
+
+SECOND DOCTOR F377
+If they are trying to do angiogram then we will wait for that.
+
+PATIENT F377
+Alright.
+
+SECOND DOCTOR F377
+Okay.  Come back and let me know about colonoscopy.
+
+PATIENT F377
+Okay.
+
+SECOND DOCTOR F377
+@@@.  
+
+PATIENT F377
+Okay.  @@@.
+
+SECOND DOCTOR F377
+@@@ feeling better @@@ another one @@@.
+
+PATIENT F377
+Ah, ah, yea, yea.  @@@ prescriptions, right?
+
+SECOND DOCTOR F377
+@@@. 
+
+PATIENT F377
+All of my @@@ because I went to get them one time and they told me ah the prescription had run out and uh, you know, I, they just gave me enough so I came back here again.  So I need to get all of those uh renewed.  And you can do the consult for me to be seen in the Stop Smoking Clinic right?
+
+DOCTOR F377
+Yea.  You can take this up front and the nurse will call you to get your shot.  Okay.
+
+PATIENT F377
+Yea.
+
+DOCTOR F377
+And uh, we want you to go to the lab @@@.  
+
+PATIENT F377
+Okay.  So what, you renew all of my prescriptions?
+
+DOCTOR F377
+Yup, everything.
+
+PATIENT F377
+Okay.  I thank you so much.  You said, uh, @@@ nurse is going to give me that shot or something?
+
+DOCTOR F377
+Yea.  @@@.
+
+PATIENT F377
+Okay.  Thank you doctor.
+
+DOCTOR F377
+Uh huh.
+
+PATIENT F377
+You want this closed?  
+
+DOCTOR F377
+Yea.
+
+PATIENT LEAVES:  29:46  
+
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300308
+TRANSACTION # 578-10-2-316-0103

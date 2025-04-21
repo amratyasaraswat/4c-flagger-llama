@@ -1,0 +1,1081 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR D596
+PATIENT?
+
+PATIENT D596
+How you doing?
+
+DOCTOR D596
+I'm doing fine, how are you?  
+
+PATIENT D596
+Uh do you know uh DOCTOR?
+
+DOCTOR D596
+Yes uh @@@.
+
+PATIENT D596
+I had him the last time I came in here.  Very, very informative, thorough.  
+
+DOCTOR D596
+He's a good guy.  
+
+PATIENT D596
+No she.
+
+DOCTOR D596
+Oh DOCTOR, the pharmacist.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Okay.  No I don't know her.
+
+PATIENT D596
+Oh.  
+
+DOCTOR D596
+Okay, let's see looks like you were increased on 12.4 @@@ of glyburide @@@.  And your sugars are doing much better okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Uh 60, I want to recheck this.  @@@.  So we changed metformin to 1 gram b.i.d. @@@ at 5 b.i.d. @@@.  
+
+PATIENT D596
+What I ran out of was the @@@ blood pressure.
+
+DOCTOR D596
+No problem.  I'd be happy to refill that for you.
+
+PATIENT D596
+Also uh I didn’t finish that uh the cholesterol, what is it called sima?
+
+DOCTOR D596
+Simvastatin?
+
+PATIENT D596
+Right.  I didn't finish it; do I keep taking it until I finish it or what?
+
+DOCTOR D596
+That's a medication you take every day.
+
+PATIENT D596
+Okay but right now I guess she's making me take half of the 20 mg which is 10, is that right?
+
+DOCTOR D596
+Let's see, so you take @@@, albuterol @@@, start simvastatin at 20 mg, so it says 20 mg.
+
+PATIENT D596
+Well on the bottle it says one half.  Its 20 mg pills, that's what I've been taking.
+
+DOCTOR D596
+Okay that's fine.  It's a 40 mg tab so that's okay.
+
+PATIENT D596
+Is it?
+
+DOCTOR D596
+Yeah.
+
+PATIENT D596
+Oh okay.
+
+DOCTOR D596
+So you're just taking half which is 20 mg, that's perfect okay.
+
+PATIENT D596
+Oh okay.
+
+DOCTOR D596
+So you're on metformin.  You're on 1 gram b.i.d. uh, lisinopril.  Your blood pressure is 137/74.  Have you been taking your blood pressure medication?
+
+PATIENT D596
+Uh yeah.
+
+DOCTOR D596
+Every day, all the time?
+
+PATIENT D596
+I'm taking half a day right?
+
+DOCTOR D596
+You're taking 10 mg of lisinopril.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Yeah.  The last time your blood pressure was @@@.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Let's see.  @@@ got going on in here.
+
+PATIENT D596
+That’s a good question.  It should be on file though.
+
+DOCTOR D596
+@@@ let's see if I can recall @@@.  Okay.  You’re off to a good start.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+@@@ make sure @@@.  
+
+PATIENT D596
+Also the test strips.  You know the little thing you slide into the.
+
+DOCTOR D596
+Uh-huh.  You need more of those?
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Sure.
+
+PATIENT D596
+Cause I had already called and they said it was gonna take from five to seven days but I need one now so I can start taking it cause I completely ran out.
+
+DOCTOR D596
+You can just pick it up at the Pharmacy actually today.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+@@@.
+
+PATIENT D596
+They added lisinopril.
+
+DOCTOR D596
+Lisinopril.
+
+PATIENT D596
+Yes.
+
+DOCTOR D596
+I'm gonna go up on the dose for that, actually.
+
+PATIENT D596
+Okay.  So I could go right ahead and just take the whole pill then.
+
+DOCTOR D596
+Right.  So @@@, the whole pill.  And let's see.
+
+PATIENT D596
+DOCTOR, the Korean, she's Korean right or Chinese?
+
+DOCTOR D596
+I'm not sure.
+
+PATIENT D596
+Well she's got the one for uh sexual class or something like that.  I was supposed to have a class with her but I never made it.
+
+DOCTOR D596
+What kind of class?
+
+PATIENT D596
+Sexual orientation or something like that.  Maybe I'm wrong.
+
+DOCTOR D596
+@@@ note again. Let's see.
+
+PATIENT D596
+I had an appointment that I didn't make cause I had, I couldn't make it.  @@@ this month earlier?
+
+DOCTOR D596
+Oh I can't @@@.
+
+PATIENT D596
+The one before this one, it should have been an appointment in there.
+
+DOCTOR D596
+I don't know how to look that up.
+
+PATIENT D596
+Oh okay.
+
+DOCTOR D596
+But uh.
+
+PATIENT D596
+Is there a phone number I could get in contact with her?
+
+DOCTOR D596
+I don't know, @@@ to find her.  Looks like you had @@@ follow-up with the Pharmacy on the 26th.
+
+PATIENT D596
+What's it for?
+
+DOCTOR D596
+26th of next month.
+
+PATIENT D596
+Okay.  March?
+
+DOCTOR D596
+Uh-huh.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+@@@.
+
+PATIENT D596
+Does it have the time?
+
+DOCTOR D596
+Uh let's see.
+
+PATIENT D596
+Right.
+
+DOCTOR D596
+I'm sorry I don't have the time.
+
+PATIENT D596
+You don't.
+
+DOCTOR D596
+Have a seat up here.  9:00 a.m.
+
+PATIENT D596
+9 a.m.
+
+DOCTOR D596
+Yeah.  For follow-up with the pharmacist.  So.  
+
+PATIENT D596
+@@@ Right now.
+
+DOCTOR D596
+Do you check your blood pressures at home?
+
+PATIENT D596
+No.
+
+DOCTOR D596
+@@@.  
+
+PATIENT D596
+Yes.
+
+DOCTOR D596
+Did you eat breakfast this morning?
+
+PATIENT D596
+Yes.
+
+DOCTOR D596
+Okay. You know she @@@ some blood tests for you.
+
+PATIENT D596
+She did.
+
+DOCTOR D596
+@@@.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Uh how long are you here for today?
+
+PATIENT D596
+Well as long, as long as I'm here I might as well do what what I have to do.
+
+DOCTOR D596
+Okay, alright.
+
+PATIENT D596
+You know what I'm saying.
+
+DOCTOR D596
+I'm gonna have you get those blood tests for me today.
+
+PATIENT D596
+Blood tests okay.  What do I need for that, just walk over there and get it?
+
+DOCTOR D596
+Yep.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+They'll have it ready.  So from what I can tell, your, did @@@?
+
+PATIENT D596
+That's the one I need to do, that's the one I need to see.  That's the eye doctor right.
+
+DOCTOR D596
+@@@  Uh what did they say?
+
+PATIENT D596
+I’m supposed to get glasses.
+
+DOCTOR D596
+Good.  I'll put it in.
+
+PATIENT D596
+When was that March uh, March.
+
+DOCTOR D596
+I have March 26th 9 a.m.  And I'm also going to put in @@@ foot doctor okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+And they'll make this appointment for you up front okay.  So I bumped up your blood pressure medication today cause your blood pressure's a little high.
+
+PATIENT D596
+Okay.  Did it go up to?
+
+DOCTOR D596
+Um so right now you're just on 10 right?
+
+PATIENT D596
+That's right.
+
+DOCTOR D596
+Of the lisinopril so we're bumping you up to 20 so you can take a full pill now okay.
+
+PATIENT D596
+Sounds good.
+
+DOCTOR D596
+And let me see, I just want to make sure I have a good number to contact you.  
+
+PATIENT D596
+Who is that with, with NAME?  March 26th?
+
+DOCTOR D596
+Yeah it's the pharmacist.  I don't know which one it is unfortunately.  Although you know, I may change that, I may have you follow up in three weeks with another pharmacist.
+
+PATIENT D596
+Not the 26th?
+
+DOCTOR D596
+Yeah go make a new one for you okay.  So you know what, leave that on, leave that on.  Let's see how much closer we could get for you.
+
+PATIENT D596
+So keep that one.
+
+DOCTOR D596
+Yeah.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Alright let me ask you a few questions okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Uh your sugars, any low sugars?  What's the lowest your sugar's been?
+
+PATIENT D596
+90 something.
+
+DOCTOR D596
+Perfect.  Alright cause I don't, like even @@@.
+
+PATIENT D596
+I don't want to go down lower cause, eat something to bring it back up or @@@.
+
+DOCTOR D596
+Perfect. Um I don't want like anything lower than 80 something okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Um what's the highest your sugar's been.
+
+PATIENT D596
+The highest since I been taking these medication, uh close to 300.
+
+DOCTOR D596
+Oh.
+
+PATIENT D596
+No 200, 200 and that's when I first started.
+
+DOCTOR D596
+Okay, okay @@@.
+
+PATIENT D596
+It's been under 200.
+
+DOCTOR D596
+Oh that's pretty good.
+
+PATIENT D596
+It's been under 200.
+
+DOCTOR D596
+Pretty good.
+
+PATIENT D596
+Now there's some days that it might go up a little, over 200 or something like that but.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+The majority is under 200.
+
+DOCTOR D596
+Wow that's excellent.
+
+PATIENT D596
+Yeah I see a difference too.
+
+DOCTOR D596
+Better energy.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Not peeing so much.
+
+PATIENT D596
+Right.
+
+DOCTOR D596
+Good I'm glad.
+
+PATIENT D596
+At nighttime too I.
+
+DOCTOR D596
+Yeah.
+
+PATIENT D596
+It used to be three, four times, now it's a couple you know.
+
+DOCTOR D596
+And when your sugars are that high it's what we call @@@ to make you pee basically.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Sugar pools in your urine and then it makes a lot more urine basically.
+
+PATIENT D596
+She was telling me that the metformin, she gave me the metformin 1000.
+
+DOCTOR D596
+Twice a day.
+
+PATIENT D596
+Twice a day right.
+
+DOCTOR D596
+Uh-huh.
+
+PATIENT D596
+Because if I do work, if I work out with it that is going to go to the bone right?
+
+DOCTOR D596
+No exactly.
+
+PATIENT D596
+Or it's good for bones or what's the reason behind the fact that I got to go out and walk around and you know like do four or five blocks and everything like that?
+
+DOCTOR D596
+Well exercise by itself will help you lower your sugars.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+But uh it might help what we call, so metformin is what we call a sensitizer.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+It makes your body more receptive to the insulin that you're earlier.
+
+PATIENT D596
+Oh gotcha okay.
+
+DOCTOR D596
+Yeah so um so if you take metformin and you work out and it basically helps your body absorb the sugar in your blood, it goes to the muscle, everywhere else, supports the liver and things like that.  So instead of hanging in around your blood, which is bad, it goes to where it should go basically like the liver.
+
+PATIENT D596
+So a good workout would be, consist of what, sitting up, standing up, walking around, two blocks, three blocks, @@@.
+
+DOCTOR D596
+Good question.
+
+PATIENT D596
+Running, uh going around the block one time or what?  So before I take the pill, after I take the pill or?
+
+DOCTOR D596
+@@@.
+
+PATIENT D596
+What way works better?
+
+DOCTOR D596
+Uh it doesn't matter.  The idea for exercise is consistency and duration.  Um it doesn't matter what you do but the idea is to raise your heart rate for at least 30 minutes a day.
+
+PATIENT D596
+Consistently.
+
+DOCTOR D596
+Consistently.  Uh but it doesn't have to be @@@ day.
+
+PATIENT D596
+That would be what, that would how?
+
+DOCTOR D596
+If you like to swim, if you like to walk really fast.
+
+PATIENT D596
+I'll be doing it; I just finished taking a course on swimming.
+
+DOCTOR D596
+Great.
+
+PATIENT D596
+Okay, learning how to swim.
+
+DOCTOR D596
+Uh-huh.
+
+PATIENT D596
+And I'm going to college over at @@@.
+
+DOCTOR D596
+Great.
+
+PATIENT D596
+And I took a class and then now for some reason they shut it down for the semester.
+
+DOCTOR D596
+Oh.
+
+PATIENT D596
+Cause of safety hazard.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+Some reason, something to do with safety.
+
+DOCTOR D596
+Any aerobic activity, swimming, walking really fast, treadmills, Stairmasters, elliptical machines, things like that.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+This will help bring up your heart rate, help you burn some calories and work on your muscles.  Cause muscles, when you work on them, they get stronger and then they give you use energy which is good.
+
+PATIENT D596
+That's good.
+
+DOCTOR D596
+Yeah exactly so the glucose that's hanging around in your blood gets burned off by your muscles.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Okay.  So I'm glad you asked me about that um otherwise I'm going to continue things, except for increasing the blood pressure medication, I'm going to continue.  Tell you what; do you have a good phone number I could reach you at?
+
+PATIENT D596
+Yeah.  My wife's.
+
+DOCTOR D596
+Oh she'll get on your case then.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+NUMBER.
+
+DOCTOR D596
+NUMBER.
+
+PATIENT D596
+Right call any time.
+
+DOCTOR D596
+Okay.  As soon as we get the blood results today.  Sometime maybe in the evening today or tomorrow or in the afternoon today I'll call you with the results and based on what they are, I may change your diabetes medications okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+But.
+
+PATIENT D596
+Why?
+
+DOCTOR D596
+So I mean, you're clearly heading in the right direction and I'm very encouraged by it.
+
+PATIENT D596
+Oh okay.
+
+DOCTOR D596
+Um you're last; we'll see what the A1c is today.
+
+PATIENT D596
+Right.
+
+DOCTOR D596
+Whenever we get your blood tests results and we'll talk about that.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+What's a good time to call you to make sure that you're home?
+
+PATIENT D596
+Uh me, about 5, well tonight no, I go school tonight, uh probably 5:30, 6 o'clock. 
+
+DOCTOR D596
+6 o'clock.  What about tomorrow?
+
+PATIENT D596
+Tomorrow, you can call me earlier.
+
+DOCTOR D596
+What time?
+
+PATIENT D596
+About uh 2 o'clock, 3 o'clock.
+
+DOCTOR D596
+Okay.  We'll aim for tomorrow then.
+
+PATIENT D596
+2 o'clock, 3 o'clock.
+
+DOCTOR D596
+Yeah.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+2 or 3 o'clock I'll call you with the lab results.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+And then we'll go over them and then to see if we want to change any of your medications.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Okay.  But you're doing all the right things.  You just have to follow up with the foot doctor to make sure, you know as a diabetic, you know you're prone to having more foot ulcerations and ulcerations can lead to really bad.
+
+PATIENT D596
+I've heard, that I had, when I bought these boots they were giving me a scab.
+
+DOCTOR D596
+Yeah.
+
+PATIENT D596
+But look at it, it healed.  It's healed.  I used to take a while for it to heal and that’s a sign right there.
+
+DOCTOR D596
+Exactly.
+
+PATIENT D596
+So I'm doing something right.
+
+DOCTOR D596
+Right.  And really high sugars will impair your wound healing basically and it sounds like you're @@@.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+faster.
+
+PATIENT D596
+I got another question, well a couple of questions uh I got this cough.
+
+DOCTOR D596
+Uh-huh.
+
+PATIENT D596
+I don't know I keep coughing and coughing and coughing and I had it for about, going on a month.
+
+DOCTOR D596
+Uh-huh.
+
+PATIENT D596
+Sometimes it lasts for about three minutes, four minutes and then it'll go away and it's kind of bad when you're in class.
+
+DOCTOR D596
+Right.
+
+PATIENT D596
+Trying to listen to the teacher and you have this cough so I've been drinking water you know.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+To sooth it or something like that.  I need something that's going to go on ahead and cut it out, am I sick, do I have a cold or what, what is it?
+
+DOCTOR D596
+Well let’s gonna talk about that.  Um like how many times do you cough like that in a day?
+
+PATIENT D596
+A day?  About three or four times.
+
+DOCTOR D596
+Okay.  Uh when you cough to you bring anything up?
+
+PATIENT D596
+Yeah it's like uh, it's something I feel in my throat come up and then it's like a glob but it's clear.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+And then I spit it out.
+
+DOCTOR D596
+Okay that's fine.  Um any fever or chills?
+
+PATIENT D596
+No.
+
+DOCTOR D596
+Shortness of breath?
+
+PATIENT D596
+No.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+Only when I start coughing cause it makes me want to cough and cough and then my chest I got.
+
+DOCTOR D596
+Yeah.
+
+PATIENT D596
+It's not hurting in my chest but it's tight.
+
+DOCTOR D596
+Yeah.
+
+PATIENT D596
+And then after a while if I start coughing too much I could feel like uh muscles, you know they're tightening up.
+
+DOCTOR D596
+Uh-huh.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+From what you're telling me I'm not too concerned about it.  People do get these irritations in their throats and these.
+
+PATIENT D596
+Sometimes I get runny nose too.  It'll run, it's just like clear.
+
+DOCTOR D596
+Yeah.  Viruses hang on. Most of them are caused by viruses.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+There's no antibiotic or anything.
+
+PATIENT D596
+So I just got to let it run its course.
+
+DOCTOR D596
+I can give you some cough medication that maybe helps suppress the cough a little but you'll get better basically.
+
+PATIENT D596
+Um yeah well just give me that.
+
+DOCTOR D596
+Sure.
+
+PATIENT D596
+Becasue I'm going to school right now and it’s kind of.
+
+DOCTOR D596
+I know.
+
+PATIENT D596
+Irritating you know what I mean in class and there are a couple of other people with a cough you know but it got, I don't know, maybe they got the same thing but uh I need to curtail it so that way I could put more.
+
+DOCTOR D596
+Do you get a tickling sensation in your throat before you cough or?
+
+PATIENT D596
+Yeah, yeah.
+
+DOCTOR D596
+So I'll give you some lozenges as well.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+And then um you can, like when you're in class you can.
+
+PATIENT D596
+Take them.
+
+DOCTOR D596
+Yeah, you can take them a little prophylactically.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+So when you feel like it's a bad day or something like that.
+
+PATIENT D596
+I can feel it coming cause it starts tickling you know and I'm like trying to hold it, try not to cough.  So I buy a bottle and not a cold bottle of water just regular temperature.
+
+DOCTOR D596
+Uh-huh.
+
+PATIENT D596
+And I soothe the throat and then I'll cough a little bit and it'll go away.  But it happens like twice, twice in a class period that I'm in.
+
+DOCTOR D596
+Uh-huh.  So the cough syrup I'm giving you, you can use it every six hours or so as needed for cough.
+
+PATIENT D596
+Every six?
+
+DOCTOR D596
+Every six hours.  Okay.  Alright give me one second, I'm gonna check with DOCTOR.
+
+PATIENT D596
+Uh-huh.
+
+DOCTOR D596
+And I will be back.
+
+PATIENT D596
+Okay.
+
+(DOCTOR OUT:  63:35  DOCTOR IN:  65:41)
+
+DOCTOR D596
+Alright so cough medication is in.  The foot doctor consult.
+
+PATIENT D596
+What day is that, did you get that?
+
+DOCTOR D596
+Um you can actually go up front okay and they'll make it for you.
+
+PATIENT D596
+Oh okay.
+
+DOCTOR D596
+So I'm going to send you to Podiatry.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Next available so they'll make this appointment for you up front okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Uh let's see so things that might change.  Your diabetes medication we'll talk on the phone once I get the results, probably tomorrow.
+
+PATIENT D596
+Go down or go up?
+
+DOCTOR D596
+No, no, we might have to continue using depending, we'll see talk about it and then your cholesterol; depending on what it is we may or may not change the medications but those are the two things I may change.  For today for sure I changed your blood pressure medication.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+And we'll go from there.  Um I know you're in class right now so it's tough is it tough for you to come see me?
+
+PATIENT D596
+No.
+
+DOCTOR D596
+Okay um I want to see you in about another two months.
+
+PATIENT D596
+Okay, make the, just write it down here so that way I can tell them though.
+
+DOCTOR D596
+I put it in the computer and they mail you something in one month.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+And you'll call for an appointment.
+
+PATIENT D596
+Okay, okay.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+You know, you’re doing everything great. Um everything looks like you're taking better care of yourself and I'm so happy you're doing that okay.
+
+PATIENT D596
+Thank you.
+
+DOCTOR D596
+Um it's tough to get there @@@ yourself.
+
+PATIENT D596
+Oh course.
+
+DOCTOR D596
+And especially with diabetes but you're doing everything right and if you continue to do well 30 years down the line you'll be so grateful because you're gonna have all your feet.  You're not gonna have a heart attack.  You're not gonna have a stroke.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Okay.
+
+PATIENT D596
+Yeah.  So stay consistent with the.
+
+DOCTOR D596
+Yeah these medications you just take twice a day so. 
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+So they're not that bad and you’re doing a great job.
+And it sounds like you're feeling and seeing a difference.
+
+PATIENT D596
+Yeah.  Alright. 
+
+DOCTOR D596
+So.
+
+PATIENT D596
+That's good to hear, that's good to hear.
+
+DOCTOR D596
+So continue doing it.  You're doing a wonderful job.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+I'll talk to you tomorrow about the blood test.
+
+PATIENT D596
+Results of the blood tests.
+
+DOCTOR D596
+And we'll go from there.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Two months for me.
+
+PATIENT D596
+Okay.
+
+DOCTOR D596
+Alright.
+
+PATIENT D596
+Thank you.
+
+DOCTOR D596
+You're more than welcome alright.  
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Any questions for me? I'll give you this sheet.  Take this back to the front and they'll make an appointment for you and I'm gonna call you. @@@.
+
+PATIENT D596
+Yeah.
+
+DOCTOR D596
+Good.  
+
+PATIENT D596
+That's it?
+
+DOCTOR D596
+That is it.
+
+PATIENT D596
+Thank you much.  Have a good day.
+
+DOCTOR D596
+You too bye bye.
+
+PATIENT D596
+Alright.
+
+PATIENT LEAVES:  68:14.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255183
+TRANSACTION # 578-10-2-316-0103

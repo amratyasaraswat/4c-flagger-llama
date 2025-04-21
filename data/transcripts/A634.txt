@@ -1,0 +1,1100 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR A634
+Patient?  We'll go this way.  How you doing today?
+
+PATIENT A634
+Good.
+
+DOCTOR A634
+Good.  So how are things going?  I haven't seen you in a while.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Good, good.  So you @@@.  Would you like to sit here?
+
+PATIENT A634
+That's okay. 
+ 
+DOCTOR A634
+There's a chair.  You're welcome to.
+
+PATIENT A634
+That's alright.
+
+DOCTOR A634
+Oh you're doing a @@@, is it new?
+
+PATIENT A634
+It could be @@@.
+
+DOCTOR A634
+Okay.  But one muscle twitch or does it happen, oh it's @@@.
+
+PATIENT A634
+Yeah anyway.  @@@.  Really that's @@@.
+
+DOCTOR A634
+Okay.  Is there any pain or tingling with that?
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+There is.  So have you seen a neurologist?  About it, no.  Probably just kind of a nerve issue.  Yeah.
+
+PATIENT A634
+You know I didn't think to just ask you, no @@@ to go see a neurologist.
+
+DOCTOR A634
+Okay, no I know.  I @@@ you’re right.  Okay otherwise things are going pretty well?
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+How are the blood sugars doing?
+
+PATIENT A634
+Good uh, I didn't take it this morning @@@.
+
+DOCTOR A634
+Yeah.  Are you taking it most days?
+
+PATIENT A634
+No I take it about three times a week.
+
+DOCTOR A634
+And what time do you usually take it?  In the morning?
+
+PATIENT A634
+About once a day, sometimes in the morning, sometimes I'll check it in the afternoon or sometimes at night.
+
+DOCTOR A634
+Right what are your normal values?  In the morning?
+
+PATIENT A634
+In the morning?
+
+DOCTOR A634
+Yeah.
+
+PATIENT A634
+Well maybe between anywhere between 145 or so and 80.
+
+DOCTOR A634
+Oh down to 80 okay.  Well that's pretty good.
+
+PATIENT A634
+Today it's in the 120s.
+
+DOCTOR A634
+Okay.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+What about later in the day, pretty well controlled or a little higher?
+
+PATIENT A634
+About 150-160s.
+
+DOCTOR A634
+Not bad at all.
+
+PATIENT A634
+Yeah it's come down quite a bit.
+
+DOCTOR A634
+It has I remember the last time it was.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Yeah it was 300 in my last note so that's terrific um and then blood pressures are you taking the blood pressures?
+
+PATIENT A634
+Oh yeah.
+
+DOCTOR A634
+How much are you getting for that?
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+What are you getting for the blood pressures sorry?
+
+PATIENT A634
+Right uh to control it?
+
+DOCTOR A634
+No I'm sorry the numbers when you take it at home.
+
+PATIENT A634
+Oh they just took it, it was like uh.
+
+DOCTOR A634
+Yeah I got your values here which was perfect.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Are you taking it at home with your own cuff?
+
+PATIENT A634
+Yeah, yeah every now and then.
+
+DOCTOR A634
+And what do you normally get when you take it?
+
+PATIENT A634
+I think it was about two weeks ago.
+
+DOCTOR A634
+Let's have you take it a little more frequently, maybe let's say you take your blood pressures three times a week or so.
+
+PATIENT A634
+Really?
+
+DOCTOR A634
+Yeah see what you're running at home.  We have you on blood pressure medicine I'd like to make sure you're controlled.
+
+PATIENT A634
+Oh alright.
+
+DOCTOR A634
+It looks good but I have faith that it's probably good at home too but let's see what you're running at home.
+
+PATIENT A634
+I never checked it @@@ take it once a month.
+
+DOCTOR A634
+Right okay.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+So let's change that.
+
+PATIENT A634
+Yeah that'd be cool to do that.
+
+DOCTOR A634
+Okay.
+
+PATIENT A634
+Yeah so you have an idea you know.
+
+DOCTOR A634
+Yeah if you have a cuff you may as well.  Write down what you get next time when you're writing down your blood sugars.
+
+PATIENT A634
+Okay.
+
+DOCTOR A634
+And keep track that way.  Now how are you doing on the smoking?
+
+PATIENT A634
+Still smoking.
+
+DOCTOR A634
+One pack a day still?
+
+PATIENT A634
+Yeah I think it's still @@@.
+
+DOCTOR A634
+Same.
+
+PATIENT A634
+Yeah you know yeah.
+
+DOCTOR A634
+Um have you any interest in quitting, no?  Okay.  Any particular reason why not?  Can I help you a little get motivated?  A little?
+
+PATIENT A634
+It's really not a motivational think.  I like to @@@ and I enjoy it.
+
+DOCTOR A634
+Uh-huh.
+
+PATIENT A634
+I think @@@.
+
+DOCTOR A634
+Yeah.
+
+PATIENT A634
+You know.
+
+DOCTOR A634
+Yeah no I mean I understand that, it's just important to know that especially with the diabetes it's um, it kind of compounds the diabetes and causes a lot of issues with the heart, the kidneys and we see a lot of things like that like amputations and infections, things like that all the time.  (Doctor takes a phone call).  I'm just going to put something in real quick.  Sorry.  How about alcohol?  How much are you drinking?
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Um a couple times a week?
+
+PATIENT A634
+No.
+
+DOCTOR A634
+Every day, not even, okay.  Any other drugs besides medicine?  Okay.  And still retirement @@@ for this?  Is it at Bethany?  Um in terms of medication, I've got you on the citalopram once a day and the diltiazem blood pressure just the once a day.  The stool softener twice a day, not taking that.  Do you want me to take it off your list?
+
+PATIENT A634
+They only gave me that stuff @@@.
+
+DOCTOR A634
+Oh that's why so I'll take that off.  You don't want to get it?
+
+PATIENT A634
+No, no.
+
+DOCTOR A634
+Alright.
+
+PATIENT A634
+What medicine @@@?
+
+DOCTOR A634
+Uh gabapentin.  Do you take two pills every eight hours?  Three times a day?
+
+PATIENT A634
+Yeah.  @@@.  But I can't take it every eight hours.  Especially when I don't even eat breakfast.  @@@.
+
+DOCTOR A634
+So you want @@@.
+
+PATIENT A634
+It seems like I have to get up in the morning you should eat @@@.
+
+DOCTOR A634
+Okay.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Right.
+
+PATIENT A634
+So I take two in the morning, one at noon, one in the evening and two at bedtime.
+
+DOCTOR A634
+That's fine.
+
+PATIENT A634
+Is that alright?
+
+DOCTOR A634
+Yeah that's fine.  Are you feeling okay from the diabetic pain, with the burning pain?
+
+PATIENT A634
+No, not really.
+
+DOCTOR A634
+It's not helping at all?
+
+PATIENT A634
+No, never has, it never has.  @@@.
+
+DOCTOR A634
+What if we increase your dose then?  We have the room.
+
+PATIENT A634
+I’ve been taking this stuff @@@ six years ago.
+
+DOCTOR A634
+Well if it's not helping there's no point in keeping it up.  We can either increase the dose or we can taper you off I mean.  If you want to keep trying it, if the diabetic pain is bothering you then I suggest.
+
+PATIENT A634
+@@@ every day.  It has been for years.
+
+DOCTOR A634
+Yeah but that's why we might try to control it with this medication or we could try a different medication if you want.
+
+PATIENT A634
+@@@.  I told my doctor to take me off it in the hospital.  @@@ last four or five years you know.
+
+DOCTOR A634
+Is it bothering you a lot the pain, the diabetes pain?
+
+PATIENT A634
+Yeah.  @@@ seems like a coal-burning pain you know with pain radiating this and that @@@.
+
+DOCTOR A634
+Why don't we increase your dose, do you want to try it?  Why don't we try it and tell me if it works and if so then we'll change it.  Try taking, uh try taking three in the morning, three at lunch, three at night.  You willing to do that?  What do you think?  That's a lot more regular.  The maximum dose per day which I think is quite high for uh gabapentin.  @@@.
+
+PATIENT A634
+Okay.
+
+DOCTOR A634
+(Doctor answers a page)  Alright, now wait I need to see, I think the maximum dose is probably, yeah it is @@@ pills per day.  So you take 900, we've got you on; if this doesn't work we'll try something else.  We'll taper you off it.  Two capsules, so take three capsules so 900 mg morning and at night. Can you put it in your box that way?  
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Let me change the order.  So if you start running out I'm putting in more refills for you right now.  And we'll give that a try and let me see where we were.  @@@.  Are you still taking it twice a day for pain or not anymore?  The ibuprofen?
+
+PATIENT A634
+I don't take it anymore.
+
+DOCTOR A634
+Okay that's fine.
+
+PATIENT A634
+I just take it if I need it.
+
+DOCTOR A634
+That's absolutely fine.
+
+PATIENT A634
+I don't take it every day.
+
+DOCTOR A634
+That's actually even better.  Um and then your thyroid medication you take one per day.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+And then the lisinopril one per day.  Do you have a multivitamin?  Um omeprazole.
+
+PATIENT A634
+Omeprazole what's that for?
+
+DOCTOR A634
+For the GERD for the acid reflux.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Do you take it once a day in the morning?
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Okay.
+
+PATIENT A634
+I take two of them every morning.
+
+DOCTOR A634
+That's perfect and the pravastatin 1/2 per day for cholesterol at bedtime?
+
+PATIENT A634
+Yes.
+
+DOCTOR A634
+Taking that one still.  Trazodone for sleeping okay and then I have you on some triamcinolone ointment.  Oh we gave you that you had a rash right, has it helped a little bit?
+
+PATIENT A634
+No not really.
+
+DOCTOR A634
+No.  You gonna be seeing the Derm people again?
+
+PATIENT A634
+I don't know.  You know I changed my @@@.
+
+DOCTOR A634
+Oh good, maybe that was irritating your skin a little bit.  So.
+
+PATIENT A634
+I remember it seems like @@@.  I think it's more and then it goes away.
+
+DOCTOR A634
+Oh that's kind of weird.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Yeah.  Uh how about the bupropion, two tablets a day?
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Are you on the bupropion okay and buspirone you take for anxiety two tablets three times a day okay.  And then the glipizide for the diabetes two tablets twice a day.
+
+PATIENT A634
+Right.
+
+DOCTOR A634
+And metformin one tablet twice a day.
+
+PATIENT A634
+Uh-huh.
+
+DOCTOR A634
+Anything that I missed?
+
+PATIENT A634
+I don't think you missed @@@.
+
+DOCTOR A634
+Want another one?
+
+PATIENT A634
+@@@ still take it.
+
+DOCTOR A634
+Yeah.  You can buy it over-the-counter but it's cheaper for you here, to get your refills here.  Then at least you can get it right here.  It's been a while since you've got that one it looks like.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Yeah.  Do you take a baby aspirin?
+
+PATIENT A634
+Yeah.  I get @@@.
+
+DOCTOR A634
+No that's good; it's a good thing to do.  It protects your heart.  It's a good remedy.  Why don't we just mail it to you is that okay?
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Okay that's @@@.  It doesn't look like you've had any blood work done in a while.  I did some blood work in January.  We did some blood work in November and everything looked pretty good actually.  Your cholesterol.  We should probably get some more blood work on you.  November, so it's been at least six months um and the cholesterol at that time was just a tad high and the diabetes value was also quite high.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+The diabetes value.
+
+PATIENT A634
+Okay.
+
+DOCTOR A634
+So that's a measurement of your average sugars over about three months.  So that we can check how your diabetes control is.  At that time it was pretty high but I'm thinking that now you're um.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+I'm sorry?  The hemoglobin A1c.
+
+PATIENT A634
+Yeah okay.
+
+DOCTOR A634
+Yeah that's the value.
+
+PATIENT A634
+What was it?
+
+DOCTOR A634
+It was 10.5 and the goal is less than 7 but with your sugars being better controlled now, I'm gonna guess that it's probably better.  Did you eat breakfast this morning?
+
+PATIENT A634
+Yes.
+
+DOCTOR A634
+You did.  Are you able to come back to the VA in the next few weeks?  Would you be, are you going to be back for something else?
+
+PATIENT A634
+Not until September @@@.
+
+DOCTOR A634
+Yeah um is it difficult for you to get here?
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+@@@.  
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Okay.  Well I'm willing to get, I'm willing to get them in September that's okay if you want to do that.
+
+PATIENT A634
+Yeah @@@.
+
+DOCTOR A634
+Well when you come for that appointment then uh let's see, September 12th, fast and we'll check your labs, is that gonna be hard.  It's at 10 a.m.  Is that okay if you don't eat breakfast that day?  Just bring a snack for after your appointment.  So fast, you can eat dinner but then after that no more food and then we'll do cholesterol that day.
+
+PATIENT A634
+Okay.
+
+DOCTOR A634
+And we'll get your other tests then too.
+
+PATIENT A634
+Okay.  @@@.
+
+DOCTOR A634
+Right and we'll see how your diabetes control is doing then.  We'll draw the bloodwork then okay.  I want to do an exam here.  Your blood pressure was good right?
+
+PATIENT A634
+Uh-huh.
+
+DOCTOR A634
+Okay.  I'm just gonna pull you back a little bit more.  Lean forward just a tad for me.  A couple deep breaths.  Okay go ahead and lay back; I'll feel your belly.  Bowel movements have been normal for you?  Did you fall?
+
+PATIENT A634
+Huh?
+
+DOCTOR A634
+You have a little cut on your head.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+What was that from?
+
+PATIENT A634
+My comb.
+
+DOCTOR A634
+From what?
+
+PATIENT A634
+My comb.
+
+DOCTOR A634
+I'm sorry.
+
+PATIENT A634
+My comb.
+
+DOCTOR A634
+Oh your comb.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Oh gosh.  That’s a hard comb?
+
+PATIENT A634
+Yeah I @@@.  Sometimes I forget @@@.  I do it real fast you know.
+
+DOCTOR A634
+What is this from?
+
+PATIENT A634
+Because I fell.
+
+DOCTOR A634
+Oh you did fall there?  When did you fall?
+
+PATIENT A634
+About a week ago.
+
+DOCTOR A634
+What happened?  Was it just lost your balance or?
+
+PATIENT A634
+No, no I uh a friend of mine was pushing me.
+
+DOCTOR A634
+Uh-huh.
+
+PATIENT A634
+And I was going down this bump @@@.
+
+DOCTOR A634
+Oh @@@.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Did you see anybody about that?
+
+PATIENT A634
+What this?
+
+DOCTOR A634
+Yeah.
+
+PATIENT A634
+Yeah, yeah.
+
+DOCTOR A634
+You don't have any pain in your knee do you?
+
+PATIENT A634
+Yeah it's sore.
+
+DOCTOR A634
+Okay.
+
+PATIENT A634
+It's sore, just sore.
+
+DOCTOR A634
+Yeah.  I just want to make sure that you didn't break anything.
+
+PATIENT A634
+No.
+
+DOCTOR A634
+Okay alright.  Take good care of these guys.
+
+PATIENT A634
+Right.
+
+DOCTOR A634
+It looks like we got some healing but that one's still open.
+
+PATIENT A634
+Uh-huh.
+
+DOCTOR A634
+Right on the front of the knee there.  Make sure you're watching that.  Um a little Neosporin too if you have some, put on there.  Neosporin or Bacitracin is fine.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+That's fine.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Um just so we don't see an infection or anything.  Sorry.  Make sure you're cleaning out between your toes.
+
+PATIENT A634
+I'm getting @@@.
+
+DOCTOR A634
+Because they get linty.  Pretty good keeping the nails clipped here.  Yeah so we'll do the sensation test okay.  Close your eyes for me, do you feel this okay?  Anything?
+
+PATIENT A634
+No.
+
+DOCTOR A634
+Tell me when you feel it.  Anything?
+
+PATIENT A634
+Maybe a little.
+
+DOCTOR A634
+Okay.  Alright so not much sensation in the foot there.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Sorry.
+
+PATIENT A634
+Seems like if I stub my toe or something I feel it.
+
+DOCTOR A634
+You can feel it okay.  @@@ everything look okay there?  Looks like you had a little @@@ here.  @@@ okay.  A little spot over there, a little scrape.
+
+PATIENT A634
+Yeah but that was from itching.
+
+DOCTOR A634
+Oh okay.  Okay good.  @@@ did you say you wear those?
+
+PATIENT A634
+No.
+
+DOCTOR A634
+Okay.  
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Really, why?
+
+PATIENT A634
+Because this leg won't straighten out.
+
+DOCTOR A634
+Yeah.
+
+PATIENT A634
+But.  This leg won't straighten out so I wouldn't be able to walk anyway.
+
+DOCTOR A634
+You mean the right one doesn’t?
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Huh.
+
+PATIENT A634
+@@@ wheelchair.
+
+DOCTOR A634
+Huh.
+
+PATIENT A634
+@@@.  
+
+DOCTOR A634
+Right.
+
+PATIENT A634
+I have bad knees. I went from a cane to a walker to a wheelchair and that's how and that’s how this leg started out.  I needed it.
+
+DOCTOR A634
+Oh for the right knee.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Okay.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+I'm sorry @@@.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+So um.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Right okay.  So um did you end up getting your colonoscopy done?
+
+PATIENT A634
+No.
+
+DOCTOR A634
+Why, what happened?
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+You don't have the @@@?
+
+PATIENT A634
+Yeah I couldn't picture myself sitting in the bathroom all day.
+
+DOCTOR A634
+Did they call you and try to schedule it?  @@@.
+
+PATIENT A634
+And I have to do that catheter @@@.
+
+DOCTOR A634
+@@@ no.
+
+PATIENT A634
+To me, @@@ in a wheelchair having jump up to go to the bathroom you most of the time it's just not easy.
+
+DOCTOR A634
+I know but it is only the one day.
+
+PATIENT A634
+You know.
+
+DOCTOR A634
+It's only one day and then you get it done, probably for ten years.  That's the good thing about the colonoscopy.  Every @@@ ten years.  Do you want to think about it?
+
+PATIENT A634
+Can't do it.
+
+DOCTOR A634
+I'll bring it up next time you're here.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+I know and it's a terrible day.  I'm not gonna lie to you.  People do not like the prep because it's uncomfortable; you're in the bathroom most of the day.  Usually they’ll schedule it and sometimes they'll get 15 on a Monday because it's a Sunday and obviously you're on, get everything done, get it on a Monday and then you're done with it.  Um but then it's all finished so then it's just one day that's terrible.  So think about it.
+
+PATIENT A634
+It’s twice as terrible for me being in the wheelchair.
+
+DOCTOR A634
+Oh I know.
+
+PATIENT A634
+Can’t take me down in that wheelchair that quick.
+
+DOCTOR A634
+I know.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+@@@.  So.  Did we talk about it last time about having a Living Will or a document that states what you would want to have anything?
+
+PATIENT A634
+I have that.
+
+DOCTOR A634
+You do have one okay.
+
+PATIENT A634
+Yeah, yeah.
+
+DOCTOR A634
+Does somebody in your family know what your wishes are?
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Uh we talked about the falls but it sounds like it's sort of wheelchair related.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Yeah when you fall.
+
+PATIENT A634
+Oh yeah.
+
+DOCTOR A634
+You're not having falls because you're getting lightheaded or anything like that though?  We are recommending to everybody that they get an HIV screening test, even if you have no risk factors.  Um if you like decline it that's fine but we encourage people to just get it on record um and then if it's negative you're done unless you want it again.  So I can fill it in for your next blood work, if you don't want it that's okay too.
+
+PATIENT A634
+Doesn't bother me, I haven’t had sex @@@.
+
+DOCTOR A634
+You can get it through the other ways or it can be.
+
+PATIENT A634
+Okay go ahead and take it.
+
+DOCTOR A634
+@@@.  I'll put it on with your next lab.  It's just one more thing.  And we talked about, I'll bother you about smoking again next visit I mean so don't worry I won't forget.
+
+PATIENT A634
+Yeah I know that.  I understand.
+
+DOCTOR A634
+We do have a lot of things that people can use to um to help out if they do want to quit um.  Let's see @@@.  So just let me know if the thought ever crosses your mind that you may want some assistance or you may want to cut back or anything.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+Um so let me fill the rest of your blood work in for September 17th, okay yeah.  
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Yeah.  So we'll check the lipids and we'll check the cholesterol.  You're following fairly regularly with the Mental Health folks right?
+
+PATIENT A634
+@@@ before I came.
+
+DOCTOR A634
+And they wanted you to stay on all the same medications and they didn't make any changes this morning right?
+
+PATIENT A634
+No.
+
+DOCTOR A634
+Okay.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Oh you did.  @@@.  Okay.  I think that's all I wanted to go over.  Is there anything else you wanted to bring up today?
+
+PATIENT A634
+@@@ refills in.
+
+DOCTOR A634
+The prazosin, somebody refilled it, you've got five refills now.
+
+PATIENT A634
+Okay.
+
+DOCTOR A634
+I'm just gonna @@@.  Trazodone is only one, let me renew that one.  Let's see somebody else did that already.
+
+PATIENT A634
+Yeah @@@.
+
+DOCTOR A634
+Yeah it looks like he refilled all those and I just refilled the aspirin and we changed your dose of gabapentin so that one has refills um.  Everything else, you only have two of glipizide, let me refill that one.  So everything else looks good. Just call if you find something for your @@@.  Um.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Uh-huh.  Alright so we talked about the diabetes, we talked about your high blood pressure; everything else seems to be going really well.  Um unless there's anything else, I don't think we'll make any changes until your next visit.  Just the gabapentin and we're giving you @@@ some aspirin.
+
+PATIENT A634
+Cool.
+
+DOCTOR A634
+Start taking your blood pressure and keep the log for me okay.  Even just three times a week is fine.  A couple times a week just so I can see what you're running when you're at home alright.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+@@@.
+
+PATIENT A634
+Yeah that way maybe I can keep my blood sugar.
+
+DOCTOR A634
+Yeah that's fine or I mean if it's @@@ easier for you remember I'm fine with that.  So next time you come back me in another six months and we're gonna get labs in September and you know to fast before you come to your appointment in September though.  Otherwise I mean just the gabapentin and remember now it's gonna be, your new prescription when you get the new batch will say it so now you know you can take three pills in the morning, three with the lunch and three in the evening.  If that doesn't help, if that still doesn't help at all then call me.  Call the clinic and then we'll taper you down and get it off because it @@@ to be on the medication and it's doing nothing then we'll try something else.
+
+PATIENT A634
+@@@ next week.
+
+DOCTOR A634
+But it's something that's bothering you at night a little bit.
+
+PATIENT A634
+But I don't really do anything @@@.
+
+DOCTOR A634
+It's from nerve pain.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+It's not a typical pain medication but we have some other medications that work for nerve pain also.  Um so if that one doesn't work for you we'll get you off of it.  Cause there's no point in your taking nine pills a day if it's doing nothing.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+I don't like doing that to people.  But having you on this increased dose, see if that makes a difference at all okay.  And otherwise keep doing well on your diet.  Sounds like your sugars have been much better than they were.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Which I'm very pleased about.  I'm very pleased about.  Um so in September we'll see how that control is if it reflects on the hemoglobin A1c and make any changes that we need to at that time.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Good.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Good.  Lots of fresh vegetables are good um. 
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Here's how I eat a kiwi.
+
+PATIENT A634
+You peel it?
+
+DOCTOR A634
+No.  Peeling kiwi is really hard.  What I like to do is once it's ripe or a little bit soft, cut it down the middle where it's like so that when it's an oval.
+
+PATIENT A634
+Yeah.
+
+DOCTOR A634
+You cut it down the middle like this.  So you have two little halves.
+
+PATIENT A634
+Right.
+
+DOCTOR A634
+And then like eat it with a spoon.  Out of the skin.
+
+PATIENT A634
+Okay.
+
+DOCTOR A634
+You know cause I have a lot of trouble peeling them.  They're great @@@ and they're extremely good for you.  They have more potassium than bananas and they have more vitamin C than oranges.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Uh-huh yeah.
+
+PATIENT A634
+So yeah @@@.
+
+DOCTOR A634
+Cut it down the middle and then eat out of the skin.  If it's ripe it'll come out just right.
+
+PATIENT A634
+@@@.
+
+DOCTOR A634
+Really, really.
+
+PATIENT A634
+@@@.  Strawberry soup you know.
+
+DOCTOR A634
+But not real @@@.  They're pretty good and they are good for you so remember not too much fresh fruit cause it does increase your sugar.
+
+PATIENT A634
+It does?
+
+DOCTOR A634
+Yeah so they're one of the natural sugars.
+
+PATIENT A634
+Oh.
+
+DOCTOR A634
+They can hike up your sugars a little bit so if you’re seeing an increase in your sugars, just go easy on the fresh fruits.
+
+PATIENT A634
+That's what I'm doing @@@.
+
+DOCTOR A634
+So that's going to be @@@ for you.  Try to do fresh vegetables.  Make @@@ okay.
+
+PATIENT A634
+Well thank you doctor.
+
+DOCTOR A634
+You are welcome.  Good seeing you.  @@@ you know.  @@@ okay.
+
+PATIENT LEAVES AT:  88:49.
+
+Time is 12:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38219
+TRANSACTION # 578-10-2-316-0103

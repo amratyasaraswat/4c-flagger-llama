@@ -1,0 +1,83 @@
+Red Flag (1120-1179): "which I really did not like the doctor from the Pain Clinic"
+
+Red Flag (3006-3093): "you know they want to, but the only operation that I told them that I would let them do"
+
+Probe    (3178-3199): "Uh-huh and that’s @@@"
+
+Probe    (3264-3312): "That's fine, yeah because I know they’re not @@@"
+
+Red Flag (3328-3352): "Because I will not do it"
+
+Red Flag (4231-4373): "I had a, you know we had a disagreement of words because first of all he was kind of telling me to try to give me some pill to put me to sleep"
+
+Red Flag (4468-4516): "No, no, it's used for depression. I told him no"
+
+Red Flag (4928-4955): "So you’re taking gabapentin"
+
+Red Flag (4971-4973): "No"
+
+Probe    (4988-5019): "You're not taking that any more"
+
+Factor   (6991-7096): "I said no I just want to talk to them because I really didn't want to talk to that guy. He really wasn't"
+
+Factor   (6991-7096): "I said no I just want to talk to them because I really didn't want to talk to that guy. He really wasn't"
+
+Factor   (7266-7310): "I just simply didn't want to talk to the guy"
+
+Factor   (7266-7310): "I just simply didn't want to talk to the guy"
+
+Red Flag (7568-7602): "I don't want to see a psychiatrist"
+
+Factor   (7770-7816): "I have a physical problem not a mental problem"
+
+Red Flag (8314-8338): "I was living in a garage"
+
+Probe    (8353-8368): "Do you live @@@"
+
+Red Flag (9066-9091): "So you ran out of Vicodin"
+
+Red Flag (9107-9136): "When I ran out of the Vicodin"
+
+CarePlan (10048-10274): "the medication that he also gave you amitriptyline actually we do prescribe it for people with that kind of nerve pain, the physical nerve pain you know. The medicines have different uses for them and not everything has to be"
+
+CarePlan (10363-10540): "Yeah it's classified, technically for marketing purposes it is classified as neuropathic pain but um we do use that for neuropathic pain. If you don't want to use the gabapentin"
+
+Red Flag (10794-10872): "Um did he offer a second injection? I guess you didn't want it from him right"
+
+Probe    (10831-10872): "I guess you didn't want it from him right"
+
+Factor   (10888-10890): "No"
+
+CarePlan (10905-11033): "Do you want it with someone else? So do you want to go back to the clinic, do you want to see someone else? Is that what it is"
+
+Probe    (11015-11033): "Is that what it is"
+
+Probe    (11107-11147): "Okay but you were okay with someone else"
+
+CarePlan (11428-11676): "So they did try but I'll put another consult in and see and you would like to have it be to repeat injection and I'll make sure you know you can specify it or when they call to make the appointment you can always. The name of the person was DOCTOR"
+
+CarePlan (11713-11840): "Okay, if it's possible just be like oh no DOCTOR just be like I would like it with another Pain Clinic doctor other than DOCTOR"
+
+CarePlan (12679-12706): "Okay then I'll refer to him"
+
+Red Flag (13590-13632): "But I'm also a very skeptic type of person"
+
+Factor   (13667-13719): "When it comes to medicine, I'm not a medicine person"
+
+Factor   (13765-14006): "That's why I'd rather have the you know the discussion with the doctor and let them know what I feel, how I feel about the medicine because if I don't then it'd just be like something that I just be like oh no that's not really doing me good"
+
+Red Flag (14312-14344): "Did you go have physical therapy"
+
+Red Flag (14360-14374): "Uh physical no"
+
+Red Flag (14499-14569): "I was supposed to have done my MRIs redone because it's been two years"
+
+Factor   (14542-14569): "because it's been two years"
+
+Red Flag (14606-14637): "Because I missed my appointment"
+
+Probe    (14652-14710): "The last MRI of the lumbar spine was last year in February"
+
+CarePlan (14714-14758): "it hasn't been two years, it's been one year"
+
+CarePlan (15054-15091): "So I don't think you need another one"

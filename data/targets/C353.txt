@@ -1,0 +1,21 @@
+Red Flag (390-467): "Um no they were supposed to make an appointment with your primary care DOCTOR"
+
+Probe    (519-538): "What happened there"
+
+Factor   (554-574): "Ah probably a mix up"
+
+Red Flag (2732-2785): "And I think there's something wrong with that machine"
+
+Factor   (2786-2830): "cause at the house I get a different reading"
+
+CarePlan (3047-3079): "Um come back for a nursing visit"
+
+CarePlan (3361-3402): "And bring your machine, your home machine"
+
+CarePlan (3437-3498): "And so they can correlate to see if it's reading right or not"
+
+Red Flag (3678-3787): "You didn't so it looks like the flu, I think you should have the flu shot. Do you want to get flu shot today"
+
+Red Flag (3803-3822): "Uh can I wait later"
+
+CarePlan (4443-4654): "we'll have you come back in three months and probably on appointment (in the correct clinic). Not that I'm not glad to see you but they know you, they don’t like when we pull patients from one clinic to another"

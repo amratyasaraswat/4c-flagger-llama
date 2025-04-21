@@ -1,0 +1,1321 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR E950
+PATIENT?
+
+PATIENT E950
+Hello doctor.
+
+DOCTOR E950
+Hi.
+
+PATIENT E950
+How are you?
+
+DOCTOR E950
+Good.  How you feeling, you okay?
+
+PATIENT E950
+Good.  Good to see you.
+
+DOCTOR E950
+Good to see you.  Everything you need.
+
+PATIENT E950
+Finally after all of another year is gone.
+
+DOCTOR E950
+Remind me how to say your last name?
+
+PATIENT E950
+PATIENT.
+
+DOCTOR E950
+PATIENT.  Alright.  Come on back and have a seat.
+
+PATIENT E950
+Sure.
+
+DOCTOR E950
+I can take your jacket if you like.
+
+PATIENT E950
+Oh I'll just leave it here on the chair.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+Because I got my cell phone in there and it falls out sometimes.
+
+DOCTOR E950
+Gotcha.
+
+PATIENT E950
+Yeah.
+
+DOCTOR E950
+Well how have you been?
+
+PATIENT E950
+Uh not too bad, not too good.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+One of the things that's really uh, a larger source of aggravation in the past.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Is my arthritis.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+I know that I was prescribed diclofenac I believe it is. 
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Uh the dosage is twice a day, I believe its 7.5 mg.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+I don't know if its enough and I don't if it's even the right drug.
+
+DOCTOR E950
+Right.
+
+PATIENT E950
+By the way I've run out of it, two days ago and they won't refill it downstairs because there's not a standing prescription.
+
+DOCTOR E950
+Hmm, yeah it's expired that's right.  So why do you think you don't know if it's the right drug.  Has it been helping enough with your pain?
+
+PATIENT E950
+It didn't.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+In fact I was in Emergency here about a month and a half ago.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+With severe pain.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And basically the doctor who attended to me at the time just said hey you know there's nothing more I can do.  He says you know, he was a sufferer as well.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+With back pain.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+He says you know there's nothing that even I can take for myself otherwise I'd give it to you but I think its two different conditions.  Ones arthritis, is there something else?
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+But you know, all the same uh basically I walked away with nothing.
+
+DOCTOR E950
+Okay and your pain is mostly in your back?
+
+PATIENT E950
+It's right above my right hip.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+And then it radiates all the way down, all the way down my thigh, all the way down the outer thigh.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Okay all the way down into my calf, up through my neck right to the base of the skull.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+It's like a ribbon.  I mean it literally feels like it's a hot ribbon.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+In my body.
+
+DOCTOR E950
+So you're having the pain, also it shoots all the way up your back to your neck or just through your neck?
+
+PATIENT E950
+It goes all the way up through my neck right to the base of the skull.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+Okay.  It's a very narrow.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Type feeling.  I don't know, it feels like somebody.  I don't know how else to describe it other than like it's a ribbon that's been heated up and just placed from my neck all the way down to my ankle.
+
+DOCTOR E950
+Okay and how long has it been getting worse for?
+
+PATIENT E950
+Uh probably a few months.  Ever since the episode with the TIA back in October.
+
+DOCTOR E950
+Okay.  Alright and anything make it better?
+
+PATIENT E950
+No nothing.  In fact, um.
+
+DOCTOR E950
+Is the.
+
+PATIENT E950
+I'll use Tylenol sometimes at night.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+When it's worse.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+And I only get about four hours of sleep till it wakes me up.
+
+DOCTOR E950
+Did the diclofenac.
+
+PATIENT E950
+Yeah.
+
+DOCTOR E950
+That's a mouthful, does that make it better?
+
+PATIENT E950
+Well that's what I was initially prescribed that medication after my TIA.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+By an outside physician.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+A physician that I had used for years.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+Um.
+
+DOCTOR E950
+Are you still seeing that outside physician?
+
+PATIENT E950
+No.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+No in fact I had to drop my Blue Cross/Blue Shield insurance.
+
+DOCTOR E950
+Hmm, sorry to hear that.
+
+PATIENT E950
+Yeah uh well that's just the financial fact.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+Especially for myself and my wife.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+I maintained hers.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Because that's all I could afford.
+
+DOCTOR E950
+Okay so.
+
+PATIENT E950
+Uh but he switched me off the meloxicam.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+To go to that.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+I have been complaining of a lot more severe pain and he says okay, this is, you know this is a little more intense so maybe this will work.  Well it did work for a short period of time and now it's not working.
+
+DOCTOR E950
+Okay.  Alright.
+
+PATIENT E950
+But I need something.  I mean its gotten way out of hand.
+
+DOCTOR E950
+Anything make the pain worse?
+
+PATIENT E950
+Yeah too much activity, especially with the pets.  You know I've been doing some work in the yard.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+You know trimming hedges and things like that.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+There's a lot of bending and stooping.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And that does aggravate it.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+Very much so but I can't not do that.
+
+DOCTOR E950
+Right.
+
+PATIENT E950
+Number one, I like it.
+
+DOCTOR E950
+Right.  Any other problems other than the pain that you've been having?
+
+PATIENT E950
+Uh no.  Uh I ran out of Plavix so I just went to baby aspirin.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+Uh they won't renew that.  There's a lot of the drugs they just won't renew them for me.  I don't know why I mean.
+
+DOCTOR E950
+So I never got, they usually send me an alert that uh you're out of meds and will I renew them for you.  So you called the Pharmacy and they just wouldn't renew them?
+
+PATIENT E950
+No I called the Pharmacy and they said oh you gotta come in so I made a trip in.  I talked to the pharmacist.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And he said oh there's not a prescription for it that's all, you got to get a prescription and so I made the appointment with you today because that's getting out of hand as well.
+
+DOCTOR E950
+Yeah I know. The neurologist wants you and I want you on the Plavix so I'm renewing that right now.
+
+PATIENT E950
+And uh another question that I've had.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And I meant to ask you the last time I was here, so actually two more questions uh.
+
+DOCTOR E950
+Do you want them to mail this or pick it up at the window?
+
+PATIENT E950
+I'm gonna pick it up at the window.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+You know because I'm out of it.  I mean I've got nothing.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+You know.  The other medication that I'm taking for diabetes is pravastatin.  
+
+DOCTOR E950
+Uh-huh and that was actually for cholesterol.  Pravastatin?
+
+PATIENT E950
+Uh pravastatin is for cholesterol, correct I'm sorry.
+
+DOCTOR E950
+No that's alright.
+
+PATIENT E950
+Uh I read in uh, on a medical website.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+That's actually put up by one of the universities, Northwestern University puts it up.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Um that that statin drug should be considered uh for switching off of it for a time period.  I've been on it for five or six years.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And the article informed me to the point of saying that after about four years it's not a bad idea to talk to your physician and find out if you should be taken off of that and put on something else.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+So that's what I'm doing now.
+
+DOCTOR E950
+Okay.  Um are you, have you been taking them?  When was the last time you took the pravastatin?
+
+PATIENT E950
+Oh last night.
+
+DOCTOR E950
+So you still have some.
+
+PATIENT E950
+Oh yeah uh-huh.
+
+DOCTOR E950
+Let's look at your lipids panel.
+
+PATIENT E950
+Yeah that was the other thing.  I never got results back from the two tests that they did the last time.  The urine and the uh blood draws.
+
+DOCTOR E950
+Well let's look at these first and then we'll look at that.  So.
+
+PATIENT E950
+I can't see that you know.
+
+DOCTOR E950
+Oh okay.  So your LDL cholesterol which is the bad cholesterol is 105.  For you, you have a lot of risk factors.  You've already had one stroke or TIA.
+
+PATIENT E950
+Uh-huh.
+
+DOCTOR E950
+So I think your goal should be more strict so less than 100 to even less than 70.
+
+PATIENT E950
+Uh-huh.
+
+DOCTOR E950
+So I would say that your cholesterol is not well controlled yet.  So I would be hesitant to let you have a break from the statin.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+When we don't even have your cholesterol under great control.
+
+PATIENT E950
+I understand okay.
+
+DOCTOR E950
+I mean if the article is very reasonable and that sometimes we just keeping pressing renew, renew, renew and then people have more and more meds and sometimes they needed one but now they don't um but.
+
+PATIENT E950
+Well that's exactly why I'm speaking to you about it.
+
+DOCTOR E950
+Yeah, no I think its important cause to make sure you really need what you're taking.
+
+PATIENT E950
+Right.
+
+DOCTOR E950
+Right.
+
+PATIENT E950
+Exactly.
+
+DOCTOR E950
+I think you do.
+
+PATIENT E950
+Okay.  No that's fine as long as your opinion is that, that's what we'll go with.  Um another thing that I wanted to bring up.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Is while I was still on Blue Cross/Blue Shield, Blue Cross/Blue Shield paid their part of my hospital bill.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Okay.  Now one of the reasons I wound up in the Elmhurst Hospital is because it was three minutes away from my home and I was having a stroke.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+I said I was a veteran and I had hospitalization here at the VA but they wouldn't drive me here.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+They just took me right there and started on me.
+
+DOCTOR E950
+Yep.
+
+PATIENT E950
+Um I spoke recently to a collection agency that I was turned over to because there was a nonpayment of $1500 on that bill.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And I said well, you know I've heard that the VA may take up a percentage of that which would lessen my cost.  I says number one I didn't even know I still owed you money.
+
+DOCTOR E950
+Right.
+
+PATIENT E950
+And the guy was very polite and very genuine as a human being.  He said well I'm gonna get you a detail of what the $1500 is going for.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+I want to know I owed Anesthesiology, was it you know Emergency Room, whatever.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And he said it could be just a bunch of combined things.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Where you know they got 80% from the insurance company on everything and then they just sort of reassessed it and said you know okay this adds up to this.
+
+DOCTOR E950
+Right.
+
+PATIENT E950
+Uh do you know the route that I have to take to inquire with the VA if they would pick up some of that?
+
+DOCTOR E950
+I do not, but I think uh maybe a social worker would be the place to start.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+Alright but let me talk with my attending and see if he has a different idea.  If not we'll set you up with the social worker and see if she can point you in the right direction.
+
+PATIENT E950
+Yeah.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+That would be great.
+
+DOCTOR E950
+Alright.  I wanted to go over what meds you are still taking.  Like are you taking the Timolol for glaucoma?
+
+PATIENT E950
+I need that too.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+Thanks for bringing that up because I would've walked out of here forgetting.  Yeah I've got three or four drops left in the bottle.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+So about three or four days worth.
+
+DOCTOR E950
+And how about the metformin?
+
+PATIENT E950
+Metformin yes, I've been on that, that's my diabetes medicine. 
+
+DOCTOR E950
+Are you taking that currently?
+
+PATIENT E950
+I am.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+Twice a day.  I believe the total dose is 500 mg or about 1000.
+
+DOCTOR E950
+Yeah twice a day of the 500 for 1,000.  Um what about the Wellbutrin or the bupropion?
+
+PATIENT E950
+I need that.
+
+DOCTOR E950
+You need that.
+
+PATIENT E950
+Yes if you could do that.
+
+DOCTOR E950
+How is the depression doing?
+
+PATIENT E950
+Actually it's a very, very strange type of @@@.  Uh there's some days that I find myself crying over joyful things.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Uh but that's not depression.  I don't know what they call it.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+You know I it's, it's so bizarre.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+You know if I see something that I'm really happy about I just start crying.
+
+DOCTOR E950
+So maybe some emotional uh labile emotions.
+
+PATIENT E950
+Oh that could be you know I mean.
+
+DOCTOR E950
+That can happen with depression.
+
+PATIENT E950
+Yeah I'm not saying that uh you know I've had a horrible road to hoe.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+I've had a more difficult road to haul of late.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+You know losing my eyesight in 2009 and then you know my daughter's still a teenager, she's 19 and she moved to Florida.  Uh my wife's had two heart attacks.
+
+DOCTOR E950
+I know it's very tough.
+
+PATIENT E950
+And so you know I can see where I'd be a little pent up.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Legitimately I mean without making it some grander problem but as I was going into therapy uh I had to leave for Florida because my daughter fell into some really bad times there in Florida.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+So I left for Florida and I missed several appointments and when I got back I just never bothered to reappoint because what was being accomplished was very little um.  I think the psychologist wanted to, let's say take it from the beginning.  You know he wanted to try and delve into my life as from what I remember.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+All the way up to the present and so he of course is looking for triggers that might be going on now that relate to something in the past but I'll be very honest with you and I was very honest with him I says you know what, other than being in the military I've never had a traumatic experience.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+You know.  My mom was a stay-at-home mom.  My dad worked, he'd come home, we'd all eat dinner together.  I'd go out and play you know.  I mean I had such a normal childhood that it's not even funny.  It's just plain simple normal.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+You know and we were uh, we weren't impoverished, but we were definitely not middle class either you know we were just above impoverished.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+Okay.  Uh but that made no difference to me.  I mean I started working when I was 16 and anything that I wanted I bought.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+You know.  A couple times my mother had to sign for me; my dad had to sign for me like when I bought my first car.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And even though I had the money you still needed a co-signer at that time because of my age.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+So that was done but you know before the military there was no traumatic experiences.  In the military there was traumatic experiences but they weren't the type that uh, I don't feel like I have that syndrome.
+
+DOCTOR E950
+PTSD?
+
+PATIENT E950
+Yeah I don't feel I have that.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+I don't know.  I mean I think that's what this guy was trying to get after.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+And just maybe that was something going on to, I have no idea but I just sort of lost my interest.
+
+DOCTOR E950
+Alright well.
+
+PATIENT E950
+Seriously.
+
+DOCTOR E950
+You know I'd encourage you that uh you keep up with the Mental Health okay, if you need it um and maybe if there's someone else that you can see.  But definitely if you're getting crying more, losing interest in activities, lack of appetite, can't sleep, any of those symptoms, let us know okay.
+
+PATIENT E950
+Yeah.
+
+DOCTOR E950
+Okay.  I'm gonna take a look in your eyes.
+
+PATIENT E950
+@@@.
+
+DOCTOR E950
+They're good.
+
+PATIENT E950
+You're not going to very successful on it.
+
+DOCTOR E950
+Hmm, there's a little @@@ that's alright.  Um.
+
+PATIENT E950
+Most people can't see my pupils anyway that's why I.
+
+DOCTOR E950
+I know.
+
+PATIENT E950
+My eyes just sort of.
+
+DOCTOR E950
+Are you still smoking?
+
+PATIENT E950
+Yeah.
+
+DOCTOR E950
+Any interest in quitting?
+
+PATIENT E950
+There's always an interest in quitting.  It seems as though my interest wanes.  I had actually physically stopped for a week.
+
+DOCTOR E950
+That's good.
+
+PATIENT E950
+Um and that's exactly when I started the uh generic Wellbutrin.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+You know it helped a lot.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+Suppress the urge.
+
+DOCTOR E950
+It does uh-huh.
+
+PATIENT E950
+Uh but then all these things started to break loose of course.  You know this always happens.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+Um my daughter got all crazy in Florida and I went out there and she's a heavy smoker.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And the person that she's living with a heavy smoker so I just, go right back up.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+By the time I got home six weeks later I was smoking again.
+
+DOCTOR E950
+Well you know what my advice is gonna be right?
+
+PATIENT E950
+Well of course I do.
+
+DOCTOR E950
+Okay.  And what I'm saying alright.  Deep breath in, good again.  Alright excellent.
+
+PATIENT E950
+Yeah and it's really funny because I think the, probably the biggest psychological issue with smoking.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And I have this every battery of test that I've had one on since October 4th of last year.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Certainly would've brought out even the slightest little defect in the lung capacity, in the heart, carotid artery.  I mean they did everything and it all came back great.  And it's that, my attending physician at the hospital said that he couldn't believe the condition I was in internally for what I'm doing to myself.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+So she says it's luck.
+
+DOCTOR E950
+Well I wouldn't take the risk.
+
+PATIENT E950
+I know there's always a shot there that's gonna.
+
+DOCTOR E950
+Alright.
+
+PATIENT E950
+Jump up and grab you.
+
+DOCTOR E950
+Well I'd like to get some lab work on you.
+
+PATIENT E950
+@@@.
+
+DOCTOR E950
+At your convenience.  Did you get some today?
+
+PATIENT E950
+No not today.
+
+DOCTOR E950
+No.
+
+PATIENT E950
+But uh again the lab work that was performed the first time I thought we were going to meet which was all the way back last year.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Um you did say see you in three months or because I came in October so I scheduled an appointment and then I came in and @@@.
+
+DOCTOR E950
+No.
+
+PATIENT E950
+And so but I never got results over the phone either.  All of the lab that they did at that time was probably back in November.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Maybe December.
+
+DOCTOR E950
+Okay.  Well I've looked over your labs.  It's hard for me to get back to those exact ones.
+
+PATIENT E950
+Uh-huh.
+
+DOCTOR E950
+Um but I want to redo some lab tests again today.  It looks like liver function hasn't been done in almost a year.  Uh and you @@@ and your lipid profile your creatinine we'll pick up and look at, something like your electrolytes and kidney function.
+
+PATIENT E950
+Okay well now that the weather's broken up and what it is, I'm gonna start walking again.  I don't know if I told you but I was walking on an average of six miles a day.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And I had actually taken down 15 pounds.
+
+DOCTOR E950
+That would be very good.
+
+PATIENT E950
+Yeah.  I just got to restart now cause everything's south.
+
+DOCTOR E950
+Yeah.  I know you can do it. It will be good.
+
+PATIENT E950
+Yes it’s my nature @@@ down the line.  Like that one @@@ very light.  One reason why I want to lose weight.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+And I didn't have a girlfriend and gained weight.
+
+DOCTOR E950
+Not @@@.  Well let me go talk with my attending.
+
+PATIENT E950
+Alright.
+
+DOCTOR E950
+And we'll talk about what uh, what to do for this pain okay.
+
+PATIENT E950
+Sure.
+
+DOCTOR E950
+Alright.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+See you back in just a few minutes.
+
+PATIENT E950
+Okay.  If he doesn't have any other suggestions you know the diclofenac would just have to be.
+
+DOCTOR E950
+Trust me, we've got a few more things we can try.
+
+PATIENT E950
+Good, as long they're not nonsteroidal.
+
+DOCTOR E950
+They are not steroids.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+@@@.
+
+PATIENT E950
+Cool.
+
+(DOCTOR OUT:  35:19  DOCTOR IN:  39:33)
+
+DOCTOR E950
+Alright.  So we're gonna try a medicine called tramadol.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+It's um a medicine that, it's a little bit stronger.
+
+PATIENT E950
+Uh-huh.
+
+DOCTOR E950
+But it's not a narcotic.
+
+PATIENT E950
+Good.
+
+DOCTOR E950
+And it's not an NSAID and it's not uh a steroid.  It's just kind of it's only little.
+
+PATIENT E950
+Only little creature.
+
+DOCTOR E950
+Own little niche.
+
+PATIENT E950
+Okay.  Well that's fine.  As long as it's not a steroid or a narcotic I'll take it.
+
+DOCTOR E950
+Okay.
+
+PATIENT E950
+I would have a debate with you otherwise.
+
+DOCTOR E950
+Sounds good.
+
+PATIENT E950
+Such as, if I'm suffering from depression and you really think I need a narcotic in my body, no.
+
+DOCTOR E950
+Agreed and talking with my attending he would like to get you established the Eye Clinic since I can't monitor the pressures in your eyes.
+
+PATIENT E950
+Uh-huh.
+
+DOCTOR E950
+I'm not refilling the Timolol for you okay.
+
+PATIENT E950
+Uh-huh.
+
+DOCTOR E950
+So uh I'm gonna have, refer that to the ophthalmologist, that way they can monitor it okay.
+
+PATIENT E950
+Sure.
+
+DOCTOR E950
+And then I'm gonna put in a consult to the social worker.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+And you should get a phone call about telling them, what you can talk to them about.
+
+PATIENT E950
+Okay is that.
+
+DOCTOR E950
+The medical bills.
+
+PATIENT E950
+That's good.  Because it just comes out @@@.
+
+DOCTOR E950
+Uh-huh.
+
+PATIENT E950
+Yeah again.  Had I been transported here.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+Uh, you know if it was something else.  Let's say I slipped and fell and broke my hip and they take me to the hospital well they would have brought me here but because of a stroke.  I guess they're directed to take you to the nearest facility.
+
+DOCTOR E950
+They are.
+
+PATIENT E950
+And since I live a mile exactly from Elmhurst Hospital.
+
+DOCTOR E950
+Alright.
+
+PATIENT E950
+Now these prescriptions now will be available downstairs?
+
+DOCTOR E950
+Yes.
+
+PATIENT E950
+And they're right?
+
+DOCTOR E950
+I hope.  We'll see you again in six months.
+
+PATIENT E950
+Are you gonna be here six months from now?
+
+DOCTOR E950
+Yep.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+I'll be here for two more years.
+
+PATIENT E950
+Oh really.
+
+DOCTOR E950
+Yep.
+
+PATIENT E950
+Oh wow.  I must have been on the back end of the last doctor's.
+
+DOCTOR E950
+Yep.
+
+PATIENT E950
+Run.
+
+DOCTOR E950
+Run, yeah.  Alright oh and then the other thing for the pain I think, would you be willing to do physical therapy?
+
+PATIENT E950
+I would be willing to.  I don't know if it's going to do anything but I'd be willing to sure.  
+
+DOCTOR E950
+Let's do a trial of that and see if that helps you.
+
+PATIENT E950
+Yeah, why not?  I mean anything that'll help is well worth it.
+
+DOCTOR E950
+I like the attitude.
+
+PATIENT E950
+Yeah physical therapy, well yeah you know the physical therapy I was basically doing my own all my life until I had a baby.  My wife slimmed down and I just kept picking up.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+Once the baby was born, that was it, I don't know.  Cause I was working 16 hours a day most of the time and.
+
+DOCTOR E950
+It's hard isn't it?
+
+PATIENT E950
+Oh yeah.  And I was in upper level management so you know I was sitting on my butt for 14-16 hours every day.
+
+DOCTOR E950
+Yeah.
+
+PATIENT E950
+And I was eating junk food like it was going out of style.
+
+DOCTOR E950
+That'll do it.
+
+PATIENT E950
+Yeah.
+
+DOCTOR E950
+Do it for you won't it.
+
+PATIENT E950
+Yeah cause I was a body builder for many years.
+
+DOCTOR E950
+Oh yeah.
+
+PATIENT E950
+It was more of a hobby but still.  I was in superb shape.
+
+DOCTOR E950
+Right, they should be calling you with this physical therapy appointment.
+
+PATIENT E950
+Okay so I got two calls to look forward to.
+
+DOCTOR E950
+Yep.
+
+PATIENT E950
+Alrighty, that sounds good.
+
+DOCTOR E950
+And lab work to do at your convenience.
+
+PATIENT E950
+Okay.
+
+DOCTOR E950
+And we'll be sure to send you a letter this time.
+
+PATIENT E950
+Okay.  So I think what I'll do is when I get a phone call from either of those two entities and they establish an appointment with me I'll just do my labs on the day of the appointment with them.
+
+DOCTOR E950
+That sounds like a plan.
+
+PATIENT E950
+And eat at the Commissary and do that.
+
+DOCTOR E950
+That sounds good.
+
+PATIENT E950
+Yeah, that's how I'll work it.
+
+DOCTOR E950
+Great.
+
+PATIENT E950
+Alright doctor, well I thank you very much.
+
+DOCTOR E950
+Good to see you again.
+
+PATIENT E950
+Good to see you and you have a great day.
+
+DOCTOR E950
+Hope the pain improves.
+
+PATIENT E950
+Right.
+
+DOCTOR E950
+Let me know if it doesn't okay.
+
+PATIENT E950
+Yeah well that's really up to you right now you know that.
+
+DOCTOR E950
+It's up to me?
+
+PATIENT E950
+Yeah.
+
+DOCTOR E950
+And you.
+
+PATIENT E950
+Well.
+
+DOCTOR E950
+And the attending.
+
+PATIENT E950
+And the attending.
+
+DOCTOR E950
+And the attending.
+
+PATIENT E950
+You know you @@@.
+
+DOCTOR E950
+Yep.
+
+PATIENT E950
+And he said okay.  I said I'll take that.
+
+DOCTOR E950
+Well alright.
+
+PATIENT E950
+@@@ do I need any of this?
+
+DOCTOR E950
+Nope you need to take this out front.
+
+PATIENT E950
+Okay.  Where's that the check-out?
+
+DOCTOR E950
+Yep.
+
+PATIENT E950
+Okay I can do that.  I got the technology on that side of it.
+
+PATIENT LEAVES:  45:05
+
+Time is 4:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1269057
+TRANSACTION # 578-10-2-316-0103

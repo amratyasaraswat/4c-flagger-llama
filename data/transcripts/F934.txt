@@ -1,0 +1,788 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR F934
+PATIENT?  Have a seat.
+
+PATIENT F934
+Okay.
+
+DOCTOR F934
+How you doing?
+
+PATIENT F934
+@@@.
+
+DOCTOR F934
+So um, any problems today?
+
+PATIENT F934
+Yeah.  Uh the one thing I was running late and ran out of the house, I forgot my, what's that thing, that meter, glucose meter.
+
+DOCTOR F934
+Okay.  So you don't have your log with you?
+
+PATIENT F934
+Hmm?
+
+DOCTOR F934
+Did you bring a log of your blood sugars?
+
+PATIENT F934
+No I didn't bring the log cause I tell you I had stopped.  There's a lot of things that's happened since the last time,  there’s a death in the family, uh, a close relative died and that threw me off.  I was taking those shots and everything but as far as taking – I was kinda bad with that until uh then I had another personal problem.
+
+DOCTOR F934
+@@@ personal problems?
+
+PATIENT F934
+Uh so but I can say, I can tell you what the uh, what the numbers are.
+
+DOCTOR F934
+Okay.
+
+PATIENT F934
+They been running in the high twos and low threes.
+
+DOCTOR F934
+Okay.
+
+PATIENT F934
+Now go ahead, I'll ask you these questions at the end.
+
+DOCTOR F934
+No you ask me your questions first.
+
+PATIENT F934
+Um it's about the medication.  Now I been on this medication for a while, and it doesn't seem to be bringing the numbers down.
+
+DOCTOR F934
+The insulin?
+
+PATIENT F934
+Yeah.
+
+DOCTOR F934
+You're not on a very high dose and you're not going up on it that fast because you, the last time you were here we were you told me your numbers were in the low 100s okay and that would be good but your A1c, your three months blood sugars is not showing that and so that's why I sent you over to the diabetes pharmacist so that you could go up on the insulin to get your sugars controlled okay.
+
+PATIENT F934
+What?
+
+DOCTOR F934
+Um I saw that you missed a couple of appointments with them uh.
+
+PATIENT F934
+Well.
+
+DOCTOR F934
+They wanted to see you at the end of December.
+
+PATIENT F934
+Right.
+
+DOCTOR F934
+It sounds like you had some personal.
+
+PATIENT F934
+Yeah but that's not, that day something, either the weather and I called and with the system asking me do you want to cancel or do you want to reschedule and I told it I want to reschedule.  They said we'll be sending you out this information.
+
+DOCTOR F934
+Uh-huh.
+
+PATIENT F934
+They never sent it out.  The only way I got it is that I redid it myself.  Your appointment and their appointment so I don't know why.
+
+DOCTOR F934
+When do you go see them next?
+
+PATIENT F934
+Today.
+
+DOCTOR F934
+Today at what time?
+
+PATIENT F934
+After you.
+
+DOCTOR F934
+Okay.
+
+PATIENT F934
+They said I had two appointments.
+
+DOCTOR F934
+Okay.  Yeah.  And you were running a little bit late, so you'll have a hard time getting to the other one on time.  Um.
+
+PATIENT F934
+Well.
+
+DOCTOR F934
+You know, we need to.  How much insulin are you taking right now?
+
+PATIENT F934
+30.
+
+DOCTOR F934
+30 okay.  They had asked you to go up on it by um 2 units every four days if your sugars were still high.  Have you been doing that?
+
+PATIENT F934
+Well nobody told me that.
+
+DOCTOR F934
+Uh-huh.
+
+PATIENT F934
+2 units every four days.
+
+DOCTOR F934
+Yeah until your sugars come down to the 100s in the morning.  But that, you know that takes a lot of checking on your part so if you don't, if you have other things going on and you're not checking your sugars, you know you definitely have a lot work to do on your diabetes.  Okay.  And I understand that sometimes personal problems, you know things going on in your personal life get in the way of that but you know we definitely have a lot of work to do.  Um going up on the insulin, I mean we may have you come up to giving insulin twice a day or adding um an insulin that you take with meals but.
+
+PATIENT F934
+With what?
+
+DOCTOR F934
+With meals.
+
+PATIENT F934
+Okay, okay.
+
+DOCTOR F934
+Another shot with each meal that you eat.  Um but that takes a lot of work on your part as well.  I mean you are writing everything down and putting it in a log so you know what to do um.
+
+PATIENT F934
+Right.  @@@.
+
+DOCTOR F934
+Um I'm gonna let the diabetes pharmacist change your insulin okay.  
+
+PATIENT F934
+Change it to the 2.
+
+DOCTOR F934
+Well uh yeah.  I'll let them talk to you about what to, this is all she does all day long um and so you know you should be going to see her every month until we get this under better control okay.
+
+PATIENT F934
+Okay.
+
+DOCTOR F934
+Um so I'm not going to change anything but I can tell you, when you see her I'll let her do that when you see her after we're done okay.
+
+PATIENT F934
+Alright.
+
+DOCTOR F934
+Um.
+
+PATIENT F934
+Now okay go ahead you go first.
+
+DOCTOR F934
+What else do you need to talk to me about?
+
+PATIENT F934
+Meds.
+
+DOCTOR F934
+What about them?
+
+PATIENT F934
+I am completely out of.
+
+DOCTOR F934
+Uh-huh.
+
+PATIENT F934
+Meds and like.
+
+DOCTOR F934
+You have refills on most of them.  
+
+PATIENT F934
+So when I call they tell me uh you don't have any more refills but you gonna see the doctor here and have her reissue your meds.
+
+DOCTOR F934
+You have um three refills on the Levitra.
+
+PATIENT F934
+On what?
+
+DOCTOR F934
+Levitra, you have three refills on those.
+
+PATIENT F934
+Oh I ain't worried about that.
+
+DOCTOR F934
+Um hydralazine you are out of.
+
+PATIENT F934
+Right.
+
+DOCTOR F934
+Um so I renewed it.
+
+PATIENT F934
+And I'm out of @@@.
+
+DOCTOR F934
+How much of the, so you're just taking 60 mg a day?
+
+PATIENT F934
+How much?
+
+DOCTOR F934
+60 mg?  Your blood pressure is still high today.
+
+PATIENT F934
+Well when I first came in and she took it, it was 130.
+
+DOCTOR F934
+4.
+
+PATIENT F934
+Yeah and then we got talking about something else and that raised it up.
+
+DOCTOR F934
+Yeah but it's still too high.
+
+PATIENT F934
+Okay.
+
+DOCTOR F934
+Um so let me, I'm going to increase the hydralazine okay.
+
+PATIENT F934
+That's the orange pill.
+
+DOCTOR F934
+It's the one you take three times a day.
+
+PATIENT F934
+That's the one.
+
+DOCTOR F934
+Um.
+
+PATIENT F934
+I'm out of that.  I'm out of lisinopril.
+
+DOCTOR F934
+That you have one refill on.
+
+PATIENT F934
+And uh.
+
+DOCTOR F934
+That's the cholesterol medicine.
+
+PATIENT F934
+I'm low on the uh, on the uh what is that little white pill?
+
+DOCTOR F934
+Let's see.  
+
+PATIENT F934
+I mean like I got to pick these up today.
+
+DOCTOR F934
+Yeah you can, I mean I'm putting them in here so you can just pick them up on your way out alright.
+
+PATIENT F934
+Yeah cause I'm about, should have, I need a refill on the insulin.
+
+DOCTOR F934
+So I'm gonna let.
+
+PATIENT F934
+You are going to let them do it.
+
+DOCTOR F934
+Yeah well they're gonna change it today and going to make sure you don’t run out.  So it, I did everything except the insulin okay.  So you have refills on everything except the insulin.
+
+PATIENT F934
+Okay.
+
+DOCTOR F934
+Okay.  Do you still want the Tylenol?
+
+PATIENT F934
+No I got those @@@.
+
+DOCTOR F934
+Yeah.  So the blood pressure you know 134 is still too high, especially when you have diabetes.
+
+PATIENT F934
+Yeah nobody told me with diabetes you want it under 130.
+
+DOCTOR F934
+And they want it under 120.
+
+PATIENT F934
+120?
+
+DOCTOR F934
+Yeah.
+
+PATIENT F934
+I never heard that.
+
+DOCTOR F934
+So we'll just increase the hydralazine.
+
+PATIENT F934
+Okay.
+
+DOCTOR F934
+So if you have any left at home or.
+
+PATIENT F934
+I don't have, I took the last one this morning.
+
+DOCTOR F934
+Okay.  So what we'll, we'll increase it to 100.
+
+PATIENT F934
+Okay let me ask you something now, all the rest of the pills I get 90 days worth cause I always take them once a day.  I get 90 days.
+
+DOCTOR F934
+Do you want 90 days of the hydralazine?
+
+PATIENT F934
+Yeah cause I always run out of that.
+
+DOCTOR F934
+Oh.
+
+PATIENT F934
+Because I'm taking it three times a day.
+
+DOCTOR F934
+You take the, so I have a 90 days supply put in.  So they'll give you a 90 day supply today on that.
+
+PATIENT F934
+Okay and these are going to be increased dosage?
+
+DOCTOR F934
+We're gonna increase the dose from @@@.
+
+PATIENT F934
+So when I go home and take my second one I'll just take one of these.
+
+DOCTOR F934
+Yes.
+
+PATIENT F934
+And then one tonight.
+
+DOCTOR F934
+Uh-huh.
+
+PATIENT F934
+Okay.
+
+DOCTOR F934
+Alright.  Um let's see what else, any problems with shortness of breath?  Okay.  No chest pain or anything like that?
+
+PATIENT F934
+Nope.  In fact, well I shouldn't say this but I think it must not be right.  I used to have problems with my legs as far as them swelling.
+
+DOCTOR F934
+Is that better?
+
+PATIENT F934
+It hasn't done that in a long time.
+
+DOCTOR F934
+Well that's good.
+
+PATIENT F934
+And @@@.
+
+DOCTOR F934
+So that means the medicines are doing their jobs.
+
+PATIENT F934
+Huh?
+
+DOCTOR F934
+The medicines are doing their jobs.
+
+PATIENT F934
+Yeah because, like it would be like right here.
+
+DOCTOR F934
+Uh-huh.
+
+PATIENT F934
+It would be out here.
+
+DOCTOR F934
+Yeah.
+
+PATIENT F934
+You know what I mean and then there's nothing in the ankles.
+
+DOCTOR F934
+Yeah.  Um let's see last time in December we checked your cholesterol.  Your cholesterol is not quite where we need it to be.
+
+PATIENT F934
+It was under 200 the last time I took it, what is it?
+
+DOCTOR F934
+So your total cholesterol was 300 in December okay.  The bad cholesterol is 119 and when you have diabetes we want it under 70 okay.  Um and given your history of heart problems in the past okay.  So you're on, let's see, you're on the um simvastatin 80 mg.
+
+PATIENT F934
+I take them once every night.
+
+DOCTOR F934
+Let's see.
+
+PATIENT F934
+There's three pills I take at night, that one, the prostate medicine and the uh orange pill.
+
+DOCTOR F934
+Let's see.  Well I'll have to see what, you're on the highest dosage that we have here so I'll have to talk to DOCTOR about you know if we can get you a different medicine uh or what we can do.  Uh but you're cholesterol needs to come down as well, okay.
+
+PATIENT F934
+I brought it down cause the last time I.
+
+DOCTOR F934
+It was down back a year ago but when we tested it in December it was back up.
+
+PATIENT F934
+Well I'm taking @@@.
+
+DOCTOR F934
+And we checked it today and it's not back yet.  The thing is if that comes back, the blood that you had done this morning, it looks like your kidney function is not doing the best.  Have you ever seen the kidney doctors?
+
+PATIENT F934
+No.
+
+DOCTOR F934
+Okay.  Um you're seeing the urologist right for your um, for your cancer of the prostate right?
+
+PATIENT F934
+Uh-huh.
+
+DOCTOR F934
+No problems there?
+
+PATIENT F934
+Uh uh.  I got an appointment with him in a couple of weeks.
+
+DOCTOR F934
+Okay it's likely the worsened kidney function is from your diabetes okay and the high blood pressure.  Your blood pressure has been uncontrolled you know in the past you probably you've had it @@@ but right now it's okay.  Um so it's just another reason to get the diabetes under control okay.  Um and yeah.
+
+PATIENT F934
+They gonna do a PSA on that?
+
+DOCTOR F934
+PSA did they check that today as well?  Um, the last time we checked it was in September and it was low, it was 0.03 so very low, that's good, no problems there.  Um so you know really getting the diabetes under control, all I'm gonna do for you today is to increase the blood pressure medicine and see if we can change the cholesterol medicine.
+
+PATIENT F934
+Okay.
+
+DOCTOR F934
+And anything else you want to talk to me about?
+
+PATIENT F934
+Uh uh.
+
+DOCTOR F934
+Okay.  Come have a seat up here.  And you said no chest pain, no shortness of breath, no belly problems, problems urinating?
+
+PATIENT F934
+Just that, uh.
+
+DOCTOR F934
+You’re going more often?
+
+PATIENT F934
+No more than before.
+
+DOCTOR F934
+That's partly because of your sugars.  Your sugar @@@ affects your urine and when we checked in December it was high.
+
+PATIENT F934
+Uh-huh.
+
+DOCTOR F934
+It happens when the blood sugar is high.  You know, when you have @@@ comes out in your urine, you can urinate more.  Hopefully we can get your sugars down and we can make that better too.
+
+PATIENT F934
+I hope so.
+
+DOCTOR F934
+Deep breath, again.  @@@ during the day?  No?
+
+PATIENT F934
+Uh uh.
+
+DOCTOR F934
+@@@.  Do you check your feet every day sir?
+
+PATIENT F934
+I can't hear you.
+
+DOCTOR F934
+Do you check your feet every day still?
+
+PATIENT F934
+Yes.
+
+DOCTOR F934
+Okay great.  Come back and sit over here um let me go run and talk to DOCTOR here okay and I'll be right back.
+
+PATIENT F934
+Alright.
+
+(DOCTOR OUT:  41:52  DOCTOR IN:  46:04)
+
+(Knock on the door)
+
+PATIENT F934
+Come in.
+
+SECOND DOCTOR F934
+@@@.  Are you PATIENT?
+
+PATIENT F934
+Yeah.
+
+SECOND DOCTOR F934
+I'm DOCTOR.  I'm one of the pharmacists.
+
+PATIENT F934
+I talked to you yesterday.
+
+SECOND DOCTOR F934
+Yeah, we're going to see you in the Diabetes Clinic too so.  Um let me go talk to DOCTOR, she's looking for me.
+
+PATIENT F934
+Okay.
+
+SECOND DOCTOR F934
+Just relax.
+
+PATIENT F934
+Yeah.
+
+(DOCTOR OUT:  46:21  DOCTOR IN:  49:05)
+
+DOCTOR F934
+Alright so, did the uh pharmacist stop in here?  Talk to you?
+
+PATIENT F934
+Pharmacist?
+
+DOCTOR F934
+The pharmacist?
+
+PATIENT F934
+Well DOCTOR just stopped in here.
+
+DOCTOR F934
+Your sugar is 500 this morning.
+
+PATIENT F934
+Huh?
+
+DOCTOR F934
+Your sugar was 500 this morning.
+
+PATIENT F934
+Well @@@.
+
+DOCTOR F934
+So um they'll have to give you some @@@ I'm sorry some insulin so you have.  Did you eat this morning before you got the tests done?
+
+PATIENT F934
+Did I do what?
+
+DOCTOR F934
+Did you eat?
+
+PATIENT F934
+They called me yesterday and told me don't eat or drink nothing after midnight.
+
+DOCTOR F934
+Alright, your cholesterol is all weird um.  Let's see.  Okay so we're gonna change um your cholesterol medicine.  Are you taking the fish oil still?
+
+PATIENT F934
+Uh-huh, every day.
+
+DOCTOR F934
+So we're gonna change you to a different cholesterol medicine and so we'll adjust to a stronger um medicine so instead of having 10 mg, but it’s a lot stronger.
+
+PATIENT F934
+What @@@ med?
+
+DOCTOR F934
+The simvastatin.
+
+PATIENT F934
+Oh that's for the uh.
+
+DOCTOR F934
+Cholesterol.
+
+PATIENT F934
+Cholesterol.
+
+DOCTOR F934
+@@@ okay.
+
+PATIENT F934
+So when do I take that, at night like I did the other one?
+
+DOCTOR F934
+Uh-huh.  And I have to check the cholesterol medicine.  I'll be right back.
+
+PATIENT F934
+Okay.
+
+(DOCTOR OUT:  52:22  DOCTOR IN:  57:48)
+
+SECOND PERSON F934
+You know what, you're not gonna actually see the pharmacist that you thought you were gonna see, you're going to see the diabetic pharmacist and she wants you to sit in the Gold Clinic when you're done over here.
+
+PATIENT F934
+Where is the Gold Clinic.
+
+SECOND PERSON F934
+Right next door.  Just remind me when you come out and I'll let them know when you go sit down.
+
+PATIENT F934
+Okay thank you.
+
+SECOND PERSON F934
+Okay you're welcome
+
+DOCTOR F934
+Alright so um @@@.  I've added two more cholesterol medicines um and I'm gonna add another medicine to your triglycerides.  Your triglycerides today are 1200.
+
+PATIENT F934
+That's not good.
+
+DOCTOR F934
+We want it at 150 or below.
+
+PATIENT F934
+Triglycerides are bad.
+
+DOCTOR F934
+That's very bad.  Um so.  Basically, all your numbers are getting worse.
+
+PATIENT F934
+I wonder why.
+
+DOCTOR F934
+Um, so we have a lot of work to do.  I'm gonna have you come back in six weeks to see me okay.  Uh actually let’s do four to six weeks - then we need to get you in to see the kidney doctor as well.  So why don't we start with niacin first so um this medicine @@@ morning causes flushing @@@ an aspirin to take with it.
+
+PATIENT F934
+I can't take any aspirin. I had a bleed in the stomach.
+
+DOCTOR F934
+When did you bleed in the stomach?
+
+PATIENT F934
+Huh?
+
+DOCTOR F934
+When did you bleed in the stomach?
+
+PATIENT F934
+A couple years ago, they sent me to the hospital for a @@@.
+
+DOCTOR F934
+@@@.
+
+PATIENT F934
+Yeah.
+
+DOCTOR F934
+Was that here or somewhere else?
+
+PATIENT F934
+Was that here?
+
+DOCTOR F934
+Yeah.
+
+PATIENT F934
+No that was at uh another hospital.
+
+DOCTOR F934
+How much aspirin were you taking at the time.
+
+PATIENT F934
+Uh, a baby aspirin.
+
+DOCTOR F934
+@@@.
+
+PATIENT F934
+It happened before.
+
+DOCTOR F934
+Well I mean we can, aspirin helps decrease the flushing, but if you can't tolerate the aspirin, try to do your best with the flushing.
+
+PATIENT F934
+Well I had, a hot flash when I was on that radiation treatment and it was just @@@ more than it.
+
+DOCTOR F934
+Yeah.
+
+PATIENT F934
+You know, I can deal with that.
+
+DOCTOR F934
+But we need to; we'll start at the lowest dose okay.
+
+PATIENT F934
+Uh-huh.
+
+DOCTOR F934
+And we'll kind of go from there.  Um when you come back you'll have to do blood tests @@@ with the kidney doctors.  So um they'll call you with the appointment.
+
+PATIENT F934
+They'll call?
+
+DOCTOR F934
+Uh-huh.  Okay.  So @@@ four to six weeks, go see the pharmacist today and we need to get this sugar under control okay.
+
+PATIENT F934
+Alright.  I have to pick up these meds here.
+
+DOCTOR F934
+You can pick up the meds here; I just sent them all over.  Alright.
+
+PATIENT F934
+Okay.  Alright DOCTOR.  I'll do my part let's hope these meds do their part.
+
+DOCTOR F934
+Yeah we need to get you on better medicines, go up on the medicines so we have a lot of work to do alright.
+
+PATIENT F934
+Alright.  Thank you.
+
+DOCTOR F934
+Alright.
+
+PATIENT F934
+You want the.
+
+DOCTOR F934
+Go to the Gold Team.
+
+PATIENT F934
+Yeah I know.
+
+DOCTOR F934
+They'll see you in the Gold Team.
+
+PATIENT LEAVES:  63:52
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255190
+TRANSACTION # 578-10-2-316-0103

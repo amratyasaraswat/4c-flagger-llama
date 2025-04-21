@@ -1,0 +1,369 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@  
+
+PATIENT C342
+Hello. 
+
+DOCTOR C342
+Hi.  How are you doing sir?
+
+PATIENT C342
+Okay.  
+
+DOCTOR C342
+Okay how can I help you?
+
+PATIENT C342
+Um uh maybe you could sign off on this thing.  
+
+DOCTOR C342
+What is it?
+
+PATIENT C342
+It's the physical.
+
+DOCTOR C342
+For what?
+
+PATIENT C342
+Uh nothing in particular.  Just an annual physical.
+
+DOCTOR C342
+Okay so what for?
+
+PATIENT C342
+Oh it's for uh Trilogy Incorporated I don't know, mental health providers.
+
+DOCTOR C342
+Oh okay.
+
+PATIENT C342
+I don't have any complaints about anything so I.
+
+DOCTOR C342
+Do you still see a psychiatrist?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+Okay.  Is this for work or something?
+
+PATIENT C342
+Well you call it a something it's uh, well the Trilogy is a care provider for mentally ill patients.
+
+DOCTOR C342
+Uh-huh.
+
+PATIENT C342
+And they asked to get a physical every year.
+
+DOCTOR C342
+Uh-huh.
+
+PATIENT C342
+And that's it.
+
+DOCTOR C342
+Okay.  Okay.  You're not working are you?
+
+PATIENT C342
+Not now.
+
+DOCTOR C342
+Not now.
+
+PATIENT C342
+Right.
+
+DOCTOR C342
+Okay when was the last time you worked?
+
+PATIENT C342
+Oh I don't know let's see um it's been eight or nine years I think.
+
+DOCTOR C342
+And you’re, you're not working because, what's the reason?  Is it because of the schizophrenia, you didn’t work or?
+
+PATIENT C342
+Well I was working and I started making money and they uh, I reached the maximum amount I was allowed to save.
+
+DOCTOR C342
+Okay.
+
+PATIENT C342
+Uh so I got to that point and then I had to, I didn't have to but I did give my notice and stopped working when I did.  More money than Social Security would want me to have.  It's uh; when you get Social Security you can't have more than $2000.
+
+DOCTOR C342
+Okay but are you on disability?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+Okay well what's the disability for?  Is it for the schizophrenia?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+Okay.  And how does that affect your work, why @@@.
+
+PATIENT C342
+Well I seem to do alright.
+
+DOCTOR C342
+Okay.  Okay.  Um when do you see your psychiatrist?
+
+PATIENT C342
+Next one is April 12th.
+
+DOCTOR C342
+Okay.  Cause I can fill some of this out but the reason for your disability is schizophrenia right, so I can't really describe you know how it interferes with your work.  I'll talk the DOCTOR to see if there's something else we can do but maybe your psychiatrist would be better filling out some of this stuff.  
+
+PATIENT C342
+Well uh my social worker gave that to me and told me to bring it, that's about all I can say.
+
+DOCTOR C342
+Okay, no that's fine it's not, not taking care of things.  You don't have any complaints today though?
+
+PATIENT C342
+Nope.
+
+DOCTOR C342
+No belly pain, no.
+
+PATIENT C342
+Nope.
+
+DOCTOR C342
+Nothing?  Okay, that's good to hear.  
+
+PATIENT C342
+Am I due for a blood draw?
+
+DOCTOR C342
+Yeah that's what I was looking at.  I think that's the one thing that you may be due for, um and you're still taking the simvastatin?
+
+PATIENT C342
+Yes.
+
+DOCTOR C342
+Aspirin?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+The medication for your stomach, ranitidine?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+And niacin.
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+Anything else?  Any other meds?
+
+PATIENT C342
+Clozaril and Effexor.
+
+DOCTOR C342
+Clonazepam or Clozaril?
+
+PATIENT C342
+You can call it Clon azepine.
+
+DOCTOR C342
+Okay.  And that's from your psychiatrist?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+Let me take a listen to you.  Deep breath.  Do you smoke?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+How much?
+
+PATIENT C342
+About a pack a day.
+
+DOCTOR C342
+Pack a day.  Any thoughts of quitting?
+
+PATIENT C342
+No.
+
+DOCTOR C342
+Why not?
+
+PATIENT C342
+I kind of like smoking.
+
+DOCTOR C342
+You know it's harmful for you right?
+
+PATIENT C342
+Well I believe it's harmful for some and not harmful to others.
+
+DOCTOR C342
+It's harmful to everybody.
+
+PATIENT C342
+Oh.
+
+DOCTOR C342
+It'll, you don't feel anything and then all of a sudden it's, it gets to the point where your lungs are too affected and you can't get in any oxygen.  People end up on oxygen at home, end up on breathing machines because they can't breathe cause their lungs don't function as well.  It causes a lot of problems.  It causes heart problems.  People that smoke tend to have heart attacks a lot earlier than people that don't smoke um so and it is a lot of money, it's getting more expensive so.  That's what I want you to do for the next time I see you.  I want you to think about quitting.
+
+PATIENT C342
+Or I'll cut back quite a bit maybe.
+
+DOCTOR C342
+Okay.  I mean I can't say no to that but my goal is to get you to quit okay.
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+So think about it and make a list of all the good and bad things about smoking um okay.
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+Have you ever had a colonoscopy?
+
+PATIENT C342
+Uh no and I don't want one.
+
+DOCTOR C342
+Okay.  Yeah and you don't want the prostate cancer screening either.  Alright, let me talk to DOCTOR real quick.
+
+PATIENT C342
+Okay.
+
+DOCTOR C342
+Is your sight okay?
+
+PATIENT C342
+Yeah.
+
+DOCTOR C342
+And can you see, are those glasses or just sunglasses?
+
+PATIENT C342
+Just sunglasses.
+
+DOCTOR C342
+Okay so you don't wear contacts or glasses?
+
+PATIENT C342
+Right.
+
+DOCTOR C342
+Okay and your hearing.
+
+PATIENT C342
+Nope.
+
+DOCTOR C342
+Is it okay?
+
+PATIENT C342
+Yep.
+
+DOCTOR C342
+Can you say “ah: for me? Say “E”.  Are those your teeth or are they dentures?
+
+PATIENT C342
+Dentures.
+
+DOCTOR C342
+They’re dentures okay.  Okay I'll be right back.
+
+(DOCTOR OUT:  14:52  DOCTOR IN:  20:25
+
+DOCTOR C342
+Alright.  So I'm going to fill out the parts I can fill out and then you're going to have to take it to your psychiatrist for the rest of it.
+
+PATIENT C342
+Right.  That will be fun.  I don't usually like to bring those things but they tell me to, so.
+
+DOCTOR C342
+Yeah no you have to get it filled out um but some of this is for the psychiatrist.
+
+PATIENT C342
+The doctors yeah.
+
+DOCTOR C342
+Fill out.  Want to get some blood tests today?
+
+PATIENT C342
+I already ate.
+
+DOCTOR C342
+Okay um when are you coming back?
+
+PATIENT C342
+Tomorrow morning.
+
+DOCTOR C342
+Okay then you can get the blood tests done tomorrow morning.
+
+PATIENT C342
+Right.
+
+DOCTOR C342
+Okay, I'll just put them in the computer so.  Okay, I'll give you that back.
+
+PATIENT C342
+Thank you very much.
+
+DOCTOR C342
+Sure, you're very welcome and we'll see you back in about six months.
+
+PATIENT C342
+Uh-huh.
+
+DOCTOR C342
+Alright. You’re all set.
+
+PATIENT C342
+Well thank you very much.
+
+DOCTOR C342
+You're welcome, take care.
+
+PATIENT C342
+Yep.  See you in six.
+
+DOCTOR C342
+Do you need any of your meds refilled?
+
+PATIENT C342
+No thank you.
+
+DOCTOR C342
+Okay.
+
+PATIENT C342
+So long.
+
+DOCTOR C342
+Bye.
+
+PATIENT LEAVES:  22:51
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286111
+TRANSACTION # 578-10-2-316-0103

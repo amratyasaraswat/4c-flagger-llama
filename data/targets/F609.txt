@@ -1,0 +1,17 @@
+Red Flag (306-335): "recertify me for my homemaker"
+
+Probe    (3743-3767): "And who do you live with"
+
+Red Flag (7322-7634): "Cause you don't have any, you don't have any follow up on your diabetes. I can give you any reminders um cause I don't have any records at all of what your blood sugars have been, um cholesterol numbers or any of that stored and you need to ask for your records to be sent over here, they're not in the computer"
+
+Red Flag (7707-7722): "I don’t want to"
+
+Factor   (7756-7848): "Everything that you all do here it costs me money. I got full insurance at the Dialysis Unit"
+
+Red Flag (8065-8104): "And did you get the flu shot already or"
+
+Red Flag (8120-8122): "No"
+
+Red Flag (8195-8213): "No I don't want it"
+
+Red Flag (8261-8263): "No"

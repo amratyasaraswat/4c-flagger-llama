@@ -1,0 +1,55 @@
+Red Flag (697-762): "They gave me a blood pressure machine; I can't make it work right"
+
+Factor   (796-816): "They say @@@ arm @@@"
+
+CarePlan (844-946): "Yeah if you can go to Prosthetics one day and bring you old one and they could give you a new one then"
+
+Factor   (982-1076): "I've had it for maybe a year or so but I never did get it to work so I just got angry you know"
+
+Red Flag (1132-1170): "So you don't check it yourself at home"
+
+Red Flag (1186-1188): "No"
+
+Red Flag (1443-1478): "And uh chest pains I'm still having"
+
+Red Flag (1654-1668): "I just gave up"
+
+Red Flag (3184-3238): "Well are you still taking the gabapentin or not really"
+
+Red Flag (3254-3276): "I ain't taking nothing"
+
+Red Flag (3332-3410): "lady who gives me my medicines list she told me I was all out a lot of refills"
+
+Red Flag (3547-3571): "Uh I know it was a month"
+
+Factor   (3609-3752): "Cause I went out of town and I was gone for a while so when I came back I made an appointment. Probably about a month and a half or two months"
+
+Red Flag (5935-5976): "I had that moisturizer to make more tears"
+
+Red Flag (6024-6065): "I think I ain't got no more and I ran out"
+
+Red Flag (7046-7071): "I don’t take no flu shots"
+
+Red Flag (18573-18642): "oh you know how the cardiologist wanted you to maybe do this one test"
+
+Red Flag (18658-18679): "Yeah I didn't want it"
+
+Probe    (18694-18711): "You don't want it"
+
+Factor   (18760-18812): "She told me that put a lot of radiation in your body"
+
+Factor   (18925-18946): "I was scared at first"
+
+CarePlan (18961-18999): "Do you want to go talk with them maybe"
+
+Factor   (19194-19212): "I scared. Too much"
+
+CarePlan (19231-19360): "Why don't you see them and talk to them because they wanted to make sure that your heart is okay you know. That's the main thing"
+
+Factor   (19858-19958): "But if they did, they done it and they find something wrong then what are they gonna do, cut me open"
+
+Factor   (20006-20056): "Sometimes I just don't want to know all this stuff"
+
+CarePlan (20268-20332): "Do you want to come back in three months and talk to me about it"
+
+Factor   (21536-21546): "@@@ scared"

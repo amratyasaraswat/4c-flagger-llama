@@ -1,0 +1,417 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR D346
+I'm DOCTOR.
+
+PATIENT D346
+How are you?
+
+DOCTOR D346
+I'm good how are you?
+
+PATIENT D346
+Fine thank you.
+
+DOCTOR D346
+A follow-up right?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+How are you doing today?
+
+PATIENT D346
+I'm fine thank you doctor.  But I have the same issues though.
+
+DOCTOR D346
+Oh.
+
+PATIENT D346
+My hands are locking up.
+
+DOCTOR D346
+They are?
+
+PATIENT D346
+My  feet are tingling, my hands are tingling.
+
+DOCTOR D346
+Okay.  But the pain is getting worse?
+
+PATIENT D346
+It's getting worse yes.  In the wintertime it gets worse @@@.
+
+DOCTOR D346
+Cause you are on, neuropathic pain uh neuropathic pain medication @@@.  So you are on, let's see and you're taking this.  So how long have you been on that medication, the @@@?
+
+PATIENT D346
+What is it?
+
+DOCTOR D346
+It's uh it's kind of like uh, anti-depressant.
+
+PATIENT D346
+I've been on that for four months.
+
+DOCTOR D346
+Is it helping?
+
+PATIENT D346
+Yes it is.
+
+DOCTOR D346
+So that's supposed to not only help you with depression but also pain.
+
+PATIENT D346
+Okay well.
+
+DOCTOR D346
+Yeah, so it is helping then?
+
+PATIENT D346
+Yeah it's helping.
+
+DOCTOR D346
+Okay and then um so where exactly is the pain?
+
+PATIENT D346
+It's in the hands.  When my hands, sometimes during the day my hands lock up and I can't open them and so I'll @@@ or something.  But when it gets real cold outside I'm having the same issues or even when it's real hot they'll lock up.  I've had all of the tests done and they don't know what it is.
+
+DOCTOR D346
+Hmm.
+
+PATIENT D346
+And I was supposed to have another test done in three months, and it’s been a little more than three months.
+
+DOCTOR D346
+Hmm.  But what uh.
+
+PATIENT D346
+The E-E.
+
+DOCTOR D346
+The ECG @@@ the EMG.
+
+PATIENT D346
+EMG yes.
+
+DOCTOR D346
+Okay a nerve conduction test.
+
+PATIENT D346
+Yeah.
+
+DOCTOR D346
+Okay.
+
+PATIENT D346
+@@@ my surgery, I don't know what that @@@ more medicine or whatever but at night my @@@.
+
+DOCTOR D346
+Uh-huh.  So we can do the test okay.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+So um @@@ your glycosylated hemoglobin A1c it shows you know your blood sugar for the last three months and this was done in September, it was six, which is really good okay.  So we can um @@@ for the next one, we can you know we can do it now and see what it is and if you think it is going up @@@.
+
+PATIENT D346
+My monitor.
+
+DOCTOR D346
+Yeah.
+
+PATIENT D346
+At night it's higher than usual, it's actually a little higher.  Higher than it usually is.
+
+DOCTOR D346
+Okay.
+
+PATIENT D346
+It usually runs about 125 and now it's in the 150s sometimes 180.  I'm not sure but the whole day that I’m doing @@@.
+
+DOCTOR D346
+Nothing else has changed, you’re still your eating is the same?
+
+PATIENT D346
+Yes, yes.  I’m gaining weight and I don’t know why @@@ not eating more.
+
+DOCTOR D346
+Uh-huh.  
+
+PATIENT D346
+I’m maybe gaining weight because I’m not walking as much as I used to.
+
+DOCTOR D346
+@@@.  So @@@ so that's probably something we'll be doing.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+So you won't be @@@ okay and um so um I want to talk to you about @@@  I will talk to DOCTOR @@@ adding medication. Have you heard of something called gabapentin.
+
+PATIENT D346
+No I haven't.
+
+DOCTOR D346
+It’s something that’s really good for neuropathic type of condition @@@ okay.  So it happens, what time does it happen.  Is it @@@ something or?
+
+PATIENT D346
+Sometimes it just happens.  But when it gets real cold outside it happens a lot.  And I wear gloves and I wear you know.
+
+DOCTOR D346
+@@@.  And is this like every day or?
+
+PATIENT D346
+No it's not happening every day.
+
+DOCTOR D346
+It doesn't happen every day okay so I will talk to DOCTOR okay.  If you don't mind to hop up here and I'll take a listen okay.  Take a deep breath.  Your lungs and heart sound okay.  It's only in the one hand that happens or does that happen.
+
+PATIENT D346
+There’s tingling in the feet sometimes.
+
+DOCTOR D346
+Okay @@@.  And um open your mouth and say ah.
+
+PATIENT D346
+Ah.  Ah.
+
+DOCTOR D346
+You got your flu vaccine right?
+
+PATIENT D346
+Yes oh yes.
+
+DOCTOR D346
+@@@ take off your trousers, look straight ahead.  So what's wrong with this eye?
+
+PATIENT D346
+I got a cataract and I'm having surgery.  I had a cornea transplant.
+
+DOCTOR D346
+Oh you've had the cornea transplant?
+
+PATIENT D346
+I've had it.
+
+DOCTOR D346
+You have had it.
+
+PATIENT D346
+Yeah.
+
+DOCTOR D346
+What was the reason?
+
+PATIENT D346
+It had an ulcer on the cornea about five years ago.
+
+DOCTOR D346
+What was, why?
+
+PATIENT D346
+I don't know why.
+
+DOCTOR D346
+Did you get it because of infection?
+
+PATIENT D346
+Yeah it was a bacterial infection.
+
+DOCTOR D346
+Okay, okay, okay.  So um just close your eyes.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+And tell me if you feel my hand.  Can you feel that?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Now?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+Okay.  That's fine.  I think that it's @@@.  Uh so I'll go talk to DOCTOR and see.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+See you know if you can have the gabapentin.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+It might help you.
+
+PATIENT D346
+Okay.
+(DOCTOR OUT:  27:27  DOCTOR IN:  36:18)
+
+DOCTOR D346
+Okay.  So we'll start you on a small dose of gabapentin.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+As I told you and we'll get an MRI of your neck okay.
+
+PATIENT D346
+Alright.
+
+DOCTOR D346
+@@@ problems and then we'll do the um, we'll do some labs, how about that @@@.
+
+PATIENT D346
+Yeah.
+
+DOCTOR D346
+Okay.  You can do it today right?
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+So any recent fevers, chills, shortness of breath, chest pain, palpitations?
+
+PATIENT D346
+Uh just chills but I think it's because of the temperature of the house.
+
+DOCTOR D346
+Oh really.
+
+PATIENT D346
+Yeah.
+
+DOCTOR D346
+Well why, you don't have enough temperature?
+
+PATIENT D346
+No well the heat goes down at night and I just have to put on extra blankets.
+
+DOCTOR D346
+Oh.
+
+PATIENT D346
+So I got the sniffles now, so.
+
+DOCTOR D346
+Oh okay yeah.  When can you go for the MRI?
+
+PATIENT D346
+Whenever.
+
+DOCTOR D346
+Can you go like tomorrow or something?
+
+PATIENT D346
+Yeah, what’s tomorrow? Yes, I can go tomorrow.
+
+DOCTOR D346
+Okay, I can put it like 10 o'clock in the morning okay.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+@@@ today.
+
+PATIENT D346
+Yes.
+
+DOCTOR D346
+100 mg um three times a day.
+
+PATIENT D346
+Okay.
+
+DOCTOR D346
+Okay.  Done okay.
+
+PATIENT D346
+Alright.
+
+DOCTOR D346
+So here we are, you come back in four months okay.
+
+PATIENT D346
+Four months?
+
+DOCTOR D346
+Yeah.
+
+PATIENT D346
+@@@
+
+DOCTOR D346
+@@@.  You want to @@@ here?
+
+PATIENT D346
+No that's fine, thank you.
+
+DOCTOR D346
+Okay.
+
+PATIENT LEAVES:  44:30.
+
+2:50.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255151
+TRANSACTION # 578-10-2-316-0103

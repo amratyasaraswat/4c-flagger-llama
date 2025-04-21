@@ -1,0 +1,868 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR O173
+PATIENT? 
+
+PATIENT O173
+Yes.
+
+DOCTOR O173
+How are you?
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+Good to see you again.  It's been a while.
+
+PATIENT O173
+A year.
+
+DOCTOR O173
+So it's been a long time.  Come on in here.
+
+PATIENT O173
+Do you have some gear for me?
+
+DOCTOR O173
+You gotta bear with us here.  I'm having a @@@.
+
+PATIENT O173
+@@@.
+
+DOCTOR O173
+Yeah, well how's things been going?
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+And you've been through quite a bit since I saw you last.
+
+PATIENT O173
+Oh, last July I had surgery on my chin here to cut out a big chunk, cancer yeah.
+
+DOCTOR O173
+I heard all about that.
+
+PATIENT O173
+I spent three or four days here. 
+
+DOCTOR O173
+Yeah.  And who were you bringing that problem up to?
+
+PATIENT O173
+Twice I had surgery, December 1st.
+
+DOCTOR O173
+Did they have to go back and do margins?
+
+PATIENT O173
+I had the original and then in July was the big one.
+
+DOCTOR O173
+Yeah.  So uh how old are you now?
+
+PATIENT O173
+73.
+
+DOCTOR O173
+Hmm.  Alright and if I remember right I know about the floor of mouth cancer, you have coronary disease, like coronary artery disease if I remember right.
+
+PATIENT O173
+Uh.  @@@ something huh.
+
+DOCTOR O173
+Okay.  Alright.  Did they give you the list of your pills?
+
+PATIENT O173
+Uh, you diagnosed me with uh.
+
+DOCTOR O173
+When you came in though, did they give a list?
+
+PATIENT O173
+My blood sugar.
+
+DOCTOR O173
+When you came in were they able to give you uh the list of your medicines?
+
+PATIENT O173
+No.
+
+DOCTOR O173
+Like they do normally when you check in?
+
+PATIENT O173
+No, no, not this time.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+Just this thing here, new directives or something.
+
+DOCTOR O173
+Advanced directives.
+
+PATIENT O173
+Yeah.
+
+DOCTOR O173
+Okay.
+
+PATIENT O173
+Yeah usually they give you a sheet with your medications.
+
+DOCTOR O173
+Yeah do you know your medicines.
+
+PATIENT O173
+Yeah I take 81 mg aspirin.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+Uh metoprolol, metoprolol.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+Simvastatin.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+And uh glipizide.  That I think was prescribed for the high blood sugar, diabetes.
+
+DOCTOR O173
+Exactly.  So you're gonna be due for some labs.
+
+PATIENT O173
+Well uh I went to that class, when was that, sometime last May, the Diabetes Class.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+It was like three or four hours here.  
+
+DOCTOR O173
+Yes.
+
+PATIENT O173
+And uh they give me one of those glucose meters and.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+Well I get.
+
+DOCTOR O173
+Have you been checking your sugars?
+
+PATIENT O173
+This past week I ran out of the strips and before that.
+
+DOCTOR O173
+You need more?
+
+PATIENT O173
+Uh yeah.  Yeah I called to refill the script and they said it was beyond expiration.  That was just a sampling on there from the past week the dates.
+
+DOCTOR O173
+Okay.
+
+PATIENT O173
+Sunday I've run out but all the other things are on there I guess in the memory.  It goes back for the last May or whatever.  We got a time and a date on there.
+
+DOCTOR O173
+Yeah.  So they're probably a little higher than we would like.  You know there are quite a few that are in the 200s.
+
+PATIENT O173
+Well from what I remember they said if it's over 500 to call the doctor right away or if it's below 100.
+
+DOCTOR O173
+Yeah.  Well.
+
+PATIENT O173
+If it's somewhere in between 200 and right.
+
+DOCTOR O173
+Yeah right.  Um okay, this says you're on @@@.  And when was the last time you saw an eye doctor?
+
+PATIENT O173
+About probably a year ago.
+
+DOCTOR O173
+So we'll get you back in to get a look at that.  We'll recheck your cholesterol.  Uh we'll check, we'll recall your hemoglobin A1c which gives us an idea of more uh, an average of what your blood sugar has been.
+
+PATIENT O173
+Uh-huh.
+
+DOCTOR O173
+Rather than just what it is at that moment.
+
+PATIENT O173
+Oh okay yeah.
+
+DOCTOR O173
+Okay.  Um.
+
+PATIENT O173
+Cause it changes constantly, if you have something to eat it's probably different in ten minutes.
+
+DOCTOR O173
+Yeah, this gives us an average.
+
+PATIENT O173
+Oh okay.
+
+DOCTOR O173
+Over the past about 90 days.
+
+PATIENT O173
+Huh okay.
+
+DOCTOR O173
+Um okay.  And then your blood pressure was up today huh?  Has it been up?
+
+PATIENT O173
+The what?
+
+DOCTOR O173
+Your blood pressure.
+
+PATIENT O173
+Oh it was just 158 over 80.
+
+DOCTOR O173
+Do you check it at home and outside the hospital?
+
+PATIENT O173
+When I check it at home, maybe three, four days ago, it was 136/80.
+
+DOCTOR O173
+Do you take any water pills, anything besides the metoprolol?
+
+PATIENT O173
+Uh.
+
+DOCTOR O173
+Hydrochlorothiazide.
+
+PATIENT O173
+That one I got a rash from.
+
+DOCTOR O173
+Oh that's right.
+
+PATIENT O173
+Uh I'm taking something else, what is it?
+
+DOCTOR O173
+Furosemide, Lasix, lisinopril?
+
+PATIENT O173
+No simvastatin what is that for?
+
+DOCTOR O173
+That's cholesterol.
+
+PATIENT O173
+Cholesterol.
+
+DOCTOR O173
+So you just take four pills a day?
+
+PATIENT O173
+Four yeah.
+
+DOCTOR O173
+Okay.  Alright, okay.  
+
+PATIENT O173
+Oh furosemide, that's a water pill.
+
+DOCTOR O173
+You take furosemide?
+
+PATIENT O173
+Yeah in the morning.
+
+DOCTOR O173
+@@@.
+
+PATIENT O173
+Yeah that's right.  I had them separated.  I'm picturing in my mind what I had on the shelf.
+
+DOCTOR O173
+That's alright, thanks for bearing with us here.  It's difficult.  Can you sit up here?
+
+PATIENT O173
+Sure.
+
+DOCTOR O173
+I read all your chart on Friday and that was one thing I'm trying to think back and remember everything.  I can't refresh my memory.  I'm kind of helpless without the computer now until It’s really kind of sad, but that's the way it is.
+
+PATIENT O173
+Huh.
+
+DOCTOR O173
+I would like to check that blood pressure again.
+
+PATIENT O173
+You want me to take the shirt off?
+
+DOCTOR O173
+Uh yeah that's not a bad idea, probably be a little easier.  So how's your life?
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+Any major problems or concerns?
+
+PATIENT O173
+Uh none, no.
+
+DOCTOR O173
+Oh yeah okay.  Are you a drinker or a smoker?
+
+PATIENT O173
+I almost quit drinking.  You know I'll go see a friend of mine once in a while at the bar when they needed to make wooden signs – I make wooden signs.
+
+DOCTOR O173
+No that's alright.
+
+PATIENT O173
+Or sports figurines.
+
+DOCTOR O173
+Right.
+
+PATIENT O173
+I'll have a couple beers but other than that no.  But smoking I quit last April, April 10th a year ago.
+
+DOCTOR O173
+Okay.  Excellent.  
+
+PATIENT O173
+And I'll get a classes here - April.
+
+DOCTOR O173
+And you managed to stay quit.
+
+PATIENT O173
+Yeah, no.
+
+DOCTOR O173
+Good, very good.
+
+PATIENT O173
+I just threw a pack of cigarettes I had sitting there by the television, they were just sitting there I never touched them.
+
+DOCTOR O173
+That's great.  That's great.  Feeling okay, energy's okay?
+
+PATIENT O173
+Yeah.  I'm tired all the time since that surgery, sleepy tired you know.  
+
+DOCTOR O173
+Yeah it's definitely up a little bit, the 150s uh over 90 uh.
+
+PATIENT O173
+It was just 158/80.
+
+DOCTOR O173
+Did you take your medicine today?
+
+PATIENT O173
+Uh, no I take them at nighttime.
+
+DOCTOR O173
+Okay they’re all just once a day?
+
+PATIENT O173
+The only thing I take in the morning is the furosemide.
+
+DOCTOR O173
+Did you take that today?
+
+PATIENT O173
+Yeah in the morning.
+
+DOCTOR O173
+Okay just relax.  Big breath.  Any chest pain?
+
+PATIENT O173
+None.
+
+DOCTOR O173
+Are you staying active?
+
+PATIENT O173
+Yeah.
+
+DOCTOR O173
+Any blood in the stool?
+
+PATIENT O173
+No.
+
+DOCTOR O173
+Have you ever had a colonoscopy?
+
+PATIENT O173
+No.
+
+DOCTOR O173
+Just look right here.
+
+PATIENT O173
+Uh just fatty cysts they call them.
+
+DOCTOR O173
+(A person came to the door).
+
+PATIENT O173
+Emergency generator.  Power.
+
+DOCTOR O173
+Okay, any swelling down here?
+
+PATIENT O173
+A little bit at the top of the sock line, usually gets a little swell.  But these are new socks.  Usually with the older socks I wear I don't get nothing.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+It's from the elastic.
+
+DOCTOR O173
+Okay can you @@@.  Alright.  How's your breathing?
+
+PATIENT O173
+Fine.
+
+DOCTOR O173
+Okay.  How much uh you know activity, I mean could you walk like a mile or something?
+
+PATIENT O173
+Yeah.
+
+DOCTOR O173
+You could?
+
+PATIENT O173
+Yeah 10-12 years that I could walk from here 25 feet and I'd have pains.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+My jaw would ache, my arms would ache.  You know that's from the veins or something tightening up right.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+But that was 10-12 years ago and they tried everything.
+
+DOCTOR O173
+And they wanted to do the bypass on you.
+
+PATIENT O173
+Yeah.
+
+DOCTOR O173
+But you didn't want it.
+
+PATIENT O173
+No.
+
+DOCTOR O173
+And what happened.
+
+PATIENT O173
+But they kept giving me medications and I got rid of the nitrates and I didn't need that and then it just went away.
+
+DOCTOR O173
+Okay.
+
+PATIENT O173
+You know.  It couldn't have been from quitting smoking cause that's just the past year.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+Ten years ago I was smoking a pack and a half to two packs a day.
+
+DOCTOR O173
+Yeah.  Hmm.
+
+PATIENT O173
+But now a year has passed.  I don't know what it was that I was taking or what I'm taking now.  I could walk and walk and walk and not have any you know pains like I had.
+
+DOCTOR O173
+Alright, let's see if I can find you here.  So we've got you on Toprol XL, baby aspirin, simvastatin.  Have you ever been on a medicine called lisinopril?
+
+PATIENT O173
+Not that I remember.
+
+DOCTOR O173
+When did you quit smoking exactly?
+
+PATIENT O173
+A year ago, April 10th.
+
+DOCTOR O173
+April 10th.  Alright.  Now let's take a look at your pills here.
+
+PATIENT O173
+I don't know if it's a side effect.  I'm getting like little sores on the back of my head that seem to itch.  If I scratch them they'll start bleeding like crazy yeah.
+
+DOCTOR O173
+I'll take a look.
+
+PATIENT O173
+That I think started when I started glipizide.  I'm not sure but.
+
+DOCTOR O173
+Hmm I don't know.  I've never heard of anything like that happening.
+
+PATIENT O173
+You know little sores.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+And if I scratch on them they'll just start bleeding.
+
+DOCTOR O173
+Hmm.  Simvastatin.
+
+PATIENT O173
+This I didn't have 15 years ago.
+
+DOCTOR O173
+Hmm.
+
+PATIENT O173
+I looked at the sheet you get, you know with the medication.  Glipizide promotes weight gain.
+
+DOCTOR O173
+Yeah it can do that.
+
+PATIENT O173
+Yeah, right there 13 months.
+
+DOCTOR O173
+How much weight have you gained?
+
+PATIENT O173
+I usually weighed 165-70, now I'm at 181, well with clothes and everything it's 186 just now they weighed me.  But last week I was 180-181.
+
+DOCTOR O173
+We'll get you some more test strips.  Do you think you could get your blood drawn any time soon?
+
+PATIENT O173
+I could stop after here.
+
+DOCTOR O173
+Okay.
+
+PATIENT O173
+If the Lab is still open.
+
+DOCTOR O173
+Yeah they should be open.  How much have you had to eat today?
+
+PATIENT O173
+Oh, when I was here I had a large coffee and a bag of cookies for lunch you know.
+
+DOCTOR O173
+You know we may have you.
+
+PATIENT O173
+This morning I had cereal.
+
+DOCTOR O173
+We may have you come back when you haven't had so much to eat.
+
+PATIENT O173
+Okay fast.
+
+DOCTOR O173
+Yeah and then I'm going to talk with my boss back there but.
+
+PATIENT O173
+Uh-huh.
+
+DOCTOR O173
+We may want to uh try you on a pill called lisinopril uh and it can help with the blood pressure and the kidneys.  Probably a good pill for you to be taking uh, you know you've had some kind of, some kidney disease that you've had for a long time.
+
+PATIENT O173
+Uh the last appointment I had, what was it, oh Urology.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+The 25th or something like that, it was a couple weeks ago.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+And before that I had an ultrasound.
+
+DOCTOR O173
+Uh-huh.
+
+PATIENT O173
+And they checked you know how much urine, they had to check how much urine I had in the morning, at night and you know @@@ and they checked the kidneys, there's nothing wrong with the kidneys.
+
+DOCTOR O173
+Yeah I just mean like your kidney function and like we call or we measure with this thing called creatinine which normal is 1 and you're more like around 2.
+
+PATIENT O173
+Uh-huh.
+
+DOCTOR O173
+Uh and it's been that way for quite a while and even back uh three years ago, even back in 2002 it was 1.8 which is about what it is now.
+
+PATIENT O173
+Yeah.
+
+DOCTOR O173
+Um it still is, for people that have kidney disease and high blood pressure, heart disease, it kind of helps with all of that stuff.
+
+PATIENT O173
+Oh uh-huh.
+
+DOCTOR O173
+Um so it's something that I'm probably going to talk with my boss back there.
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+But it's probably something that you should be taking okay.
+
+PATIENT O173
+Okay, I'll try it.
+
+DOCTOR O173
+Um let me go talk to one of my bosses back there.
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+And I will be right back in.
+
+PATIENT O173
+You don't need this anyway.
+
+DOCTOR O173
+No I don't need that anymore.
+
+PATIENT O173
+Okay.
+
+(DOCTOR OUT 35:34  DOCTOR IN:  43:31)
+
+DOCTOR O173
+Alright.  So I was going through things with one of my supervisors back there and she definitely agrees that this medicine lisinopril is something that you should be on.
+
+PATIENT O173
+Uh-huh.
+
+DOCTOR O173
+Uh it's for blood pressure but it also is to help the kidneys and things like that.  Okay.  Just take it once a day.  You should take it whenever you take your metoprolol and whatever else.
+
+PATIENT O173
+Yeah I take them in the evening when I go to bed.
+
+DOCTOR O173
+Yeah that's fine, you can keep doing that.
+
+PATIENT O173
+Just the water pill I take in the morning.
+
+DOCTOR O173
+Okay.  And it's been a while since we checked cholesterol and all that good stuff so we'll just have you come back um.  What we would like to do is, I don't know if you're going to get your new medicine today or if you'll wait and have it mailed to you.
+
+PATIENT O173
+Uh-huh.
+
+DOCTOR O173
+But about five days or so after you've been taking that pill then come in and have all this blood work done.  That way we can make sure it's agreeing with your kidneys.
+
+PATIENT O173
+Uh-huh.
+
+DOCTOR O173
+Okay.
+
+PATIENT O173
+Sure.
+
+DOCTOR O173
+Alright.  
+
+PATIENT O173
+Do I still take the glucose readings?
+
+DOCTOR O173
+Yeah.  I ordered the strips.  Yeah I reordered the strips.
+
+PATIENT O173
+That expired.
+
+DOCTOR O173
+Right, right, I renewed those.
+
+PATIENT O173
+Okay.  Those I'll get in the mail?
+
+DOCTOR O173
+Yep.
+
+PATIENT O173
+Okay, good enough.
+
+DOCTOR O173
+Alright.  I would like to see you back in about three months.  I don't want to wait a year this time if that's okay.  That's a little too long.  I'm guessing you may have had a cancelled appointment, I had to cancel or something in there cause usually uh we don't want to wait quite that long.  Maybe it was like all the surgery and something uh I had to do is why you cancelled.  Alright.  
+
+PATIENT O173
+Yeah now when I had surgery last July for the cancer I remember the nurses telling me that they gave me insulin for high blood sugar.
+
+DOCTOR O173
+Yeah.  We do that in the hospital.
+
+PATIENT O173
+Yeah I remember her saying that you know.  I spent like three days or maybe four days here and there was no follow up after that.
+
+DOCTOR O173
+Yeah it would've been nice if they would've sent you back to see me.
+
+PATIENT O173
+From July so that's 7, 9 months ago.
+
+DOCTOR O173
+Okay well you've been hanging in there pretty good so.  Uh this is for you to take to check out.
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+I ordered that new pill; you can either go down to the Pharmacy and wait.  I don't know if you've been down there.
+
+PATIENT O173
+Yes, yeah I've been there.
+
+DOCTOR O173
+Sometimes it takes a while.
+
+PATIENT O173
+Half hour.
+
+DOCTOR O173
+Yeah.
+
+PATIENT O173
+Usually a half hour.
+
+DOCTOR O173
+You can get it now um.  If you get it now then you can start taking it even tonight and just when you get your blood drawn be sure you've taken that pill for about 3-5 days.
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+And then come in and we'll check the diabetes and the kidneys and just check everything.
+
+PATIENT O173
+Will I get a letter now to come in for the lab?
+
+DOCTOR O173
+No.
+
+PATIENT O173
+Or.
+
+DOCTOR O173
+I've already ordered everything.
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+You just have to show up.
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+On the first floor.
+
+PATIENT O173
+Yeah, yeah I know where it is.
+
+DOCTOR O173
+You know tell them who you are and then they'll know what all to do.
+
+PATIENT O173
+After taking that medication for about a week?
+
+DOCTOR O173
+Yes.
+
+PATIENT O173
+Okay, sure.
+
+DOCTOR O173
+Because normally when we start that we have to check the kidneys and this way we'll just do it all at once.
+
+PATIENT O173
+Okay.
+
+DOCTOR O173
+Sound like a plan?
+
+PATIENT O173
+Sure.
+
+DOCTOR O173
+Alright sir.  I'll let you be on your way.  @@@ with the computer problem here.
+
+PATIENT O173
+No problem thank you.
+
+DOCTOR O173
+Alright.
+
+PATIENT O173
+Thank you again.
+
+DOCTOR O173
+I'll see you in a few months.
+
+PATIENT LEAVES 49:22
+
+Time is @@@.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238109
+TRANSACTION # 578-10-2-316-0103

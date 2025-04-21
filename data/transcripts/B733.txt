@@ -1,0 +1,889 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR B733
+PATIENT?
+
+PATIENT B733
+@@@.
+
+DOCTOR B733 
+@@@.  
+
+PATIENT B733
+@@@.  (Patient's cell phone rings, he answers it)
+
+DOCTOR B733
+I'm just pulling you up here in the computer and I can't see when the last time we saw you here in the Unit.
+
+PATIENT B733
+Last week.
+
+DOCTOR B733
+Oh you were talking to the pharmacist.
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+So I see you were in the hospital recently.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Is that correct?
+
+PATIENT B733
+Uh-huh.
+
+DOCTOR B733
+Let me sort through this to make sure to see what's here.  You were in because of abdominal pain, nausea and vomiting okay.
+
+PATIENT B733
+They said gastro something; anyway it was stomach messed up.  Right.
+
+DOCTOR B733
+You know I'm reading through what they wrote here and let's see, looks like they gave you some.  Well essentially things just kind of got better.
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+Without doing anything.  That's kind of the gist of it.
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+I mean just a little bit of tincture of time.
+
+PATIENT B733
+Right.
+
+DOCTOR B733
+They said that got.
+
+PATIENT B733
+Once I started eating solid cause I couldn't hold nothing down for a minute and they were giving me a stomach pills and all kind of stuff but like you said eventually it came around.
+
+DOCTOR B733
+@@@ labs @@@ got better.  
+
+PATIENT B733
+But you know doc I'm still concerned about this blood clot in this right leg lower calf.  That's why I'm on the blood thinner.
+
+DOCTOR B733
+That's a fact, we’ll talk about that.  You have that.  When did that show up?
+
+PATIENT B733
+Um about let's see uh January, February, March, January? Yeah.
+
+DOCTOR B733
+In both legs?
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+Alright okay.  That can happen, why did you get them?
+
+PATIENT B733
+They just popped up.  You know I had fell, you know initially I fell on my elbow and my knee.
+
+DOCTOR B733
+Yeah.
+
+PATIENT B733
+And I guess that caused it for some reason you know.
+
+DOCTOR B733
+Were you not walking around or?
+
+PATIENT B733
+No I mean I could step up on the curb and my foot slipped back down and I lost my balance and I fell and the next thing I know two days later my leg swell up you know.
+
+DOCTOR B733
+Okay.  Trauma can sometimes cause these actually.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Yeah.  Did they ever say you had clots in your lungs or just the legs?
+
+PATIENT B733
+No just in the leg.  Ooh if it get up that far I might be a nobody.
+
+DOCTOR B733
+That's actually true.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+So you have been on Coumadin since.
+
+PATIENT B733
+For a minute.
+
+DOCTOR B733
+October of 2010 does that sound about right?
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+Now.
+
+PATIENT B733
+I was on Warfarin too; I mean they had me on.
+
+DOCTOR B733
+You're still on that right though.
+
+PATIENT B733
+Yeah well no they took me off the Warfarin, I'm just on the uh injections; the, I can't even pronounce it.  The what…
+
+DOCTOR B733
+Um the dalteparin or?
+
+PATIENT B733
+Right, the dalteparin that's what I'm on now.
+
+DOCTOR B733
+You're not taking, discharged on, okay.  Is that where you were just going to be continued to take?
+
+PATIENT B733
+Yes.  
+
+DOCTOR B733
+See I'm just kind of reading through, it looks like there were some problems with getting you to therapeutic levels with the Coumadin.
+
+PATIENT B733
+Exactly.
+
+DOCTOR B733
+Okay so.
+
+PATIENT B733
+Fluctuating up and down, up and down.
+
+DOCTOR B733
+Yeah.
+
+PATIENT B733
+Changing my diet and all that.  And then somehow they say I'm borderline diabetic.  Now all this is starting to occur after the fact of these blood clots.
+
+DOCTOR B733
+I don't think I would attribute that to blood clots.
+
+PATIENT B733
+Well I was just saying generally you know.
+
+DOCTOR B733
+I'd just; people started looking for you know your general medical well-being.
+
+PATIENT B733
+Right.
+
+DOCTOR B733
+And finding other things.
+
+PATIENT B733
+Right.
+
+DOCTOR B733
+Alright so, give me one second.  I want to look at why you're supposed to be on this, the anti-coagulation stuff.
+
+PATIENT B733
+Coagulation right.
+
+DOCTOR B733
+For a long time.  Apparently you saw the Hem/Onc doctors.  You had a fall, okay let's read through their notes. @@@
+
+PATIENT B733
+Uh-huh.
+
+DOCTOR B733
+Um pardon me; I need to look through all of this. @@@  You ended up having a second one later while you were on the shots.
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+What was your understanding of how long you’re supposed to be on?
+
+PATIENT B733
+Six months.
+
+DOCTOR B733
+Said who?
+
+PATIENT B733
+Um DOCTOR.
+
+DOCTOR B733
+When did she last say that?  DOCTOR.
+
+PATIENT B733
+Um last time I seen DOCTOR and it's been I think almost three months and I been seeing DOCTOR.  She's been really monitoring you know my blood and what have you.
+
+DOCTOR B733
+Yeah.  So now you're on dalteparin, right?
+
+PATIENT B733
+Yes.  
+
+DOCTOR B733
+We’ll talk about that, one more thing uh, someone thinks you have diabetes is that right?
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Okay what do you think?  @@@.
+
+PATIENT B733
+Um.  @@@.  Uh I keep a chart also.  Let me get my chart right here.  Looks like my wife has it.
+
+DOCTOR B733
+Also what do your morning blood sugars look like?
+
+PATIENT B733
+Uh in the morning it be like around 111 and then before lunch they go up to about 117.Yeah. But I'm taking the pill twice a day.
+
+DOCTOR B733
+Good okay, that works.  That is actually good.  You've been trying to exercise, diet, lose weight.
+
+PATIENT B733
+Yes, yes.
+
+DOCTOR B733
+What do you have there?
+
+PATIENT B733
+Potato chips, that was just, yeah cause I have.
+
+DOCTOR B733
+I don't want to say anything @@@.
+
+PATIENT B733
+Yeah my food been bland for almost oh almost two months now, no chips, that's boring.
+
+DOCTOR B733
+Did anybody ever talk to you about the MOVE Clinic?
+
+PATIENT B733
+No.
+
+DOCTOR B733
+It's where they can help you with uh not only dietary education.
+
+PATIENT B733
+Uh-huh.
+
+DOCTOR B733
+To make your meals a little bit more healthy from a diabetes standpoint.
+
+PATIENT B733
+Uh-huh.
+
+DOCTOR B733
+@@@ too much sugar.
+
+PATIENT B733
+Right.
+
+DOCTOR B733
+@@@ sweets, cookies.
+
+PATIENT B733
+Well I dilute my uh juices with you know seltzer water.
+
+DOCTOR B733
+Just drink water.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+You’d be surprised how much sugar.
+
+PATIENT B733
+That's right, right, right.
+
+DOCTOR B733
+Uh juice has.
+
+PATIENT B733
+Yeah I know.  Well I found that out through my mom.
+
+DOCTOR B733
+Yeah okay.
+
+PATIENT B733
+Yeah it does have a lot of sugar, a lot of sugar.
+
+DOCTOR B733
+Yeah.
+
+PATIENT B733
+Almost putting on like up to 12 pounds a year you know just taking the cranberry juice is fine and I'm putting on pounds I drink it.
+
+DOCTOR B733
+Cranberry juice is @@@.
+
+PATIENT B733
+Extremely, yeah right.
+
+DOCTOR B733
+And you take also some blood pressure medicines.
+
+PATIENT B733
+Uh-huh.
+
+DOCTOR B733
+And you take some mood medicines.  Do you check your blood pressures ever?
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+Okay.  Okay.  Right I'm just going through all these.  What do they look like at home?
+
+PATIENT B733
+Uh today it was 141/75 yeah.
+
+DOCTOR B733
+What do they usually run like?
+
+PATIENT B733
+They're basically around there you know.  That's why I got to sort of cut back on my smoking.  I still sneaking smoking.
+
+DOCTOR B733
+Oh boy.
+
+PATIENT B733
+You know.  You know I shoot billiards, it's just kind of hard and then.
+
+DOCTOR B733
+I know that.
+
+PATIENT B733
+I know and then the patch you know, I think it's more psychological you know.
+
+DOCTOR B733
+You've tried patches?
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Okay.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Have you been to the Smoking Cessation Clinic here.
+
+PATIENT B733
+Yeah, yeah.
+
+DOCTOR B733
+Okay.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Alright, I can get you patches through the VA too.
+
+PATIENT B733
+Yeah uh I'm aware of that yeah.  But see I, you know I began you know trying to wean myself off.  I have cut back considerably you know.
+
+DOCTOR B733
+How much do you smoke now?
+
+PATIENT B733
+About uh four cigarettes a day.
+
+DOCTOR B733
+Okay.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Alright well I mean there's only one way to go about it is to quit.
+
+PATIENT B733
+Right, that's true, that's true.
+
+DOCTOR B733
+Uh I mean I got to say yeah.
+
+PATIENT B733
+Considering a half a pack you know.
+
+DOCTOR B733
+Sure.
+
+PATIENT B733
+Yeah see my wife you know she made it a non-smoking house you know because she kicked cold turkey though.  I can't do that.  But she put on like almost like six, seven pounds though since she has stopped and I'm like I don't want no fat body.  @@@.  Cause she used to be petite you know.  She used to weigh like, like 128, now she's up to like 133 you know and man.  
+
+DOCTOR B733
+And @@@ diabetic control @@@.  When did you get out of the hospital?
+
+PATIENT B733
+Uh two weeks ago, two and a half weeks ago yeah.
+
+DOCTOR B733
+But they checked your hemoglobin A1c right when you were walking out the door.  If anything over the past year your diabetic control has gotten worse.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Uh.  
+
+PATIENT B733
+You're sure?
+
+DOCTOR B733
+But then again were you taking metformin when you left the hospital?
+
+PATIENT B733
+Yes.  No, no, no I wasn't.  They just put me on uh metformin.  I been taking it almost like 13 days like.
+
+DOCTOR B733
+Okay.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Okay.  So you weren't taking it before.
+
+PATIENT B733
+Right.
+
+DOCTOR B733
+Alright so maybe it'll be a little bit better yeah.  Um let's see here.  I mean, one of the biggest things, over a long time, you've got to make sure you're watching the diabetes because if you're not watching it you're gonna end up with eye problems, heart problems, kidney problems, you lose your legs, you be on dialysis.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Uh and have heart attacks.
+
+PATIENT B733
+Right.  
+
+DOCTOR B733
+But I can't put it any more bluntly with you.
+
+PATIENT B733
+That’s true though @@@ consistent, you know I been pricking myself.
+
+DOCTOR B733
+Yeah.
+
+PATIENT B733
+You know I keep it charted down.  Like I say I got my chart out there in her purse but.
+
+DOCTOR B733
+The proper diet can do it for you.
+
+PATIENT B733
+Alright, you know.  I think the highest that it's been is like a 163.
+
+DOCTOR B733
+Okay.
+
+PATIENT B733
+And that's because I had, I ate uh, no I was drinking that Brisk Tea, that's what did it yeah.
+
+DOCTOR B733
+Full of bad stuff.
+
+PATIENT B733
+I know, I know.
+
+DOCTOR B733
+@@@ so we'll start right there.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Cause you know.
+
+PATIENT B733
+Right, you're right.
+
+DOCTOR B733
+Yeah when you stop by the store I don't want you picking up juices.
+
+PATIENT B733
+Exactly.
+
+DOCTOR B733
+And if you've got to do something like a diet pop okay.
+
+PATIENT B733
+Okay.
+
+DOCTOR B733
+@@@ okay.
+
+PATIENT B733
+Alright.
+
+DOCTOR B733
+Sodium.
+
+PATIENT B733
+Right.
+
+DOCTOR B733
+Salt.  
+
+PATIENT B733
+Right.
+
+DOCTOR B733
+Honestly @@@.
+
+PATIENT B733
+Gatorade.
+
+DOCTOR B733
+Full of sugar.
+
+PATIENT B733
+You right.
+
+DOCTOR B733
+Uh water.
+
+PATIENT B733
+Water, bottled water.
+
+DOCTOR B733
+Yeah, pretty simple.
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Milk.
+
+PATIENT B733
+Gas.
+
+DOCTOR B733
+Okay.  I'm gonna have you sit up here for a second.  Any problems with breathing when you're walking around at all or?
+
+PATIENT B733
+No.
+
+DOCTOR B733
+Any pain in here at all?
+
+PATIENT B733
+No.
+
+DOCTOR B733
+Can you open up your mouth?  And say ah.
+
+PATIENT B733
+Ah.
+
+DOCTOR B733
+Good.  Look straight up, straight up there you go.  Deep breath good, in and out, keep going good.  Good.  Have you seen the eye doctors at all?
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+When did you see them last?
+
+PATIENT B733
+It’s been a minute. I seen them about four months or so ago.
+
+DOCTOR B733
+Okay.
+
+PATIENT B733
+Yeah.  
+
+DOCTOR B733
+Cause you know as a diabetic you get to see the eye doctors every single year.  Was it here at the VA?
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+Feel like you have good sensation in your feet?
+
+PATIENT B733
+Yeah.
+
+DOCTOR B733
+You mind taking off your shoes for a second?  Feel me touching you there?
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+Feel me touching there?
+
+PATIENT B733
+Yes.
+
+DOCTOR B733
+Okay.  Okay good.  @@@ diabetes okay.  I want to ask DOCTOR about your anticoagulation cause there are a couple of things that aren't entirely clear and I want to hash those out.
+
+PATIENT B733
+Okay.
+
+DOCTOR B733
+I'll be back in just a second okay.
+
+PATIENT B733
+Okay.  I can put on my clothes again?
+
+DOCTOR B733
+Oh yeah.
+
+PATIENT B733
+Alright.
+
+(DOCTOR OUT:  30:16  DOCTOR IN:  40:00)
+
+SECOND DOCTOR B733
+Hey PATIENT it's nice to see you.
+
+PATIENT B733
+Yes, yes, how you doing?
+
+SECOND DOCTOR B733
+I'm concerned.
+
+PATIENT B733
+Right.
+
+SECOND DOCTOR B733
+@@@ you need to follow up regularly okay.
+
+PATIENT B733
+Right, right.
+
+SECOND DOCTOR B733
+Right and like the blood doctor said this is long term, lifelong.
+
+PATIENT B733
+Yes, yes.
+
+SECOND DOCTOR B733
+Okay.  So um I just want you to tell me @@@ that way you don't have to stick yourself so much.
+
+PATIENT B733
+Okay.
+
+SECOND DOCTOR B733
+Okay so you know something we needed to talk to you about.
+
+PATIENT B733
+Right.
+
+SECOND DOCTOR B733
+Okay.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+I'm going to put this here in the computer.  We're going to @@@.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+So.  For your diabetes, have you ever heard of the MOVE Clinic at all?
+
+PATIENT B733
+Yes I have heard of them.
+
+FIRST DOCTOR B733
+Alright.
+
+PATIENT B733
+Yeah.
+
+FIRST DOCTOR B733
+Would you be interested in going to it?
+
+PATIENT B733
+Sure I mean if it's gonna help me of course yeah.
+
+FIRST DOCTOR B733
+Alright okay.  I'm gonna show you where it is and then you can go like at your leisure.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+Um.  You're gonna have to start another blood pressure medicine unless you can start working on your diet getting salt out of it cause right now it's too high.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+For being a diabetic.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+Okay.  It's called hydrochlorothiazide.
+
+PATIENT B733
+Well they took me off the water pill.
+
+FIRST DOCTOR B733
+Well you gotta go back on.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+Until you start taking care of yourself a little bit more yeah.
+
+PATIENT B733
+But they said the water pill was taking my potassium and what have you out, that's why they took me off.
+
+FIRST DOCTOR B733
+Well you know you're, it's bringing your blood pressure's back up so you can eat bananas if that's what it takes.
+
+PATIENT B733
+Yeah okay.  It's just good I like bananas.
+
+FIRST DOCTOR B733
+Um what was the medicine you used to take?
+
+PATIENT B733
+Uh the hydrochlorothiazide.
+
+FIRST DOCTOR B733
+How much did you take 12.5 or 25?
+
+PATIENT B733
+Uh a real small pill, it was 25 I believe.  Not real sure offhand but it should be in there.  I believe it was the 20 or something like that.  I only got like seven of them left before they.
+
+FIRST DOCTOR B733
+Of what?
+
+PATIENT B733
+The water pill.
+
+FIRST DOCTOR B733
+I think need @@@ get you back on it.
+
+PATIENT B733
+Okay.  And I'm down to three injections.
+
+FIRST DOCTOR B733
+When are you seeing the Anticoagulation Clinic?
+
+PATIENT B733
+Uh I thought I was seeing it today.
+
+FIRST DOCTOR B733
+Alright, so they’ll get you that today.
+
+PATIENT B733
+Yeah.  But the last visit she only gave me seven.
+
+FIRST DOCTOR B733
+Yeah because they want to keep seeing you.  Oh yeah we're gonna have to put you back on that hydrochlorothiazide.  Do you have any of those pills at home?
+
+PATIENT B733
+Yes like I said I have like.
+
+FIRST DOCTOR B733
+Oh you got plenty of them; I want you to go back on those.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+There's one thing that you're gonna have to schedule, you know just as a follow up study.
+
+PATIENT B733
+Uh huh?
+
+FIRST DOCTOR B733
+Just to make sure things are looking okay up here uh you know just do some pictures while you swallow some barium but you have to call to set this up.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+For you so, I'll have you call to get this set-up.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+@@@ I'm gonna show you where the MOVE Clinic is also.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+All the way down here.
+
+PATIENT B733
+Alright.
+
+FIRST DOCTOR B733
+I recommend stopping by and talking to them.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+@@@ okay.
+
+PATIENT B733
+Well tomorrow would be a good day so.
+
+FIRST DOCTOR B733
+Alright.  Well you're good to go.
+
+PATIENT B733
+What about uh my injectioins, like I say I'm only down to three so.
+
+FIRST DOCTOR B733
+Right so the pharmacist will see you @@@ and they'll fill that for you.
+
+PATIENT B733
+Okay.
+
+FIRST DOCTOR B733
+Okay.
+
+PATIENT B733
+Alright.  When you gonna see.
+
+
+
+PATIENT LEAVES:  46:12.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1286154
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,919 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@  
+
+DOCTOR C603
+PATIENT?
+
+PATIENT C603
+Yo.
+
+DOCTOR C603
+@@@.  
+
+PATIENT C603
+It never fails, whatever side I sit on the doctor come out the other side.  
+
+DOCTOR C603
+How are you doing today?
+
+PATIENT C603
+Well I'm not so good.
+
+DOCTOR C603
+We can talk about it.
+
+PATIENT C603
+Okay.  I got it.
+
+DOCTOR C603
+Okay.  @@@.
+
+PATIENT C603
+Put my stuff over here?
+
+DOCTOR C603
+Yeah.  What's going on?
+
+PATIENT C603
+Well, it's to be expected.  I have cancer of both lungs.
+
+DOCTOR C603
+Right.
+
+PATIENT C603
+And I'm on chemo.
+
+DOCTOR C603
+Right.
+
+PATIENT C603
+So there gonna be some good days and some bad days.
+
+DOCTOR C603
+Okay.
+
+PATIENT C603
+This would be one of my bad days you know, a little dizzy but no pain or anything like that.
+
+DOCTOR C603
+Okay.
+
+PATIENT C603
+I'm not falling down dizzy you know.
+
+DOCTOR C603
+Do you feel.
+
+PATIENT C603
+Sort of like you feel after you have three shots you know.
+
+DOCTOR C603
+Yeah.  I think that, I was just looking through your chart.  I think we can stop one of your blood pressure medicines.  So the blood pressure is pretty low, has it ever been high since we started the chemo?
+
+PATIENT C603
+Uh no.  In fact, a couple of times.
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+It has, you know its bottom.
+
+DOCTOR C603
+Right.
+
+PATIENT C603
+Has been in the 90s.
+
+DOCTOR C603
+In the 90s yeah.
+
+PATIENT C603
+Yeah.
+
+DOCTOR C603
+I think we should, if it's alright with you, try stopping the blood pressure medicine, the hydrochlorothiazide.
+
+PATIENT C603
+Oh that's the little yellow pill.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+It makes you get up sometime at night.
+
+DOCTOR C603
+The water pill right.
+
+PATIENT C603
+Right.
+
+DOCTOR C603
+Um I'll talk with DOCTOR but I think and that'll help you from being, so you were losing water by taking that and so.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+That causes some dizziness and some low blood pressures.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+But maybe we could try.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+Cause I don't think you need it anymore.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+For a long period, as long as my blood pressure been down.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+Yeah.
+
+DOCTOR C603
+It's going, let me just check and see.
+
+PATIENT C603
+Well I feel, well I still have my nifedipine.
+
+DOCTOR C603
+You still have the nifedipine?
+
+PATIENT C603
+Yeah.
+
+DOCTOR C603
+What's that uh, let's see.  How much of that are you taking?
+
+PATIENT C603
+Well, it was 90 right?
+
+DOCTOR C603
+Right, it's 90.
+
+PATIENT C603
+90 mg.
+
+DOCTOR C603
+Okay.  Let's talk with DOCTOR.  I think we should go down on one of these blood pressure medicines.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+Either the nifedipine we can, since that's a pretty strong dose maybe we could just cut it to 60 instead of 90.
+
+PATIENT C603
+Hey good.
+
+DOCTOR C603
+Or we could get rid of the hydrochlorothiazide.
+
+PATIENT C603
+Completely.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+Until further notice.
+
+DOCTOR C603
+Right, right.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+I'll, I'll talk to him and see what he thinks is the.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+Better thing to do.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+Any fevers or chills?
+
+PATIENT C603
+Uh no.
+
+DOCTOR C603
+No.
+
+PATIENT C603
+Uh.
+
+DOCTOR C603
+Any trouble breathing?
+
+PATIENT C603
+Uh uh.
+
+DOCTOR C603
+Just the dizziness.
+
+PATIENT C603
+Yes, you know just the dizziness.
+
+DOCTOR C603
+Okay.
+
+PATIENT C603
+I was dizzy.  @@@.
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+I had chemo three weeks ago.
+
+DOCTOR C603
+Right.
+
+PATIENT C603
+And right after you know, the body said hey what's this you giving me.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+And uh and I been doing pretty good you know.  I no longer getting the blood-streaked sputum you know.
+
+DOCTOR C603
+That's good.
+
+PATIENT C603
+I hope it is.
+
+DOCTOR C603
+Yeah.  And then did they talk to you about how many cycles of chemo you have to get or?
+
+PATIENT C603
+Uh right now they said, not to hold them to it, it all depends on the tests they take.
+
+DOCTOR C603
+How you're doing.
+
+PATIENT C603
+And what have you but they said approximately.
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+Six - three weeks apart.
+
+DOCTOR C603
+Three weeks apart each one.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+Yeah.  You're going good.
+
+PATIENT C603
+Well I'm hanging in there.
+
+DOCTOR C603
+Yeah.  So do you live with anyone then or?
+
+PATIENT C603
+Huh?
+
+DOCTOR C603
+Do you live by yourself or do you have someone to kind of help you out?
+
+PATIENT C603
+Uh I live in a building with 150 apartments.
+
+DOCTOR C603
+Okay.
+
+PATIENT C603
+And uh.
+
+DOCTOR C603
+Your neighbors are pretty nice?
+
+PATIENT C603
+Noisy, but sometimes that come in handy.  Once you get past 75 you can, you know the neighbors you know.  So they always want to know where you been and all that and you know when you came out, those type of neighbors.  I appreciate them, you know.
+
+DOCTOR C603
+Right, right.  So nobody stays like with you in the house though?
+
+PATIENT C603
+Uh no.
+
+DOCTOR C603
+Okay.  Do you that, would you like to if I could get it set up that a visiting nurse come by and just check on you once a week?  Just so you know if you need anything you know she could help get it.  I'll have to see if I can get that set up but you probably would qualify if you think that would help you.
+
+PATIENT C603
+Oh BNA?
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+Yeah.  Okay.
+
+DOCTOR C603
+Do you have that already or?
+
+PATIENT C603
+No.
+
+DOCTOR C603
+No okay, yeah.  I think it might be helpful at this point in time.
+
+PATIENT C603
+I agree with you.
+
+DOCTOR C603
+Yeah.  I'll see if I can get that set up.
+
+PATIENT C603
+Oh she can make suggestions you know.
+
+DOCTOR C603
+Sure, yeah.
+
+PATIENT C603
+You know maybe you should go to the hospital.
+
+DOCTOR C603
+Exactly.
+
+PATIENT C603
+You know.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+Lighten up on the crown royal, you know things like that.
+
+DOCTOR C603
+Yeah, yeah.
+
+PATIENT C603
+But I think it'd be a good idea.
+
+DOCTOR C603
+I think so too.  I'll see if I can, it'll take a while for it to get set up to but.
+
+PATIENT C603
+I know.
+
+DOCTOR C603
+But we'll get that started and um did you need any refills on any medications or anything?
+
+PATIENT C603
+Well, if he cut the hydrochlorothiazide to say 60.
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+I mean to @@@ the nifedipine to say 60, I would need to get that refilled so I don't take the old 90 mg.
+
+DOCTOR C603
+Sure.  We will uh.
+
+PATIENT C603
+And only hydrochlorothiazide 25 mg is probably as low at it goes.
+
+DOCTOR C603
+Yeah.  Well I'll ask him and see which one is better to do.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+So.
+
+PATIENT C603
+Okay.  Yeah he's a good man.
+
+DOCTOR C603
+Yeah I mean either one is probably fine so.  I'll ask him.  Let me just take a listen to you and you want to sit up here for me?
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+@@@ oh you can finish your coffee.
+
+PATIENT C603
+Of course.  I'm gonna be here all day.
+
+DOCTOR C603
+Oh yeah, you have something else today?
+
+PATIENT C603
+No I'm gonna, I've had my blood drawn for my chemo tomorrow and I'm gonna eat lunch here.
+
+DOCTOR C603
+Good.  Yeah, pull down your @@@.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+Your blood work looks from the last time.  Say ah.
+
+PATIENT C603
+Ah.
+
+DOCTOR C603
+When was the last time you've seen the dentist?
+
+PATIENT C603
+You know I like the way you do things.  Oh about ten years ago.
+
+DOCTOR C603
+And do you have trouble eating or anything?
+
+PATIENT C603
+Uh no I eat soft food you know.
+
+DOCTOR C603
+You eat soft food.
+
+PATIENT C603
+And uh, according how this chemical thing works out you know if the process should go in remission or something then I worry about the teeth.
+
+DOCTOR C603
+Sure, no I understand.  That's more important right now.
+
+PATIENT C603
+Yeah.  So why worry about uh.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+Putting dentures in the gum.
+
+DOCTOR C603
+Deep breath for me.  Good, good.  Did they tell you had @@@ cause I don't hear anything.
+
+PATIENT C603
+They, well.
+
+DOCTOR C603
+Did they tell you @@@.
+
+PATIENT C603
+They want; they first noticed it from the x-ray on the right side you know.
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+And then they gave me the other side they said I had a smaller one.
+
+DOCTOR C603
+Uh huh.
+
+PATIENT C603
+And they wound up doing a.
+
+DOCTOR C603
+Biopsy.
+
+PATIENT C603
+Biopsy for the one on the right side you know.
+
+DOCTOR C603
+Right.  We need to see what the period, yeah and it both came back um.
+
+PATIENT C603
+@@@ especially on the right side.
+
+DOCTOR C603
+That’s what I’m looking for.  @@@ 
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+@@@ I think their small.
+
+PATIENT C603
+On the right side they're small.
+
+DOCTOR C603
+On both of them yeah.  That's good.
+
+PATIENT C603
+I'm gonna ask you a question doctor.
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+See my fingers
+
+DOCTOR C603
+Yes.
+
+PATIENT C603
+They are so @@@ like the raptor.
+
+DOCTOR C603
+The what?
+
+PATIENT C603
+A raptor, a bird of prey.
+
+DOCTOR C603
+Oh sure.
+
+PATIENT C603
+You know.
+
+DOCTOR C603
+You mean just like how it's like @@@.
+
+PATIENT C603
+No it's puffy.
+
+DOCTOR C603
+Yeah you know that's kind of uh one of the signs of, it's called clubbing.  Has anybody told you that?
+
+PATIENT C603
+No. 
+
+DOCTOR C603
+It's like um, it'll happen for a lot of different reasons.  Two of the most common ones are when people smoke a lot.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+They can get discolored like the bottom side finger @@@.
+
+PATIENT C603
+Both hands @@@ very much.
+
+DOCTOR C603
+Yeah its part and usually when that happens it's because people smoke a lot and then you worry about cancer, so the cancer causes the problem.
+
+PATIENT C603
+Oh okay.
+
+DOCTOR C603
+So it's uh nothing, we can't really do anything to change it.  You could just um you know clip your nails but they don't look that long I don’t know.
+
+PATIENT C603
+Uh-huh.  I clipped them last night.
+
+DOCTOR C603
+Yeah so but yeah it's just part of the.
+
+PATIENT C603
+Part of the, part of the situation.
+
+DOCTOR C603
+Right, right.  
+
+PATIENT C603
+I have a power port on the right side.
+
+DOCTOR C603
+Now what is it?
+
+PATIENT C603
+A power port.
+
+DOCTOR C603
+Oh power port, yeah I wanted to ask you where you get your chemo from.  Okay so yeah it didn't hurt.
+
+PATIENT C603
+Huh.
+
+DOCTOR C603
+Looks good.  I'm just checking to see.  
+
+PATIENT C603
+Yeah okay, no problem.
+
+DOCTOR C603
+Everything looks great.  Let's see.  Good.  Just lay down for me and I'm gonna take a look at @@@.
+
+PATIENT C603
+My skin is dry, you can tell by the crustiness of it.
+
+DOCTOR C603
+Yeah.  You put any lotion or anything on it?
+
+PATIENT C603
+Up until the last couple of days.  When I'm coming to the doctor I don't put any lotion on the day before that.
+
+DOCTOR C603
+Sure.
+
+PATIENT C603
+So I can be more natural.
+
+DOCTOR C603
+I don't know, does that hurt you when I do that?
+
+PATIENT C603
+Uh no.
+
+DOCTOR C603
+Okay great, good.  Yeah that should, you should put some lotion on it.
+
+PATIENT C603
+And I wasn’t being a dirty old man.
+
+DOCTOR C603
+Oh I know.
+
+PATIENT C603
+My feet are not so @@@.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+They just big.
+
+DOCTOR C603
+@@@.
+
+PATIENT C603
+Oh uh-huh.
+
+DOCTOR C603
+Alright, you can have a seat back there.
+
+PATIENT C603
+Alright.
+
+DOCTOR C603
+Alright, let me go talk to DOCTOR.  I think the main thing today is to kind of go down a little bit on your blood pressure medicine.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+And then everything else looks alright.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+Okay let me just go talk to him okay.
+
+PATIENT C603
+You think I make December @@, @@@@?
+
+DOCTOR C603
+Do I think you'll make it?
+
+PATIENT C603
+Uh-huh.  
+
+DOCTOR C603
+I think so; I don't know that much about those things.  I’d ask the cancer doctor.
+
+PATIENT C603
+That's the end of the world you know.
+
+DOCTOR C603
+That's right I remember you telling me that last time.
+
+PATIENT C603
+Uh-huh on the Mayan calendar.
+
+DOCTOR C603
+The way you look right now I think you'll make it.
+
+PATIENT C603
+Yeah I'm gaining a few pounds and I was you know hoping that wasn't @@@ because.
+
+DOCTOR C603
+I understand you.
+
+PATIENT C603
+On this procedure they don't want you to bloat up.
+
+DOCTOR C603
+Right, right.
+
+PATIENT C603
+You know, it good to gain a few pound but you start bloating up and swelling in the feet and all that.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+It's not good.  Okay doc.
+
+DOCTOR C603
+Alright I'll be right back.
+
+PATIENT C603
+Uh-huh.
+
+(DOCTOR OUT:  48:09  DOCTOR IN:  51:42)
+
+(Knock on the door)
+
+PATIENT C603
+Come on.
+
+DOCTOR C603
+He said to just cut out the hydrochlorothiazide.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+To keep the nifedipine at the 90.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+Um and cut out the stop the.
+
+PATIENT C603
+The lisinopril okay.
+
+DOCTOR C603
+Yeah okay.
+
+PATIENT C603
+So we remove more pills.
+
+DOCTOR C603
+Right.  Right and if your blood pressure goes high you can start taking it again but I don't think it's gonna go high, right so.  Alright and then I'll put in for the nursing to come visit you and that could get set-up over the next couple of weeks okay.
+
+PATIENT C603
+Uh okay.  They've got my phone number right?
+
+DOCTOR C603
+They should, what is it just so I can have it too.
+
+PATIENT C603
+NUMBER.
+
+DOCTOR C603
+Uh-huh.
+
+PATIENT C603
+NUMBER.
+
+DOCTOR C603
+NUMBER uh-huh.
+
+PATIENT C603
+NUMBER.
+
+DOCTOR C603
+NUMBER okay, sounds good.
+
+PATIENT C603
+Would you check one thing else for me?
+
+DOCTOR C603
+Uh-huh.  What's that?
+
+PATIENT C603
+Uh when I was in the GU Clinic three weeks ago.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+They took a PSA on me.
+
+DOCTOR C603
+It was 6.12, so it's good.  You just having @@@.
+
+PATIENT C603
+Cause it had jumped from 4 to 6.
+
+DOCTOR C603
+You know that's uh, yeah 4 to 6 but it's been 6 before in like 2008, it was 6.47.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+And it was like 5 in May.  It kind of jumps around you know, that's not a big difference.  What you worry about is if it goes up by a lot, like if it doubles or triples.
+
+PATIENT C603
+Or keeps inching up.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+You know each time a little worse okay.
+
+DOCTOR C603
+Okay.
+
+PATIENT C603
+Cause I was just wondering about that.
+
+DOCTOR C603
+Yeah.  So it looks, I wouldn't worry about it.
+
+PATIENT C603
+I was in the GU, he seemed pretty, oh your PSA was 6, that's not good, he said, okay.
+
+DOCTOR C603
+Oh it's not the, it's not anything to worry about.
+
+PATIENT C603
+What good is for one is average for another, I'm well aware of that.
+
+DOCTOR C603
+Right, right.
+
+PATIENT C603
+I worked with doctors a long time.
+
+DOCTOR C603
+Yeah.  Alright, so come back me and see me in three months okay.
+
+PATIENT C603
+Uh-huh.
+
+DOCTOR C603
+You have people with the Oncology doctors right, who are gonna see you every three weeks?
+
+PATIENT C603
+Yeah I have to be there tomorrow to get another zapping.
+
+DOCTOR C603
+Yeah.
+
+PATIENT C603
+So I don't have to see DOCTOR?
+
+DOCTOR C603
+No I talked to him and he just said you know to get off the hydrochlorothiazide.
+
+PATIENT C603
+Okay he said that.  I must be doing pretty good.
+
+DOCTOR C603
+Yeah, yeah.  Alright and I'll put, @@@ so just stop taking the hydrochlorothiazide.
+
+PATIENT C603
+Okay.
+
+DOCTOR C603
+Okay.
+
+PATIENT C603
+And you want to see me in three months okay.
+
+DOCTOR C603
+Alright.
+
+PATIENT C603
+Okay I'm a thank you doc.
+
+DOCTOR C603
+Alright, pleasure as always.
+
+PATIENT C603
+@@@.
+
+DOCTOR C603
+I've renewed your prescriptions.  Have a day sir.
+
+PATIENT LEAVES:  55:21.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255193
+TRANSACTION # 578-10-2-316-0103

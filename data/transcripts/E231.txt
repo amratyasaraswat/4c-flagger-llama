@@ -1,0 +1,563 @@
+AUDIO NAME:		E231
+TIME STARTED:		@@@
+DR. ENTERS:		@@@
+
+DOCTOR153:	
+PATIENT153?
+
+PATIENT153:	
+Yes, sir.
+
+DOCTOR153:	
+@@@
+
+PATIENT153:	
+That was quick.
+
+DOCTOR153:	
+Whichever chair you like.
+
+PATIENT153:	
+Alright.  I want to look outside.
+
+DOCTOR153:	
+(Laughter) See which way the flags are blowing.
+
+PATIENT153:	
+(Laughter)
+
+DOCTOR153:	
+How are you doing?
+
+PATIENT153:	
+Okay.
+
+DOCTOR153:	
+Uh, anything bothering you today?
+
+PATIENT153:	
+@@@ arthritis.
+
+DOCTOR153:	
+Arthritis?  
+
+PATIENT153:	
+I think it is, I tore it up, it started up in the service.
+
+DOCTOR153:	
+Oh, okay.
+
+PATIENT153:	
+There a good outfit in the service, @@@ a little bit of…
+
+DOCTOR153:	
+A little bit of…yeah.
+
+PATIENT153:	
+But they said that didn’t stop it, they still @@@
+
+DOCTOR153:	
+Laughter)
+
+PATIENT153:	
+@@@
+
+DOCTOR153:	
+Wow!  
+
+PATIENT153:	
+Yeah.  
+
+DOCTOR153:	
+What service were you in sir?
+
+PATIENT153:	
+I was a @@@ I was in the Army.
+
+DOCTOR153:	
+Okay.  Alright.  Okay, who is your regular DOCTOR?
+
+PATIENT153:	
+It’s DOCTOR.
+
+DOCTOR153:	What’s that?
+
+PATIENT153:	
+DOCTOR.  He is my wife’s doctor really.
+
+DOCTOR153:	
+Oh okay.  He is not from the VA, is he from somewhere else.
+
+PATIENT153:	
+Somewhere else.
+
+DOCTOR153:	
+Somewhere else alright.
+
+PATIENT153:	
+Oh yeah.  
+
+DOCTOR153:
+DOCTOR.
+
+PATIENT153:	
+DOCTOR, that’s the one that’s here, yep.
+
+DOCTOR153:	
+Yeah.
+
+PATIENT153:	
+She’s the one @@@
+
+DOCTOR153:	
+Um-hm.  Alright.  Any recent changes with your medications?
+
+PATIENT153:	
+Not that I know of.
+
+DOCTOR153:	
+No, okay.
+
+PATIENT153:	
+More aspirins. More pain pills. (laughs)
+
+DOCTOR153:	
+Alright.  So you have the @@@’s disease, and the osteoporosis.  
+
+PATIENT153:	
+Yeah.  I got all that things I guess.
+	
+DOCTOR153:	
+You had a TIA at some point?
+
+PATIENT153:	
+What is that one you say I had?
+
+DOCTOR153:	
+Yeah, it’s kinda like a mini-stroke.
+
+PATIENT153:	
+Yeah.
+
+DOCTOR153:	
+Where you don’t actually have any @@@  Um…
+
+PATIENT153:	
+I’ll have to look up what they say I had. It’s a, bone deterioration.    
+
+DOCTOR153:	
+Yep.
+
+PATIENT153:	
+Um.  I @@@ vitamin D.
+
+DOCTOR153:	
+Alright.  And let’s see.  I am looking for labs here.  It looks like a few um, pretty good.  You are a pretty healthy guy aren’t ya?
+
+PATIENT153:	
+Oh yes.  I gotta uh, examination here about two years ago.
+
+DOCTOR153:	
+Yeah.
+
+PATIENT153:	
+I ate some bad food.
+
+DOCTOR153:	
+Um-hm.
+
+PATIENT153:	
+I was shaking and shivering, and uh, they were taking me for all kinds of visits.
+
+DOCTOR153:	
+Uh-huh.
+
+PATIENT153:	
+I threw up the bad food, and I said hey, everything is perfect.  I am fine now.
+
+DOCTOR153:	
+Uh-huh.
+
+PATIENT153:	
+But they said no we worked through all of this stuff.
+
+DOCTOR153:	
+Yeah.
+
+PATIENT153:	
+And they said the carotids and the arteries and you’re @@@ are as clear as the day day you were born.  He said they are as clear as the day you were born.  Isn’t that marvelous?
+
+DOCTOR153:	
+Exactly.  What’s the secret?
+
+PATIENT153: 	
+Huh?
+
+DOCTOR153:	
+What’s your secret?
+
+PATIENT153:	
+Just good food.
+
+DOCTOR153:	
+Good food, huh?
+
+PATIENT153:	
+Every morning.  Plenty of vitamin cereal…
+
+DOCTOR153:	
+Yeah.
+
+PATIENT153:	
+And bananas and blueberries.  You know?  Every morning.
+
+DOCTOR153:	
+That’s good.
+
+PATIENT153:	
+That is my foundation.
+
+DOCTOR153:	
+How did you get the fracture on your skull?  Before when you were . . .
+
+PATIENT153:	
+I fell.
+
+DOCTOR153:	
+Yeah?
+
+PATIENT153:	
+I fell at…I was getting groceries and stepped off the curb…
+
+DOCTOR153:	
+Uh-huh.
+
+PATIENT153:	
+I missed and my head hit the pavement. 
+	
+DOCTOR153:	
+Wow.
+
+PATIENT153:	
+Yeah, I had black eye and a broken nose, and fractured vertebra as well as…
+
+DOCTOR153:	
+Is it all okay now?
+
+PATIENT153:	
+Everything is wonderful.  I have no complaints about it.
+
+DOCTOR153:	
+Alright.  Do you need anything from me today specifically?
+
+PATIENT153:	
+Uh, not that I know of. 
+
+DOCTOR153:	
+Is there any other medications prescribed by your other DOCTOR153s that I don’t know about besides the vitamins and the Capsaicin cream?
+
+PATIENT153:	
+Uh…
+
+DOCTOR153:	
+Aspirin?
+
+PATIENT153:	
+Oh what is it?
+
+DOCTOR153:	
+You get the IV drug…
+
+PATIENT153:	
+IV drug…
+
+DOCTOR153:	
+IV drug for the @@@.
+
+PATIENT153:	
+That’s what I get.
+
+DOCTOR153:	
+Okay.  
+
+PATIENT153:	
+They are very little pills.  Very small ones.
+
+DOCTOR153:	
+Alright.
+
+PATIENT153:	
+There are two of them I take every morning.  One is the vitamin D and I think the other, I forget what it is . . .
+
+DOCTOR153:	
+Alright.  And uh, have you ever had a colonoscopy done before?
+
+PATIENT153:	
+Um, I don’t think so. Exactly what is that? 
+
+DOCTOR153:	
+Uh, you know where they use a camera to look up your butt, basically.
+
+PATIENT153:	
+No.
+
+DOCTOR153:	
+Look at your colon.
+
+PATIENT153:	
+Okay.
+
+DOCTOR153:	
+At this point, you’re 87, so. Probably not
+
+PATIENT153:	
+No, I had one put a finger, but that was all.
+
+DOCTOR153:	
+Okay.
+
+PATIENT153:	
+I guess that is a check for cancer?
+
+DOCTOR153:	
+Yeah, you can do that.  But at your age, probably wouldn’t be to aggressive about it.  No problems with your bowel movements or blood in stool?
+
+PATIENT153:	
+No, everything is normal.  As I say, I think the food I eat in the morning makes everything normal.
+
+DOCTOR153:	
+Yeah, but you do have osteoporosis.
+
+PATIENT153:	
+Yeah, that’s what the @@@.
+
+DOCTOR153:	
+Yeah.
+
+PATIENT153:	
+Maybe the vitamin D helps. @@@
+
+DOCTOR153:	
+Uh-huh.
+
+PATIENT153:	
+@@@
+
+DOCTOR153:	
+Well, let’s take a listen to your ticker there.
+
+PATIENT153:	
+Do you want me to lay down?
+
+DOCTOR153:	
+I am just going to take a seat.
+
+PATIENT153:	
+Okay, I’ll take a seat.
+
+DOCTOR153:	
+You get along pretty well at home? You don’t need any walker or cane or anything?  
+
+PATIENT153:	
+I got a rolling…
+
+DOCTOR153:	
+You got a rolling stroller…
+
+PATIENT153:	
+But I don’t need it yet. I just…crawl up the steps @@@ they put banisters.  
+
+DOCTOR153:	
+Deep breath.  I’ll just have you lie down here. Sir? Tickles?
+
+PATIENT153:	
+I don’t know…
+
+DOCTOR153:	
+Your back?
+
+PATIENT153:	
+Yeah, the @@@
+
+DOCTOR153:	
+It’s not a good spot for you, huh?
+
+PATIENT153:	
+Yeah, its…it doesn’t hurt it just a backache.
+
+DOCTOR153:	
+What do you take for pain?
+
+PATIENT153:	
+I have a @@@.
+
+DOCTOR153:	
+Tylenol extra-strength?  
+
+PATIENT153:	
+No.
+
+DOCTOR153:	
+Stronger?
+
+PATIENT153:	
+No its…I am afraid of Tylenol after all the complaints about it.  I take Aleve then.
+
+DOCTOR153:	
+Well you know Tylenol is the safest drug you can take.
+
+PATIENT153:	
+Yeah?
+
+DOCTOR153:	
+@@@ Tylenol is one of those very well tolerated.
+
+PATIENT153:	
+@@@ I just take Aleve.
+
+DOCTOR153:	
+Aleve is fine to, you know.
+
+PATIENT153:	
+Um-hm.
+
+DOCTOR153:	
+All your lab work is perfectly fine so…
+
+PATIENT153:	
+Um-hm.
+
+DOCTOR153:	
+So you can even alternate between Aleve and ibuprofen @@@. Aleve and Tylenol.
+
+PATIENT153:	
+I do ibuprofen too. I do aspirin.
+
+DOCTOR153:	
+Sounds good.  Alright.  Anything else I can do for you?
+
+PATIENT153:	
+Uh, get me to my car.
+
+DOCTOR153:	
+Alright.
+
+PATIENT153:	
+I use the valet.  
+
+DOCTOR153:	
+And you walked all the way?
+
+PATIENT153:	
+It’s a long walk, a half a mile.
+
+DOCTOR153:	
+Quite a workout for you.
+
+PATIENT153:	
+Alright.
+
+DOCTOR153:	
+What are going for your shot?  Have you had one?
+
+PATIENT153:	
+I never took the fu shot.
+
+DOCTOR153:	
+For the uh, for that @@@.
+
+PATIENT153:	
+I have an appointment on the 25th for my hearing.
+
+DOCTOR153:	
+But have you gotten that shot for your bones, yet?
+
+PATIENT153:	
+Oh no, never.
+
+DOCTOR153:	
+But you’re supposed to, right? 
+
+PATIENT153:	
+No, they never said.
+
+DOCTOR153:	
+Yeah, you’re supposed to, yeah. I’m reading the end chronologist’s note and they  . . .
+
+PATIENT153:	
+@@@ No body called me or anything. Osteo@@@ is that what it is? 
+
+DOCTOR153:	
+@@@ Let me call the clinic up there to see if they can schedule that.  
+
+(DOCTOR153 talking on phone 19:29-20:09)
+
+DOCTOR153:	
+We will get you scheduled.  Okay?  The endocrine clinic is going to call you.
+
+PATIENT153:	
+Okay.  @@@
+
+DOCTOR153:	
+For your hearing, right?
+
+PATIENT153:	
+I think that’s it. Audiology, right?
+
+DOCTOR153:	
+Yeah for hearing.
+
+PATIENT153:	
+@@@
+
+DOCTOR153:	
+Well, I guess we will schedule in six months to see to be followed.
+
+PATIENT153:	
+Um.
+
+DOCTOR153:	
+Will be good.
+
+PATIENT153:	
+Yeah.
+
+DOCTOR153:	
+And uh, get some blood work done before that appointment.
+
+PATIENT153:	
+Um-hm.
+
+DOCTOR153:	
+Get the labs into the computer for you, alright?
+
+PATIENT153:	
+I’m on my way home?
+
+DOCTOR153:	
+You are out of here. Be careful out there.
+
+PATIENT153:	
+I found this in the wardrobe at @@@ but it’s the hottest thing….
+
+DOCTOR153:	
+Oh yeah.  Alright.
+
+PATIENT153:	
+So I can go?	
+
+DOCTOR153:	
+Yep, you can go to the front.  They will call you about that shot okay?
+
+PATIENT153:	
+Alright.  Thank you very much.
+
+DOCTOR153:	
+Bye-bye.
+
+(DOCTOR153 OUT:  21:27)
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235344
+TRANSACTION # 578-10-2-316-0103

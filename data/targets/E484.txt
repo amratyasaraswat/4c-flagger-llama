@@ -1,0 +1,71 @@
+Red Flag (1676-1704): "Okay I ran out of gabapentin"
+
+Red Flag (1791-1904): "You know I just got two bottles they done send me in the mail again. How come I get all that for the cholesterol"
+
+Red Flag (2818-2849): "Yeah I don't have no amlodipine"
+
+Red Flag (4164-4179): "Cyclobenzaprine"
+
+CarePlan (4180-4231): "we're going to give you a new prescription for more"
+
+Probe    (4273-4289): "Um it looks like"
+
+Factor   (4273-4340): "Um it looks like they only gave you a 10 day prescription last time"
+
+CarePlan (4375-4426): "They probably don't want you to use it all the time"
+
+Red Flag (4632-4642): "gabapentin"
+
+Probe    (4643-4656): "it looks like"
+
+CarePlan (4657-4683): "you have two refills on it"
+
+CarePlan (4759-4793): "So you've got two refills for that"
+
+Probe    (4828-4848): "So let me, let's see"
+
+CarePlan (4851-4877): "You have two refills of it"
+
+Factor   (4937-4963): "You ran out last month huh"
+
+Factor   (5984-6023): "sometimes in the mail they get confused"
+
+Red Flag (6199-6229): "Okay let's see the hydralazine"
+
+Probe    (6231-6267): "have you been taking the hydralazine"
+
+Red Flag (7624-7662): "Yeah and this one you take twice a day"
+
+Red Flag (7779-7828): "I take it once a day when I get up in the morning"
+
+Red Flag (9065-9079): "blood pressure"
+
+Red Flag (9169-9175): "Uh 140"
+
+Red Flag (9212-9220): "Like 140"
+
+Red Flag (20839-20867): "Are you still using the CPAP"
+
+Red Flag (20883-20887): "Nope"
+
+Probe    (20902-20915): "Oh no why not"
+
+Red Flag (20931-20933): "No"
+
+Factor   (21103-21116): "toss and turn"
+
+CarePlan (21345-21524): "Do you want to try the one with just your nose? Cause what we could do is they could send you to the Sleep Clinic and they can try one that might be a little bit more comfortable"
+
+Factor   (21540-21585): "I would, I ain't got time to go to the clinic"
+
+Factor   (21630-21662): "I don't have time in my schedule"
+
+Factor   (21697-21765): "The sleep study you got to stay all night and everything, no, no, no"
+
+Factor   (22485-22530): "I mean do I have to do a whole new CPAP right"
+
+Factor   (22573-22703): "Yeah cause I have the dinosaur CPAP. I got it in the 90s when I first got that CPAP. I said I'd use it @@@. And it's old really"
+
+Factor   (23279-23359): "You have to sleep with it over your head all strapped and that's not comfortable"
+
+CarePlan (23469-23735): "So anytime you feel like maybe you want to exchange your dinosaur CPAP machine and try a new one and see if maybe the new ones like, I don't know I've never used a CPAP but I imagine it's really uncomfortable. Maybe the new ones are a little bit better I don't know"

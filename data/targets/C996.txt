@@ -1,0 +1,19 @@
+Red Flag (3002-3048): "Uh it depends on if I’ve been naughty at night"
+
+Red Flag (3246-3292): "I've had a few high ones like in the 150 range"
+
+Probe    (4240-4295): "So all the meds here, you're still taking the metformin"
+
+Red Flag (7582-7593): "cholesterol"
+
+Red Flag (7800-7824): "It's still a little high"
+
+Probe    (7919-7970): "Are you taking the um simvastatin, you're taking it"
+
+Probe    (8005-8033): "And you're taking the niacin"
+
+Red Flag (8027-8033): "niacin"
+
+Red Flag (8058-8100): "I may be slacking on that one a little bit"
+
+Red Flag (17373-17476): "obviously the cholesterol is still a little high. Not where I want to see the bad cholesterol, the 128"

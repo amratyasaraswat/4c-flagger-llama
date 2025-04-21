@@ -1,0 +1,31 @@
+Red Flag (5252-5306): "I wasn't taking any blood pressure medicine in a month"
+
+Probe    (5321-5382): "You haven't taken any blood pressure medicine for a month why"
+
+Factor   (5398-5738): "Because of my blood pressure it hasn't been up and I was taking it and I was taking you know where I got the monitor and if it went down to a certain amount don't take the blood pressure medicine and I haven't, when I started I was taking it it was down, it would be down low or something like that I didn't take the blood pressure medicine"
+
+Red Flag (5743-5849): "my blood pressure machine hasn't been working for the last two weeks like it's really not bad or something"
+
+Factor   (5761-5788): "machine hasn't been working"
+
+CarePlan (6253-6808): "Yeah you may never have had super high blood pressure but now with the stent in your heart, which means that you've had some heart disease, we tend to want to control your blood pressure better because if your blood pressure's even a little bit above where we want it at or above where our goal is, it can put pressure, strain on your heart and you know your heart's already had strain with the stent and things like that so the idea to prevent you from having any heart attack in the future with controlling your blood pressure will prevent that you know"
+
+Red Flag (6948-6978): "I haven't checked it @@@ weeks"
+
+Probe    (7893-8062): "And does it fit proper, as far as the sizing and things? Did they size it for you when you first got it? You got the blood pressure machine from here or someplace else"
+
+CarePlan (9092-9256): "But sometimes, sometimes these things like high blood pressure or diabetes sometimes we don't know we have it because we don't notice. We don't have symptoms maybe"
+
+CarePlan (13803-13835): "get you maybe a new battery here"
+
+Red Flag (14658-14710): "You haven't been taking that or the metoprolol right"
+
+Red Flag (14726-14757): "Metoprolol no I only taking one"
+
+CarePlan (17006-17413): "Now how would you feel about and a lot of these medicines have been shown after someone's had a heart attack we put you on these medicines, the lisinopril and the metoprolol because they also protect people from having another heart attack. So you may never have a very high blood pressure ever but the fact that these protect you from having another heart attack is part of the reason why we put you on it"
+
+CarePlan (17450-17822): "So we may consider just putting you maybe back on the lisinopril and the metoprolol but just at a very low dose so that you get the protection uh from having another heart attack but you know your blood pressure, since your blood pressure is not very high um you know you may not need that right now @@@ so that may be an option that I will come back and talk to you about"
+
+CarePlan (21612-21728): "I think what you have to do; do you know where you get the blood pressure machine on the second floor of Prosthetics"
+
+CarePlan (21765-21822): "I would go back to them and say I need batteries for this"

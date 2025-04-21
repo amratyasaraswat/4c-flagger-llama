@@ -1,0 +1,505 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR U677
+PATIENT? 
+ 
+PATIENT U677
+Yes it is.  I am here.
+
+DOCTOR U677
+Good to see you.  @@@.  Have a chair.
+
+PATIENT U677
+What'd you say?
+
+DOCTOR U677
+@@@.  Alright how you doing?
+
+PATIENT U677
+Okay.
+
+DOCTOR U677
+Alright that's good.
+
+PATIENT U677
+Haven't seen you in a while.
+
+DOCTOR U677
+Yeah it's been since September here.
+
+PATIENT U677
+I know.
+
+DOCTOR U677
+(Whistles).
+
+PATIENT U677
+Last September.
+
+DOCTOR U677
+Oh yeah September 24th.
+
+PATIENT U677
+September 24th.
+
+DOCTOR U677
+Yeah.  How you doing?
+
+PATIENT U677
+Fine.
+
+DOCTOR U677
+Very good.  Okay anything new going on?
+
+PATIENT U677
+Nothing new.
+
+SECOND PERSON U677
+He was hospitalized @@@.
+
+DOCTOR U677
+Oh is that right?
+
+PATIENT U677
+I was in the hospital.
+
+DOCTOR U677
+Oh okay.  What for?
+
+PATIENT U677
+Uh @@@.
+
+DOCTOR U677
+Have you been getting treatment for it?
+
+PATIENT U677
+Yes I'm improving I think at this point.
+
+SECOND PERSON U677
+He didn't @@@
+
+PATIENT U677
+I haven’t.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+Alright.
+
+SECOND PERSON U677
+Alright.
+
+DOCTOR U677
+Do you need refills or anything?
+
+PATIENT U677
+No but @@@.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+@@@.  Alright you feel well otherwise.
+
+PATIENT U677
+@@@ perfect health.
+
+DOCTOR U677
+Oh very good.  @@@.  You're telling me huh.
+
+PATIENT U677
+(Laughter).
+
+DOCTOR U677
+So your hemoglobin dropped a little bit.
+
+PATIENT U677
+@@@
+
+DOCTOR U677
+You're not feeling tired or anything?
+
+PATIENT U677
+No.
+
+DOCTOR U677
+Still taking the thyroid medicine?
+
+PATIENT U677
+Yes I am.
+
+DOCTOR U677
+Alright does that need to be refilled?
+
+SECOND PERSON U677
+Yes.  Are you talking about the @@@?
+
+DOCTOR U677
+Yes.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+Have you got all your immunizations done?
+
+PATIENT U677
+Yes we did.
+
+DOCTOR U677
+Flu shot @@@.
+
+PATIENT U677
+It wasn't @@@.
+
+DOCTOR U677
+So you didn't want it?
+
+PATIENT U677
+Didn't want it.
+
+SECOND PERSON U677
+It's just.
+
+PATIENT U677
+@@@ flu shot @@@.
+
+SECOND PERSON U677
+I think he needs a refill on let me remember, for hydrochlorothiazide.
+
+DOCTOR U677
+I can get it.
+
+SECOND PERSON U677
+Okay.
+
+DOCTOR U677
+So you saw the endocrinologist too, huh?
+
+PATIENT U677
+DOCTOR.
+
+DOCTOR U677
+DOCTOR @@@ dentist?
+
+PATIENT U677
+Uh-huh.
+
+DOCTOR U677
+@@@ specific @@@ 
+
+PATIENT U677
+Oh I see.
+
+SECOND PERSON U677
+That's got to be it.
+
+PATIENT U677
+By the way, @@@, implant.
+
+DOCTOR U677
+Implant of teeth?
+
+PATIENT U677
+Yeah.
+
+DOCTOR U677
+Yeah they won't do that here.
+
+PATIENT U677
+Oh I see.
+
+DOCTOR U677
+@@@.  Can you come up here?
+
+PATIENT U677
+Oh yes.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+Deep breath.  
+
+SECOND PERSON U677
+Yeah (laughter), a light in your head.
+
+DOCTOR U677
+Good so far.
+
+SECOND PERSON U677
+You did.
+
+DOCTOR U677
+Have you been bleeding at all from anywhere?
+
+PATIENT U677
+Nowhere.
+
+DOCTOR U677
+No black stool.
+
+PATIENT U677
+Uh-huh.
+
+DOCTOR U677
+No okay.  No blood from the top or @@@.
+
+PATIENT U677
+No.
+
+DOCTOR U677
+Okay.  You saw a hematologist in September too.
+
+PATIENT U677
+Hmm.
+
+DOCTOR U677
+What did they say?  Did you make an appointment with the hematologist again?
+
+SECOND PERSON U677
+Um they didn't @@@.
+
+PATIENT U677
+No.
+
+DOCTOR U677
+I think we should do that yeah so I think they wanted it six months from September.
+
+SECOND PERSON U677
+Okay.
+
+DOCTOR U677
+September or October @@@.
+
+PATIENT U677
+@@@.
+
+DOCTOR U677
+Huh?
+
+PATIENT U677
+DOCTOR.
+
+DOCTOR U677
+DOCTOR right.  You should schedule an appointment.
+
+SECOND PERSON U677
+Okay.  Okay.
+
+DOCTOR U677
+With them and see DOCTOR.
+
+SECOND PERSON U677
+Okay.
+
+DOCTOR U677
+Okay.
+
+SECOND PERSON U677
+So like the middle of March. 
+
+DOCTOR U677
+Any time in March.
+
+SECOND PERSON U677
+Okay.
+
+DOCTOR U677
+Any time in March, I think that's fine but you should do that.
+
+SECOND PERSON U677
+Okay.
+
+DOCTOR U677
+And make sure that pancreatic test is followed up cause he's got anemia too.
+
+SECOND PERSON U677
+Oh.
+
+DOCTOR U677
+So we should be following that up.
+
+SECOND PERSON U677
+Okay.
+
+SECOND PERSON U677
+Who do we see for @@@?
+
+DOCTOR U677
+Hematology, yeah DOCTOR.
+
+PATIENT U677
+Can I have a copy of the, this here?
+
+DOCTOR U677
+@@@ numbers?
+
+PATIENT U677
+Yeah.
+
+DOCTOR U677
+Yeah we can get it.
+
+SECOND PERSON U677
+He's been trying to just @@@.
+
+DOCTOR U677
+Yes.  @@@  @@@ be right back.
+
+PATIENT U677
+Fine.
+
+(DOCTOR OUT:  26:31  DOCTOR IN:  42:54)
+
+DOCTOR U677
+So um, everything is okay I just wanted to make sure that, his hemoglobin was dropping a little bit and I want to recheck that okay.  Um so we need to get some lab tests done today.
+
+PATIENT U677
+Okay.
+
+DOCTOR U677
+Okay.
+
+PATIENT U677
+Okay.
+
+DOCTOR U677
+And we can @@@.  But I want you to push up that HEMOC appointment okay.
+
+SECOND PERSON U677
+Push it up?
+
+DOCTOR U677
+Yeah, get it done for February.  You know what, keep it at March, but I need him coming back, the CBC that I’m running.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+Then I'll tell them @@@.
+
+SECOND PERSON U677
+Oh.
+
+DOCTOR U677
+@@@.
+
+PATIENT U677
+Alright doctor, thanks.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+Yeah.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+Well I need to be here all day.
+
+SECOND PERSON U677
+Oh yeah.
+
+DOCTOR U677
+@@@ all day.
+
+SECOND PERSON U677
+Woo.
+
+DOCTOR U677
+@@@ too.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+@@@ now.
+
+SECOND PERSON U677
+Wow.  @@@.
+
+PATIENT U677
+@@@
+
+SECOND PERSON U677
+@@@.
+
+PATIENT U677
+@@@.
+
+SECOND PERSON U677
+Wow.
+
+PATIENT U677
+Leaving.  @@@.
+
+SECOND PERSON U677
+Yes.
+
+DOCTOR U677
+Can you give me some urine today too?
+
+PATIENT U677
+It's possible.
+
+DOCTOR U677
+Yes.
+
+PATIENT U677
+Yep okay.
+
+DOCTOR U677
+Okay so lab work, the urine and you follow up with me in six months okay.
+
+PATIENT U677
+Okay.
+
+DOCTOR U677
+The only medication that you're taking for psychiatry medicines is Zyprexa?
+
+SECOND PERSON U677
+Yeah, uh-huh.
+
+DOCTOR U677
+And that was started over at the hospital?
+
+SECOND PERSON U677
+Okay.  @@@.
+
+DOCTOR U677
+Okay when are you seeing, oh, you are seeing him in March too.
+
+SECOND PERSON U677
+@@@.
+
+DOCTOR U677
+Alright sounds good.
+
+PATIENT U677
+Alright.  Good to see you.
+
+DOCTOR U677
+So you'll do lab work, you'll do everything.  You can finish it.
+
+PATIENT U677
+Yes.  
+
+DOCTOR U677
+I'll run this down.  Alright take care.  @@@.  No okay.
+
+PATIENT U677
+Oh you too.
+
+PATIENT LEAVES:  45:47.
+
+Time is 12:04.
+
+DD: 09/12/12
+DT: 09/19/12   
+INFOPRO/800511/JOB#  1249446
+TRANSACTION # 578-10-2-316-0103

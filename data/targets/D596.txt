@@ -1,0 +1,37 @@
+Red Flag (766-810): "What I ran out of was the @@@ blood pressure"
+
+Red Flag (889-960): "Also uh I didn’t finish that uh the cholesterol, what is it called sima"
+
+Red Flag (1010-1028): "I didn't finish it"
+
+Factor   (1030-1075): "do I keep taking it until I finish it or what"
+
+CarePlan (1090-1128): "That's a medication you take every day"
+
+Red Flag (1144-1236): "Okay but right now I guess she's making me take half of the 20 mg which is 10, is that right"
+
+Probe    (1251-1338): "Let's see, so you take @@@, albuterol @@@, start simvastatin at 20 mg, so it says 20 mg"
+
+Factor   (1354-1437): "Well on the bottle it says one half. Its 20 mg pills, that's what I've been taking"
+
+CarePlan (1471-1502): "It's a 40 mg tab so that's okay"
+
+CarePlan (1580-1642): "So you're just taking half which is 20 mg, that's perfect okay"
+
+Red Flag (1746-1775): "Your blood pressure is 137/74"
+
+Probe    (1778-1829): "Have you been taking your blood pressure medication"
+
+Red Flag (2525-2678): "Cause I had already called and they said it was gonna take from five to seven days but I need one now so I can start taking it cause I completely ran out"
+
+Red Flag (3246-3305): "I was supposed to have a class with her but I never made it"
+
+Red Flag (3469-3540): "I had an appointment that I didn't make cause I had, I couldn't make it"
+
+Red Flag (4426-4467): "Do you check your blood pressures at home"
+
+Red Flag (4483-4485): "No"
+
+Red Flag (5705-5740): "your blood pressure's a little high"
+
+Red Flag (7403-7490): "Now there's some days that it might go up a little, over 200 or something like that but"

@@ -1,0 +1,69 @@
+Red Flag (518-542): "I tell you I had stopped"
+
+Factor   (545-821): "There's a lot of things that's happened since the last time, there’s a death in the family, uh, a close relative died and that threw me off. I was taking those shots and everything but as far as taking – I was kinda bad with that until uh then I had another personal problem"
+
+Red Flag (977-1026): "They been running in the high twos and low threes"
+
+Red Flag (1449-1623): "the last time you were here we were you told me your numbers were in the low 100s okay and that would be good but your A1c, your three months blood sugars is not showing that"
+
+Red Flag (1793-1855): "Um I saw that you missed a couple of appointments with them uh"
+
+Probe    (1971-2007): "It sounds like you had some personal"
+
+Factor   (2023-2265): "Yeah but that's not, that day something, either the weather and I called and with the system asking me do you want to cancel or do you want to reschedule and I told it I want to reschedule. They said we'll be sending you out this information"
+
+Factor   (2302-2324): "They never sent it out"
+
+Red Flag (2899-3020): "They had asked you to go up on it by um 2 units every four days if your sugars were still high. Have you been doing that"
+
+Factor   (3036-3060): "Well nobody told me that"
+
+CarePlan (3135-3194): "Yeah until your sugars come down to the 100s in the morning"
+
+Red Flag (4692-4696): "Meds"
+
+Red Flag (4742-4764): "I am completely out of"
+
+Red Flag (4801-4814): "Meds and like"
+
+Probe    (4829-4861): "You have refills on most of them"
+
+Red Flag (5199-5228): "Um hydralazine you are out of"
+
+Red Flag (5428-5467): "Your blood pressure is still high today"
+
+Red Flag (5654-5682): "Yeah but it's still too high"
+
+Red Flag (5928-5967): "I'm out of that. I'm out of lisinopril"
+
+Factor   (5946-5967): "I'm out of lisinopril"
+
+CarePlan (5982-6009): "That you have one refill on"
+
+CarePlan (5982-6009): "That you have one refill on"
+
+Red Flag (6833-6920): "So the blood pressure you know 134 is still too high, especially when you have diabetes"
+
+Factor   (7365-7497): "Okay let me ask you something now, all the rest of the pills I get 90 days worth cause I always take them once a day. I get 90 days"
+
+CarePlan (7512-7550): "Do you want 90 days of the hydralazine"
+
+CarePlan (7705-7787): "I have a 90 days supply put in. So they'll give you a 90 day supply today on that"
+
+Red Flag (8930-8982): "Your cholesterol is not quite where we need it to be"
+
+Red Flag (9065-9115): "So your total cholesterol was 300 in December okay"
+
+Probe    (9262-9321): "So you're on, let's see, you're on the um simvastatin 80 mg"
+
+Red Flag (12955-12985): "Your sugar is 500 this morning"
+
+Red Flag (13019-13050): "Your sugar was 500 this morning"
+
+Red Flag (13384-13425): "Alright, your cholesterol is all weird um"
+
+Probe    (13498-13531): "Are you taking the fish oil still"
+
+Red Flag (14729-14762): "Your triglycerides today are 1200"
+
+Red Flag (14912-14957): "Basically, all your numbers are getting worse"

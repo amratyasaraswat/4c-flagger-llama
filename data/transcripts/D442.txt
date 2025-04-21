@@ -1,0 +1,931 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR D442 
+PATIENT.  Hi.
+
+PATIENT D442
+Hi doc how are you?
+
+DOCTOR D442
+Fine how are you?  @@@.  It shouldn't be hard to find you in the system. @@@.  How do you feel?
+
+PATIENT D442
+Okay.
+
+DOCTOR D442
+Good.  Anything new going on?
+
+PATIENT D442
+Pardon me?
+
+DOCTOR D442
+Anything new going on?  
+
+PATIENT D442
+Uh.
+
+DOCTOR D442
+@@@
+
+PATIENT D442
+I need metformin.
+
+DOCTOR D442
+Oh you're out the metformin okay.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+We can fill that for you.
+
+PATIENT D442
+Oh it's just.
+
+DOCTOR D442
+This is your list so you need all of these.
+
+PATIENT D442
+Well I went down there.  I you know got my prescriptions.
+
+DOCTOR D442
+Uh-huh.
+
+PATIENT D442
+And the guy said this one's expired.
+
+DOCTOR D442
+@@@ oh.
+
+PATIENT D442
+But he's gonna put it through if nothing changes.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+So you just gotta add it on.
+
+DOCTOR D442
+Okay.  Oh I guess it just expired this past week or two.
+
+PATIENT D442
+Yeah right cause they won't give it to you, you know.
+
+DOCTOR D442
+Okay.  I'll renew it.
+
+PATIENT D442
+And check that one, I thought that one was expired too but he said no.
+
+DOCTOR D442
+Nifedipine, no that one's not expired and you still have, yeah you still have refills on that too.
+
+PATIENT D442
+Okay.
+
+DOCTOR D442
+That other one should be okay.  Oh we saw you in June right?
+
+PATIENT D442
+Uh I think so yeah.
+
+DOCTOR D442
+Um how are you doing with your shoulder?
+
+PATIENT D442
+Uh the same.
+
+DOCTOR D442
+Same.  Um.
+
+PATIENT D442
+But I do need to see my leg doctor.
+
+DOCTOR D442
+Who's your leg doctor?
+
+PATIENT D442
+I don't know.
+
+DOCTOR D442
+What was your leg problem oh okay for your PVD um?  How are your legs doing right now?
+
+PATIENT D442
+No I'm on, they're gonna have to go in.
+
+DOCTOR D442
+You think so?
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+And it's getting worse.
+
+PATIENT D442
+Yeah I would say a little worse yeah.
+
+DOCTOR D442
+Okay.  More pain when walking?
+
+PATIENT D442
+It's more like when I sleep you know.
+
+DOCTOR D442
+Not as much when you're walking?
+
+PATIENT D442
+I can walk and yeah sometime if I walk a long way you know.
+
+DOCTOR D442
+Sleeping your leg cramp up?
+
+PATIENT D442
+Sometimes at night yeah.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+That's pretty painful too.
+
+DOCTOR D442
+Okay.  It wakes you up?
+
+PATIENT D442
+Yeah you wake up and all of a sudden, so I'd like them to look at it.
+
+DOCTOR D442
+Okay.  You saw the Hem/Onc because right because you had that high white count?
+
+PATIENT D442
+Pardon me?
+
+DOCTOR D442
+The Hematology/Oncology people?
+
+PATIENT D442
+Yes.
+
+DOCTOR D442
+You saw them okay.  Your chest x-ray was normal.  Then did they say anything?  You saw them again in September.
+
+PATIENT D442
+Right.
+
+DOCTOR D442
+Okay let's see.
+
+PATIENT D442
+I saw DOCTOR.
+
+DOCTOR D442
+DOCTOR yeah.
+
+PATIENT D442
+DOCTOR yeah and she said I'll see her in six months.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+And she gave me a lot of blood work.
+
+DOCTOR D442
+To do.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+I don't know what the results were or anything but.
+
+DOCTOR D442
+I think one thing was negative they were looking for.  They think maybe because you smoke it could be why your white counts a little bit high.  It can happen with smoking.
+
+PATIENT D442
+Oh yeah.
+
+DOCTOR D442
+Um but you had a negative x-ray and everything like that so.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+Um there's one more test where they check some kind of gene, that's still pending that they're gonna follow up with you once you.
+
+PATIENT D442
+Is that the one in your back?
+
+DOCTOR D442
+No its called BCR-ABL.  I'm sure it's not something that people usually hear of.  It's just a type of gene they test for it.
+
+PATIENT D442
+Oh okay.
+
+DOCTOR D442
+Yeah.  Okay.  And you saw the GU people, the Urology.  Has your prostate biopsy been scheduled on the 1st?
+
+PATIENT D442
+I didn't schedule nothing.  I told them I didn't want the test.
+
+DOCTOR D442
+Okay you don't want it.
+
+PATIENT D442
+And they sent me a enema thing and some pills and.
+
+DOCTOR D442
+You don't want to do it?
+
+PATIENT D442
+Not right now.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+He said well we're gonna bring you back in February.  I said okay let's see how it is then and then I go home and a week later I got a box with that stuff in it.  Kind of ticked me off cause they're forcing me you know.
+
+DOCTOR D442
+I mean I think you just have to tell them you don't want it.  I don't know if it was really clear that.
+
+PATIENT D442
+Yeah this guy didn't want no for an answer is what it was.
+
+DOCTOR D442
+Okay.  Okay.  Okay that's fine, whenever you're ready to do that, you just have to understand the risks of it if you don't get it done.
+
+PATIENT D442
+Right, right.
+
+DOCTOR D442
+So I think that's the only reason.  The risk is you know it could be prostate cancer and you're not catching it.
+
+PATIENT D442
+Right, right, I understand.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+Well what were my numbers?  Did she take?
+
+DOCTOR D442
+Um the most recent one you have is on August 10th and it was 6.79.
+
+PATIENT D442
+Alright.
+
+DOCTOR D442
+You've been high before so I'm not @@@.
+
+PATIENT D442
+Okay.
+
+DOCTOR D442
+So this is the highest.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+You're been is 6.79.
+
+PATIENT D442
+Okay.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+If you want us to follow it, we can follow it in clinic.  If at any point you feel like it's kind of high, there's no, I mean usually when it's this high they just do it cause there's no real way to tell until you take the biopsy you know.
+
+PATIENT D442
+Right.
+
+DOCTOR D442
+It could be high for no, any other reason.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+You know because your prostate's big.
+
+PATIENT D442
+Right now the next time I see you and uh.
+
+DOCTOR D442
+We can check it.
+
+PATIENT D442
+I.
+
+DOCTOR D442
+Were you, do you want us to check it?
+
+PATIENT D442
+Yeah, right, yeah.  When I can take a blood test before I come and see you?
+
+DOCTOR D442
+Yeah just remind me.
+
+PATIENT D442
+Okay.  That's cool.
+
+DOCTOR D442
+We can do that.  You got the flu shot?
+
+PATIENT D442
+Uh yeah I just took it.
+
+DOCTOR D442
+Um what about your weight loss?  How's that going?
+
+PATIENT D442
+Uh always trying.
+
+DOCTOR D442
+Always trying.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+Still eating out?
+
+PATIENT D442
+Yeah for the most part you know.
+
+DOCTOR D442
+About the same since I last, for the past month or so.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+Okay.  Um.
+
+PATIENT D442
+Better than gaining.  Yeah I'd like to lose some but it's hard at my age I don't know.  And then I heard the medicine I'm taking cause of diabetes it's harder, I don't know if that's true.
+
+DOCTOR D442
+Uh-huh.  Did you see the pharmacist at all?
+
+PATIENT D442
+Uh I think I did.
+
+DOCTOR D442
+The clinical pharmacy… do you know.  I think you, oh there we go, you saw the pharmacist.  Have you seen the eye doctors?  When did you last see them?  Did you see them this year already?  The eye doctors?
+
+PATIENT D442
+I believe so.  I usually go every six months.
+
+DOCTOR D442
+Uh you saw them in July last year.
+
+PATIENT D442
+Okay so I'm due huh.
+
+DOCTOR D442
+You're due.
+
+PATIENT D442
+Okay.
+
+DOCTOR D442
+So we'll have you just follow up with them.
+
+PATIENT D442
+Right.
+
+DOCTOR D442
+And you're taking the 60 units twice a day for your diabetes?
+
+PATIENT D442
+No I just take one shot.
+
+DOCTOR D442
+Oh in 120.
+
+PATIENT D442
+One yes, yeah.
+
+DOCTOR D442
+Try splitting it.  That's what I think she wanted you to do.
+
+PATIENT D442
+Right she mentioned something about it.
+
+DOCTOR D442
+Yeah.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+Just split it okay.
+
+PATIENT D442
+Yeah it's just hard sticking you twice a day, you know what I mean.
+
+DOCTOR D442
+Uh-huh.  And then.
+
+PATIENT D442
+She said it would work better.
+
+DOCTOR D442
+Uh-huh.
+
+PATIENT D442
+Because instead of jamming it all at once you know.  I guess I should so.
+
+DOCTOR D442
+The A1c was high I remember the last time we saw you.  And you're still on the metformin 1 gram twice a day?  How much of the metformin do you take again?
+
+PATIENT D442
+Take four pills a day.
+
+DOCTOR D442
+Four pills a day okay.
+
+PATIENT D442
+Yeah.  Did you put that in already?
+
+DOCTOR D442
+Yeah I'll put it in, I'll remember.  Uh we need to get your A1c again and you need to see @@@ and then we'll have you see me, let's see.  When was the last time you saw your blood doctors, has it been a while?  I might have to put a new consult in.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+Okay.  Okay.
+
+PATIENT D442
+Right now you'll put it in and then they'll call me or just send me a letter?
+
+DOCTOR D442
+@@@ making out here.  Let me take a listen to you while you're up here.  Take some deep breaths.  Still smoking?
+
+PATIENT D442
+Uh-huh.
+
+DOCTOR D442
+How much?  Still the same?
+
+PATIENT D442
+The same.
+
+DOCTOR D442
+No swelling?  Okay, okay, have a seat.  I'll be right back okay.
+
+PATIENT D442
+Yes.  Can you leave it open?
+
+DOCTOR D442
+Sure.
+
+PATIENT D442
+Thank you.
+
+DOCTOR OUT:  30:29  DOCTOR IN:  42:51
+
+SECOND DOCTOR D442
+@@@ hey.  I'm DOCTOR I'll @@@.
+
+PATIENT D442
+Hi.
+
+SECOND DOCTOR D442
+I wanted to get a better sense of what's going on with you, what the symptoms are on your legs so if you can tell me in your own words.
+
+PATIENT D442
+They uh sometimes feel like they're asleep I guess would be the best.
+
+SECOND DOCTOR D442
+Okay.
+
+PATIENT D442
+Best way to describe what happens you know.
+
+SECOND DOCTOR D442
+Like a numbness, tingling type of pain?
+
+PATIENT D442
+Yeah and then I get up and I walk and it's alright then you now.
+
+SECOND DOCTOR D442
+Okay.
+
+PATIENT D442
+But I uh I've had this for years and I know when they don't feel right and I feel at this time they don't feel right.
+
+SECOND DOCTOR D442
+You're not feeling right.  Okay.
+
+PATIENT D442
+Right so.
+
+SECOND DOCTOR D442
+So you had a diagnosis that this is related to your diabetes, a neuropathy?  Have you ever heard of that before?
+
+PATIENT D442
+Isn't that with your feet?
+
+SECOND DOCTOR D442
+Yeah.  Like the numbness, tingling or pain.
+
+PATIENT D442
+I have uh nerve damage in my feet.
+
+SECOND DOCTOR D442
+Okay.  Is this what it feels; is it how your symptoms have been feeling in the past?
+
+PATIENT D442
+Uh, oh my feet are bad to begin with and uh but my legs they just seem to be uh not as good as before and they usually go in, you know with uh, I forgot what they call it.
+
+SECOND DOCTOR D442
+Angiogram.
+
+PATIENT D442
+Yeah right, instead of going to your heart they go into your legs.  I've had that done uh two, maybe three times.
+
+SECOND DOCTOR D442
+Okay.
+
+PATIENT D442
+Because I've had blood clots in my, where they put stents in.
+
+SECOND DOCTOR D442
+Oh you have stents okay.
+
+PATIENT D442
+Yeah.
+
+SECOND DOCTOR D442
+How far can you walk without having to stop from cramps?
+
+PATIENT D442
+I probably can go uh a good block.
+
+SECOND DOCTOR D442
+Okay.
+
+PATIENT D442
+Maybe more you know.
+
+SECOND DOCTOR D442
+Has that been stable cause it looked like in 2010 you were able to go about a block?
+
+PATIENT D442
+I, you know my walking hasn't changed that much.
+
+SECOND DOCTOR D442
+Okay.  Okay but just when you go to bed you notice more of a falling asleep sensation.
+
+PATIENT D442
+Right, right.
+
+SECOND DOCTOR D442
+Okay.  Can you take off your shoes and socks, let me take a look.  So that's a pretty invasive test that angiogram @@@.  I want to make sure that that's what we think is going on.
+
+PATIENT D442
+Well they don't, they go in, you know here.
+
+SECOND DOCTOR D442
+Yeah, yeah.  No, no, I know.
+
+PATIENT D442
+Yeah.  My toes are bad so.
+
+SECOND DOCTOR D442
+Your toes are bad?  Okay.
+
+PATIENT D442
+I mean my nails because I'm going Monday.
+
+SECOND DOCTOR D442
+Oh okay, let's take a look.  Now you feel all throughout here, your whole leg?
+
+PATIENT D442
+No it's just from right here down.
+
+SECOND DOCTOR D442
+Just from here down.  Now do your fingers have any of this sensation?
+
+PATIENT D442
+No.
+
+SECOND DOCTOR D442
+Okay.  Can you feel it when I touch you?
+
+PATIENT D442
+Uh-huh.
+
+SECOND DOCTOR D442
+Close your eyes, tell me when you feel something.
+
+PATIENT D442
+Okay.  Yeah, yeah, yeah.
+
+SECOND DOCTOR D442
+You have great pulses.
+
+FIRST DOCTOR D442
+Pulses.
+
+SECOND DOCTOR D442
+But the micro stick, your toes are nice and warm which is a good sign.
+PATIENT D442
+Good.
+
+SECOND DOCTOR D442
+That they're getting good blood flow.
+
+PATIENT D442
+Okay, right.
+
+SECOND DOCTOR D442
+So.  So the question is is this nerve or is this a blood flow problem or is this a nerve problem because diabetes can also cause the nerves to get that numbness, tingling.
+
+PATIENT D442
+Right.
+
+SECOND DOCTOR D442
+Nerve sensation.  Um we can do a test called an EMG which can help us with that and we can also check the ABIs to see if they've gotten worse and that gabapentin, do you remember that gabapentin medication that you take three times a day?  That was probably started for neuropathy.
+
+PATIENT D442
+Right.
+
+SECOND DOCTOR D442
+Do you want to go up on that dose; see if that helps a little bit with your symptoms?
+
+PATIENT D442
+Sure if you think it'll help.
+
+SECOND DOCTOR D442
+We'll try it.  We'll kind of try it um cause if it was blood.  If it was a blood flow problem and it's happening at rest I think what I would expect is when you start walking it would get much worse.  Which doesn't sound like the case.  It seems like you're still being able to walk about a block or whatever is your baseline.
+
+PATIENT D442
+Right.
+
+SECOND DOCTOR D442
+So um I'm wondering if this is a different process than a blood flow problem, it may be a nerve problem.  But we also want to check the muscle @@@.  Okay so the plan is to go up on gabapentin, check A1c, check ABIs and CBC.  Sound like a plan?  You don't understand anything I said.  All the letters.  So we're gonna check the nerves, blood flow and muscles. 
+
+PATIENT D442
+Some tests or something?
+
+SECOND DOCTOR D442
+Yes.
+
+PATIENT D442
+What kind of tests?
+
+SECOND DOCTOR D442
+The ABIs are the blood pressure where they check the pressure of the blood vessel. 
+
+PATIENT D442
+I've had that done yes okay.  Where they put blood pressure cuffs on you?
+
+SECOND DOCTOR D442
+Yeah.
+
+PATIENT D442
+Okay.
+
+SECOND DOCTOR D442
+To see if that's compromised and then one is a blood test and the EMG is they test the nerve conduction in your legs.
+
+PATIENT D442
+Okay.
+
+SECOND DOCTOR D442
+Alright.
+
+PATIENT D442
+Before I'm gonna go see that other guy right?
+
+SECOND DOCTOR D442
+I think so.
+
+PATIENT D442
+Okay.
+
+DOCTOR D442
+I think that it's leaning towards something else other than vascular.
+
+PATIENT D442
+Okay.
+
+SECOND DOCTOR D442
+Vascular meaning blood vessel disease.
+
+PATIENT D442
+Right.
+
+SECOND DOCTOR D442
+Cause the activity seems to be stable but something is going on at rest.
+
+PATIENT D442
+Right.  Okay.
+
+SECOND DOCTOR D442
+So you don't get those cramps like um charley horse cramps.
+
+PATIENT D442
+Sometimes.
+
+SECOND DOCTOR D442
+Sometimes.
+
+PATIENT D442
+Yeah.
+
+DOCTOR D442
+Okay.
+
+PATIENT D442
+Very painful.
+
+SECOND DOCTOR D442
+Okay.  You can check his electrolytes.
+
+FIRST DOCTOR D442
+Oh @@@.
+
+SECOND DOCTOR D442
+Okay, we have a plan in place alright.
+
+PATIENT D442
+Electrolytes.
+
+SECOND DOCTOR D442
+Electrolytes.
+
+PATIENT D442
+Should I be drinking Gatorade?
+
+SECOND DOCTOR D442
+Well we're gonna check.  Probably not.  So most commonly it's not an abnormality.
+
+PATIENT D442
+Alright.
+
+SECOND DOCTOR D442
+But we'll make sure that’s not the problem.
+
+FIRST DOCTOR D442
+90 @@@ right for the gabapentin?
+
+SECOND DOCTOR D442
+Uh-huh.
+
+PATIENT D442
+Can I put?
+
+SECOND DOCTOR D442
+Yeah.
+
+PATIENT D442
+Thank you.
+
+SECOND DOCTOR D442
+Sure.
+
+FIRST DOCTOR D442
+Can you get lab work done today?
+
+PATIENT D442
+Pardon me?
+
+FIRST DOCTOR D442
+Can you get the lab work done today?  Are you able to on your way out?
+
+PATIENT D442
+Sure.
+
+FIRST DOCTOR D442
+Okay.
+
+PATIENT D442
+I don't have to fast or not right?
+
+FIRST DOCTOR D442
+No it's not for the fasting.  That way I can call you on your way out.  Labs today okay.
+
+PATIENT D442
+Alright no problem.
+
+FIRST DOCTOR D442
+Sounds good.  Okay, A1c.  Okay.  Alright I think you're all set.
+
+PATIENT D442
+Okay.
+
+FIRST DOCTOR D442
+I'll renew your medications, I will, I'll remember it and I'd like to put a few other things in for you okay.
+
+PATIENT D442
+Okay.
+
+FIRST DOCTOR D442
+And they'll schedule your Ophtho out there for your eyes okay, the Ophthalmology, the eye doctors.
+
+PATIENT D442
+Okay they'll schedule that for me now?
+
+FIRST DOCTOR D442
+Yeah cause it's September 4th and then increase your gabapentin, take an extra pill every eight hours.  You're taking two pills right, every eight.
+
+PATIENT D442
+Every eight, yeah I take six a day.
+
+FIRST DOCTOR D442
+Six a day yeah so you're being put on nine, take three every eight hours okay.
+
+PATIENT D442
+Okay.
+
+FIRST DOCTOR D442
+And I'll send you more in the mail so it'll be sent so you don't run out.
+
+PATIENT D442
+Alright, okay.
+
+FIRST DOCTOR D442
+And they'll schedule you for that muscle test and the blood pressure tests okay.  It's called an EMG and ABIs.
+
+PATIENT D442
+Okay.
+
+FIRST DOCTOR D442
+Alright.
+
+PATIENT D442
+They'll send me a letter then?
+
+FIRST DOCTOR D442
+They can try scheduling it now.
+
+PATIENT D442
+Oh okay.
+
+FIRST DOCTOR D442
+Yeah.  Okay. 
+
+PATIENT D442
+Alright I guess that's it.
+
+FIRST DOCTOR D442
+Alright, yep.  I'll put that in for you okay.
+
+PATIENT D442
+Okay.  I'll see you in three months?
+
+FIRST DOCTOR D442
+Probably a little longer than that unless something comes up you're welcome to come see us okay but I'll be calling you with a few things okay.
+
+PATIENT D442
+Okay.
+
+FIRST DOCTOR D442
+Alrighty.
+
+PATIENT D442
+Sounds good.  Thank you.
+
+FIRST DOCTOR D442
+I'll see you.  Make sure you check out.
+
+PATIENT D442
+Yes ma'am bye, bye.
+
+FIRST DOCTOR D442
+Bye.
+
+PATIENT D442
+You want this opened or closed?
+
+FIRST DOCTOR D442
+Sure open is good, thank you.
+
+PATIENT D442
+Uh-huh.
+
+Time is 3:15.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/JOB#  38299
+TRANSACTION # 578-10-2-316-0103

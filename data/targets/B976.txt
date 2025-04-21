@@ -1,0 +1,31 @@
+Red Flag (1056-1087): "I been losing weight ever since"
+
+Red Flag (1111-1129): "Been losing weight"
+
+Red Flag (7169-7206): "Any thoughts of quitting all together"
+
+Red Flag (7222-7226): "Yeah"
+
+Red Flag (7371-7458): "Um any thoughts about trying to quit with using the patch and gum or anything like that"
+
+Red Flag (7474-7476): "No"
+
+Red Flag (10878-10903): "She put in a prescription"
+
+Red Flag (11147-11178): "Uh I was supposed to pick it up"
+
+Red Flag (11213-11261): "You know something came up and I left without it"
+
+Factor   (11296-11320): "And they never mailed it"
+
+Factor   (11335-11358): "Oh they never mailed it"
+
+CarePlan (11391-11465): "you could just contact the Pharmacy and they'll be able to mail it for you"
+
+CarePlan (11391-11465): "you could just contact the Pharmacy and they'll be able to mail it for you"
+
+Probe    (11468-11506): "Is that what happened and they said no"
+
+Factor   (11522-11554): "I haven't contacted the Pharmacy"
+
+CarePlan (12095-12127): "Do you want it all mailed to you"

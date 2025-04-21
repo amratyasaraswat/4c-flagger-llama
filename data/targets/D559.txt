@@ -1,0 +1,21 @@
+Red Flag (368-397): "When did you stop taking this"
+
+Red Flag (444-510): "You weren't taking meds for both the blood pressure @@@ since then"
+
+Red Flag (1057-1085): "You stopped taking it in '08"
+
+Red Flag (1101-1105): "Yeah"
+
+Probe    (1120-1132): "Why was that"
+
+Probe    (1432-1466): "Do you remember why you stopped it"
+
+Red Flag (11155-11202): "they gave me meds and I stopped taking it there"
+
+Red Flag (11285-11313): "and then I stopped taking it"
+
+Red Flag (20442-20508): "Um and hopefully I'll be seeing you more regularly in the meantime"
+
+Red Flag (20524-20542): "No I don't want uh"
+
+Factor   (20544-20589): "I don't like coming to the hospital regularly"

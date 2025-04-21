@@ -1,0 +1,21 @@
+Red Flag (3300-3336): "I had an issue with the prescription"
+
+Factor   (3348-3492): "didn't want to give me the appropriate. They gave me some to go home with then they were supposed to mail it to me. I never got it in the mail"
+
+Factor   (3627-3765): "And then he tried to say it was my fault because I didn't sit and wait for some of it. I was told that it was going to be mailed it to me"
+
+CarePlan (3885-3941): "I was gonna say we'll do that and make sure we refill it"
+
+CarePlan (3944-4095): "I'll give you 30 days, oh yeah 30 days is one of the things we do and then we'll do eight refills okay. You should have some way more than enough okay"
+
+CarePlan (4310-4370): "I'll tell you what I'm gonna do, let's do 60, how about that"
+
+CarePlan (4412-4503): "Yeah and then you can get five refills so you don't have to come back every two months okay"
+
+CarePlan (4520-4567): "So can I do the refills on the website stuff or"
+
+CarePlan (4582-4592): "Yeah, yeah"
+
+CarePlan (4649-4747): "I think they'll so right now pick them up today and then you can do the rest from the website okay"
+
+CarePlan (4824-4989): "If there's any problems if they don't want to give you something just call here. If I'm not here and like somebody else is then you got to make sure you get it okay"

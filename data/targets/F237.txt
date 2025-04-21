@@ -1,0 +1,25 @@
+Red Flag (3764-3793): "you were 8% which is not good"
+
+Red Flag (4260-4279): "Usually they're 166"
+
+Red Flag (4294-4395): "So then with an 8 on June 15th you were averaging like 180 fasting. So it's not very well controlled"
+
+Factor   (4411-4489): "But I haven't been able to exercise cause @@@. I used to just ride a bike @@@"
+
+Factor   (4411-4489): "But I haven't been able to exercise cause @@@. I used to just ride a bike @@@"
+
+Probe    (4504-4537): "Have you been taking your insulin"
+
+Probe    (4589-4628): "And have you been watching what you eat"
+
+Red Flag (5312-5382): "In the mornings 137 I believe it was. Over this last couple of months"
+
+Red Flag (5542-5582): "I've had lows in the middle of the night"
+
+Factor   (6036-6166): "Yes but what I do at my job. But I eat; I may have dinner at 10-10:30 a night. I think that affects me because of the way I work"
+
+Factor   (6237-6300): "I work odd hours, depends on when I'm called and what I'm doing"
+
+Factor   (6436-6805): "I think that's one of the main problems right there. I've got this, I'm trying to change jobs right and I change what I do to get expanded out but I find myself eating @@@ constant now and I told my other doctor the same thing. I mean I got to work and that sort of work is not really four or five almost is,@@@ there but never that late and I know that's the problem"
+
+Probe    (7947-7979): "And you are taking the metformin"

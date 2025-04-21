@@ -1,0 +1,1434 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR C996 
+PATIENT?  Hello.
+
+PATIENT C996
+How you doing doctor?
+
+DOCTOR C996
+Good how are you?
+
+PATIENT C996
+I'm good?  Got married yet?
+
+DOCTOR C996
+No.  One month.
+
+PATIENT C996
+One more month.
+
+SECOND PERSON C996
+I can't imagine.
+
+DOCTOR C996
+Yeah grab a seat.
+
+PATIENT C996
+Oh.
+
+DOCTOR C996
+Just about there.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+I’m kinda excited, looking forward to it a little bit.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+But it's scary.
+
+PATIENT C996
+That's okay.  
+PATIENT C996
+Oh it'll be alright.
+
+DOCTOR C996
+How are things going for you?
+
+PATIENT C996
+Pretty good.  I got my little quirks.
+
+DOCTOR C996
+Yeah.
+
+PATIENT C996
+Yeah.  Pain here and there.
+
+DOCTOR C996
+Any problems?  Want to talk about today, just following up?
+
+PATIENT C996
+No, no big problems, except every so often my damn ankle hurts right here.
+
+DOCTOR C996
+Yeah.
+
+PATIENT C996
+Sore as hell.
+
+DOCTOR C996
+What do you do when it hurts?  Like what makes it hurt?
+
+PATIENT C996
+I don't know it just comes and goes.
+
+DOCTOR C996
+You you injure it?
+
+PATIENT C996
+Not that I can remember.
+
+DOCTOR C996
+Did you do any exercise recently?
+
+SECOND PERSON C996
+Only working around the house.
+
+DOCTOR C996
+Okay, walking around.  I mean the only thing we kind of do for that, do you take anything for it to help?
+
+PATIENT C996
+Uh well I got some medicine Naproxen and that @@@.
+
+DOCTOR C996
+Yeah probably Naproxen.
+
+PATIENT C996
+Yeah that and my wife, she rubs it and massages it with a liniment, like a liniment and it gets better.
+
+DOCTOR C996
+Yeah.  You probably just have some strain on the ligaments and everything.
+
+PATIENT C996
+Right it's just like a little pain that comes.
+
+DOCTOR C996
+It comes up too?
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+It's probably a little strain in the muscle.  Does it seem to be on the outside?
+
+PATIENT C996
+Yeah like right, right in here.
+
+DOCTOR C996
+There's a kind of strain where you're pushing your down and you're using these muscles.
+
+PATIENT C996
+Oh.
+
+DOCTOR C996
+And you’re using the muscles on the outside of the ankle.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+Pushing down like that so.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+The one thing to do is just you know keep exercising the ankle movement around.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+And don't overwork it too much.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Heating pads and stuff will help with that.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+Well and I mean and I'll take a look at it just to make sure there's nothing swollen in there or anything.
+
+SECOND PERSON C996
+Right.
+
+DOCTOR C996
+Um, anything else?  Have you been checking your sugars?
+
+PATIENT C996
+Yeah.  I'm in that study you know.
+
+DOCTOR C996
+Oh right yeah.
+
+PATIENT C996
+Calling it in three times a week.
+
+DOCTOR C996
+Okay.  Um how do they look at home?
+
+SECOND PERSON C996
+They look good.  @@@.
+
+DOCTOR C996
+So when do you check them?
+
+PATIENT C996
+Uh in the mornings and before I eat.
+
+DOCTOR C996
+What is it usually?
+
+PATIENT C996
+Uh it depends on if I’ve been naughty at night.
+
+DOCTOR C996
+Yeah and in the morning?
+
+PATIENT C996
+124, 27 you know.
+
+DOCTOR C996
+So 120s that's pretty good.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+Any low ones?
+
+PATIENT C996
+Uh in the morning no.  I've had a few high ones like in the 150 range.
+
+DOCTOR C996
+That's still not too bad so that's good.
+
+PATIENT C996
+But after I take the medicine you know it's back to 130, 12 goes down to like 116, 107.
+
+DOCTOR C996
+So it's pretty good.  So you're keeping in a good range and how about the blood pressure?
+
+PATIENT C996
+Uh blood pressures range from like 130 you know, the bottom like 78 and heart rate, the heart rate always seems a little high.
+
+DOCTOR C996
+@@@.
+
+PATIENT C996
+Yeah about 93, 98, one time 106.
+
+DOCTOR C996
+Any reason why it's so fast?
+
+PATIENT C996
+You mean.
+
+DOCTOR C996
+No chest pain, shortness of breath?
+
+SECOND PERSON C996
+No not really.  
+
+PATIENT C996
+It usually go up a little when I do my inhaler you know.
+
+DOCTOR C996
+Okay that's why.  The inhaler makes it a little fast that makes sense yeah.
+
+PATIENT C996
+Right.  I get a little jittery.
+
+DOCTOR C996
+It speeds it up.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+It @@@ should.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+Alright.  So all the meds here, you're still taking the metformin?
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+And the lisinopril, amlodipine.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+Niacin?
+
+PATIENT C996
+Yeah.  I'm taking every damn thing.
+
+DOCTOR C996
+We gave you more than enough so.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+That’s awesome, the blood pressure is good today.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+Really well-controlled, better than even before.  Pulse is high still.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+We'll recheck that.  Okay.  How is that knee?
+
+PATIENT C996
+Uh it's doing pretty good.
+
+DOCTOR C996
+Okay.
+
+PATIENT C996
+Yeah, seems like it leaves one area and go into another area.  @@@ and that wasn't a normal thing it's, just had a pain and that's normal but shit what can you do?  @@@.  
+
+DOCTOR C996
+Well I know we tested a bunch of labs last time.
+
+PATIENT C996
+Yeah, yeah.
+
+DOCTOR C996
+And I remember that they all came back normal so @@@.
+
+PATIENT C996
+Didn't I get an x-ray or something?
+
+DOCTOR C996
+You did like x-ray and that was okay.  Your iron was okay, we checked that.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+And you know everything else here, your thyroid looks okay so I don't think there's any like any cause for, so you probably did something like first @@@ and it happens sometimes you don't even.
+
+PATIENT C996
+Yeah.
+
+SECOND PERSON C996
+Okay.
+
+DOCTOR C996
+So today there's nothing prominent.  When was the last time you saw the eye doctor?  In October?  Is that right?
+
+PATIENT C996
+I think so.  Yeah that's it.
+
+DOCTOR C996
+And your level was not too bad.  Your A1c level was good, it was 7.2.  Now I want it below 7.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+But that's not bad.
+
+PATIENT C996
+What's that fellow when I called in for my shoes?
+
+DOCTOR C996
+Uh-huh.
+
+PATIENT C996
+They asked me did I know my A1c.
+
+DOCTOR C996
+Oh they asked you, that's the one you want to know.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+7.2 so.
+
+PATIENT C996
+7.2 and they want it below 6 right?
+
+DOCTOR C996
+Well closer to, probably under 6.5 would be best.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+I'd be happy to get you under 7. To be honest.
+
+PATIENT C996
+Yeah okay.
+
+DOCTOR C996
+So I mean, you're almost there and you're not on a ton of meds so.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+I mean we could probably let it go up a little bit.  I mean I think the way your sugars are looking and how's the diet and exercise doing?
+
+SECOND PERSON C996
+Good.
+
+PATEITN C996
+Yeah.
+
+DOCTOR C996
+Yeah so you been losing weight, the same.
+
+SECOND PERSON C996
+Well I might let him @@@ 206, 207.
+
+DOCTOR C996
+Pretty good.  So losing a little?
+
+SECOND PERSON C996
+Yeah.
+
+DOCTOR C996
+Pretty similar to last time.
+
+PATIENT C996
+I've stopped eating a lot.
+
+DOCTOR C996
+Okay. Your diet’s been good at least.
+
+PATIENT C996
+Yeah.  Cause I got a sensitive tooth right there.
+
+DOCTOR C996
+So that's how it's working?
+
+PATIENT C996
+Yeah I got do another @@@.  Sometimes I tell you I can't eat nothing.
+
+DOCTOR C996
+Oh all the good stuff you can't eat.
+
+PATIENT C996
+Yeah, like fried chicken, cause that's hard.
+
+DOCTOR C996
+Yeah, it hurts too much.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+Yeah okay.
+
+PATIENT C996
+Go ahead.
+
+DOCTOR C996
+Oh no just stay where you're at.
+
+SECOND PERSON C996
+Okay.
+
+DOCTOR C996
+Eat today already?
+
+PATIENT C996
+Yeah I ate.  I went for blood work.
+
+DOCTOR C996
+Okay.  So did they check your cholesterol?
+
+PATIENT C996
+Right yeah did the blood work.
+
+DOCTOR C996
+Okay.
+
+PATIENT C996
+They called me and told me to come in and check my @@@.
+
+DOCTOR C996
+Okay.  It should be here.
+
+PATIENT C996
+@@@.
+
+DOCTOR C996
+It's still a little high.
+
+PATIENT C996
+Oh they did it already?
+
+DOCTOR C996
+Yep.  So we might need to uh, let's see.  Are you taking the um simvastatin, you're taking it?
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+And you're taking the niacin.
+
+PATIENT C996
+Niacin.  I may be slacking on that one a little bit.
+
+DOCTOR C996
+Okay try and take it daily so I don't have to.
+
+PATIENT C996
+Okay.
+
+SECOND PERSON C996
+One time when I took that stuff.
+
+DOCTOR C996
+Uh-huh.
+
+SECOND PERSON C996
+And I got me burning and burning and my skin's on fire.
+
+DOCTOR C996
+You can take something for that.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+You can take a Benadryl or using an aspirin before you take it.
+
+SECOND PERSON C996
+Right.
+
+DOCTOR C996
+So you take aspirin anyway right?
+
+SECOND PERSON C996
+Right.
+
+DOCTOR C996
+Baby aspirin at night like when you're going to take the niacin.  So take the aspirin a little before you take that pill.
+
+PATIENT C996
+Oh okay, like 81 mg.
+
+DOCTOR C996
+Yeah.
+
+SECOND PERSON C996
+Oh okay.
+
+DOCTOR C996
+So if you take that before it should help. So when you take the aspirin.
+
+PATIENT C996
+That scared the shit out of me.
+
+PATIENT C996
+Right and I like to know, hearing these reports about this is outside a little bit of the norm, about testosterone.
+
+DOCTOR C996
+Yes.
+
+PATIENT C996
+So um now um I was been on the computer and found that.  Like I don't seem like I don't want my, you have to want desire for sex or whatever.
+
+DOCTOR C996
+Uh-huh.
+
+PATIENT C996
+And that's one of the reason low testosterone.
+
+DOCTOR C996
+Right.
+
+PATIENT C996
+Is there a test for that?
+
+DOCTOR C996
+There is but it's something I don't like to check because I'll tell you the reason because giving testosterone has it’s own risk, it hurts your liver you know.
+
+PATIENT C996
+Oh really.
+
+DOCTOR C996
+It can do a lot of different things.  It changes your sugar levels.
+
+PATIENT C996
+Oh.
+
+DOCTOR C996
+It'll do @@@muscle mass at the same time, so like the prostate.  So if you're older obviously there's an increased risk of prostate cancer.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+I think it's probably good that they advertise and we don't know who really has benefit.
+
+PATIENT C996
+Oh okay.
+
+DOCTOR C996
+So I don't recommend it unless like you're getting really fatigued, it's like maybe you know it's like you're getting more like your hair like on the arms falling out.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+You're developing breasts then I would think oh you don't have testosterone you know.
+
+PATIENT C996
+Oh okay.
+
+DOCTOR C996
+But like I think in general you know for low energy I wouldn't recommend it because of it’s more risks than benefits.
+
+PATIENT C996
+Cause that's just a bunch of hype.
+
+DOCTOR C996
+Yeah I mean we could check it but even if it was low and unless it was really low...
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+There’s no benefit.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+You know, it would have to be super low.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+I would be, I mean it's something we can look into.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+I mean as you get older, you lose a little bit of desire.  Do you have any trouble getting erections or anything?
+
+PATIENT C996
+Uh, kind of, sort of.
+
+DOCTOR C996
+Oh yeah, sometimes.
+
+PATIENT C996
+Sometimes it still works, sometime it don't.
+
+DOCTOR C996
+Okay.  Well then we'll do something.
+
+PATIENT C996
+Yeah I got a wife that's 10 years younger than me so she @@@.
+
+DOCTOR C996
+She wants you to do well.  Unterstandable.
+
+PATIENT C996
+That's alright.  I think it's um we'll have to get her a toy.  Hey whatever does it?  Right.
+
+DOCTOR C996
+But I guess the question is you know is there anything else that could be contributing and like how's your sleep been?
+
+PATIENT C996
+Uh that's kind of shitty at times.
+
+DOCTOR C996
+What happens? Do you wake up?  
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+Do you think you snore or you wake up short of breath or anything?
+
+SECOND PERSON C996
+No.
+
+PATIENT C996
+I goes to bed 9-9:30, go to sleep and I wake up.  If I don't take a Advil P.M. I wake up like 2 o'clock.
+
+DOCTOR C996
+Why are you waking up?  What's going on?
+
+PATIENT C996
+I don't know.  I just wake up.
+
+DOCTOR C996
+Are you tired @@@.
+
+SECOND PERSON C996
+No, uh uh.  I just wake up. I don’t know why.
+
+PATIENT C996
+What. 
+
+DOCTOR C996
+Huh.  Can you go back to sleep?
+
+PATIENT C996
+Yeah maybe after a while I go back to sleep.
+
+DOCTOR C996
+Are you tired during the day?
+
+PATIENT C996
+No I don't really do shit.  It's just that I wake up, I don't know why.
+
+DOCTOR C996
+I don't know why either yeah.
+
+PATIENT C996
+I wake up, I'm thinking on things that are important you know, crazy.
+
+DOCTOR C996
+Have been anxious?
+
+PATIENT C996
+What?
+
+DOCTOR C996
+Have you been anxious?
+
+PATIENT C996
+Sometimes I do get a little anxious.
+
+DOCTOR C996
+With worries about what?  Any in general?
+
+PATIENT C996
+No, just thinking about overall affairs.
+
+DOCTOR C996
+Yeah.
+
+PATIENT C996
+Just you know crazy shit.  How's the money going to last you know, I know, you know like and if I take an Advil P.M. I sleep good.
+
+DOCTOR C996
+I don't recommend probably continuing to do that.
+
+PATIENT C996
+Why?
+
+DOCTOR C996
+You know when you can.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+Now all we're going is @@@.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+If you feel like you're gonna wake up or you're having trouble, just take it before you go to bed.
+
+PATIENT C996
+It's like a half a pill you know.
+
+DOCTOR C996
+Good you know I mean I think it's real easy but I can give you a different medicine that might help with your erection problem.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+And if you feel maybe, you know another thing I think having a younger lady, do you feel pressure?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+Any pressure to like perform?
+
+PATIENT C996
+No she's understanding.
+
+DOCTOR C996
+Okay.  
+
+PATIENT C996
+@@@.
+
+DOCTOR C996
+You know, sometimes that can play a part. You get worked up and you want to do it and when you want to do it so bad you can't.
+
+PATIENT C996
+I know sometimes when I see her cycle.
+
+DOCTOR C996
+Hmm.
+
+PATIENT C996
+She's going through menopause.
+
+DOCTOR C996
+Hmm.
+
+PATIENT C996
+Man she can get real crazy.
+
+DOCTOR C996
+Yeah.
+
+PATIENT C996
+The least little things, you know upset her, you know.  A guess women are like that @@@.
+
+DOCTOR C996
+I think around menopause is probably the worst.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+Cause the woman knows what's happening. Those hormones.
+
+PATIENT C996
+Do men go through menopause?
+
+SECOND PERSON C996
+Not really um.
+
+DOCTOR C996
+Your testosterone goes kind of go slowly.  It's not like how you where you just shut off.
+
+SECOND PERSON C996
+Right, right.
+
+DOCTOR C996
+Like a slow drop so over time you know notice obviously testosterone is @@@ talking about.
+
+SECOND PERSON C996
+Right, right.
+
+DOCTOR C996
+Not really, unless you're, testicles totally fails and generally when it fails you gotta go to @@@.
+
+PATIENT C996
+Right okay.  Yeah I guess I just have to, @@@, live off the memories.
+
+DOCTOR C996
+Yeah.  Well you know it's something I would think about checking from.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+If you really want, if you're really concerned about, how often can you get an erection?  Do you wake up with erections?
+
+PATIENT C996
+No not really.
+
+DOCTOR C996
+No.
+
+PATIENT C996
+I don't know even @@@.
+
+DOCTOR C996
+No, not anymore.
+
+PATIENT C996
+That's what I say is it supposed to drop like that?
+
+DOCTOR C996
+How quickly did it fall off, I mean fall away?
+
+PATIENT C996
+Um gradually.
+
+DOCTOR C996
+Like all the time?
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+Well I think you know, part of that is getting the diabetes under control.
+
+PATIENT C996
+Right.
+
+SECOND PERSON C996
+Yeah.
+
+PATIENT C996
+The medicines.
+
+DOCTOR C996
+Yeah.  Now that your sugars are getting pretty good.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+I think that's gonna help.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+And now the blood pressures even looks a little better. So that’s going to help.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+So the only thing that I would say that I think will help rather than the testosterone is you know getting around and like walking.
+
+PATIENT C996
+Exercising.
+
+DOCTOR C996
+Get the blood flowing.  The biggest problem is the blood flow.
+
+PATIENT C996
+Right, right.
+
+DOCTOR C996
+I doubt if its testosterone but you don’t look like a guy who is short on testosterone.
+
+PATIENT C996
+Yeah okay doc.
+
+DOCTOR C996
+I knew you did.  So I wouldn't worry about it.
+
+PATIENT C996
+Right okay.
+
+DOCTOR C996
+So I think you'll be okay.
+
+PATIENT C996
+Alright.
+
+DOCTOR C996
+Get moving.  Anything that cleans out the blood vessels is good.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+And get the blood flowing.
+
+PATIENT C996
+Okay.  I know I went out of town and I work, you know, I was enclosing my back porch and  @@@.
+
+DOCTOR C996
+Oh.
+
+PATIENT C996
+I worked every day. And I felt better. I got sore afterwards. After working you know so heart rate and all of that, I started feeling better though.  So I got to start exercising.
+
+DOCTOR C996
+You need to do that.
+
+PATIENT C996
+Yeah, yeah.
+
+DOCTOR C996
+It’s all you got to do it then.
+
+PATIENT C996
+Right, okay.
+
+DOCTOR C996
+So maybe that's the main thing.  I don't think you have any medications that are causing a problem and I'm just looking here.  Yeah you don't have any medications that should interfere.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+That would be another thing I'd check.
+
+PATIENT C996
+Don't the water pills do that?  The water pill?
+
+DOCTOR C996
+Not really. They shouldn't.  Everything else looks good.  
+
+SECOND PERSON C996
+@@@.
+
+DOCTOR C996
+I need to do a quick exam on you and you already got all your labs done.  They look obviously the cholesterol is still a little high.  Not where I want to see the bad cholesterol, the 128.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+I want that under 100 but if you take the niacin.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+That might help.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Just take the aspirin before.  Cholesterol's okay.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Not where we want it to be, it's just a little high triglycerides but that will go down when the diabetes is under better and better control, these are going to get better so.  @@@ before and your blood looks fine, nothing here that’s worrisome.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+So that's about it.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Let me do a quick exam on you.  I'll go talk with the other doc and we'll get you out of here.  Do you need anything else?
+
+PATIENT C996
+Uh no I'm good.
+
+DOCTOR C996
+Okay.
+
+PATIENT C996
+It's all good.
+
+DOCTOR C996
+When did you take your inhaler last?
+
+PATIENT C996
+Uh this morning, about 8:00.
+
+DOCTOR C996
+Okay I think it's been fast but nothing.  Did you walk around a lot before you got here?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+Okay.  You don't feel short or breath, chest pain?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+Okay.  Nausea, vomiting?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+You've been taking them with liquid?
+
+PATIENT C996
+Yeah, yeah.
+
+DOCTOR C996
+No fevers, chills?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+Coughing up anything?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+Pain when you urinate?
+
+PATIENT C996
+Uh what?
+
+DOCTOR C996
+Any pain when you urinate?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+Okay.  You are actually just a little bit fast.  I'm making you nervous.
+
+PATIENT C996
+You put me on the spot doc.
+
+DOCTOR C996
+Take a deep breath.  Again.  Any pain here?
+
+PATIENT C996
+No.
+
+DOCTOR C996
+Can I take a look at your feet?
+
+PATIENT C996
+Yeah sure.
+
+DOCTOR C996
+I want these reminders to quit.  Alright.
+
+PATIENT C996
+@@@.
+
+DOCTOR C996
+Is that right.  You don't want them too moist anyway.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+With diabetes.  So you got good feeling along through here?
+
+PATIENT C996
+Yes.  I had um surgery on that @@@.
+
+DOCTOR C996
+Yeah what'd you have done there?
+
+PATIENT C996
+I had like a hammertoe and.
+
+DOCTOR C996
+Is this recently.
+
+SECOND PERSON C996
+About a year.
+
+PATIENT C996
+Yeah.  It was painful as hell in that joint @@@.
+
+DOCTOR C996
+Better now?
+
+PATIENT C996
+Yeah it got kind of dark you know and they cut that joint up.  They broke that bone, put a pin in it and straightened it out.
+
+DOCTOR C996
+That helped out a lot?
+
+PATIENT C996
+What?
+
+DOCTOR C996
+That helped out a lot?
+
+PATIENT C996
+Oh yeah.
+
+DOCTOR C996
+Do you have feeling here?
+
+PATIENT C996
+Yes.
+
+DOCTOR C996
+@@@, working.
+
+PATIENT C996
+Right.  No I'm retired.
+
+DOCTOR C996
+Oh they look good.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+@@@.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+Oh they want me to screen everyone for HIV.  I mean you already had labs drawn today.  I'll just say we'll do it next time.
+
+PATIENT C996
+Okay.  Yeah I think I'm safe.
+
+DOCTOR C996
+I’m sure you are, but they tell me to do it for everyone.
+
+PATIENT C996
+Yeah okay, okay.
+
+DOCTOR C996
+So but we can skip it today.  @@@.
+
+PATIENT C996
+Alright.
+
+DOCTOR C996
+And you had your c-scope four to five years ago.
+
+PATIENT C996
+Right.  
+
+DOCTOR C996
+I got it all set up.
+
+PATIENT C996
+What the?
+
+DOCTOR C996
+Oh the colonoscopy.
+
+PATIENT C996
+Oh.
+
+DOCTOR C996
+Everything else looks okay.  You said the @@@ is better.  Normal.  Everything else is normal.  Alright let me talk with the other doc.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+And I think, yeah no big changes.  Just we'll try that niacin okay.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+I'll be back in a moment.
+
+PATIENT C996
+And that aspirin won't let me get the burns huh?
+
+DOCTOR C996
+It'll help.  If it doesn't work we can try a full dose aspirin.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+The 325 and you can try that and that should help prevent it at least.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Either that and if that doesn't work Benadryl.
+
+PATIENT C996
+Oh Benadryl.
+
+DOCTOR C996
+Yeah sometimes that works.  That's what's in the Tylenol P.M. anyway.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+So take it before bed.
+
+PATIENT C996
+Yeah.
+
+DOCTOR C996
+And it works like Tylenol P.M., it'll work.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Try it with the aspirin first.
+
+PATIENT C996
+Okay.  Alright.
+
+(DOCTOR OUT:  46:23  DOCTOR IN:  52:33)
+
+DOCTOR C996
+Alright one change.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+We are going to change your one cholesterol medicine.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Not the niacin, the simvastatin.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+We're gonna stop that one and we're going to put you on something called Crestor.
+
+PATIENT C996
+Crestor.
+
+DOCTOR C996
+Yeah.  But keep taking this until they get you the Crestor cause I got to get it approved.
+
+PATIENT C996
+Okay.  What's the difference?
+
+DOCTOR C996
+Stronger.
+
+PATIENT C996
+Stronger?
+
+DOCTOR C996
+Stronger, and I don’t think you’ve had side effects from that?
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+But um it's a little strong and @@@ benefit.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+This might actually help you with your erections too, to be honest.  So let’s do whatever we can to help you.
+
+PATIENT C996
+Okay the Crestor, once I get the Crestor then and take the niacin.
+
+DOCTOR C996
+You take the niacin and you stop the simvastatin.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+So let me uh make sure, it's not formulary criteria restricted.  Hmm.  We'll start you at 10 mg and we'll go up if we need to but we'll start you low so we'll have someplace to go.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+And I'll do refills.  @@@.  Okay.  Right there.
+
+PATIENT C996
+So they going to do six months, every six months?
+
+DOCTOR C996
+Yeah you want to come back in six months or three months?
+
+PATIENT C996
+Oh I'll come in six.  That would be when?
+
+DOCTOR C996
+Uh where we at?
+
+PATIENT C996
+July?
+
+DOCTOR C996
+April, July.
+
+PATIENT C996
+Uh.
+
+DOCTOR C996
+If you want to come in July we could do that and then we could get, I mean you know see how you're doing with the medications.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Any issues.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+Okay.  And then we can go back to six months.
+
+PATIENT C996
+Okay.
+
+DOCTOR C996
+And no labs today.  @@@.  I'll have them send it to you, so you don’t have to wait.
+
+PATIENT C996
+Okay.
+
+SECOND PERSON C996
+Congratulations @@@ married.
+
+DOCTOR C996
+Okay.  See you in three months?
+
+PATIENT C996
+Alright.  Hey I'm glad to have met you.
+
+DOCTOR C996
+@@@.
+
+PATIENT C996
+Walking around with your chest out.
+
+DOCTOR C996
+Yeah I don't know about that.  @@@.  She'll be in control.
+
+PATIENT C996
+Right.
+
+DOCTOR C996
+Here you go, just check out with her okay.
+
+PATIENT C996
+Okay.  Have a good one, doc.
+
+DOCTOR C996
+You too.
+
+PATIENT C996
+@@@.
+
+PATIENT LEAVES:  55:31.
+
+Time is 2:01 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255127
+TRANSACTION # 578-10-2-316-0103

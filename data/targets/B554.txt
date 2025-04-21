@@ -1,0 +1,11 @@
+Red Flag (279-360): "I've uh been, it's been uh kind of a progressive problem for the last month maybe"
+
+Red Flag (1369-1485): "No I hadn't got a primary care physician. Whatever problems I had in the past were always Emergency Room situations"
+
+Red Flag (3967-4010): "I hadn't had any check-up at all since then"
+
+Red Flag (6161-6206): "the right one isn't working as good as it had"
+
+Red Flag (7541-7639): "he wanted to put me on Coumadin and I said doc you know I'd really rather not get involved in that"
+
+Probe    (8112-8217): "You didn't call when you are mentioning this for something that has been happening for the last one month"

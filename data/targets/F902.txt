@@ -1,0 +1,81 @@
+Red Flag (225-255): "You know I need some medicines"
+
+Red Flag (290-329): "I ain't got no more medication, nothing"
+
+Red Flag (369-531): "Nada. They made a mistake. They made me come down here this morning and then found out I ain't due to be here until 1:30, trying to cool myself off a little bit"
+
+Probe    (546-599): "Okay what uh, how come you're out of your medications"
+
+Red Flag (615-766): "I'm out. I'm out of everything. I don't take anything, my @@@, um hydrocortisone, I'm out of @@@ I took the last this morning. I'm out of everything"
+
+Factor   (767-891): "and then the doctor round there at the Pharmacy, where you go in with your number,he said no he ain't gonna give me that @@@"
+
+Red Flag (1246-1302): "Yeah I missed one of my appointments on the 13th of July"
+
+Factor   (1305-1348): "I missed that appointment cause I overslept"
+
+Red Flag (2353-2384): "I ain’t been able to get my INR"
+
+Factor   (2385-2656): "because they wanted me to come to Urgent Care. I told you I'm not going to go to Urgent Care, now I sat around there three hours, I not going to go to that, that don't make sense when I can get over here then I sit here another two hours. I don't have that kind of time"
+
+Red Flag (3010-3114): "I ain't got any more of that warfarin, what do you call it, Warfarin or Coumadin, whatever that stuff is"
+
+Red Flag (3153-3242): "So I'm out of blood thinner. I'm out of all the medication, I need it to be refilled bad"
+
+Red Flag (3914-4026): "They gonna give me some disease another @@@ they done give me so many diseases in this hospital, it’s phenomenal"
+
+Red Flag (4277-4345): "I'm kind of pissed with the VA cause ever since I've been going here"
+
+Red Flag (4404-4585): "Ever since I been going to Jesse Brown, I been having problems man, you know what I'm saying. I been getting sicker and sicker. When I was at Lakeside, I didn’t have this problem"
+
+Red Flag (4620-4660): "But over here I got all kind of problems"
+
+Red Flag (4756-4817): "Because of that, the Cabergoline, it built plaque in my heart"
+
+Probe    (4832-4849): "Who told you that"
+
+Factor   (6460-6544): "I had no problem with my heart; my heart was in excellent condition till I come here"
+
+Factor   (7249-7318): "Um that's how the military cause the government ain't crap I tell you"
+
+CarePlan (7966-8006): "Alright, so we can check some labs today"
+
+CarePlan (7966-8006): "Alright, so we can check some labs today"
+
+CarePlan (8022-8069): "What labs, you mean I got to get my INR checked"
+
+CarePlan (8022-8069): "What labs, you mean I got to get my INR checked"
+
+CarePlan (8084-8100): "Yeah blood drawn"
+
+CarePlan (8084-8100): "Yeah blood drawn"
+
+Red Flag (9738-9765): "No I'm 209. I'm blowing up"
+
+Red Flag (9915-9936): "I only eat once a day"
+
+Red Flag (10194-10248): "And you missed the Cardiology appointment that you had"
+
+Red Flag (11513-11534): "And the bromocriptine"
+
+Probe    (11535-11552): "why'd you stop it"
+
+CarePlan (12745-12880): "We're gonna go to the Lab, get some blood drawn and then you're gonna go to, you want to pick up all your meds today here at the window"
+
+CarePlan (12745-12880): "We're gonna go to the Lab, get some blood drawn and then you're gonna go to, you want to pick up all your meds today here at the window"
+
+Red Flag (15251-15366): "And he wouldn't give me enough he gave me two, all the other doctors they give it to me, now he won't give it to me"
+
+Probe    (15387-15434): "Who prescribed you that, I don't see it in here"
+
+Red Flag (17216-17315): "I need everything, omeprazole @@@ I used my last medicines this morning I got taking my night pills"
+
+Red Flag (17755-17790): "No I ain't got no more, I need more"
+
+Red Flag (18319-18365): "But that stuff is gone man I have to take them"
+
+CarePlan (18862-18980): "So it will be filled um and you’ll be good to go, I'm going to put this in for the blood draw. So for the blood draws"
+
+CarePlan (18862-18980): "So it will be filled um and you’ll be good to go, I'm going to put this in for the blood draw. So for the blood draws"
+
+CarePlan (22076-22367): "You know what, if you have problems getting meds you don’t have to wait to see a doctor, you can tell the Blue Clinic nurse okay @@@ meds and they will page the doctor and he'll put in a prescription without seeing you. Just remember that, you don't have to see a doctor just to get refills"

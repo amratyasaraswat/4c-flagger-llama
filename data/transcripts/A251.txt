@@ -1,0 +1,1167 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR A251
+PATIENT.  Hi I'm DOCTOR.
+
+PATIENT A251
+DOCTOR.  Please to meet you DOCTOR.
+
+DOCTOR A251
+Nice to meet you.
+
+PATIENT A251
+What happened to DOCTOR?
+
+DOCTOR A251
+She's here.  The Gold Team.
+
+PATIENT A251
+I thought she was @@@.
+
+DOCTOR A251
+No she's here.
+
+PATIENT A251
+@@@ no more?
+
+DOCTOR A251
+What?
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+No.  She's the way to @@@ us.
+
+PATIENT A251
+Oh okay.
+
+DOCTOR A251
+@@@ your blood pressure is a little bit elevated today.  We'll recheck it.
+
+PATIENT A251
+Really.
+
+DOCTOR A251
+Yeah.  Just a tiny bit.  What has your blood pressure been running at home?  Do you take it?
+
+PATIENT A251
+I don't know.  They gave me a blood pressure machine; I can't make it work right.
+
+DOCTOR A251
+@@@.
+
+PATIENT A251
+They say @@@ arm @@@ .  
+
+DOCTOR A251
+Alright.  Yeah if you can go to Prosthetics one day and bring you old one and they could give you a new one then.
+
+PATIENT A251
+Is that from here?  I've had it for maybe a year or so but I never did get it to work so I just got angry you know.
+
+DOCTOR A251
+Alright.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+So you don't check it yourself at home?
+
+PATIENT A251
+No I used to though.
+
+DOCTOR A251
+Yeah.  I want you to check it.
+
+PATIENT A251
+I know.
+
+DOCTOR A251
+Um are there any problems or like how are you doing otherwise?
+
+PATIENT A251
+Oh I been having belly pain once in a while.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+And uh chest pains I'm still having.
+
+DOCTOR A251
+Uh-huh when is it?
+
+PATIENT A251
+And the hives I've still got.
+
+DOCTOR A251
+When has the chest pain been going on?
+
+PATIENT A251
+All the time.  It never stops.  I just gave up.
+
+DOCTOR A251
+Well when does it occur like when you're walking or not when you're walking or?
+
+PATIENT A251
+Like I was saying to one lady this morning like you touch this spot right here, it stays sore now all the time.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+She says that sounds like a muscle.
+
+DOCTOR A251
+Yeah it sounds like a muscle pain.  Have you tried any kind of like creams on it or anything?
+
+PATIENT A251
+Yeah.  Yeah it's just there on my neck and lower.  That's why they did all that stuff on my heart.
+
+DOCTOR A251
+Yeah to make sure it wasn't your heart.
+
+PATIENT A251
+And they say well this @@@ be my heart so.
+
+DOCTOR A251
+Yeah so you had a stent placed.
+
+PATIENT A251
+Right and uh.
+
+DOCTOR A251
+Are you doing better with that or relieved the symptoms yeah.
+
+PATIENT A251
+Yeah.
+
+DOCTOR A251
+Have you tried like a little heating pad or anything like that?
+
+PATIENT A251
+No.  I had some of that rub, I still got some left.  They gave me some muscle rub.
+
+DOCTOR A251
+Yeah and it didn't help?
+
+PATIENT A251
+It help some of it.
+
+DOCTOR A251
+So like why don't you do that or?
+
+PATIENT A251
+I do.
+
+DOCTOR A251
+Okay.  How about um problems elsewhere like any problems with, you stillget  headaches, how long has that been going on?
+
+PATIENT A251
+Uh they go off and on.  Like I've got one now, for about a week but I was thinking the next time I come.
+
+DOCTOR A251
+@@@.
+
+PATIENT A251
+Maybe for some reason there's pain in my chest and in the neck.
+
+DOCTOR A251
+Yeah muscle pain.
+
+PATIENT A251
+Yeah.
+
+DOCTOR A251
+Well are you still taking the gabapentin or not really?
+
+PATIENT A251
+I ain't taking nothing.  I ain't on nothing and the last time I come here the lady who gives me my medicines list she told me I was all out a lot of refills.
+
+DOCTOR A251
+Okay so which.
+
+PATIENT A251
+She say I need uh.
+
+DOCTOR A251
+So how long have you been off the medications?
+
+PATIENT A251
+Uh I know it was a month.
+
+DOCTOR A251
+A month.
+
+PATIENT A251
+Cause I went out of town and I was gone for a while so when I came back I made an appointment.  Probably about a month and a half or two months.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+Cause it was ’09 when I ran out and now this is 2010.
+
+DOCTOR A251
+@@@ okay.  So let's just go through some of your medications here.  You're on hydrochlorothiazide, you'll pick it up at the window, why don't you get it since you're here already.
+
+PATIENT A251
+Yeah @@@.
+
+DOCTOR A251
+And then the cholesterol medication.
+
+PATIENT A251
+Right.
+
+DOCTOR A251
+And then.
+
+PATIENT A251
+They took me off that blood pressure medicine.
+
+DOCTOR A251
+Yeah well you kind of need it today.  I mean your blood pressure is elevated and since you have a history heart disease you really need to be on a blood pressure medication.
+
+PATIENT A251
+Do I gotta go back on that?
+
+DOCTOR A251
+Uh-huh. @@@ aspirin.
+
+PATIENT A251
+I don't know what makes my blood pressure go up and down like that.  Yeah, I take an aspirin. @@@ at Walgreens.
+
+DOCTOR A251
+Yeah so do.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Do you want to pick it up here or do you want to like pick it up at Walgreens or here?
+
+PATIENT A251
+Uh I don't know, @@@.
+
+DOCTOR A251
+I'll @@@ alright.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+Cause I only take like one every day.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+I have two or three bottles of them.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+So I got like a half a bottle.
+
+DOCTOR A251
+Alright then I won't fill it.
+
+PATIENT A251
+I know I refilled this one.  I know I got at least 100 pills maybe 50.  I don't got uh like; I might have a couple of @@@ left.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+Uh @@@ cholesteral.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+I might have a few of those left.  But they last longer than any other pills and this one lasted a month.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+At a time.
+
+DOCTOR A251
+Well let's just start you on these medications, the cholesterol medication, we're gonna refill the aspirin and then one blood pressure medication.  Are you taking the Depakote or risperidone?
+
+PATIENT A251
+Uh yeah I supposed to pick that up today.
+
+DOCTOR A251
+You saw the psychiatrist right?
+
+PATIENT A251
+@@@ downstairs.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+She got a urine so I went and did that.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+I need something for my eyes.  I had that moisturizer to make more tears.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+It lasted, I think I ain't got no more and I ran out.
+
+DOCTOR A251
+Alright.
+
+PATIENT A251
+And now my eyes is really dry.
+
+DOCTOR A251
+I can give you some new drops.
+
+PATIENT A251
+I don't know why my eyes are so dry.  Every morning when I wake up I can't, I can't open them and I can't close them, it hurts.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+And then after I work them for about 10 minutes then they start back and stop hurting.
+
+DOCTOR A251
+Yeah I mean @@@ or no.
+
+PATIENT A251
+Well we got, actually we got no humidifier but we got that @@@ thing, we ain't got no @@@.
+
+DOCTOR A251
+Yeah @@@.
+
+PATIENT A251
+That's why it's drying it up.
+
+DOCTOR A251
+I mean it could be cause if you wake up at night yeah and you wake up in the morning and it's dry.
+
+PATIENT A251
+Yeah it's dry, real dry.
+
+DOCTOR A251
+Okay anything else then?  Any vision changes?
+
+PATIENT A251
+That's it.  No I got my eyeglasses.  They give me new eyeglasses.
+
+DOCTOR A251
+Okay good.  No cough or sore throat?
+
+PATIENT A251
+I had a cold.  I don't think I had no flu – I don’t take no flu shots - but I had a cold and I had a sore throat and I just got over the sore throat.  The sore throat lasted longer than the cold did.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+And sometimes I start to feel the sore throat, I think it's because I play a harmonica.
+
+DOCTOR A251
+Really.
+
+PATIENT A251
+Sometimes when I blow the harmonica a lot it be sore.
+
+DOCTOR A251
+Yeah.  You have nasal drainage or anything?
+
+PATIENT A251
+I have never get drainage.
+
+DOCTOR A251
+Well I'll give you this nasal spray so you can have that at home.  Sometimes your throat gets sore.
+
+PATIENT A251
+Yeah.
+
+DOCTOR A251
+Because there's stuff draining into the back of your throat.
+
+PATIENT A251
+Okay.
+
+DOCTOR A251
+So you can pick that up at the window today too alright.
+
+PATIENT A251
+Okay.  And uh yesterday uh.
+
+DOCTOR A251
+How about any problems with belly pain, nausea, vomiting, stools?
+
+PATIENT A251
+I'm gonna say, well my GI problem, the only reason I got this problem is cause I don’t got teeth.  It seem like sometimes, it doesn't do all the time but it when it did, at least three times a week.  I can lay down, if I'm laying down it seem like the food that I ate is gonna come back up.
+
+DOCTOR A251
+Hmm.
+
+PATIENT A251
+It do it at least two or three times a week.
+
+DOCTOR A251
+You feel like nauseous or?
+
+PATIENT A251
+I don't feel like I'm gonna throw up it just feel like, like a pain, it feel like food is kicking up by my stomach like @@@.
+
+DOCTOR A251
+Do you feel bloated and stuff?
+
+PATIENT A251
+I just feel like, @@@ but I do feel that.
+
+DOCTOR A251
+Do you feel like you’re full of gas.
+
+PATIENT A251
+Yeah well I have a lot of gas but it feel like basically like I said.
+
+DOCTOR A251
+Do you have like problems with acid is coming up?
+
+PATIENT A251
+Oh I still have some acid reflux right.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+That's what's doing it?  Acid reflux.  Okay.
+
+DOCTOR A251
+It could be a possibility.
+
+PATIENT A251
+Okay so.
+
+DOCTOR A251
+I’ll give you one of those medications.
+
+PATIENT A251
+I took that for a while and I'm gonna tell you what happened with that.  The lady said @@@ I thought you just take it at one time and it cured it. But she said you gotta take it every day.
+
+DOCTOR A251
+It depends on how bad it is yeah.  Some people take it every day and I only take it every once in a while if I need it.
+
+PATIENT A251
+They said you gotta take it, that's what the lady told me.  I got some lady downstairs.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+She said oh it'll go away @@@.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+I say my stomach is doing fine, I got nothing serious.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+But it didn't.
+
+DOCTOR A251
+Yeah.  And sometimes people notice @@@ happens.
+
+PATIENT A251
+And then you say take two times a day.
+
+DOCTOR A251
+That's what I do when I get it.
+
+PATIENT A251
+So you still use it when @@@ can't.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+Not so rough.
+
+DOCTOR A251
+Does it.
+
+PATIENT A251
+It feel like it gonna come up, it's burning like.
+
+DOCTOR A251
+Burning right.
+
+PATIENT A251
+Like a acid burn.  It feel like the food is coming up and it seems like.
+
+DOCTOR A251
+So I think the acid burning.
+
+PATIENT A251
+Sometimes I get it when I eat like ice cream or something.
+
+DOCTOR A251
+Really.
+
+PATIENT A251
+Yeah.
+
+DOCTOR A251
+@@@.  
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Do you want to try it or not?
+
+PATIENT A251
+I'll try it yeah I'll try it.
+
+DOCTOR A251
+I'll give you ranitidine and you can just take it once at bedtime okay.
+
+PATIENT A251
+That's just for the acid right?
+
+DOCTOR A251
+Uh-huh.  Okay.  Alright then um anything else?
+
+PATIENT A251
+I don't want the.
+
+DOCTOR A251
+Like constipation or anything?
+
+PATIENT A251
+I ain't constipated, my bowels move good.  And I need to ask for more @@@.  Uh @@@ sexual @@@.
+
+DOCTOR A251
+Do you need @@@.
+
+PATIENT A251
+Well I really need something.  I @@@ trying to @@@.  So if it don't work I ain't worried about it.
+
+DOCTOR A251
+Yeah well.
+
+PATIENT A251
+Cause that stuff makes the heart pump real fast.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+Yeah.
+
+DOCTOR A251
+Say ah.
+
+PATIENT A251
+Ah.
+
+DOCTOR A251
+Ah okay you're fine.
+
+PATIENT A251
+Okay.
+
+DOCTOR A251
+@@@.
+
+PATIENT A251
+My girlfriends talks like I need some drugs.
+
+DOCTOR A251
+Any pain?
+
+PATIENT A251
+No.  I just got a lot of @@@ right here.
+
+DOCTOR A251
+Has that headache been coming more often lately or?
+
+PATIENT A251
+No not really.
+
+DOCTOR A251
+Like once a month or once every three weeks or?
+
+PATIENT A251
+Some days I have @@@ pain.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+Uh I don't get it.
+
+DOCTOR A251
+Is it so bad that.
+
+PATIENT A251
+I noticed it today cause I got most of the time I take like a aspirin or and aspirin will really make it go away.  Tylenol too.
+
+DOCTOR A251
+The headache doesn't ever wake you up at night or anything does it?
+
+PATIENT A251
+No.
+
+DOCTOR A251
+Okay.  Deep breath, @@@.  Alrighty.  Can you lay down for me um no weight loss or anything right?
+
+PATIENT A251
+I gained weight.  At Thanksgiving I gained three pounds.  @@@ something I @@@.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Pain right there?
+
+PATIENT A251
+No the only place I got pain right here.
+
+DOCTOR A251
+Yeah where that rib.
+
+PATIENT A251
+Right here, right here.
+
+DOCTOR A251
+If you just massage for a few minutes.
+
+PATIENT A251
+It's like this spot, see right there?
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+Now I was gonna get, well right here too, I never noticed it over there.
+
+DOCTOR A251
+Well maybe you have um; you just need to put that medication that lotion on there.
+
+PATIENT A251
+The cream?
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+The muscle cream?
+
+DOCTOR A251
+It's a muscle cream.  Is it the menthol one or the.
+
+PATIENT A251
+Yeah it's the menthol one.
+
+DOCTOR A251
+I can give you the other one.
+
+PATIENT A251
+Okay.
+
+DOCTOR A251
+And we can see if that works.  Its chili pepper, like hot chili pepper make cause it to tingle a little bit.
+
+PATIENT A251
+I already got that.
+
+DOCTOR A251
+You want to try it or?
+
+PATIENT A251
+Yeah I got menthol.  I'll try the chili pepper too.
+
+DOCTOR A251
+Well don't rub your eyes after you put the cream.
+
+PATIENT A251
+You do that with menthol and even after you wash your hands that menthol can make your eyes burn.
+
+DOCTOR A251
+Yeah it works.  Yeah be careful.
+
+PATIENT A251
+I can smell them, so I know to be careful, believe me.
+
+DOCTOR A251
+Yeah @@@.
+
+PATIENT A251
+I washed them two or three times now cause I don't got that little bit and you forget and rub up here you in trouble.
+
+DOCTOR A251
+Yeah.  Do you need some gloves to use maybe?
+
+PATIENT A251
+Uh no.  I believe like I said about that because that would something maybe but I thought about it.  Like the menthol, like I got a little bit on my chin, it seems like those vapors from here come up and get me in the eye a little bit.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+I mean it didn't hurt, you have to put water and try to wash them, like out or something I mean it let's you know it's on there.
+
+DOCTOR A251
+Yeah, yeah the smells and everything.  Alright you're not smoking any more?
+
+PATIENT A251
+No I never been a smoker in my life.
+
+DOCTOR A251
+Okay good.  No drugs?
+
+PATIENT A251
+No drugs, that's for sure.
+
+DOCTOR A251
+Wine?
+
+PATIENT A251
+Uh I had a couple of drinks this year.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+The @@@ there too.  
+
+DOCTOR A251
+Yeah alright.
+
+PATIENT A251
+I had a glass of wine yesterday and I had a drink on Christmas and some wine.  I ain't had no hard alcohol, a wine or beer.  I'm not going to @@@ really I like beer stuff like that.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+That's all I drink, a can of beer maybe once a year, twice a year or a glass of wine.
+
+DOCTOR A251
+Alright.  Well it looks like.
+
+PATIENT A251
+And I drink a wine yesterday and it made me do that too, it made me feel like, feel like it.
+
+DOCTOR A251
+Yeah wine can make you feel.
+
+PATIENT A251
+I drank the wine, I ate some food and it felt like my food was gonna come back out of my stomach.
+
+DOCTOR A251
+Yeah it can cause that.
+
+PATIENT A251
+In my mouth.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+But the last time it didn't give me any trouble because I even drank some milk.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+Orange juice or something.  Orange juice will get me too.  I already know it'll get me.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+Cranberry juice don't do it as bad.  Orange juice will make you sick.
+
+DOCTOR A251
+So I want you to get your cholesterol test if you can when you come in.
+
+PATIENT A251
+How do you check that?
+
+DOCTOR A251
+Your blood tests.  If you come back tomorrow when you didn't eat or next week or something.
+
+PATIENT A251
+Why @@@ I had oatmeal.
+
+DOCTOR A251
+Yeah can you come another day when you didn't eat?
+
+PATIENT A251
+Yeah the last time, let me see DOCTOR gave me an appointment for, just make it for Friday.
+
+DOCTOR A251
+Yeah that's fine if you can just fast.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Yeah just come in Friday and get the blood drawn.
+
+PATIENT A251
+Okay.  But don't eat nothing that day right.
+
+DOCTOR A251
+But don't eat anything.
+
+PATIENT A251
+Okay.
+
+DOCTOR A251
+Okay I'll be right; oh I wanted to check your blood pressure.
+
+PATIENT A251
+Oh okay.  They just checked it out there. @@@. But I took my blood pressure out there.  I @@@ I felt like my heart was gonna be less.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+It was like breathing into a stick.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+A tunnel. @@@
+
+DOCTOR A251
+Hmmm… I wonder why.
+
+PATIENT A251
+I don’t know. @@@
+
+DOCTOR A251
+@@@.
+
+PATIENT A251
+Cause your heart is a muscle too.
+
+DOCTOR A251
+Nervew @@@.
+
+PATIENT A251
+You need some more towels over here.
+
+DOCTOR A251
+Oh okay.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Skip a beat.
+
+PATIENT A251
+Yeah @@@.
+
+DOCTOR A251
+Keep this arm @@@.
+
+PATIENT A251
+Okay.  See that's the problem with the thing I had. I’ll bring it back, though. @@@. 
+
+DOCTOR A251
+Alright.  I'll try it one more time yeah it's still high.
+
+PATIENT A251
+Oh it's still high. 
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+I didn’t eat nothing.
+
+DOCTOR A251
+But its okay, you need to be on the blood pressure medication right.
+
+PATIENT A251
+I need some uh, yeah I will be if you @@@.  They say it was fine the last three or four times I @@@.  Oh maybe when I had the cough I take the vitamin B 12, that wouldn’t do it?
+
+DOCTOR A251
+No.  You should be on a small dose of blood pressure medication anyway.
+
+PATIENT A251
+Okay.
+
+DOCTOR A251
+If you have heart problems.
+
+PATIENT A251
+Okay.  Alright.  They took me off it.  I didn't take myself off of it.
+
+DOCTOR A251
+Yeah now it's all on here yeah.  @@@.
+
+PATIENT A251
+And it just gave me like a pain pill because I was having pain in my chest, that worked pretty good.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Which one?
+
+PATIENT A251
+If you take pain pills you could be in pain and you wouldn’t even know it.
+
+DOCTOR A251
+Yeah.
+
+PATIENT A251
+So uh the last time I came the doctor gave me some pain pills.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+I forgot the name.
+
+DOCTOR A251
+Oh.  Oh no nitroglycerin?
+
+PATIENT A251
+No it was just like a pain pill. I ain’t got the paperwork @@@.
+
+DOCTOR A251
+I'll be right back okay.
+
+PATIENT A251
+Okay.
+
+(DOCTOR OUT:  82:16  DOCTOR IN:  88:46)
+
+DOCTOR A251
+Alright sir.
+
+PATIENT A251
+Do you know what I forgot to say to you?
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+I don't know if @@@ or not.  @@@.  I feel so bad, I sit in a hot tub of water, it might take a week and a half for them to go down.
+
+DOCTOR A251
+So you need to lie down.
+
+PATIENT A251
+@@@.
+
+DOCTOR A251
+Yeah okay.  I want to; we looked at your chart a little bit more.  Are you um, I forgot what I was gonna say, oh you know how the cardiologist wanted you to maybe do this one test?
+
+PATIENT A251
+Yeah I didn't want it.
+
+DOCTOR A251
+You don't want it?  @@@.
+
+PATIENT A251
+No they're @@@ radiation.  She told me that put a lot of radiation in your body.  She said it would flush out in about a week or two so I was.  Well don’t got to think about it, I don't want, I was scared at first.
+
+DOCTOR A251
+Do you want to go talk with them maybe?  You can make an appointment with them?
+
+PATIENT A251
+No I'm fine now.
+
+DOCTOR A251
+They'll make an appointment outside for you.
+
+PATIENT A251
+Right I do that.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+I scared. Too much @@@.
+
+DOCTOR A251
+Why don't you see them and talk to them because they wanted to make sure that your heart is okay you know.  That's the main thing.
+
+PATIENT A251
+I don't know what's going on.
+
+DOCTOR A251
+Okay.
+
+PATIENT A251
+I want to make sense of it.
+
+DOCTOR A251
+Well once you make an appointment then they can @@@.
+
+PATIENT A251
+Oh, oh, I'll think about it.  I just told you to schedule it @@@.
+
+DOCTOR A251
+I know but once, why don't we make the appointment and then you can call and cancel.
+
+PATIENT A251
+Uh.
+
+DOCTOR A251
+I mean this is your life we're talking about.
+
+PATIENT A251
+I know it is.
+
+DOCTOR A251
+It's not like.
+
+PATIENT A251
+But if they did, they done it and they find something wrong then what are they gonna do, cut me open?
+
+DOCTOR A251
+They're not gonna.
+
+PATIENT A251
+Sometimes I just don't want to know all this stuff.
+
+DOCTOR A251
+I mean yeah it's true, we don't know what's the next step.
+
+PATIENT A251
+Yeah that's what I like.  @@@
+
+DOCTOR A251
+So you want to hold off again?
+
+PATIENT A251
+Let me think about it.
+
+DOCTOR A251
+Do you want to come back in three months and talk to me about it?
+
+PATIENT A251
+@@@ operate on @@@ cut me open @@@.
+
+DOCTOR A251
+Okay so then.
+
+PATIENT A251
+That's the bad feeling I got cause I, like I said sometimes my hear is like this, it don't do it all the time.
+
+DOCTOR A251
+Uh-huh.
+
+PATIENT A251
+It feel like.
+
+DOCTOR A251
+Well I mean I think that's the reason why you should go and see the cardiologist.
+
+PATIENT A251
+I know.
+
+DOCTOR A251
+What do you think?
+
+PATIENT A251
+I still got to think about it.
+
+DOCTOR A251
+Alright it's up to you again.  Alright so then you're gonna go pick up your prescriptions and you'll get labs next Friday right?
+
+PATIENT A251
+Right.
+
+DOCTOR A251
+Whenever you see DOCTOR okay.
+
+PATIENT A251
+Right.
+
+DOCTOR A251
+Okay.  Do you need this to remember or you'll remember.
+
+PATIENT A251
+To do what?
+
+DOCTOR A251
+To pick up your prescriptions and labs next Friday.
+
+PATIENT A251
+Okay I'll take it.
+
+DOCTOR A251
+Alright take care.
+
+PATIENT A251
+Alright.  I'll, I mean I know there's something wrong but I don't @@@ something wrong with my musc.es.
+
+DOCTOR A251
+Yeah well.
+
+PATIENT A251
+And shoulder.  Something wrong cause it's been hurting too long.
+
+DOCTOR A251
+Yeah that's the reason why we were wanting you to do @@@.
+
+PATIENT A251
+@@@ scared.
+
+DOCTOR A251
+Yeah alright.
+
+PATIENT A251
+I'll think about it.
+
+DOCTOR A251
+@@@.
+
+PATIENT A251
+I'll talk to my wife about it.
+
+DOCTOR A251
+Alright @@@.
+
+PATIENT LEAVES:  91:36.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1255167
+TRANSACTION # 578-10-2-316-0103

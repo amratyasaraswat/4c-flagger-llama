@@ -1,0 +1,1160 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  10:15  
+
+DOCTOR A340
+PATIENT?
+
+PATIENT A340
+Yeah.  How you doing?  Long time no see.  Yeah @@@.
+
+DOCTOR A340
+Yeah @@@.
+
+PATIENT A340
+Well.
+
+DOCTOR A340
+Yeah @@@.
+
+PATIENT A340
+Hmm.
+
+DOCTOR A340
+Right in here.
+
+PATIENT A340
+Alright.
+
+DOCTOR A340
+@@@.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+@@@ what's been going on?
+
+PATIENT A340
+Uh acid reflux.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+I have vertigo.
+
+DOCTOR A340
+You have what?
+
+PATIENT A340
+Vertigo.
+
+DOCTOR A340
+Oh alright.
+
+PATIENT A340
+Yeah I have uh; the vertigo is ah, rough on me.
+
+DOCTOR A340
+Uh-huh.  Is it better now?
+
+PATIENT A340
+Uh in a way.
+
+DOCTOR A340
+Good.
+
+PATIENT A340
+In a way I'm better at walking you know but I still, feel @@@.
+
+DOCTOR A340
+Kind of dizzy.
+
+PATIENT A340
+Oh yeah, sometimes no.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+Um other than that, I keep getting this itching in my ear you know.
+
+DOCTOR A340
+Alright.  In both ears, or just one?
+
+PATIENT A340
+@@@ but now it's @@@ you know it kind of @@@ in my ear now.
+
+DOCTOR A340
+Okay.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+So usually its just wax so we'll take a look inside them.
+
+PATIENT A340
+No I clean them.
+
+DOCTOR A340
+You clean them?
+
+PATIENT A340
+I cleaned them.
+
+DOCTOR A340
+How do you clean them?
+
+PATIENT A340
+Peroxide, I put peroxide in them.
+
+DOCTOR A340
+You do.
+
+PATIENT A340
+I just take a little drop and drop it in.
+
+DOCTOR A340
+Just a drop or so.
+
+PATIENT A340
+I got a dropper you know.
+
+DOCTOR A340
+Okay.
+
+PATIENT A340
+Yeah cause when I had the vertigo I came out here.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+To Urgent Care.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+And I was driving.
+
+DOCTOR A340
+Right, right @@@.
+
+PATIENT A340
+And they sent me back home.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+Without a diagnosis.
+
+DOCTOR A340
+Well vertigo is one of those problems that, there is a million things can cause it.
+
+PATIENT A340
+Yeah, but I was walking on the walls.
+
+DOCTOR A340
+Oh yeah.
+
+PATIENT A340
+I was holding on to the walls.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+And they sent me back home.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+I had to drive.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+Didn’t have nobody to pick me up.
+
+DOCTOR A340
+Hmm.
+
+PATIENT A340
+That kind of mess me up, you up you know kind of.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+Kinda a, made me a little angry.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+You know.  Had my doubts about the VA.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+You see what I’m saying?
+
+DOCTOR A340
+Right.
+
+PATIENT A340
+Because now the doctor that I saw, she was going to send me to the Emergency Room cause @@@.  This doctor had give me these pills because of my acid reflex [sic].
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+@@@.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+And she was going to @@@ that you know but I ended up going to County Hospital.
+
+DOCTOR A340
+Wait, you went to County, too?
+
+PATIENT A340
+I went there.
+
+DOCTOR A340
+You went there?
+
+PATIENT A340
+When I came from here.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+And they @@@ no diagnosis.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+My family just said, “Uh huh.”
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+Cause I drove back home.
+
+DOCTOR A340
+Right.
+
+PATIENT A340
+You know.  Uh and I ended up going to County.
+
+DOCTOR A340
+What did they say over there?
+
+PATIENT A340
+As soon as I walked in there, they gave me a diagnosis.
+
+DOCTOR A340
+What did they say?
+
+PATIENT A340
+Vertigo.
+
+DOCTOR A340
+Oh vertigo is @@@.
+
+PATIENT A340
+The pills wasn't @@@, I mean the pills @@@.  Cause he had told me to leave the pills, don't take the pills and sent me back home.
+
+DOCTOR A340
+Which pills?
+
+PATIENT A340
+The acid reflex [sic].
+
+DOCTOR A340
+@@@ take the pills @@@ vertigo.
+
+PATIENT A340
+I got me some @@@.  But I want to know if I can get those.
+
+DOCTOR A340
+Yeah we can give you these.
+
+PATIENT A340
+Okay.  Cause those help my reflux.
+
+DOCTOR A340
+Reflux; let me put them in right now so I don't forget.  Did they give you anything at County for the vertigo?
+
+PATIENT A340
+Yeah they gave me @@@.
+
+DOCTOR A340
+@@@ yeah.  @@@ that's good @@@.  Yeah if you don't get dizzy you don't have to take them.
+
+PATIENT A340
+No right.  I don't take them unless @@@.  Yeah I had a history of vertigo before I had it real bad.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+This was a different case than what it was before.  Before the room had turned upside down.
+
+DOCTOR A340
+Right.
+
+PATIENT A340
+When I had it ten years ago.
+
+DOCTOR A340
+Uh-huh and now?
+
+PATIENT A340
+And now I get dizzy.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+I mean I was.
+
+DOCTOR A340
+Yeah vertigo is one of those @@@.
+
+PATIENT A340
+@@@ I walked with a cane for about a week.
+
+DOCTOR A340
+Well yeah, let me just @@@ um do you want to pick it up or do you want us to just mail it?
+
+PATIENT A340
+I can pick it up.
+
+DOCTOR A340
+Pick it up.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+I'll put in 11 refills.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+Okay.
+
+PATIENT A340
+@@@ let me know I got an appointment for the, did you see that in there uh, gastro - what is it?
+
+DOCTOR A340
+Yeah, gastroenterologist.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+They have this @@@ once a day.  You're supposed to take it twice a day.
+
+PATIENT A340
+No I only take it once.
+
+DOCTOR A340
+You only take it once that helps you?
+
+PATIENT A340
+It helps a little bit but it don't, it look like at the end of the day, cause I take it in the morning.
+
+DOCTOR A340
+Right.
+
+PATIENT A340
+So at the end of the day it’s starting to wear off.
+
+DOCTOR A340
+Yeah this is supposed to be twice a day so I'm gonna put it for twice a day.
+
+PATIENT A340
+Twice a day okay.
+
+DOCTOR A340
+Alright.  That's the only difference.
+
+PATIENT A340
+And I monitor it, you know.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+I’ll monitor it @@@ yeah if I don't need it twice.
+
+DOCTOR A340
+It only works if you take it all the time though.  Like even, like if you don't take it for a couple days then uh the acid-blocking like what it does.
+
+PATIENT A340
+Cut back.
+
+DOCTOR A340
+You have to start all over again.
+
+PATIENT A340
+Uh no, no, let me take it every day.
+
+DOCTOR A340
+Yeah and you're supposed to take it twice a day, try and take it every day.
+
+PATIENT A340
+Twice a day okay.
+
+DOCTOR A340
+Because it helps the most when you're lying in bed um.
+
+PATIENT A340
+Right.
+
+DOCTOR A340
+@@@ that’s the most important time to take it because the acid is going up your esophagus, cause you're lying down.
+
+PATIENT A340
+Yeah so the acid is running back up.
+
+DOCTOR A340
+Right so that's @@@.  Well I'm glad, the dizziness, the vertigo is such, everybody pretty much gets it, and all it is is that the inner ear.
+
+PATIENT A340
+Right.
+
+DOCTOR A340
+Did they explain it to you like what's going on?
+
+PATIENT A340
+No I thought it was coming from an infection.
+
+DOCTOR A340
+Oh not.
+
+PATIENT A340
+Not necessarily.
+
+DOCTOR A340
+Not necessarily.
+
+PATIENT A340
+Necessarily yeah.
+
+DOCTOR A340
+Some people get it from an infection but most people get it just when there are these little stones in both of our ears.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+They tell our brains where we are like so right now you know you're sitting up.
+
+PATIENT A340
+Right.
+
+DOCTOR A340
+You know you're not laying down.  You know that because there are these stones in the ear that stay down.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+Most of the time, when they are in the right place.
+
+PATIENT A340
+Right.
+
+DOCTOR A340
+And so we know that @@@ up but sometimes what happens, for no reason, the stones just kind of can get out of whack.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+Like one of them will go up here or go down here somewhere.
+
+PATIENT A340
+Oh.
+
+DOCTOR A340
+And so then your brain gets confused and it's like well what's going on am I standing up, am I sitting down and just right or left.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+So you're kind of going in circles.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+But usually this medicine kind of helps the brain to ignore the ears.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+And so it tells it you know the ears messed up.
+
+PATIENT A340
+@@@ the other one is I got the vertigo.
+
+DOCTOR A340
+Oh the vertigo right, right, yeah definitely right.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+Uh so that's how that medicine helps and usually just with time, those stones just kind of get back in their place.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+And then @@@.
+
+PATIENT A340
+Like @@@.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+You know you want to get out of the @@@.
+
+DOCTOR A340
+Exactly.  There are some exercises you can do to kind of help speed it along.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+Did they teach you those?
+
+PATIENT A340
+No.
+
+DOCTOR A340
+No.  Let me show you, so basically what you do is @@@ first.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+Um but then after the the stones, like so basically what you're doing is just kind of shaking everything up.
+
+PATIENT A340
+Yeah trying to get it.
+
+DOCTOR A340
+In the right place again. 
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+So this is what you do, and then in the morning when you wake up you just kind of go like this and then you – you go slower than I’m doing it - you want to wait like 10 seconds.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+And you go like this, I know it seems kind of silly but what you're doing is.
+
+PATIENT A340
+That's what I've been doing really, myself.
+
+DOCTOR A340
+Yeah and you just kind of do it three or four times and try to be a little bit slower than I'm going.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+And you just go like that, do that like in the morning and at bedtime
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+And do this, probably like 10 reps of that.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+And that should help.
+
+PATIENT A340
+Keep them on their side.
+
+DOCTOR A340
+Yeah, yeah.
+
+PATIENT A340
+Staying in place.
+
+DOCTOR A340
+Right exactly.  So.
+
+PATIENT A340
+I didn't know, I thought maybe it was infection or something like that.
+
+DOCTOR A340
+Sometimes that can cause it too but this will mostly.
+
+PATIENT A340
+He said I don't have an infection.
+
+DOCTOR A340
+Yeah you can tell that just by looking in the ear if he looked in your ear.
+
+PATIENT A340
+He looked in it yeah.
+
+DOCTOR A340
+Yeah so he could tell so @@@.
+
+PATIENT A340
+But other than that I'm doing alright.  Just that acid reflex [sic] you know.
+
+DOCTOR A340
+@@@ check your labs @@@ labs done.
+
+PATIENT A340
+Right. @@@
+
+DOCTOR A340
+Very good @@@ problems @@@.
+
+PATIENT A340
+@@@.
+
+DOCTOR A340
+Yeah we can redraw them again today. They were all good las year. You see, there’s no abnormalities, your cholesterol was good, you kidneys are good, your liver is good.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+We'll get them redrawn today.
+
+PATIENT A340
+They did an x-ray on me in the Emergency Room hod did that come out.
+
+DOCTOR A340
+A chest x-ray?  Yeah I see it was normal.
+
+PATIENT A340
+Is it?
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+@@@.  Your lungs are clear.  @@@.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+It was normal.  That's good.  Let's see what else is here.  Okay are you still taking all these medicines that are on the list here?
+
+PATIENT A340
+Yeah.  The water pills and the @@@.
+
+DOCTOR A340
+@@@.  Yeah we'll @@@.  So you taking the Tylenol?
+
+PATIENT A340
+Not, unless I really need it.
+
+DOCTOR A340
+Just as needed.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+What about the acyclovir?
+
+PATIENT A340
+That's for the stomach is that what it is?
+
+DOCTOR A340
+No it's for the, uh for the herpes.  Do you have it?
+
+PATIENT A340
+No I didn't get those pills.  They put them in but they never came.
+
+DOCTOR A340
+They never came.  I'll put them in.
+
+PATIENT A340
+Actually when I went over there to uh get them.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+And I think I told them to mail them and they ain't never come.
+
+DOCTOR A340
+Oh uh I'll refill them for you.
+
+PATIENT A340
+Okay.  Now they gave me a inhaler.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+In the Emergency Room what do you think about that?
+
+DOCTOR A340
+For the oh because at that time you were having a cough.
+
+PATIENT A340
+Cause I had that real bad cough, @@@ that's another thing I had trouble with.  See when I got the cough, that’s probably what shook that stone up.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+Because I was coughing I couldn't stop, it was like the whooping cough.
+
+DOCTOR A340
+Yeah, that's probably what it, yeah.
+
+PATIENT A340
+And after I got rid of that then the acid reflex [sic] was a combination with the cough.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+And that's why they gave me the pills here and then @@@ that’s when vertigo hit that next week.
+
+DOCTOR A340
+That’s probably what it is.
+
+PATIENT A340
+Three weeks.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+For three weeks I was doing that.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+Nobody could stay around me @@@.
+
+DOCTOR A340
+@@@ yeah.
+
+PATIENT A340
+You know I went from independent to dependent you know so at that time, you know I'm independent now.
+
+DOCTOR A340
+Yeah. I’m glad it’s doing better. It will continue to get better @@@ right now.  Yeah if you don't, if you're not coughing you don't need it.  They just gave it to help you with the cough.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+So um yeah they wanted you to use it for when you were having a cough so @@@. You don’t need it any more. This medicine is the same thing as this one, @@@ yeah pretty much.
+
+PATIENT A340
+The uh.
+
+DOCTOR A340
+This is like the cocktail the Mylanta type stuff are you taking that?
+
+PATIENT A340
+Yeah, what's that?  @@@.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+Is it a capsule?
+
+DOCTOR A340
+It's not a capsule, this one's a liquid.
+
+PATIENT A340
+No I don't have a liquid.
+
+DOCTOR A340
+Well okay this one's better anyway.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+You've got uh are you still taking the atenolol?
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+This is the nose spray, are you still using the nose spray?
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+And this is the same; it's for allergy, another nose spray.
+
+PATIENT A340
+Yeah that's the nose spray hmm.
+
+DOCTOR A340
+Hydrochlorothiazide, water pill. You said you were taking.
+
+PATIENT A340
+Right.
+
+DOCTOR A340
+And then the nicotine lozenges.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+Omeprazole.
+
+PATIENT A340
+What is that?
+
+DOCTOR A340
+That's for the stomach, that's the capsule.
+
+PATIENT A340
+Right I’m still taking.
+
+DOCTOR A340
+You have that for nasal, uh, pseudoephed.
+
+PATIENT A340
+No I don't take that.
+
+DOCTOR A340
+Yeah you don't need that.  Simvastatin for cholesterol?
+
+PATIENT A340
+Yeah I take that at night.
+
+DOCTOR A340
+And the Metamucil spray?
+
+PATIENT A340
+Which one is that.
+
+DOCTOR A340
+This one just to keep it moist.
+
+PATIENT A340
+Yeah I take that too.
+
+DOCTOR A340
+And then the Levitra.
+
+PATIENT A340
+@@@.
+
+DOCTOR A340
+That's to uh get an erection.
+
+PATIENT A340
+Yes.  @@@.  
+
+DOCTOR A340
+No.  @@@ you phone.  Let me just @@@.
+
+PATIENT A340
+I know I @@@.  One of those telemarkets.
+
+DOCTOR A340
+Right, right.
+
+PATIENT A340
+Let's do this.  @@@.  If I catch a little cold @@@.
+
+DOCTOR A340
+Uh-huh.
+
+PATIENT A340
+And uh @@@ and stuff like that @@@.
+
+DOCTOR A340
+@@@ say ah for me.  Is it alright if I lift that up?
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+Deep breath.  Good.  Let me take a listen to your heart.  I'm just gonna look at your legs here.  Any swelling?
+
+PATIENT A340
+@@@.
+
+DOCTOR A340
+@@@ yeah.  @@@.  Can you lay down @@@.  
+
+PATIENT A340
+Oh you need @@@.
+
+DOCTOR A340
+@@@.
+
+PATIENT A340
+Oh yeah.  @@@.  Kinda cool in here.
+
+DOCTOR A340
+Uh-huh.  Any pain?
+
+PATIENT A340
+No.
+
+DOCTOR A340
+No.  
+
+PATIENT A340
+Sometime I get a bloating down here.
+
+DOCTOR A340
+Probably gas.  Go ahead and sit up.  Yeah that usually just goes away on its own.  If it ever gets really bad you can always take that Gas-X stuff they sell it over the counter.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+And that medicine that he.
+
+PATIENT A340
+So he gave me Maalox.
+
+DOCTOR A340
+Yeah that helps.
+
+PATIENT A340
+So he told me to get some and take them when I'm taking my other meds, take it about an hour @@@.
+
+DOCTOR A340
+Right after.
+
+PATIENT A340
+@@@.  
+
+DOCTOR A340
+Yeah okay, I want to take a look in your ears.
+
+PATIENT A340
+Oh okay.
+
+DOCTOR A340
+@@@.
+
+PATIENT A340
+Yeah I got that @@@.
+
+DOCTOR A340
+@@@.
+
+PATIENT A340
+It's not an itch, it's like.
+
+DOCTOR A340
+@@@.
+
+PATIENT A340
+No it's just like you know you feel like, well I guess it is an itch.  You know how sometimes @@@.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+And it itches, mine @@@ and I do like that and it kind of goes away.
+
+DOCTOR A340
+@@@.  That's probably @@@.  They look pretty good.
+
+PATIENT A340
+This the side that be sore, it's just sore. I don’t know why.
+
+DOCTOR A340
+You know, this machine isn’t working very well. Do you mind coming over.  
+
+PATIENT A340
+@@@.
+
+DOCTOR A340
+@@@.  Yeah the allergies, what sometimes happens is @@@ fluid @@@ sinuses.
+
+PATIENT A340
+Uh-huh.
+
+DOCTOR A340
+And it goes back inside the ears.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+And then honestly it just takes time for it to go away and there's no like medicines.
+
+PATIENT A340
+@@@.
+
+DOCTOR A340
+Yeah.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+So have a seat and let me talk to DOCTOR.
+
+PATIENT A340
+Alright.
+
+DOCTOR A340
+And see if there's anything else we need to do.
+
+PATIENT A340
+Now we got these pills.
+
+DOCTOR A340
+We got those pills.
+
+PATIENT A340
+And we got the herpes pills.
+
+DOCTOR A340
+And the herpes pills and I'll refill your, oh that's all you need right.
+
+PATIENT A340
+Right.
+
+DOCTOR A340
+And then um we'll get your blood work today.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+@@@ colonoscopy is up to date.
+
+PATIENT A340
+Okay.  Alright.  You know they doing the upper one tomorrow. The day after tomorrow, I mean Thursday.
+
+DOCTOR A340
+Okay.
+
+PATIENT A340
+I just going to go on and have it done.
+
+DOCTOR A340
+Oh yeah you had one in 2005.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+Alright.  Have a seat, I'll be right back.
+
+PATIENT A340
+Alright, okay.
+
+(DOCTOR OUT:  65:18  DOCTOR IN:  70:28)
+
+DOCTOR A340
+Alright.  Yeah that's @@@ through everything.  @@@.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+We just need to check your blood work today.
+
+PATIENT A340
+Alright.
+
+DOCTOR A340
+So just stop by the Lab.
+
+PATIENT A340
+Alright.
+
+DOCTOR A340
+And then you're all set.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+And just come back and see me in like six months.  Alright it sounds good.
+
+PATIENT A340
+Yeah.
+
+DOCTOR A340
+Great to see you.
+
+PATIENT A340
+Alright.  @@@.
+
+DOCTOR A340
+Do those exercises when you get dizzy.
+
+PATIENT A340
+Okay.
+
+DOCTOR A340
+Okay.
+
+PATIENT A340
+Thank you.
+
+DOCTOR A340
+Okay, uh-huh.
+
+PATIENT A340
+Alright.  You have a good one.
+
+DOCTOR A340
+You too.
+
+PATIENT LEAVES:  71:01
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1275401
+TRANSACTION # 578-10-2-316-0103

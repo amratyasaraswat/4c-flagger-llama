@@ -1,0 +1,956 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR F902
+PATIENT.
+
+PATIENT F902
+That's right. 
+
+DOCTOR F902
+Right back here, here you go.  
+
+PATIENT F902
+I got some things that I need to talk to you about today.  You know I need some medicines.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+I ain't got no more medication, nothing.
+
+DOCTOR F902
+Oh really.
+
+PATIENT F902
+Nada.  They made a mistake.  They made me come down here this morning and then found out I ain't due to be here until 1:30, trying to cool myself off a little bit.
+
+DOCTOR F902
+Okay what uh, how come you're out of your medications?
+
+PATIENT F902
+I'm out.  I'm out of everything.  I don't take anything, my @@@, um hydrocortisone, I'm out of @@@ I took the last this morning.  I'm out of everything and then the doctor round there at the Pharmacy, where you go in with your number,he said no he ain't gonna give me that @@@.  I need that to monitor my heartbeat.  I had open heart surgery.
+
+DOCTOR F902
+Metoprolol?
+
+PATIENT F902
+What's the name of it?
+
+DOCTOR F902
+Metoprolol?
+
+PATIENT F902
+No it's just in the records; you'll see what I mean.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+Pharmacy sheet.
+
+DOCTOR F902
+Alright, so let's see.  Looks like @@@ last month so @@@.
+
+PATIENT F902
+Yeah I missed one of my appointments on the 13th of July.  I missed that appointment cause I overslept because of the medication and stuff and then when I called down they couldn't get me back in, tried to send me to Urgent Care.  I'm not gonna sit in Urgent Care no three hours just to see a doctor over this.
+
+DOCTOR F902
+Yeah.
+
+PATIENT F902
+It's crazy.  And I'm a sick man.
+
+DOCTOR F902
+Let me read all your notes here.
+
+PATIENT F902
+Right.  What happened to my regular doctor?
+
+DOCTOR F902
+Which one?
+
+PATIENT F902
+Uh what's his name man, I’m not thinking right now, I'm just waking up again.  It should be in the files though.  I can’t recall his name right now.  @@@.  I think it was DOCTOR.
+
+DOCTOR F902
+DOCTOR?
+
+PATIENT F902
+DOCTOR she was a female doctor.  They change doctors so much in this clinic it's crazy you know.
+
+DOCTOR F902
+Oh you haven't seen your regular doctor in a while, since January.
+
+PATIENT F902
+What's his name?
+
+DOCTOR F902
+It's actually this doctor is a lady.
+
+PATIENT F902
+Naw, it was a guy. I forgot.  I can’t recall his name, I'm not thinking right.  I ain't woke up yet.  I ain’t been able to get my INR because they wanted me to come to Urgent Care.  I told you I'm not going to go to Urgent Care, now I sat around there three hours, I not going to go to that, that don't make sense when I can get over here then I sit here another two hours.  I don't have that kind of time.
+
+DOCTOR F902
+So the last time you checked your blood level was @@@.
+
+PATIENT F902
+I guess so, they gave me some needles too shoot and stuff I guess you know, they said you know my INR level was down.  I don't understand how it keep being down when I'm taking the medication according to the way they say take it.
+
+DOCTOR F902
+Yeah.  @@@.
+
+PATIENT F902
+I ain't got any more of that warfarin, what do you call it, Warfarin or Coumadin, whatever that stuff is.
+
+DOCTOR F902
+Coumadin.
+
+PATIENT F902
+So I'm out of blood thinner.  I'm out of all the medication, I need it to be refilled bad.  Cause I don't have it - what can happen, I can have a heart attack right?
+
+DOCTOR F902
+Um @@@.  You had some leg swelling.
+
+PATIENT F902
+That was a while back.
+
+DOCTOR F902
+That was a while back oh.
+
+PATIENT F902
+That’s gone.
+
+DOCTOR F902
+Oh well that's good.
+
+PATIENT F902
+I been taking that whatcha call it, @@@ all the time.
+
+DOCTOR F902
+Yeah.
+
+PATIENT F902
+My feet was this big at one time.
+
+DOCTOR F902
+The uh Lasix.
+
+PATIENT F902
+I take a water pill, that's all I know.  It is a high blood pressure pills too?
+
+DOCTOR F902
+Uh it works more for drawing out the water off your body.
+
+PATIENT F902
+Yeah I don't need no high blood cause I ain't never had it before.  They gonna give me some disease another @@@ they done give me so many diseases in this hospital, it’s phenomenal. I mean, Hepatitis C, I had open heart surgery for a pill that I was taking @@@ they caused plaque to build in my heart.
+
+DOCTOR F902
+What's the name of it?
+
+PATIENT F902
+Cabergoline.  It's the one that same thing.  It's for pituitary gland tumors.  I'm kind of pissed with the VA cause ever since I've been going here.
+
+DOCTOR F902
+You mean Cabergoline. 
+
+PATIENT F902
+Yeah.  Ever since I been going to Jesse Brown, I been having problems man, you know what I'm saying.  I been getting sicker and sicker.  When I was at Lakeside, I didn’t have this  problem.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+But over here I got all kind of problems.  I had open heart surgery, that it.  They had split me open, open my sternum and everything.  Because of that, the Cabergoline, it built plaque in my heart.
+
+DOCTOR F902
+Who told you that?
+
+PATIENT F902
+The doctor that did the surgery out at Hines and one of the doctors here as well told me that.  What it did, it destroyed my aorta, whatever that heart valve is over to the right side?
+
+DOCTOR F902
+Aorta?
+
+PATIENT F902
+Aorta, no that's the main, seems like the one over here, what they call it, starts with a M.
+
+DOCTOR F902
+Oh the valve.
+
+PATIENT F902
+Yeah.
+
+DOCTOR F902
+Mitral valve?
+
+PATIENT F902
+Mitral valve, mitral valve, yeah it messed up the muscle so they had to put an electronic mitral valve in. I appreciate it, doc. These people, the ones that made it send me a card.  They the ones that made the mitral valve for my surgery.
+
+DOCTOR F902
+Yeah.
+
+PATIENT F902
+Liberty Mutual @@@ okay man, they give me this card, this card here.  I carry it with me at all times.  
+
+DOCTOR F902
+When did you have the @@@ done?
+
+PATIENT F902
+The what?
+
+DOCTOR F902
+When did you have the open-heart surgery done?
+
+PATIENT F902
+May the 12th.
+
+DOCTOR F902
+Over at Hines.
+
+PATIENT F902
+At Hines Hospital. DOCTOR was the surgeon.  This is crazy man.  See this card?  These are the people who made the valve.  They sent me that in the mail.  I got the number of the guy and I keep that card with me at all times.
+
+DOCTOR F902
+Okay.  Alright.
+
+PATIENT F902
+It's the right card ain’t it?
+
+DOCTOR F902
+Yeah.
+
+PATIENT F902
+Now I can't understand how can it be that this government can give me something to mess me up and then uh don't compensate me for splitting my body open like this, it scarring me up for life you know.  That's crazy.  They the one that gave me this medicine and caused the problem right.  I had no problem with my heart; my heart was in excellent condition till I come here.
+
+DOCTOR F902
+When were you diagnosed with the pituitary tumor?
+
+PATIENT F902
+Uh they found that, when I got in the Marine Corps in 74, I was having falling outs, you know what I mean? I was falling out in the Marine Corps and they rushed me over to the dispensary whatever the PX, not the PX but the hospital stuff and I couldn't hardly get my breath and all kind of stuff you know but then when I came home my mother took me to Micheal Reese, they gave me a simple blood test and they gave me blood tests in the Marine Corps but they could find @@@ and they ain't found nothing in there you know.  They knew I had a tumor on my brain that's why they got me out with a medical and honorable condition.  Um that's how the military cause the government ain't crap I tell you.
+
+DOCTOR F902
+Okay and how long had you been on the Cabergoline? 
+
+PATIENT F902
+I been on the Cabergoline at least about two years or more.  But before that I was on bromocriptine.  Can you see my records from Lakeside in there?
+
+DOCTOR F902
+Yeah I can uh.  Did they increase your Warfarin the last time you were here on the 8th?
+
+PATIENT F902
+Well she told me to take just one day take a pill and a half that's all.
+
+DOCTOR F902
+A pill and a half and then go back to your regular.
+
+PATIENT F902
+Regular dose.
+
+DOCTOR F902
+Which is just one pill?
+
+PATIENT F902
+One pill.
+
+DOCTOR F902
+Every night.
+
+PATIENT F902
+9 o'clock every night.
+
+DOCTOR F902
+Alright, so we can check some labs today.
+
+PATIENT F902
+What labs, you mean I got to get my INR checked?
+
+DOCTOR F902
+Yeah blood drawn.
+
+PATIENT F902
+So what about my medications.
+
+DOCTOR F902
+You'll have all your medications refilled.
+
+PATIENT F902
+It's gonna take at least another hour for my works to come back, they should have sent it to the Lab.
+
+DOCTOR F902
+What works?
+
+PATIENT F902
+Lab work.
+
+DOCTOR F902
+Oh if you go and get your blood draw right now?
+
+PATIENT F902
+Yeah.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+Gonna take me an extra hour to get the results so I got to come back here again right?
+
+DOCTOR F902
+No.  If anything is out of whack we'll call you.  Do you have an updated phone number here?
+
+PATIENT F902
+Yes.  NUMBER.
+
+DOCTOR F902
+NUMBER?
+
+PATIENT F902
+Yep.
+
+DOCTOR F902
+Alright if anything is out of whack we'll give you a call and besides that we're going to set you up with the Anticoagulation Clinic appointment.  Um.
+
+PATIENT F902
+And you know I need a printout of all my appointments because @@@ now why am I so hoarse man.  I can't even talk straight no more.  Is this the medication doing this to my voice box or something?  I'm hoarse.  I ain't never been this hoarse before in my life.
+
+DOCTOR F902
+Any pain when you try to eat, drink or swallow?
+
+PATIENT F902
+No I ain't got no pain but I just, for me to talk I have to really push out and get my voice out and then this ain’t really how I sound, I'm hoarse.
+
+DOCTOR F902
+How long uh.
+
+PATIENT F902
+This been going on since I been taking all this medication after the heart surgery.  I’ve been hoarse every since heart surgery.
+
+DOCTOR F902
+Okay.  Okay.  Hmm.
+
+PATIENT F902
+My voice is really light.  Got me sounding like a frog about the mouth.
+
+DOCTOR F902
+Any problems eating?
+
+PATIENT F902
+No I'm 209.  I'm blowing up; I mean I don't know if it's water from the pills or what.  I don't eat that much.  I'm not a real big eater but I'm over 200 pounds.  I don't know, I only eat once a day.  Maybe it's bloating from the stuff I don't know.  And then I take those pills I urinate about 30 times a day.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+Cause I do drink a lot liquids too though.  I need to put some liquids back in that I urinate out.
+
+DOCTOR F902
+And you missed the Cardiology appointment that you had?
+
+PATIENT F902
+Did I missed it?
+
+DOCTOR F902
+Yeah you did.
+
+PATIENT F902
+Not that I know of.  I think I got one coming up on the 13th or the 17th with Cardiology, its coming up.
+
+DOCTOR F902
+The 17th.
+
+PATIENT F902
+Yeah, at 9:30 right.
+
+DOCTOR F902
+Yep.
+
+PATIENT F902
+Where’s it at, the Specialty Clinic?
+
+DOCTOR F902
+Yep.
+
+PATIENT F902
+I'll be there.  I just came for my eye appointment so today and I got to go back in August something, I got to get it written down somewhere.
+
+DOCTOR F902
+Have you ever had a colonoscopy before?
+
+PATIENT F902
+A colonoscopy yes, you mean when they stick the tube up your ass.
+
+DOCTOR F902
+Yeah.
+
+PATIENT F902
+Yeah I had that last year.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+And they told me I don't need one for 10 years.
+
+DOCTOR F902
+Good news.  Alright do you want to get a vaccination for, that protects you from pneumonia called a Pneumovax?
+
+PATIENT F902
+Yeah what's the affects of it?
+
+DOCTOR F902
+Um not much affects you know.  Once you get the Pneumovax you can kind of feel feverish for a day but @@@.
+
+PATIENT F902
+I don't want nothing that's going to make me feel better than what I'm feeling like now.
+
+DOCTOR F902
+Okay.  
+
+PATIENT F902
+Maybe a later, later date.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+Not today.
+
+DOCTOR F902
+And the bromocriptine why'd you stop it?
+
+PATIENT F902
+Well because one thing the medication, they stopped it because the medication was making me not have a life.  You understand what I'm saying.
+
+DOCTOR F902
+Oh okay.
+
+PATIENT F902
+You know you sleep like a robot, 18, 19 hours a day.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+Because they drugginess, man you drowsy.
+
+DOCTOR F902
+One more second.
+
+PATIENT F902
+See that clock in there.
+
+DOCTOR F902
+Hold on.  There's two different @@@ you have to get used to it.  What @@@.
+
+PATIENT F902
+I'm just saying I can hear the click in my left ear.
+
+DOCTOR F902
+Take a deep breath, deep breath, good.
+
+PATIENT F902
+How's my lungs?
+
+DOCTOR F902
+@@@.  So you got some fluids going on.
+
+PATIENT F902
+I've got a little fluid on it?
+
+DOCTOR F902
+@@@ a little @@@.
+
+PATIENT F902
+Both of them?
+
+DOCTOR F902
+Yeah more on this side, though.
+
+PATIENT F902
+Yeah this is the side @@@ a little bit more time.
+
+DOCTOR F902
+@@@.
+
+PATIENT F902
+@@@ some of it.  This is the side that they did the surgery and it seems like this is the side where all the fluid collects, I don't know man.
+
+DOCTOR F902
+Alright we'll refill all your meds okay.
+
+PATIENT F902
+What do I need to go get the lab and do the?
+
+DOCTOR F902
+We're gonna go to the Lab, get some blood drawn and then you're gonna go to, you want to pick up all your meds today here at the window?
+
+PATIENT F902
+Yes.
+
+DOCTOR F902
+Okay you'll pick them up at the window.  Let me talk to my boss okay and then I'll come back.
+
+PATIENT F902
+Do you want me to go get @@@?
+
+DOCTOR F902
+No, no, no, @@@ okay.
+
+PATIENT F902
+Alright.
+
+(DOCTOR OUT:  54:00  DOCTOR IN:  61:53)
+
+DOCTOR F902
+Hey how you doing?  This is my @@@.
+
+PATIENT F902
+How you doing?
+
+SECOND DOCTOR F902
+Hi I'm DOCTOR.
+
+PATIENT F902
+Okay.
+
+SECOND DOCTOR F902
+I just came by to say hello.
+
+PATIENT F902
+How you doing?
+
+SECOND DOCTOR F902
+I'm doing okay, you doing alright?
+
+PATIENT F902
+Yeah I'm alright.
+
+SECOND DOCTOR F902
+I know you talked to DOCTOR going over everything and just before you were seeing I think DOCTOR.
+
+PATIENT F902
+DOCTOR.
+
+SECOND DOCTOR F902
+And his associates okay.
+
+PATIENT F902
+Are they no longer here anymore?
+
+SECOND DOCTOR F902
+They're still here um.
+
+PATIENT F902
+Which department?
+
+SECOND DOCTOR F902
+Uh they're only here on a certain day of the week.
+
+PATIENT F902
+Oh okay.
+
+SECOND DOCTOR F902
+But uh you know it's up to you on who you want to follow up with so you're also welcome to come here on Monday afternoons and see DOCTOR or.
+
+PATIENT F902
+See I'm gonna tell you afternoons is not good for me.
+
+SECOND DOCTOR F902
+They aren’t
+
+PATIENT F902
+I like the morning to come here because afternoons I got kids.
+
+SECOND DOCTOR F902
+I see.
+
+PATIENT F902
+You know I need to be there.
+
+SECOND DOCTOR F902
+Okay.
+
+PATIENT F902
+You understand school gonna go back.
+
+SECOND DOCTOR F902
+Sure.
+
+PATIENT F902
+So I'm going to try and schedule my appointments in the morning otherwise I miss my daughters and I can't help them out like that.
+
+SECOND DOCTOR F902
+Okay, okay and well we'll make sure that we'll try to follow that way.  We just wanted to make sure we got that taken care of full.  Okay I'll let you guys continue.  It was nice meeting you.
+
+PATIENT F902
+Thank you sir, you have a blessed day now.
+
+SECOND DOCTOR F902
+Alright you too now.
+
+FIRST DOCTOR F902
+Thank you DOCTOR.
+
+SECOND DOCTOR F902
+Thank you.
+
+FIRST DOCTOR F902
+Alright so we're going to refill all of your meds that are ongoing.
+
+PATIENT F902
+What about that one, they once give me four pills and that's really to regulate that funny heartbeat I supposed to have.  It's called a monotone or something.
+
+FIRST DOCTOR F902
+Amiodarone.
+
+PATIENT F902
+Amiodarone yeah.
+
+FIRST DOCTOR F902
+Is that it?
+
+PATIENT F902
+And he wouldn't give me enough he gave me two, all the other doctors they give it to me, now he won't give it to me.
+
+FIRST DOCTOR F902
+Who prescribed you that, I don't see it in here?
+
+PATIENT F902
+Well it came, really actually from Hines again.
+
+FIRST DOCTOR F902
+Oh, oh.
+
+PATIENT F902
+But the heart doctors preferred that I have it, do I need it?
+
+FIRST DOCTOR F902
+If you're not having an irregular heart beat I don't think you need it.  But this is a good thing because you're gonna see the cardiologist within a couple days.
+
+PATIENT F902
+Yeah.
+
+DOCTOR F902
+So when you see them, they're the guys that really know about the amiodarone, they know about the heart rythms, they're the heart docs so if they wanted they can assess if you need it.
+
+PATIENT F902
+So in other words don't mess with it until I.
+
+DOCTOR F902
+Don't mess it until you've seen the cardiologist.
+
+PATIENT F902
+Cause he was saying something about it's a dangerous drug or something.
+
+DOCTOR F902
+Yeah it has a lot of side effects.
+
+PATIENT F902
+Okay.  That's probably why I can't talk now.
+
+DOCTOR F902
+So the thing about your talking is a lot of times when you have chest surgery, you were intubated correct?
+
+PATIENT F902
+What you mean, down the throat?
+
+DOCTOR F902
+Yeah you had a tube down your throat to help you breathe.
+
+PATIENT F902
+No.
+
+DOCTOR F902
+During the surgery.
+
+PATIENT F902
+I never had a tube in my throat.
+
+DOCTOR F902
+They just put you to sleep?
+
+PATIENT F902
+I never had a tube in my throat.
+
+DOCTOR F902
+How did they do the surgery?
+
+PATIENT F902
+Oh yes I did, they put something down my throat.
+
+DOCTOR F902
+So you can breathe right?
+
+PATIENT F902
+Right they put this thing down my throat @@@ all up in here, a breathing tube.
+
+DOCTOR F902
+While you were in the surgery.
+
+PATIENT F902
+In the surgery and in the SICU until they took it out.
+
+DOCTOR F902
+Exactly.
+
+PATIENT F902
+The SICU or whatever you call it.
+
+DOCTOR F902
+Alright let's get some stuff.
+
+PATIENT F902
+I need everything, omeprazole @@@ I used my last medicines this morning I got taking my night pills.  Now I got eye drops but they just gave me some at the Eye Clinic so I'm pretty well stable on that for now.
+
+DOCTOR F902
+Alright, let's see, you need Warfarin 5 mg, got that uh and then you need the metoprolol.
+
+PATIENT F902
+Yeah.  I know one of these pills I break in half I take you know.
+
+DOCTOR F902
+Yeah that's the metoprolol.
+
+PATIENT F902
+Yeah.
+
+DOCTOR F902
+What about the water pill, do you have any more of those?
+
+PATIENT F902
+No I ain't got no more, I need more.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+Those really helps keeps my legs from swelling up like a balloon man cause I draining all that excess water off, you know what I'm saying.
+
+DOCTOR F902
+Uh-huh.
+
+PATIENT F902
+Cause really those are really nice.
+
+DOCTOR F902
+Okay.  Alright.
+
+PATIENT F902
+And I need some, some.
+
+DOCTOR F902
+You need, do you have any Synthroid for your thyroid?
+
+PATIENT F902
+Yeah that's.
+
+DOCTOR F902
+You have that, yeah I see that @@@.
+
+PATIENT F902
+That's.
+
+DOCTOR F902
+You have a bunch of them.
+
+PATIENT F902
+But that stuff is gone man I have to take them @@@.
+
+DOCTOR F902
+Well a bunch of them got sent to your house on the 12th it says so the hydrocortisone and the Synthroid all are on its way to your house and you're gonna get there on the 12th.
+
+PATIENT F902
+Okay.
+
+DOCTOR F902
+Uh I refilled the metoprolol, furosemide, Coumadin.
+
+PATIENT F902
+What can I pick up today, all that?
+
+DOCTOR F902
+All this this stuff, will be today, the metoprolol, the water pill, the Coumadin, all this stuff you can pick up today.
+
+PATIENT F902
+Okay.
+
+DOCTOR F902
+So it will be filled um and you’ll be good to go, I'm going to put this in for the blood draw.  So for the blood draws.
+
+PATIENT F902
+What I do just go and take a number in the Pharmacy?
+
+DOCTOR F902
+The Pharmacy yeah.
+
+PATIENT F902
+Or you go up to the window will they already be up there?
+
+DOCTOR F902
+Go to the window and tell them your name and they'll have this stuff ready and tell them which ones you want.
+
+PATIENT F902
+Okay well I don't know the names of the medicines.
+
+DOCTOR F902
+I put it in so it should be ready.
+
+PATIENT F902
+I don't have to go in that back room and all that?
+
+DOCTOR F902
+I'm not sure how they do that to tell you the truth.
+
+PATIENT F902
+I probably have to take a number anyway, that's how they do it; I don't got no problem with that.
+
+DOCTOR F902
+Alright, I'll call you if your INR is a little too crazy.
+
+PATIENT F902
+Alright I appreciate it.  It shouldn't be because I been taking the medicine.  You give me enough to last me cause I hate to run out of medicine man but since I have to run back down, I have to keep running back down here before my appointment.  I mean enough to make me think that I need to see the doctor again.
+
+DOCTOR F902
+Yeah.  There we go.  Alright.
+
+PATIENT F902
+Go get my INR.
+
+DOCTOR F902
+Okay so this is yours.  Go get your INR, pick up your meds and um.
+
+PATIENT F902
+Then my kids can go to school.  You seem to be a nice guy, I like the way you operate.
+
+DOCTOR F902
+Oh thank you.
+
+PATIENT F902
+You know what I'm saying, I'm serious.
+
+DOCTOR F902
+I'm trying, you know see what's going on; see how we can make things better, the situation.  I understand you want to go back to the morning right?
+
+PATIENT F902
+Yeah but sometime I might have to take whatever you got available you know.
+
+DOCTOR F902
+Yeah.
+
+PATIENT F902
+My daughters just had to get them some key, they big girls now.
+
+DOCTOR F902
+Okay.
+
+PATIENT F902
+I got to trust them a little bit you know.
+
+DOCTOR F902
+Yeah.
+
+PATIENT F902
+They teenagers now.  One of them is 19 but she work all the time so see what I'm saying she got a job.
+
+DOCTOR F902
+Uh-huh.
+
+PATIENT F902
+But she come back, she'll be home when I got to go to the doctor cause she don't have to work and I got one that's 24, she stay at Joliet but when she there she can help me out a little bit.
+
+DOCTOR F902
+So you need to be seen in the Blue Clinic.
+
+PATIENT F902
+What day is that?
+
+DOCTOR F902
+Is it a Monday but in the morning?
+
+PATIENT F902
+Yeah Monday is the day I need to do my INRs so that'd be; Monday would be a good, great day for me.
+
+DOCTOR F902
+Okay Monday a.m.  Alright.
+
+PATIENT F902
+That's just two weeks.
+
+DOCTOR F902
+Two weeks, the ATC Clinic.
+
+PATIENT F902
+What's the ATC Clinic?
+
+DOCTOR F902
+That's the Coumadin draw, the Pharmacy that does that.
+
+PATIENT F902
+Yeah.  Okay.
+
+DOCTOR F902
+And you're gonna come back in three days.
+
+PATIENT F902
+Three days here?
+
+DOCTOR F902
+Uh-huh, just to see how the Coumadin is coming out.
+
+PATIENT F902
+So what's that Thursday?
+
+DOCTOR F902
+That, yep.
+
+PATIENT F902
+What time?
+
+DOCTOR F902
+Uh they'll make an appointment out there.
+
+PATIENT F902
+Okay.
+
+DOCTOR F902
+Alright.
+
+PATIENT F902
+Alright.
+
+DOCTOR F902
+All right, sir.
+
+PATIENT F902
+Okie dokie.
+
+DOCTOR F902
+You know what, if you have problems getting meds you don’t have to wait to see a doctor, you can tell the Blue Clinic nurse okay @@@ meds and they will page the doctor and he'll put in a prescription without seeing you.  Just remember that, you don't have to see a doctor just to get refills.
+
+PATIENT F902
+Thank you doc.
+
+DOCTOR F902
+Alright.
+
+PATIENT F902
+I really appreciate you.  Do I keep this?
+
+DOCTOR F902
+No take it to the same place that you signed in and they’re gonna make that appointment for two weeks and they're gonna make that appointment for the ATC Clinic.
+
+PATIENT F902
+@@@.
+
+DOCTOR F902
+@@@ get your blood drawn okay.
+
+PATIENT F902
+Okay.  
+
+PATIENT LEAVES:  71:20.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275419
+TRANSACTION # 578-10-2-316-0103

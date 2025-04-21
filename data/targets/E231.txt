@@ -1,0 +1,35 @@
+Red Flag (3353-3411): "I fell at…I was getting groceries and stepped off the curb"
+
+Red Flag (4400-4461): "Alright. And uh, have you ever had a colonoscopy done before"
+
+Red Flag (4477-4497): "Um, I don’t think so"
+
+Factor   (4499-4519): "Exactly what is that"
+
+Factor   (4746-4790): "No, I had one put a finger, but that was all"
+
+Probe    (5524-5557): "You get along pretty well at home"
+
+Red Flag (5719-5767): "I just…crawl up the steps @@@ they put banisters"
+
+Red Flag (6196-6225): "No its…I am afraid of Tylenol"
+
+Factor   (6226-6259): "after all the complaints about it"
+
+CarePlan (6294-6347): "Well you know Tylenol is the safest drug you can take"
+
+Red Flag (7128-7152): "I never took the fu shot"
+
+Red Flag (7270-7319): "But have you gotten that shot for your bones, yet"
+
+Red Flag (7335-7347): "Oh no, never"
+
+Probe    (7442-7522): "Yeah, you’re supposed to, yeah. I’m reading the end chronologist’s note and they"
+
+Factor   (7548-7577): "No body called me or anything"
+
+CarePlan (7626-7690): "Let me call the clinic up there to see if they can schedule that"
+
+CarePlan (7784-7825): "The endocrine clinic is going to call you"
+
+CarePlan (8563-8602): "They will call you about that shot okay"

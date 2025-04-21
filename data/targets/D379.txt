@@ -1,0 +1,37 @@
+Red Flag (920-969): "I don't know if those pills are doing me any good"
+
+Probe    (1083-1138): "So it helped in that regard but not really in any other"
+
+Factor   (1154-1216): "Well I don't think it's doing that much. It's doing some good"
+
+CarePlan (1267-1303): "Maybe it's not giving it enough time"
+
+Red Flag (6574-6641): "Once a day before it said to cut in half but I take the full tablet"
+
+Red Flag (7199-7243): "Your blood pressures have been a little high"
+
+Probe    (7726-7772): "So are you taking, you're taking the enalapril"
+
+Probe    (7972-7996): "Is it a twice a day pill"
+
+Factor   (8012-8037): "No just once a day I take"
+
+CarePlan (8650-8754): "But you're on two blood pressure medications right now, so you should be taking both of them twice a day"
+
+CarePlan (8650-8754): "But you're on two blood pressure medications right now, so you should be taking both of them twice a day"
+
+Factor   (8770-8782): "Both of them"
+
+Factor   (8817-8859): "Oh, okay can you just mark that down there"
+
+CarePlan (8874-8931): "Yeah, so yeah. I’ll mark your blood pressure medications"
+
+CarePlan (8995-9038): "This is supposed to be half tab twice a day"
+
+CarePlan (9078-9134): "And this one is also the other blood pressure medication"
+
+CarePlan (9202-9229): "And this one is a whole tab"
+
+CarePlan (9264-9275): "Twice a day"
+
+CarePlan (10112-10148): "That should be two pills twice a day"

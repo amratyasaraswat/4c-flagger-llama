@@ -1,0 +1,1257 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR A723
+PATIENT. 
+
+PATIENT H482
+Hey doc, you ready for me now?
+
+DOCTOR A723
+@@@.
+
+PATIENT A723
+I'm still here.  What's up doc?
+
+DOCTOR A723
+Right.
+
+PATIENT A723
+Sound like Bugs Bunny hey.
+
+DOCTOR A723
+Someone in the line yeah.
+
+PATIENT A723
+So I've got this for you.  Should be in the computer, I'm not positive.
+
+DOCTOR A723
+@@@.
+
+PATIENT H482
+Yeah they said I had an infection.
+
+DOCTOR A723
+Drops @@@.
+
+PATIENT A723
+I may get either one.  The ones that I got, they were supposed to give me eye drops but I never got them.  Then they sent me something foam to put on to clean my eyes.
+
+DOCTOR A723
+Artificial tears they're right here.
+
+PATIENT A723
+Could they deliver them?  Probably not.
+
+DOCTOR A723
+In January they delivered them.
+
+PATIENT A723
+I didn't get them.
+
+DOCTOR A723
+They mailed them.
+
+PATIENT H482
+Huh.  I got the, what do you call that stuff, that spray to clean my eyes.
+
+DOCTOR A723
+And then the artificial tears did you get those?
+
+PATIENT A723
+No I didn't get the tears but I got the.
+
+DOCTOR A723
+And what's your address?  Is it.
+
+PATIENT A723
+ADDRESS.
+
+DOCTOR A723
+Oh @@@ okay.
+
+PATIENT A723
+Oh no @@@.  It's ADDRESS in Brookfield.
+
+DOCTOR A723
+ADDRESS yeah I don't know man.
+
+PATIENT H482
+Why would anybody want to?
+
+DOCTOR A723
+Alright now when did you go to the ER, on the 13th of June?
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Oh I see it.
+
+PATIENT A723
+They said I had an infection.
+
+DOCTOR A723
+Periorbital cellulitis with sty @@@ with one contrast @@@ something @@@.
+
+PATIENT A723
+Right.  Warm water.
+
+DOCTOR A723
+So he gave you dicloxacillin, an antibiotic.
+
+PATIENT H482
+Right.
+
+DOCTOR A723
+And used it for seven days?
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Okay.  And did you see the eye doctor at all?
+
+PATIENT A723
+No.
+
+DOCTOR A723
+I think you should see the eye doctor.
+
+PATIENT A723
+They're gonna give me an appointment, who knows when.
+
+DOCTOR A723
+Yeah but you need to see them though.  Did @@@.
+
+PATIENT H482
+I thought they did.
+
+DOCTOR A723
+Oh eyeglasses, so you've seen the eye doctors?
+
+PATIENT A723
+That was last year or.
+
+DOCTOR A723
+Yeah, so you're a patient of them.  If I was you I'd go down there because once you're a patient you have to call and make an appointment.
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+So go down there, make an appointment, tell them my eyes have been bothering me.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+And then they should give you a sooner than later appointment.
+
+PATIENT H482
+Yeah cause they told me to wait until December or January, something like that.
+
+DOCTOR A723
+Okay.  Have you ever gotten shingles before?
+
+PATIENT A723
+No.
+
+DOCTOR A723
+Have you ever gotten the shingles vaccination?
+
+PATIENT A723
+Not that I know of.
+
+DOCTOR A723
+Have you refused it?
+
+PATIENT A723
+No, what it is?  What does it do?
+
+DOCTOR A723
+Well it's like chicken pox that old people get.
+
+PATIENT H482
+Yeah.
+
+DOCTOR A723
+And usually.
+
+PATIENT A723
+If they gave it to me I don't know.  They give me all kinds of shots.
+
+DOCTOR A723
+No it doesn't look like they gave it to you.
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+Immunizations, nope.  So if you had chicken pox when you were a kid you can get chicken pox but it comes back like painful.
+
+PATIENT A723
+Okay.
+
+DOCTOR A723
+You know like you get a rash, you can get it anywhere in your body.
+
+PATIENT H482
+I don't even know if I had chicken pox.
+
+DOCTOR A723
+Oh you don't?
+
+PATIENT A723
+I know I had all my shots when I was growing up.
+
+DOCTOR A723
+Yeah but no one got chicken pox shots until my generation.
+
+PATIENT A723
+And then oh I might have when I went to the service though.
+
+DOCTOR A723
+No they.
+
+PATIENT A723
+They wouldn't give that @@@.
+
+DOCTOR A723
+They don't give it to you in the service yeah.
+
+PATIENT H482
+You’re on your own? Get a rash on your ass – it’s too bad.
+
+DOCTOR A723
+Um.
+
+PATIENT A723
+Well another thing is I got this letter from.
+
+DOCTOR A723
+So do you want the eye drops?
+
+PATIENT A723
+I got the stuff to clean my eyes.
+
+DOCTOR A723
+Okay.
+
+PATIENT A723
+But not.
+
+DOCTOR A723
+So you're talking about the antibiotic eye drops?
+
+PATIENT H482
+No I don't know.  But they were supposed to send me eye drops, I never got them.
+
+DOCTOR A723
+But didn't they, so you ordered, he ordered antibiotic eye drops.
+
+PATIENT A723
+No.
+
+DOCTOR A723
+And you never got them.
+
+PATIENT A723
+He gave me antibiotic pills.
+
+DOCTOR A723
+For seven days?
+
+PATIENT A723
+Right.
+
+DOCTOR A723
+But he didn't give you the eye drops at all.
+
+PATIENT H482
+I never got the eye drops.
+
+DOCTOR A723
+Let me see.  Did he even order it?  Take seven days, oh he never ordered the eye drops actually.
+
+PATIENT A723
+Okay that might explain it.
+
+DOCTOR A723
+He just gave you oral antibiotics.  Did he say he wanted you to get the eye drops that were antibiotics?
+
+PATIENT A723
+He said he was gonna do that and then to put the warm compresses on my eyes and all that.
+
+DOCTOR A723
+Has that been helping?
+
+PATIENT A723
+Hmm yeah I guess.  But still my eyes are still burning and stuff.
+
+DOCTOR A723
+But do you get the artificial tears at your house?
+
+PATIENT H482
+Yeah usually they deliver everything to the house.
+
+DOCTOR A723
+So you got the artificial tears?
+
+PATIENT A723
+No.  I got just the clean, to clean my eyes.
+
+DOCTOR A723
+Which ones, yeah let's go over your meds cause I think we're getting confused.  Are you taking this one?
+
+PATIENT A723
+Yeah that's my, whatever it's for.
+
+DOCTOR A723
+Yeah.
+
+PATIENT A723
+@@@.
+
+DOCTOR A723
+What is it for?
+
+PATIENT H482
+I don't know.
+
+DOCTOR A723
+So you're taking that?
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+Okay are you taking these?
+
+PATIENT A723
+No.  Cause I didn't get them, that's the tears.
+
+DOCTOR A723
+Okay so you don't use anything okay this is your aspirin.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+And your Plavix.
+
+PATIENT H482
+Right.
+
+DOCTOR A723
+Fish oil.  Insulin.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Insulin.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Lisinopril for blood pressure.
+
+PATIENT A723
+Right.
+
+DOCTOR A723
+For blood pressure.  OCuSOFT lid scrub, that's the one you got.
+
+PATIENT H482
+That's the one I got right now, the new one.
+
+DOCTOR A723
+Alright.
+
+PATIENT A723
+But that, the lisinopril.  I stopped taking one of them.
+
+DOCTOR A723
+Why?
+
+PATIENT A723
+Cause they told me to.
+
+DOCTOR A723
+Who told you that?
+
+PATIENT A723
+You guys did.
+
+DOCTOR A723
+Let me see.
+
+PATIENT H482
+Should be on there.
+
+DOCTOR A723
+Let me see.
+
+PATIENT A723
+Cause they wanted to know why was I taking two, two blood pressure pills or something like that.
+
+DOCTOR A723
+Well no people can take two, three, four.
+
+PATIENT A723
+They told me no I shouldn't be taking them so they took them off.  I don't know if it was lisinopril or listopril or something like that.
+
+DOCTOR A723
+Let's see.  Pressure is not well controlled, so blood pressure was high.  Had to stop hydrochlorothiazide due to elevated creatinine.  So we stopped your hydrochlorothiazide.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+So we didn't stop the lisinopril but we stopped the hydrochlorothiazide.  Let me see if anybody else stopped it.  The Dietary didn't do anything.
+
+PATIENT H482
+It would be the diabetic doctors.
+
+DOCTOR A723
+Diabetes, previous Lantus, normotensive, on the ACE inhibitors which is lisinopril.  He didn't say to stop it.
+
+PATIENT A723
+Well somebody told me cause I know, cause I didn't even get it in the mail.  I know one of them I didn't get it no more.
+
+DOCTOR A723
+Yeah hydrochlorothiazide.
+
+PATIENT A723
+That's the only one okay.
+
+DOCTOR A723
+That's the one I stopped.  Let's see what the ER doctor did.
+
+PATIENT A723
+So what's the other name of it then, the hydro whatever.
+
+DOCTOR A723
+Hydrochlorothiazide, HCTZ.
+
+PATIENT H482
+What's that?
+
+DOCTOR A723
+Hydrochlorothiazide.  It's not on there cause I took it off.
+
+PATIENT A723
+But it's on here, oh no it's not.
+
+DOCTOR A723
+Yeah.
+
+PATIENT A723
+And then that's the one I don't take.  I know you guys took one off for me and I say okay.
+
+DOCTOR A723
+It wasn't the lisinopril then.
+
+PATIENT A723
+No.
+
+DOCTOR A723
+Okay.
+
+PATIENT H482
+Uh maybe they call it listopril?
+
+DOCTOR A723
+No, no, no, lisinopril.
+
+PATIENT A723
+Okay.
+
+DOCTOR A723
+Okay.  I knew no one else would have told you that.
+
+PATIENT A723
+Yeah I got the lid scrub.  One check, no more refills.
+
+DOCTOR A723
+Are you drinking water?
+
+PATIENT A723
+A lot of water.  Peeing every five minutes man.  Why is my water down?
+
+DOCTOR A723
+No your creatinine is still high.
+
+PATIENT H482
+What's that?
+
+DOCTOR A723
+That's for your kidneys.  And we already took and you weren't taking the hydrochlorothiazide anymore?
+
+PATIENT A723
+No.
+
+DOCTOR A723
+Cause you don't have any @@@ huh?
+
+PATIENT A723
+Nope.
+
+DOCTOR A723
+Can we ask your wife or your girlfriend?
+
+PATIENT A723
+Yeah.  She’s got it on there what I take on one of those pages.  Oh that's in March when they did the, put the drill bit and cleaned me out.  That's not in there; it's supposed to be in there.  
+
+DOCTOR A723
+But does she know which medicines you take other than @@@.
+
+PATIENT H482
+She should know.  She's the one that saves me all the time.
+
+DOCTOR A723
+Here we go.
+
+PATIENT A723
+So all of this is in there right?
+
+DOCTOR A723
+Huh?
+
+PATIENT A723
+All this is in there?
+
+DOCTOR A723
+Yeah.  But it's one thing to give you the medication and it’s one thing if you still had it at home and you've been taking it.  So you don't know which ones you're taking?
+
+PATIENT A723
+Not really.  I just take them cause there's a ton in the morning and a ton in the evening.
+
+DOCTOR A723
+Well your sugar is getting better.
+
+PATIENT H482
+Yeah just that when it drops, my reaction is eat a candy or something.
+
+DOCTOR A723
+Yeah.
+
+PATIENT A723
+Instead of, but then when I overeat it goes up, if it's regular food it doesn't matter.  The sugar's gonna go up.
+
+DOCTOR A723
+Pull up @@@.
+
+PATIENT A723
+Well what do I do then?
+
+DOCTOR A723
+Endocrine.
+
+PATIENT A723
+@@@ the diabetes doctor but they give me a pharmacist though.
+
+DOCTOR A723
+Yeah, yeah.  Let's see, did you do the Hemoccult, the poop?
+
+PATIENT A723
+Yeah.  I did two of them.
+
+DOCTOR A723
+Okay let's see.  Okay it was, they said they couldn't do it.  This was in December.  They said it wasn't a good sample.
+
+PATIENT A723
+Right so they told me to send another one.
+
+DOCTOR A723
+Did you send another one?
+
+PATIENT A723
+Yeah cause they gave me a paper to come out here and get it.  Somebody gave me the card with that.  He said it wouldn't work so I had to do it again.
+
+DOCTOR A723
+There's all these labs I wanted you to get and you didn't get them.
+
+PATIENT H482
+What's that?
+
+DOCTOR A723
+Back in May. Why didn’t they draw any of these today? Anyway let's see, creatinine, phosphorus, there's no stool order.  Alright I'll have to do another one.  Since you don't want to get the colonoscopy right?
+
+PATIENT A723
+Do this?
+
+DOCTOR A723
+Yeah I'll put it in.
+
+PATIENT A723
+Another one?
+
+DOCTOR A723
+Yeah it wasn't in there.
+
+PATIENT A723
+Hmm.
+
+DOCTOR A723
+Look I'm putting it in in the lab right.
+
+PATIENT H482
+Okay.  What else tests didn’t I do?
+
+DOCTOR A723
+So you drink all the time, you said?
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+So do you drink alcohol?
+
+PATIENT A723
+No.  Coffee.
+
+DOCTOR A723
+You need blood pressure right.  Did they get another one?  It was 117/66.
+
+PATIENT A723
+Uh-huh this morning oh yeah.
+
+DOCTOR A723
+Why didn't they put it in?
+
+PATIENT H482
+Hmm.
+
+DOCTOR A723
+But this was the second time they took it, it was 117?
+
+PATIENT A723
+The first time was 147.
+
+DOCTOR A723
+Uh-huh.
+
+PATIENT A723
+They said the second one was real good, whatever.  
+
+DOCTOR A723
+Now I'll order the, the eye drops are already ordered so it's not like I could do anything.  I would call the Pharmacy and make sure they give you another one.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+And just let them know that you never got the one before that.
+
+PATIENT H482
+Yeah, it's weird that I didn't.  I got the, like I said I got the eye scrub but never got the drops cause they were supposed to come at the same time.
+
+DOCTOR A723
+Okay.  Call them you can renew it.
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+It's there.  All you have to do is just call and have them send it to you okay.
+
+PATIENT A723
+Sounds like a plan.
+
+DOCTOR A723
+Alright so what are you gonna do?  You're gonna see the eye doctor right?
+
+PATIENT A723
+Yeah I guess I'll go down there and make an appointment.
+
+DOCTOR A723
+Go and make an appointment, call to get your eye drops cause it’s in there.  All you have to do is just call it.  So eye doctor, eye drops, do the stool cards and whenever you're able to come back you can just turn it in cause the lab is in there and what else? Anything else going on?
+
+PATIENT H482
+Yeah how come I get headaches now?  My arm hurts and my neck hurts.  Just right here.
+
+DOCTOR A723
+When does it happen?
+
+PATIENT A723
+Every day, even now.
+
+DOCTOR A723
+Point to where your neck hurts.
+
+PATIENT A723
+Right in here.
+
+DOCTOR A723
+Does it hurt when you press on it?
+
+PATIENT A723
+No it's just like a steady pain.
+
+DOCTOR A723
+Do you sleep on your back or on your side or face down?
+
+PATIENT H482
+On my side.
+
+DOCTOR A723
+On your side.  Alright.  Have you tried sleeping with your face up?
+
+PATIENT A723
+Hmm not really.  I haven't done that in years.  @@@ as a matter of fact.
+
+DOCTOR A723
+Okay.  So it's every day your neck hurts, alright.  Did you do anything heavy recently?
+
+PATIENT A723
+Uh-huh yeah.
+
+DOCTOR A723
+Where's your hand hurt?
+
+PATIENT A723
+In my arm.
+
+DOCTOR A723
+Did you hurt yourself?
+
+PATIENT H482
+No, no.
+
+DOCTOR A723
+Point to where it hurts.
+
+PATIENT A723
+All the way to here.  Right there yeah.
+
+DOCTOR A723
+Did you hurt yourself?  Right there.  Alright squeeze my hand, squeeze, alright.  Now go like this like you're gonna lift up some weight.  Does it hurt?
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+It hurts?
+
+PATIENT A723
+But I could still do it, yes that hurt.  But they sent me to therapy for this but it still.  It was okay and now it's starting to hurt again.
+
+DOCTOR A723
+Is it the same pain?
+
+PATIENT H482
+Yeah back here and over here.
+
+DOCTOR A723
+It was the same pain before?
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+It was the same pain.
+
+PATIENT A723
+And then my leg hurt down here.
+
+DOCTOR A723
+Let's see, Occupational Therapy.
+
+PATIENT A723
+And it worked, she did it once and I don't know what was wrong but she got it straightened out quick.  I think her name was NAME the therapist.
+
+DOCTOR A723
+Yeah NAME.
+
+PATIENT H482
+Uh-huh.
+
+DOCTOR A723
+Have you continued doing the therapy at home?
+
+PATIENT A723
+Yeah.  Well I do until it starts hurting then I stop.
+
+DOCTOR A723
+I think you need to start.
+
+PATIENT A723
+Same thing with walking.  I try to walk.
+
+DOCTOR A723
+This was just in June.
+
+PATIENT A723
+Right I try to walk and everything starts hurting again.  I'm hoping my legs.
+
+DOCTOR A723
+Are you doing, did you do the stretching today?
+
+PATIENT H482
+No.
+
+DOCTOR A723
+Did you do it in the last week?
+
+PATIENT A723
+Yeah.  I went, well I was gonna go Sunday but I couldn't because our basement was flooded in my house.
+
+DOCTOR A723
+Yeah.
+
+PATIENT A723
+Where I live so I had to go upstairs and we had a plumber.
+
+DOCTOR A723
+Were you doing stuff, moving around?
+
+PATIENT A723
+No.  They don't let me do anything.
+
+DOCTOR A723
+Okay.
+
+PATIENT H482
+Cause they got a treadmill so I get on that treadmill and I walk on the treadmill.
+
+DOCTOR A723
+And you started getting pain in your arm?
+
+PATIENT A723
+Mostly my legs.  My neck I don't know why it just started out of the blue it started hurting.  It's been like that for a couple weeks now.
+
+DOCTOR A723
+Have you taken a Tylenol or anything?
+
+PATIENT A723
+No cause I take the aspirin in the morning with my pills.
+
+DOCTOR A723
+Yeah but the aspirin is more for your diabetes.
+
+PATIENT A723
+Right.
+
+DOCTOR A723
+And then you should take a Tylenol.
+
+PATIENT H482
+Take a regular Tylenol?
+
+DOCTOR A723
+Yeah like 600 or 650, whatever the dose is.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+I think they sell them 325, just take two of those.
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+And then see how you do when you're walking but I think you need to start stretching every day just like the physical therapist and if it doesn't help then you can call and let the nurse know that you want therapy or call the therapist.  Can you set up an appointment with the therapist?
+
+PATIENT A723
+I guess I could yeah.
+
+DOCTOR A723
+Yeah.
+
+PATIENT H482
+I got her thing at home.
+
+DOCTOR A723
+Yeah.  You could call her and ask her if she says that I have to order it again then call the nurse and let them know.
+
+PATIENT A723
+Well actually you didn't order it, it was the doctor DOCTOR.
+
+DOCTOR A723
+Oh the endocrinologist.
+
+PATIENT A723
+Right she's the one that ordered it.
+
+DOCTOR A723
+And then you felt better?
+
+PATIENT A723
+Yeah right away.  She was massaging and doing all kinds of crazy stuff and then right away it started working.
+
+DOCTOR A723
+But you've got to stretch every day then.
+
+PATIENT H482
+Uh-huh.
+
+DOCTOR A723
+Okay.  I think you've got to do everything they told you to do in therapy every day though.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Okay and if it doesn't work then we might have to enroll you again for physical therapy. Alright so you're gonna stretch right?
+
+PATIENT A723
+Well yeah.
+
+DOCTOR A723
+And then try to take some Tylenol.
+
+PATIENT A723
+Right.
+
+DOCTOR A723
+And then if it doesn't work then you have to see therapy again.
+
+PATIENT H482
+Because I mean I'm walking even though it's killing me.  Like in my arm and my legs too, this leg.  And I walk cause they said you have to walk.  I says okay but shit I go a little bit then everything starts hurting.  And it's all on this side all the time the right side.
+
+DOCTOR A723
+Oh because you have peripheral vascular disease too.
+
+PATIENT A723
+Right.  What is that?  I got all kinds of good stuff.
+
+DOCTOR A723
+Did you get the CT run-off at all or no?
+
+PATIENT A723
+What's that?
+
+DOCTOR A723
+Because it looks like DOCTOR wanted you to have a run-off.
+
+PATIENT A723
+A run-off?
+
+DOCTOR A723
+Yeah basically a CT scan to look at your arteries.  They didn't do it right?
+
+PATIENT H482
+No.  They said because of the kidneys I wasn't drinking enough water or whatever.
+
+DOCTOR A723
+Yeah.
+
+PATIENT A723
+But I think I did it at Rush.
+
+DOCTOR A723
+They did the run-off?
+
+PATIENT A723
+Because they.
+
+DOCTOR A723
+Back in January of when did you go to Rush?
+
+PATIENT A723
+In March or whenever it was.
+
+DOCTOR A723
+March 26th.
+
+PATIENT H482
+Because they did a procedure on me.
+
+DOCTOR A723
+Yeah.  They did the run-off because.
+
+PATIENT A723
+And then they.
+
+DOCTOR A723
+When did you go to Rush?
+
+PATIENT A723
+What it's not in there and this is all the paper shit I got to fill out for.
+
+DOCTOR A723
+No they did, they didn't put in another stent right?
+
+PATIENT A723
+No they just.
+
+DOCTOR A723
+They said you had mild, you didn't have like significant?
+
+PATIENT H482
+No they said, no in January or December they want me to go back and they want to check all my neck veins and everything.
+
+DOCTOR A723
+Well I could check them here.  What’s cheaper for you, there or here?
+
+PATIENT A723
+I'd go with Medicare.
+
+DOCTOR A723
+Okay and they'll take care of the rest?
+
+PATIENT A723
+Yeah, Medicaid or whatever.
+
+DOCTOR A723
+Yes.
+
+PATIENT A723
+I could go to either one.  I can go here but they didn't want to do it last time so when I went to Rush and I told them that it was bothering me they just did it on this side first time and then when they put the stents they did it in my leg.
+
+DOCTOR A723
+Yeah.
+
+PATIENT H482
+On this side.
+
+DOCTOR A723
+Uh-huh.
+
+PATIENT A723
+Then when they put it on this side they what do you call that, whatever they do.
+
+DOCTOR A723
+You had a catheterization.
+
+PATIENT A723
+Right they did that again and they go it looks okay but we got to wait and see cause we're not sure.  I tell them whatever but this leg keeps hurting right along with my arm and everything.
+
+DOCTOR A723
+Yeah.
+
+PATIENT A723
+And then the stupid neck pain and my headaches and I've never had headaches, only when I had hangovers but I don't drink no more.
+
+DOCTOR A723
+Yeah.  Well I can order the carotid Dopplers.  It might take a few days or maybe a week.  It's up to you if you want me to go ahead and order it.
+
+PATIENT H482
+Yeah I can come over here.
+
+DOCTOR A723
+What's closer to your house?
+
+PATIENT A723
+Here.
+
+DOCTOR A723
+Here.
+
+PATIENT A723
+I live right down on Burlington, right off of Ogden.  Yeah I mean I could do that.  He said, he mentioned something that I might have to get another stent in my leg or something but I told him whatever you are the doctors I don't know.  I already got three.  And besides DOCTOR the guy who wrote to you, he's retired.
+
+DOCTOR A723
+Hmm.
+
+PATIENT A723
+So my cardiologist, so I don't know.  And the one that did the surgery on me is there so that's a procedure it's not a surgery.  He's still there but.
+
+DOCTOR A723
+Yeah @@@.  Let me listen to your neck.  And they've never done surgery right?
+
+PATIENT H482
+No.
+
+DOCTOR A723
+On your neck.
+
+PATIENT A723
+No just on the back.  They did my back surgery but that was like a million years.  They did surgery on L5.
+
+DOCTOR A723
+Okay so then hopefully they set up the appointment on, I would let the clerk know.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Okay.  Would you be interested in, so you need to call about the drops.  And you wanted Dermatology?
+
+PATIENT A723
+Yeah they said they were gonna put me there for these stupid skin tags I got.  I got them all over the place, the neck and everything.
+
+DOCTOR A723
+Yeah I don't know if they'll take them off actually.
+
+PATIENT H482
+They said they would laser them or something.  I don't care I mean unless they got that tree oil stuff or whatever it's called.
+
+DOCTOR A723
+No, they usually just to cut them off @@@.
+
+PATIENT A723
+Oh really?
+
+DOCTOR A723
+Yeah they just cut.
+
+PATIENT A723
+Whatever.  If they do it then, let's do the important things first.
+
+DOCTOR A723
+Okay you don't have to do that cause I'm ordering a lot already.
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+So the carotid Dopplers um, vascular studies.
+
+PATIENT H482
+The skin tags I've had them, I don't know I just started getting that.
+
+DOCTOR A723
+Alright.  I'll have you come back in like three months.
+
+PATIENT A723
+Okay.
+
+DOCTOR A723
+Okay.  And then alright.  Do you want the, you don't know if you had chicken pox as a kid?
+
+PATIENT A723
+Yeah I don't know.
+
+DOCTOR A723
+Do you know if your brothers had it?
+
+PATIENT A723
+@@@.  I don't know.
+
+DOCTOR A723
+Remember when you were a kid.
+
+PATIENT H482
+No not that I know of.
+
+DOCTOR A723
+Hmm.  Okay, I'll be right back okay.
+
+PATIENT A723
+Okay.
+
+DOCTOR OUT:  147:40  DOCTOR IN:  159:01
+
+DOCTOR A723
+Alright.  I want to order some labs for you in three months.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+That way I get the labs that I want because I had all these labs ordered on May.
+
+PATIENT A723
+And they didn't do them.
+
+DOCTOR A723
+Well they didn't do them because it was so long ago May, June, July, August, that's why.
+
+PATIENT H482
+Oh.
+
+DOCTOR A723
+So.
+
+PATIENT A723
+Well we could do like I did today, come early.
+
+DOCTOR A723
+Yeah.  So what I'll do is I'll just order them for like in the future.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Alright next time you're here, alright.  That way I'll get the.  How about you come back in three months okay?
+
+PATIENT A723
+Okie dokie.
+
+DOCTOR A723
+Alright.  You know what else I'm gonna order.
+
+PATIENT H482
+Hmm.
+
+DOCTOR A723
+I'm gonna order a neck x-ray for you.
+
+PATIENT A723
+Uh-huh.
+
+DOCTOR A723
+Okay.  So the x-ray you can get at any time, just show up to the x-ray area alright.  I don't know if you have time today.  You could come back tomorrow, you could come back next week but the order is in there okay.  So a neck x-ray.
+
+PATIENT A723
+That's downstairs by the Blood Bank right?
+
+DOCTOR A723
+Yeah, yeah.  So it depends on how much time you have okay.
+
+PATIENT A723
+Well I'll just see what they're doing down there.
+
+DOCTOR A723
+And I'll call you if your cholesterol is high.
+
+PATIENT H482
+Yeah.
+
+DOCTOR A723
+Alright.
+
+PATIENT A723
+Yeah they didn't do that one yet, right, that didn't come in.
+
+DOCTOR A723
+So, they're gonna do them we'll see what.  I'd call them right now to see if they could do it.  If they don't do it then we're gonna have to get it when you come back.
+
+PATIENT A723
+Yeah.
+
+DOCTOR A723
+Alright, alright.
+
+PATIENT A723
+Okay doc.
+
+DOCTOR A723
+Alright.  So who you gonna go talk to in a little while?
+
+PATIENT H482
+The eye doctor.
+
+DOCTOR A723
+Yes.  And who you gonna call about your medications?  Pharmacy.
+
+PATIENT A723
+Pharmacy.
+
+DOCTOR A723
+Alright.
+
+PATIENT A723
+Okay.
+
+DOCTOR A723
+Alright and then just.
+
+PATIENT A723
+And I'm gonna see if they're not busy at X-ray.
+
+DOCTOR A723
+Yep.  Alright there you go.
+
+PATIENT H482
+Alright so we'll see you, bye.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38295
+TRANSACTION # 578-10-2-316-0103

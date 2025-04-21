@@ -1,0 +1,27 @@
+Red Flag (467-492): "I'd run my medication out"
+
+Probe    (957-984): "Why didn't you call earlier"
+
+Factor   (1000-1030): "I really just lost track of it"
+
+Red Flag (2058-2122): "Okay and you haven't seen the pulmonary doctors in a while right"
+
+Probe    (3075-3110): "Where do you get the albuterol from"
+
+Red Flag (3113-3163): "You don't have that listed in our medicine regimen"
+
+Factor   (3202-3215): "I get it here"
+
+CarePlan (3450-3491): "Make sure that gets on your medicine list"
+
+Red Flag (3573-3650): "I was wondering if I could get a reinstatement on that @@@ that I was getting"
+
+Red Flag (4864-4909): "It's been a while since I had that vardenafil"
+
+CarePlan (8122-8228): "Now remember next time, even if your asthma's under great control, next time you run out of your medicines"
+
+CarePlan (8275-8312): "Oh you know a week ahead of time call"
+
+Red Flag (8393-8425): "I hadn't seen you in a long time"
+
+Red Flag (8441-8473): "Yeah so, it'd been quite a while"

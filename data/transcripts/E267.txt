@@ -1,0 +1,970 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR E267
+PATIENT.  Hi how are you?  I'm DOCTOR it's nice to meet you.  Come on back.  Hi how are you?  Are you his wife?  Oh she can come in.  Nice to meet you, I'm DOCTOR.  Come on over here okay.  Have a seat.  She can sit over there.  I ran all this stuff back so it's the only place there is.  Okay.  How are you doing?
+
+PATIENT E267
+Um I have a few issues that I need to address.
+
+DOCTOR E267
+Okay.
+
+PATIENT E267
+I had a couple of appointments that I didn't make this past year.
+
+DOCTOR E267
+Uh-huh.
+
+PATIENT E267
+That will probably need to be rescheduled.  
+
+DOCTOR E267
+No problem.
+
+PATIENT E267
+I had a sleep study and I haven't see an endocrinologist yet um.  I'm having trouble at night sleeping.
+
+DOCTOR E267
+Yeah.
+
+PATIENT E267
+Uh it's usually waking up feeling out of breath.
+
+DOCTOR E267
+How often does that happen?
+
+PATIENT E267
+Uh this has been going on for what?
+
+SECOND PERSON E267
+It happens every night um.
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+Does he snore?
+
+SECOND PERSON E267
+He does.  And you know I thought he was holding his breath at first but no, not really.  Sometimes he does.
+
+DOCTOR E267
+Do you ever notice like he'll kind of.
+
+SECOND PERSON E267
+Yep.
+
+DOCTOR E267
+Okay you need a sleep study then, I'll order it.
+
+SECOND PERSON E267
+He'll get up, so he's probably been holding his breath, that's why he feels he can't breathe.
+
+DOCTOR E267
+How long has this been going on for?  Years, months, days?
+
+SECOND PERSON E267
+Uh only six months.
+
+DOCTOR E267
+Cause you mentioned it to DOCTOR correct?
+
+SECOND PERSON E267
+Uh-huh.
+
+PATIENT E267
+Uh-huh.
+
+DOCTOR E267
+Um let's see.
+
+PATIENT E267
+But it wasn't this bad then.
+
+SECOND PERSON E267
+Not as bad yeah.
+
+PATIENT E267
+And I've been waking up and I came in uh about a week ago.
+
+SECOND PERSON E267
+But it’s like if he's really retaining, he feels that he's retaining a lot of fluid, its worse.  When you know, when the fluid gets off of you, like you ran out of your blood pressure pills and then when they came he started taking it again, it got the fluid off again, sleeping was a little better but that's not the case now.  It's just.
+
+DOCTOR E267
+Have you ever had an ultrasound of your heart?
+
+PATIENT E267
+No.
+
+DOCTOR E267
+Okay cause the other thing that concerns me is it could be your heart.  It could be various things.  Um you're overweight so you need to lose weight so it could be obstructive sleep apnea where basically what's happening is air is getting trapped in your body and you're not able to breathe it out okay.  That's one issue.  The other thing it could be is heart failure.  Your heart, if it's not pumping appropriately, you're not getting the blood flow out and that actually can cause leakage of fluid into your lungs okay which can cause the exact same symptoms @@@.  You're telling me fluid off, fluid on, all of that could be from your heart okay.  So we just need to get a study.  We'll do a few studies that we'll set you up for okay.  Um let me look at a couple of things okay.
+
+SECOND PERSON E267
+But you know since he's put on just a little bit more weight that's when it got worse.
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+And you have family history of heart disease in your mom and dad huh?
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+What kind of heart disease?  What'd they have?  You don't know.
+
+PATIENT E267
+Um my father I know that he had heart attacks.  He had two heart attacks and epilepsy, and my mother has congestive heart failure.
+
+DOCTOR E267
+She does.
+
+PATIENT E267
+My grandfather and his father had congestive heart failure.
+
+DOCTOR E267
+Yeah I'm gonna set you up for it.
+
+PATIENT E267
+Mom has a bypass too, both in my granddaddy and grandma.
+
+DOCTOR E267
+Okay have you ever had a heart attack?
+
+PATIENT E267
+Not that I know of.
+
+SECOND PERSON E267
+But haven’t you noticed, well I've noticed since he's put on a little bit of weight that's when this problem started.
+
+DOCTOR E267
+The breathing.
+
+SECOND PERSON E267
+Uh-huh.  The sleeping, the not being able to sleep all the way through.
+
+DOCTOR E267
+How much can you walk without shortness of breath?  Do you have trouble breathing when you walk?  No.
+
+PATIENT E267
+I get a little.
+
+SECOND PERSON E267
+If he exerts himself.
+
+DOCTOR E267
+How much though?  Like can you walk a mile?
+
+PATIENT E267
+I'm sure I can walk a mile.
+
+DOCTOR E267
+And you're able to breathe, no chest pain, no shortness of breath, nothing like that?
+
+PATIENT E267
+Not that I know of.
+
+DOCTOR E267
+Okay.
+
+SECOND PERSON E267
+Like he says yeah.
+
+DOCTOR E267
+I'm still gonna do these tests but it just leads me to think one thing or another that's all.  All these tests are going to be done because it's important just to make sure.
+
+PATIENT E267
+Well it's difficult for me to fall asleep.
+
+DOCTOR E267
+You sleep in the middle of the day?
+
+SECOND PERSON E267
+You see when you get up.
+
+PATIENT E267
+Yeah.
+
+SECOND PERSON E267
+He's very active in his sleep.  He's very animated.  He popping up because he needs to breathe and he's still asleep so he had an incident, was it last week, where you hit your head.
+
+PATIENT E267
+Yeah that's @@@.
+
+SECOND PERSON E267
+And he had like a well DOCTOR.
+
+DOCTOR E267
+DOCTOR.
+
+SECOND PERSON E267
+Said that he probably had a slight concussion.
+
+DOCTOR E267
+Yeah I saw that.
+
+SECOND PERSON E267
+Uh-huh.
+
+PATIENT E267
+I did that a couple of times before.
+
+SECOND PERSON E267
+You do that a lot because you're so sleepy when you pop up to you know breathe that you’re still sleeping.
+
+DOCTOR E267
+During the day.
+
+SECOND PERSON E267
+Well when he wakes up.
+
+DOCTOR E267
+Oh okay.
+
+SECOND PERSON E267
+This is when he sleeps and then he gets up.
+
+DOCTOR E267
+@@@.
+
+PATIENT E267
+Uh-huh.
+
+DOCTOR E267
+Yeah.
+
+SECOND PERSON E267
+Then he's able to sleep better.  He's able to sleep but he sleeps better during the day.
+
+PATIENT E267
+I could be talking to you.
+
+SECOND PERSON E267
+Uh-huh, uh-huh.
+
+DOCTOR E267
+Okay.  So we definitely need that.  We definitely need that study okay.
+
+SECOND PERSON E267
+Well why does he sleep so much better during the day?
+
+DOCTOR E267
+It's not that he sleeps so much better during the day it's that he got no restful sleep at night.
+
+SECOND PERSON E267
+Right, but he doesn't get up and he doesn’t hold his breath when he sleeps like in the middle of the day.
+
+DOCTOR E267
+Oh that's an important question, do a sleep study.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+To see his sleep patterns and we'll refer you to a sleep doctor and follow up with that okay.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+We have actually have a sleep clinic here and it's excellent.
+
+SECOND PERSON E267
+Good.
+
+DOCTOR E267
+Um yeah we have some pretty good resources here.  We'll figure out what's going on okay.  We'll take a few tests.
+
+PATIENT E267
+Why does my nose feel like it’s always congested?
+
+DOCTOR E267
+Okay let's do one thing at a time okay.  I have @@@ I want to make sure I don't miss anything okay.
+
+PATIENT E267
+Yeah.  Okay.
+
+DOCTOR E267
+When we gave you that um pill last time you were here in April did you take it for your congestion?  Do you know?
+
+SECOND PERSON E267
+Every day.
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+Did it work?
+
+SECOND PERSON E267
+@@@.
+
+PATIENT E267
+I mean during the day.
+
+SECOND PERSON E267
+It gives him some relief.
+
+PATIENT E267
+During the day I'm okay but at night it feels like somebody has stuffed tissue.
+
+DOCTOR E267
+Into your nose.
+
+PATIENT E267
+In my nose.
+
+DOCTOR E267
+How long has that been going on?  I know you were having it in April.
+
+PATIENT E267
+It's been like that for.
+
+SECOND PERSON E267
+Ever since @@@@ you’ve had this same issue.
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+Okay and you use the pill and the inhaler and the nasal spray.
+
+PATIENT E267
+And I ran out of, I ran out of that.
+
+DOCTOR E267
+Was that helping?
+
+PATIENT E267
+That seemed to help a little bit but not much.  I mean.
+
+SECOND PERSON E267
+And he went to try and get stuff over-the-counter.
+
+PATIENT E267
+Yeah.
+
+SECOND PERSON E267
+Afrin or.
+
+DOCTOR E267
+Not working?
+
+PATIENT E267
+No Afrin didn't work.  The Vicks opened it up a little bit and then.
+
+SECOND PERSON E267
+It's very temporary.
+
+PATIENT E267
+Uh-huh.
+
+DOCTOR E267
+Okay and are you taking your blood pressure pill?
+
+PATIENT E267
+Yes.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Okay your blood pressure looks great.
+
+PATIENT E267
+Hmm.
+
+DOCTOR E267
+Okay um did DOCTOR um you met, you’re actually DOCTOR’s patient, I think he was retiring so you came to my clinic visit.  Did he ever talk to you about our MOVE Program?  The weight loss program?  You meet with the nurse and they kind of give you skills and diets and so it's kind of a.
+
+SECOND PERSON E267
+@@@
+
+PATIENT E267
+@@@
+
+DOCTOR E267
+Huh?
+
+PATIENT E267
+@@@.
+
+DOCTOR E267
+Is that something you would be interested in?  Like I said they have a lot of great resources here.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Yeah.
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+Okay good.  If she's not here today I'll certainly get you in with her okay.  Um you're 45 so you don't need screening for colon cancer or anything like that yet okay.  Um your, the other thing I wanted to talk to you, I know you've got a few complaints which, um, you know for your breathing I want to do two things okay.  I want to get a sleep study; I also want you to get to see our Pulmonologist as well.  
+
+SECOND PERSON E267
+@@@
+
+DOCTOR E267
+I want you to see both of them and get the ball rolling, get the appointments as you probably know.  We'll get you in to see the endocrinologist.  You do have a history of um hyperthyroidism, so actually you had the ablation.
+
+PATIENT E267
+Uh-huh.
+
+DOCTOR E267
+Okay um and you're on Synthroid right now.
+
+PATIENT E267
+Yes.
+
+DOCTOR E267
+Okay.  Your last thyroid study was done in March and it was fine, okay.  Um we'll probably repeat that, well actually it was a little low, yeah and we'll get you in to see them.  And one of the other thing is um your kidney function is minimally declining okay.  Um it, my guess is the reason it's a little bit damaged is in the past your blood pressure wasn't very well controlled um and that can damage your kidneys.  Okay having good blood pressure control helps that so I do want to recheck your kidneys again today.
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+Um and when we do that I'm probably just gonna check your thyroid levels again since it's been almost a year so when you see the endocrinologist we have all these lab values so they don't have to send you again to the Lab okay um.  So did you get your flu shot this year?
+
+PATIENT E267
+No.
+
+DOCTOR E267
+Um when.
+
+PATIENT E267
+They said something about a tetanus shot too.
+
+DOCTOR E267
+Yeah.
+
+SECOND PERSON E267
+He doesn’t want the flu shot.
+
+DOCTOR E267
+You don't want the flu shot?
+
+PATIENT E267
+Or the tetanus.
+
+SECOND PERSON E267
+You should get the tetanus.
+
+PATIENT E267
+I can get both of them, how about that?
+
+SECOND PERSON E267
+That's good.
+
+DOCTOR E267
+You will, oh good.
+
+PATIENT E267
+Yeah I can get them.
+
+DOCTOR E267
+Excellent.  I'll order the tetanus right now so the nurse can have it.  Hopefully, so I've been on vacation, I'll be honest um so I have to ask them to make sure if they still have the flu shots here okay.  
+
+SECOND PERSON E267
+Well the nurse she mentioned it.
+
+DOCTOR E267
+She did okay.  @@@  Regarding the nasal congestion you don't feel like the spray helps that much or do you get?
+
+PATIENT E267
+Not, I mean it opens it up a little.
+
+SECOND PERSON E267
+It seemed like the more you use it the, it's like it stops helping as much, it the more you use it.
+
+DOCTOR E267
+Okay really okay.  I might end having to refer you to be honest with you.  Okay have a seat over here for me.  Open your mouth for me okay, sorry, lucky wife.  You've got a little congestion in your nose okay.  And it's really at night that it gets to you?
+
+PATIENT E267
+Yeah but I mean it's just there all the time.
+
+DOCTOR E267
+Okay, okay.  Deep breaths for me please.  Do you smoke?
+
+PATIENT E267
+Yep.  I started it again.
+
+DOCTOR E267
+Oh God, it's not gonna make anything with your breathing at night better.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+How much do you smoke?
+
+PATIENT E267
+Not as much though.
+
+DOCTOR E267
+How much?
+
+PATIENT E267
+Maybe seven cigarettes a day.
+
+DOCTOR E267
+That's too much.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Seven cigarettes is too much.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Okay.  When did you quit?  You quit and you restarted?
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+How long has this been going on?
+
+SECOND PERSON E267
+@@@.
+
+PATIENT E267
+It'd been three years.
+
+DOCTOR E267
+What made you restart?
+
+SECOND PERSON E267
+Somebody offered him a cigarette.
+
+PATIENT E267
+(Laughter)
+
+DOCTOR E267
+Not very happy with that person.
+
+SECOND PERSON E267
+No.
+
+DOCTOR E267
+I'm sure you weren't either.
+
+SECOND PERSON E267
+No uh uh.
+
+DOCTOR E267
+Do you smoke?
+
+SECOND PERSON E267
+Never have.
+
+DOCTOR E267
+Okay.
+
+SECOND PERSON E267
+I always tell him I'm gonna start.
+
+DOCTOR E267
+You know with his mom and dad having heart attacks.
+
+SECOND PERSON E267
+But they all smoke.
+
+DOCTOR E267
+You're at, what I'm trying to tell you is you're at an incredibly high risk for heart disease okay.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Like its, its very high risk.  In fact could I, I don't know if we checked your cholesterol last time you were in here, I'm gonna do that again today.  Yeah we didn't, oh no we did, okay.  So your cholesterol's actually good.
+
+PATIENT E267
+Uh-huh.
+
+DOCTOR E267
+But that doesn't you know.
+
+PATIENT E267
+Excuse me.
+
+DOCTOR E267
+Okay.  You need to stop smoking.  We have a Smoking Cessation Clinic.
+
+SECOND PERSON E267
+And he wants to.
+
+DOCTOR E267
+Do you want me to send a referral for that?
+
+SECOND PERSON E267
+He really wants to stop smoking.
+
+DOCTOR E267
+I can give you dates and locations.
+
+SECOND PERSON E267
+He got up one day, he says I'm not gonna you know.
+
+DOCTOR E267
+I mean really.
+
+SECOND PERSON E267
+He doesn't want to.
+
+DOCTOR E267
+It's not, people think well, cancer, but it's so much more than just the cigarettes.
+
+SECOND PERSON E267
+Cause I know he felt better.
+
+DOCTOR E267
+Yeah and his breathing, the nighttime breathing, that's not gonna be any better while you’re smoking, okay?
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Um.  How many pillows do you sleep on at night?
+
+SECOND PERSON E267
+Two big pillows.
+
+DOCTOR E267
+One?
+
+SECOND PERSON E267
+And uh sometimes a neck roll and that seems to really help lift his, helps him be able to lay longer.
+
+DOCTOR E267
+Why do you sleep on two pillows?
+
+PATIENT E267
+It feels like I can breathe better.
+
+DOCTOR E267
+Breathing okay.  So yeah that's another thing that makes me worry about your heart.
+
+SECOND PERSON E267
+Like the congestive heart.
+
+DOCTOR E267
+Uh-huh.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Okay.  Well let me, I think I'm gonna talk to.  There's a lot of things, you know I don't want you to be overwhelmed by all the things and because this is the first time I met you, either I'll have you come in to see me and what we're gonna do we talked about five different things today um, not to mention just your general health and not just your complaints and because I feel like there's too much, I want to kind of see you a little more frequently now and then we can @@@ it out over time.  That way we can kind of make sure you're doing everything, you're following up on everything we want you to, we're nagging you about smoking, we're nagging you about exercising, all of that.  Does that sound okay?
+
+SECOND PERSON E267
+He loves to exercise.
+
+DOCTOR E267
+He does.
+
+SECOND PERSON E267
+@@@.
+
+DOCTOR E267
+What do you do?
+
+SECOND PERSON E267
+He lifts weights.  He's very.  He just put on.
+
+DOCTOR E267
+What about cardiovascular though?
+
+SECOND PERSON E267
+He used to, I don't know.
+
+PATIENT E267
+I used to do the rower.
+
+DOCTOR E267
+And you were able to tolerate it okay, your breathing?
+
+SECOND PERSON E267
+Oh goodness yes, he has an incredible endurance.
+
+DOCTOR E267
+Good, good, that's, let's try to keep that up.
+
+PATIENT E267
+I just haven't done anything in a year.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Okay.  Any coughs?
+
+PATIENT E267
+@@@.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Is it a smoker's cough or?
+
+SECOND PERSON E267
+And that's what I was gonna ask you, is that a smoker's cough.
+
+PATIENT E267
+Smoker's cough.
+
+SECOND PERSON E267
+But you said it do produce something, a little bit when you cough.
+
+DOCTOR E267
+Is it white?
+
+PATIENT E267
+No yellow some.
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Any breathing difficulties besides at night?
+
+PATIENT E267
+Not that I know of, I mean if I exert myself.
+
+SECOND PERSON E267
+I haven't noticed.
+
+PATIENT E267
+I can get a little.
+
+SECOND PERSON E267
+Oh yeah you catch your breath, but you catch your breath very quickly.
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+Okay.
+
+PATIENT E267
+Just at night.  This nose of mine.
+
+DOCTOR E267
+Okay.
+
+PATIENT E267
+Which I wish I could take something and open it up.
+
+DOCTOR E267
+Alright let me see if um, @@@ for your nose, if not that may be a referral as well.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Okay.  Um I will be right back okay.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Sorry, I know this is a little odd, I just.
+
+(DOCTOR OUT:  37:08  DOCTOR IN:  49:47)
+
+DOCTOR E267
+Sorry about that.  Okay, okay.  So I'm gonna put in all these referrals.  For the tests you're gonna actually just get a letter with the dates on it, that's usually how they do it.  For the clinics, I want you to go outside today and schedule them okay; the consults will be in there.  Sory, things take a little bit longer here just to schedule for the appointment, we have to put them in the computer so it's just a little bit.  Do you have the time to get your blood drawn today?
+
+PATIENT E267
+Yeah.
+
+DOCTOR E267
+We'll be sure and draw a few things okay.  I'm gonna try something um, a decongestant for your nose okay.  I want you to try not to take it too much before you go to bed okay.  And it'll probably @@@ it can stimulate you a little bit so I don't want it to be keeping you up at night okay.  I'm gonna try just a little bit and then we'll see how you do with it okay.  Um it like I said it can kind of stimulate you.  Okay.  It's what I use typically when I have uh issues and I think it works very well okay.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Um and then you know I want to have you try to get in the clinic within the next month so we can make sure all your, especially your nose, those symptoms are getting better since now we're going to try other things and if everything we try doesn't work we'll refer you to the specialists okay.  Okay.  Okay so endocrine, Pulmonology.  Okay so when you go outside to the front desk I want you to make an appointment to come back to our clinic here, the endocrinologist and the lung doctor okay.  That's three appointments I want you to make and I have ordered for you to get a sleep study and a heart study okay.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+I'm deferring the MOVE till the next time we see you.  I'm not gonna have you meet them, the nurse, to the weight loss program, I'm gonna do that next time okay.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Um I'm gonna let the nurse know we want to get your tetanus.  I think we might be over the risk of the flu.  If they have the flu shot they can give it to you, if not it's okay, okay.  Um and then I want you to get your labs drawn.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+And then @@@ pharmacy for the medication for your nose.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+Sound good?
+
+SECOND PERSON E267
+Uh-huh.
+
+DOCTOR E267
+Sound like a plan?
+
+PATIENT E267
+Okay.  What about uh that, what am I on for the heartburn?
+
+SECOND PERSON E267
+Oh.
+
+DOCTOR E267
+Ranitidine?
+
+PATIENT E267
+No what is it omeprazole?
+
+DOCTOR E267
+Omeprazole.
+
+SECOND PERSON E267
+Yes.
+
+PATIENT E267
+Omeprazole.
+
+DOCTOR E267
+Yep.  Do you need that?
+
+PATIENT E267
+Um I just had that refilled but it's like something I need.  Sometimes I have to take two.
+
+SECOND PERSON E267
+Yeah.
+
+DOCTOR E267
+Um so, let me see what dose you're on.  That's actually okay or you can take it twice a day.  The key is, are you taking it 30 minutes before you eat?  That's actually very important for it to even work.
+
+SECOND PERSON E267
+Uh uh.
+
+DOCTOR E267
+It doesn't work, if you don't take it 30 minutes before you eat and the thing with this medication is you need to take it every day, not just when you need it okay.
+
+PATIENT E267
+Oh I take it every day.
+
+SECOND PERSON E267
+Is it 30, is it each meal?
+
+DOCTOR E267
+No that's before breakfast.
+
+SECOND PERSON E267
+Or just before breakfast.
+
+DOCTOR E267
+Before breakfast okay.
+
+SECOND PERSON E267
+Maybe that's what @@@.
+
+DOCTOR E267
+If you need to take it before one more time you can take it before dinner but it's got to be 30 minutes before.
+
+SECOND PERSON E267
+Well see that's the thing he runs out of it.
+
+DOCTOR E267
+And then it doesn't get active, @@@.
+
+SECOND PERSON E267
+Yes okay, yes.
+
+DOCTOR E267
+It doesn't get activated unless you eat, eating activates it okay.
+
+PATIENT E267
+Okay.
+
+DOCTOR E267
+So that's going to be of no use otherwise, nothing okay.
+
+SECOND PERSON E267
+Now is it the prescription for one or is it for more than one a day?  Just so.
+
+DOCTOR E267
+I'm gonna give you for one a day for now.
+
+SECOND PERSON E267
+Okay.
+
+DOCTOR E267
+If you run out you can give us a call but you'll probably be seen by us in time.
+
+PATIENT E267
+Okay.
+
+SECOND PERSON E267
+Yeah.
+
+DOCTOR E267
+Alright.
+
+PATIENT E267
+Alrighty.
+
+DOCTOR E267
+Nice to meet you.  Please keep coming back okay.  Don't get lost on us again.
+
+SECOND PERSON E267
+Uh-huh.
+
+PATIENT E267
+No I'm coming back.
+
+DOCTOR E267
+It's really important for us to.
+
+PATIENT E267
+I'm coming back.
+
+DOCTOR E267
+Okay.
+
+PATIENT E267
+And I'm gonna quit smoking too.
+
+SECOND PERSON E267
+Yeah.
+
+DOCTOR E267
+Alright, okay.
+
+PATIENT E267
+Alright well thank you.
+
+DOCTOR E267
+You have a good day.  Nice to meet you.
+
+SECOND PERSON E267
+Same here.
+
+PATIENT LEAVES:  55:26.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300315
+TRANSACTION # 578-10-2-316-0103

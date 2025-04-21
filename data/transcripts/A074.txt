@@ -1,0 +1,991 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@   
+
+DOCTOR A074
+PATIENT?  How are you today?  How you doing?
+
+PATIENT A074
+Okay, how you doing doctor?
+
+DOCTOR A074
+I'm doing good.  
+
+PATIENT A074
+@@@.
+
+DOCTOR A074
+I'm DOCTOR, good to see you.
+
+PATIENT A074
+I ain't seen you in over a year.
+
+DOCTOR A074
+I know it's been a while.  @@@.
+
+PATIENT A074
+No.  @@@.
+
+DOCTOR A074
+September @@, @@@@.
+
+PATIENT A074
+September @@, @@@@?  Yeah I know it's been a long time.
+
+DOCTOR A074
+How you been doing?
+
+PATIENT A074
+Just been chilling.
+
+DOCTOR A074
+Any problems?
+
+PATIENT A074
+I didn't have no problems.
+
+DOCTOR A074
+I read there you had the colonoscopy right?
+
+PATIENT A074
+I had the colonoscopy; yeah I had the colonoscopy yeah but uh.
+
+DOCTOR A074
+That looked good.
+
+PATIENT A074
+Only problem I been having is urinating.
+
+DOCTOR A074
+Oh what's been going on?
+
+PATIENT A074
+I feel like a urine pump.
+
+DOCTOR A074
+They removed one polyp on your colonoscopy.
+
+PATIENT A074
+They removed one polyp?
+
+DOCTOR A074
+One polyp yeah.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+Uh they saw hemorrhoids too.
+
+PATIENT A074
+Yeah I had a hemorrhoid; I had a hemorrhoid operation some time ago.
+
+DOCTOR A074
+Yeah.
+
+PATIENT A074
+Like in the 80s.
+
+DOCTOR A074
+Now you don't need one until 2019.
+
+PATIENT A074
+2019.
+
+DOCTOR A074
+Which is a little while.
+
+PATIENT A074
+For the colonoscopy?
+
+DOCTOR A074
+Yeah for the colonoscopy.  Uh and we checked your cholesterol last time too right?
+
+PATIENT A074
+Uh, did you?  How was that?
+
+DOCTOR A074
+It turned out it was good.  Your prostate number has been getting higher right?
+
+PATIENT A074
+Yeah, they checked my prostate the date I was there.
+
+DOCTOR A074
+Who did you see; did you see the prostate guys?
+
+PATIENT A074
+Yeah I saw the prostate guys.  That's one of the reasons why I'm here.  They checked my prostate.  I did a blood test while I'm here and I got a flu shot.
+
+DOCTOR A074
+Oh you got one already.
+
+PATIENT A074
+Yeah.
+
+DOCTOR A074
+I'll um @@@.
+
+SECOND PERSON A074
+@@@.
+
+DOCTOR A074
+Well tell me about the urinating, what's going on with that?
+
+PATIENT A074
+Yeah well uh I stopped taking, I stopped taking the terazosin.
+
+DOCTOR A074
+Why?
+
+PATIENT A074
+Because I thought it was affecting my urine.  My urine pattern.  So when I stopped taking terazosin my urine got worse but I didn't take the terazosin because I thought the terazosin was causing me to get up three times a night.
+
+DOCTOR A074
+It should be causing you to get up less and maybe letting you get up three instead of six.
+
+PATIENT A074
+Oh yeah?
+
+DOCTOR A074
+When did you stop it?
+
+PATIENT A074
+I stopped it maybe about a month ago.
+
+DOCTOR A074
+Alright and how have your symptoms been since then?
+
+PATIENT A074
+Uh well I keep more urine in my bladder.
+
+DOCTOR A074
+You keep more urine in your bladder.
+
+PATIENT A074
+More urine in my bladder and I go to the bathroom.
+
+DOCTOR A074
+So you have incomplete emptying.
+
+PATIENT A074
+Incomplete emptying and I go to the washroom more often.  I go to the washroom sometimes every hour or every two hours depending on how much urine comes out.
+
+DOCTOR A074
+Yeah so, now we know the terazosin was probably helping you some didn't it.
+
+PATIENT A074
+Probably so yeah.  But they've given me a prescription of something else now.  I forget what the doctor said.
+
+DOCTOR A074
+Just today?
+
+PATIENT A074
+Today they supposed to be giving me a new prescription but I think they want to check my bladder first.  Check my bladder and my kidney first.
+
+DOCTOR A074
+I was going to say I don't see any.
+
+PATIENT A074
+I think they say within a month they gonna have me back and they gonna check my urine and they gonna check my kidney and make sure my functioning because I'm keeping too much urine in my bladder.  So I'm running back for that now.
+
+DOCTOR A074
+So they didn't say they refilled anything.
+
+PATIENT A074
+No refilled something?
+
+DOCTOR A074
+They didn't give you any medicines today.
+
+PATIENT A074
+No they, she didn't give me a prescription today.
+
+DOCTOR A074
+You saw DOCTOR.
+
+PATIENT A074
+Uh that's her name?
+
+DOCTOR A074
+DOCTOR?
+
+PATIENT A074
+Yeah.
+
+DOCTOR A074
+Okay.
+
+PATIENT A074
+Yeah.
+
+DOCTOR A074
+They said they checked your prostate, creatinine today borderline so looks like they checked your creatinine or they're checking it again.  It talks about pending regarding the fluoro.  Alright so you're following GU for that.
+ 
+PATIENT A074
+Yeah.
+
+DOCTOR A074
+They're taking care of that.  So what I'm going to do is if you're having problems with urinating and refilling your medicines you call them okay.
+
+PATIENT A074
+Okay yeah.
+
+DOCTOR A074
+For your prostate problem.
+
+PATIENT A074
+For my prostate problem.
+
+DOCTOR A074
+@@@.
+
+PATIENT A074
+Yes I understand that yeah.
+
+DOCTOR A074
+It's their ball game.  Now for me, how's your blood pressure been?
+
+PATIENT A074
+Well uh the lady took my blood pressure; she said my blood pressures are fine.
+
+DOCTOR A074
+Blood pressure is good.  So you're taking no medicines right?
+
+PATIENT A074
+Not the only thing.
+
+DOCTOR A074
+@@@.
+
+PATIENT A074
+The only thing I take, I got a cod liver oil capsule every morning.
+
+DOCTOR A074
+And you had a stroke before?
+
+PATIENT A074
+No. No strokes.
+
+DOCTOR A074
+Never did.
+
+PATIENT A074
+No sir.  @@@ knock on wood for that.
+
+DOCTOR A074
+Yeah no wood around here @@@.
+
+PATIENT A074
+You betcha, I don't see any.
+
+DOCTOR A074
+Maybe in the walls.
+
+PATIENT A074
+@@@.
+
+DOCTOR A074
+There you go, paper.
+
+PATIENT A074
+@@@ yeah that's right and the door here.
+
+DOCTOR A074
+Hemorrhoids are doing okay right?
+
+PATIENT A074
+Hemorrhoids, I don't have no problems but here lately I been getting a little bleeding on my butt, do you know what I'm saying.  I been driving all day and I feel, I kind of feel uncomfortable in my uh butt.
+
+DOCTOR A074
+Is it burning?
+
+PATIENT A074
+There's a little burning yeah.
+
+DOCTOR A074
+Uh what we'll do is I'll take a look down there and maybe we'll give you a steroid cream, hemorrhoidal cream that helps sort of calm that down.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+You been driving a lot?
+
+PATIENT A074
+I drive every day.
+
+DOCTOR A074
+Where you going?
+
+PATIENT A074
+Every place, uh.
+
+DOCTOR A074
+It's your job?
+
+PATIENT A074
+Yes that's what I do, I'm a courier.
+
+DOCTOR A074
+That's right I remember that.
+
+PATIENT A074
+Yeah.  Oh there's another thing doctor, right here, right in here, I get some fine bumps.  Like right up in here.  I get a, one time I had bumps down to here and I had, it was bumps all around here.
+
+DOCTOR A074
+I don’t see um.
+
+PATIENT A074
+But uh no I had some of that cream that I got from you a long time ago.
+
+DOCTOR A074
+Your skin's dry I think.
+
+PATIENT A074
+Well I put lotion on it.
+
+DOCTOR A074
+Yeah, make sure you put lotion on it.
+
+PATIENT A074
+@@@.
+
+DOCTOR A074
+@@@.
+
+PATIENT A074
+And I get these little bumps.  Feel right here, there's a little bump right there.
+
+DOCTOR A074
+I see it.
+
+PATIENT A074
+And it's going away now cause I put that, the tube I got is so flat and I try to squeeze it up and roll it until the last.
+
+DOCTOR A074
+What is it?
+
+PATIENT A074
+It's some sort of a hydrocortisone.
+
+DOCTOR A074
+Oh hydrocortisone cream.  You can buy that from Walgreen’s, Target.
+
+PATIENT A074
+Yeah I know but this type of hydrocortisone cream gots something different than.
+
+DOCTOR A074
+It may be a little stronger.
+
+PATIENT A074
+It might be a little bit stronger than what they got at the store cause I tried my wife’s, she got some hydrocortisone and I tried some of that on this and uh.
+
+DOCTOR A074
+And uh nothing.
+
+PATIENT A074
+Nothing yes.
+
+DOCTOR A074
+Alright.  So your main issue is your prostate.
+
+PATIENT A074
+Yeah.
+
+DOCTOR A074
+Your dad had prostate cancer.
+
+PATIENT A074
+Yeah and my brother, I got.
+
+DOCTOR A074
+Is your dad still alive?
+
+PATIENT A074
+Yeah he's still alive yeah.  But they chop him up.  He lost his legs this year.  He lost both legs.
+
+DOCTOR A074
+From diabetes?
+
+PATIENT A074
+Diabetic yeah.  And I try to stay away from diabetes.
+
+DOCTOR A074
+What are you eating, anything?
+
+PATIENT A074
+I eat everything but uh.
+
+DOCTOR A074
+Do you take an aspirin every day?
+
+PATIENT A074
+No.
+
+DOCTOR A074
+Probably a good idea to take a baby aspirin every day.
+
+PATIENT A074
+A baby aspirin?
+
+DOCTOR A074
+81 mg.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+81 mg, you can buy at the store real cheap.
+
+PATIENT A074
+Yeah, yeah.
+
+DOCTOR A074
+Okay.
+
+PATIENT A074
+Now my wife she take a baby aspirin so probably got some around the house somewhere.
+
+DOCTOR A074
+Yeah.  Use some of hers. 
+
+PATIENT A074
+Yeah, okay that'd work.
+
+DOCTOR A074
+Well I uh, I don't know if I'm going to do too much to help you.  It's probably going to be the GU guys.
+
+PATIENT A074
+Okay.  But I should, next time I come I'll bring that tube, @@@ so I can get some more of that cream.
+
+DOCTOR A074
+You need to take that aspirin, we talked about that.  Oh and you saw the podiatrist right?
+
+PATIENT A074
+Yep.
+
+DOCTOR A074
+And you're not smoking or using any alcohol?
+
+PATIENT A074
+Well I.
+
+DOCTOR A074
+Marijuana still?
+
+PATIENT A074
+I smoke a joint now and then.
+
+DOCTOR A074
+When you gonna to kick that?
+
+PATIENT A074
+Huh?
+
+DOCTOR A074
+When you gonna kick that?
+
+PATIENT A074
+I don't know, man I been smoking marijuana for 50 years or better.
+
+DOCTOR A074
+So you're not gonna?
+
+PATIENT A074
+I don't know.  My wife she been trying to get me to stop.  But uh you know I drive every day and be in traffic.
+
+DOCTOR A074
+Yeah.
+
+PATIENT A074
+All the time and keeps down that road rage, you know what I'm saying.  Keeps me from getting all out of sorts when I'm driving you know.
+
+DOCTOR A074
+Yeah I know.
+
+PATIENT A074
+Cause I know my trigger goes off real quick, man I can just snap like that but I basically got @@@.
+
+DOCTOR A074
+So you got a flu shot today right?
+
+PATIENT A074
+Yes.
+
+DOCTOR A074
+Well there's not much I do for you.  The only thing we need to check your cholesterol again.  Did you eat anything today?
+
+PATIENT A074
+I had a bowl of Raisin Bran this morning.
+
+DOCTOR A074
+What we'll do is next time you come in to get your blood work, don't eat anything.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+And we'll get your cholesterol checked okay.
+
+PATIENT A074
+Yeah but I ate that cereal in the 5 o'clock hour.
+
+DOCTOR A074
+Okay, it's got to be 12 hours no food.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+Yeah 12 hours no food.  For the prostate issue I want you to follow up with the GU as we said.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+Um that's it really.  Oh how about still kicking the tires?
+
+PATIENT A074
+I quit kicking the tires.
+
+DOCTOR A074
+You don't feel better.
+
+PATIENT A074
+Well I just feel a little sore.
+
+DOCTOR A074
+Sit up there and take your shoes off.
+
+PATIENT A074
+It's this toe right here.  
+
+DOCTOR A074
+Yeah let me take a look.  Otherwise any chest pain, any shortness of breath?
+
+PATIENT A074
+None of that.
+
+DOCTOR A074
+Nausea, vomiting?
+
+PATIENT A074
+No I do not.
+
+DOCTOR A074
+Diarrhea, constipation?
+
+PATIENT A074
+No, no.
+
+DOCTOR A074
+Abdominal pain.
+
+PATIENT A074
+I stop eating garbage, man yeah.
+
+DOCTOR A074
+You stopped eating garbage?
+
+PATIENT A074
+I stopped eating things.
+
+DOCTOR A074
+You're doing everything right except that you got rid of that.
+
+PATIENT A074
+Well I'll try.
+
+DOCTOR A074
+You got to rid of that.  How about cigarettes, you don't smoke cigarettes right?
+
+PATIENT A074
+I don't smoke no cigarettes.  Cigarettes is bad for you.
+
+DOCTOR A074
+Right.
+
+PATIENT A074
+Cigarettes will kill you.
+
+DOCTOR A074
+Alright relax, there you go.  So you saw the podiatrist, they cut your nails?
+
+PATIENT A074
+They cut that toenail.
+
+DOCTOR A074
+Were they going to give you any medicine to treat that?
+
+PATIENT A074
+No they didn't give me no medicine to treat that.
+
+DOCTOR A074
+It's a fungus.  
+
+PATIENT A074
+Yeah I got all those scars on my legs from working in the industry when I worked in the plastic; I worked in the plastic industry.
+
+DOCTOR A074
+Burning your legs, what happened?
+
+PATIENT A074
+No I bumped my legs, just like you walk past something and you bump your leg.
+
+DOCTOR A074
+Right.
+
+PATIENT A074
+Yeah and uh it makes a scar and I just you know.
+
+DOCTOR A074
+Untuck your shirt.
+
+PATIENT A074
+I just keep right on going, never stopped.  That's why I usually wear long socks.
+
+DOCTOR A074
+Deep breath.  Okay.  Any weight loss or weight gain recently?
+
+PATIENT A074
+No.  I try to keep my weight right around.
+
+DOCTOR A074
+Did they do a prostate exam on you today and everything?
+
+PATIENT A074
+Yeah they did that.  They stuck their fingers right up there man.
+
+DOCTOR A074
+Let me take a look at your hemorrhoids, do you mind?
+
+PATIENT A074
+No.
+
+DOCTOR A074
+What'd they say about your prostate?
+
+PATIENT A074
+They say my prostate is borderline.
+
+DOCTOR A074
+Borderline.
+
+PATIENT A074
+Yeah.
+
+DOCTOR A074
+What are they going to do about it?
+
+PATIENT A074
+Well they was talking, they talking about rescheduling me for a operation.
+
+DOCTOR A074
+You mean another biopsy or?
+
+PATIENT A074
+Uh not a biopsy they want to go in and do a laser.
+
+DOCTOR A074
+Hmm.
+
+PATIENT A074
+@@@.
+
+DOCTOR A074
+Laser ablation.
+
+PATIENT A074
+Yeah.  That's what they was talking about.
+
+DOCTOR A074
+TURP @@@.
+
+PATIENT A074
+Yeah that's what they gave me the first time.  They said it was a TURP.
+
+DOCTOR A074
+Yeah.
+
+PATIENT A074
+That's what they did the first time.
+
+DOCTOR A074
+@@@ went up through your penis?
+
+PATIENT A074
+Uh yeah.
+
+DOCTOR A074
+Let's take a look here at your hemorrhoids.  They got some, , not terrible though and they don't look inflamed.  I don't think you need the steroids.
+
+PATIENT A074
+Okay good.
+
+DOCTOR A074
+If it's bothering you can buy that stuff over-the-counter.  Hemorrhoidal cream.
+
+PATIENT A074
+Yeah, yeah.
+
+DOCTOR A074
+You know what I'm talking about?
+
+PATIENT A074
+Yeah I know what you're talking about uh yeah.  I had some but I.
+
+DOCTOR A074
+@@@.
+
+PATIENT A074
+I need more.  All that stuff I'm gonna get fresh.
+
+DOCTOR A074
+Yeah.  If it's bothering you, just use that stuff.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+Alright.
+
+PATIENT A074
+Yeah uh whatcha call it uh.
+
+DOCTOR A074
+Capsaicin.
+
+PATIENT A074
+Yeah, yeah whatever it is.
+
+DOCTOR A074
+Alright let me go talk to my boss and I'll be back alright.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+Any questions?
+
+PATIENT A074
+No questions.
+
+DOCTOR A074
+And then the next time you come in for blood get this lipid profile done okay.
+
+PATIENT A074
+Lipid profile, now let me see, is that the letter right here that says that, okay.
+
+DOCTOR A074
+You got your flu shot.
+
+PATIENT A074
+Yeah.  Oh that's for the flu shot.
+
+DOCTOR A074
+You got your flu shot today.
+
+PATIENT A074
+I got my flu shot but I was looking at something else.
+
+DOCTOR A074
+Keep looking for it, I'll be back.
+
+PATIENT A074
+Here it is right here.
+
+DOCTOR A074
+Well that's just an appointment notice.
+
+PATIENT A074
+Yeah talking about uh.
+
+DOCTOR A074
+Reminding you to come to your appointment.
+
+PATIENT A074
+Yeah I'm talking about this.
+
+DOCTOR A074
+Oh.
+
+PATIENT A074
+This right here, lipids, that's what that is.
+
+DOCTOR A074
+Oh yeah.  If your lab test is a lipid profile you must fast for 14 hours.
+
+PATIENT A074
+Yeah.
+
+DOCTOR A074
+Remember I just said you can't eat.
+
+PATIENT A074
+Yeah okay.
+
+DOCTOR A074
+When you come to get it done don't eat.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+Got it?
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+I'll be back.
+
+PATIENT A074
+Okay.  Thank you.  I was wondering what that was.  You just explained it to me.
+
+DOCTOR A074
+No problem.
+
+PATIENT A074
+Okay.
+
+(DOCTOR OUT: 34:41  DOCTOR IN:  43:37)
+
+DOCTOR A074
+Alrighty.  So what we're going to do is.  Did they tell you not to take the terazosin today?
+
+PATIENT A074
+Uh.
+
+DOCTOR A074
+They didn't tell you not to take it did they?
+
+PATIENT A074
+They didn't tell me not to take it no.  They didn't tell me not to take it.
+
+DOCTOR A074
+Yeah I want you to restart it.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+I'm going to refill it here, oh.
+
+PATIENT A074
+But they supposed to give me, they supposed to, uh there's another drug that she says she's going to try but she didn't give me a prescription.
+
+DOCTOR A074
+So for some reason she didn't give you a prescription or what was the thought?
+
+PATIENT A074
+The thought was, I think the thought was they wanted to test my bladder and to check my uh. Not my prostate, uh T.  She left and then she came back and she says she wants to do that water thing, run that water thing.
+
+DOCTOR A074
+Was that soon that they were going to do that or.
+
+PATIENT A074
+@@@ I was to see her in a month.
+
+DOCTOR A074
+They told you don't take any prostate medicine for a month?
+
+PATIENT A074
+No they didn't mention the prostate medicine.
+
+DOCTOR A074
+You know what; I'm going to have you pick it up at the window today.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+And I want you to start this starter pack again.
+
+PATIENT A074
+What starter pack?
+
+DOCTOR A074
+You know it'll give you directions.  It's a blister pack so you get titrated up to a higher dose.  You don't start it again on 10 mg.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+So what I'm going to do is I'm going to send you the terazosin in the mail.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+But I want you to go downstairs and pick up the other one to start today okay.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+The other thing is I want to check on your blood, like I told you the next time you come in okay.
+
+PATIENT A074
+Okay next time I come in, don't eat for 14 hours.
+
+DOCTOR A074
+Correct.
+
+PATIENT A074
+Then I'll come in, okay.
+
+DOCTOR A074
+And that's it.
+
+PATIENT A074
+Okay.
+
+DOCTOR A074
+How about the next time I see you in six months?
+
+PATIENT A074
+In six months.
+
+DOCTOR A074
+Does sound alright?
+
+PATIENT A074
+That sounds alright.
+
+DOCTOR A074
+Do you want to do nine?
+
+PATIENT A074
+Six months is good.
+
+DOCTOR A074
+Alright.
+
+PATIENT A074
+Now they put six months, that'll put it right around.
+
+DOCTOR A074
+Spring time.
+
+PATIENT A074
+Spring time yeah.
+
+DOCTOR A074
+Spring time.
+
+PATIENT A074
+Yeah.  Seems like I always just have to come to the doctor.
+
+DOCTOR A074
+@@@.  (Doctor speaking to someone else)  You're all set.  Thank you very much.
+
+PATIENT A074
+Well thank you.
+
+PATIENT LEAVES:  46:32.
+
+Time is 11:13  
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238135
+TRANSACTION # 578-10-2-316-0103

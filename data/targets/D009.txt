@@ -1,0 +1,25 @@
+Red Flag (3150-3181): "Have you ever had a colonoscopy"
+
+Red Flag (3197-3199): "No"
+
+Red Flag (4839-4953): "The VA has a program called the MOVE Clinic and they'll help you work with, if it's something you're interested in"
+
+Red Flag (4969-5016): "Oh it's just something I'd be interested in but"
+
+Factor   (5017-5065): "where I'm going, I have no control over the diet"
+
+CarePlan (5216-5267): "Are you working with our Social Work and everything"
+
+CarePlan (5216-5267): "Are you working with our Social Work and everything"
+
+Red Flag (5283-5338): "Yeah I just got into the Homeless Program last month so"
+
+Probe    (5401-5441): "So would be able to have the colonoscopy"
+
+Factor   (5457-5485): "I don't even know what it is"
+
+CarePlan (5500-5932): "What a colonoscopy is, they basically, it’s to screen to see if you have colon cancer. Colon cancer is one of those things that if they find, they can treat, take care of the issue. So basically, what it is, a tube about the size of these two fingers. We consciously sedate you, you'll be lightly sedated but you'll still be able to feel some stuff. They go from behind and um they look to see if there are any lesions in your colon"
+
+Factor   (6791-6835): "Alright. It’ll be a problem where I’m going"
+
+Red Flag (11066-11104): "I don't have anyone to speak for me so"

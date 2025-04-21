@@ -1,0 +1,9 @@
+Red Flag (2884-2936): "Oh yeah, I was supposed to have that a long time but"
+
+Probe    (3121-3154): "Is it cheaper for you to buy them"
+
+Factor   (3170-3189): "Yeah, oh yeah, yeah"
+
+CarePlan (3270-3461): "Okay so what I want you to do is um stop, I'm going to send these other, these concentrated pills uh just cause your level was borderline low so to get your numbers back into the normal range"
+
+CarePlan (3499-3579): "And then we'll and then you could, so don't throw those pills that you have away"

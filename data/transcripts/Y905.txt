@@ -1,0 +1,542 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@  
+
+DOCTOR Y905
+PATIENT?
+
+PATIENT Y905
+Yeah.
+
+DOCTOR Y905
+How you doing?
+
+PATIENT Y905
+How you doing doc?
+
+DOCTOR Y905
+Alright, alright.  How you feeling?
+
+PATIENT Y905
+Terrible.
+
+DOCTOR Y905
+Terrible?
+
+PATIENT Y905
+@@@.
+
+DOCTOR Y905
+Oh okay.  You look good.
+
+PATIENT Y905
+I’m always a little good.  I @@@.  I was a mess.
+
+DOCTOR Y905
+Alright.  Still working at the @@@?
+
+PATIENT Y905
+Yep.
+
+DOCTOR Y905
+@@@ huh.
+
+PATIENT Y905
+Yeah still there.
+
+DOCTOR Y905
+Yeah.  Have a seat. What can I do for you today?
+
+PATIENT Y905
+Hey, you know I got a blood clot right there and it's actually been @@@ since I got that @@@ knee replaced.  
+
+DOCTOR Y905
+Okay.  How big a blood clot? 
+
+PATIENT Y905
+Or whatever, it's tender, you know what I mean.
+
+DOCTOR Y905
+Okay.
+
+PATIENT Y905
+And then it stays in my leg and like it feels like I can pull my skin back and pull water down @@@.
+
+DOCTOR Y905
+Okay.
+
+PATIENT Y905
+Okay and I have like a tingling sensation in my leg and my back, everything's on my left side and then they did a MRI and then they never told me anything else about my prostate when they found a spot on it.
+
+DOCTOR Y905
+Oh it looks like you're seeing the prostate doctors right?
+
+PATIENT Y905
+Right.
+
+DOCTOR Y905
+And uh yeah I think that was your kidney that they found the spot on, not the prostate.
+
+PATIENT Y905
+Oh the kidney.
+
+DOCTOR Y905
+Right so I think they didn't really think much of it, kind of reading their notes.  They just wanted to follow you.
+
+PATIENT Y905
+They told me my prostate was swelled and there was a spot on my prostate.
+
+DOCTOR Y905
+No they said.
+
+PATIENT Y905
+A lesion.
+
+DOCTOR Y905
+In your prostate?
+
+PATIENT Y905
+Yeah.
+
+DOCTOR Y905
+They said there was a lesion on your kidney.  
+
+PATIENT Y905
+Oh my kidney, oh okay.
+
+DOCTOR Y905
+But the thing is is that it's gonna be hard for us to, it looks like.  Have you been able to take your blood pressure medicine?
+
+PATIENT Y905
+Yeah.
+
+DOCTOR Y905
+Cause it looks like you haven't refilled it since December.
+
+PATIENT Y905
+That's because I had a lot.
+
+DOCTOR Y905
+Okay.
+
+PATIENT Y905
+You know I had a lot.
+
+DOCTOR Y905
+Okay.  Yeah it's gonna be hard for us to like treat the rest of your pain you know if you're not really taking your blood pressure medicine.
+
+PATIENT Y905
+I thought they said today its like 133 or 136, yeah.
+
+DOCTOR Y905
+Uh let me see exactly what it is.
+
+PATIENT Y905
+Yeah but I'm taking you know.  I just like had a bunch of it.
+
+DOCTOR Y905
+So it looks like.  Okay.
+
+PATIENT Y905
+When I came in I just had a stock pile at home.
+
+DOCTOR Y905
+Okay.  Uh it looks like uh let's see we did this, you had an x-ray done of like your hip and your knee.  It looks like you got arthritis um, let's see.  Well you know for the pain you're having in your leg and your back you know we could probably do physical therapy cause we haven't sent you to Physical Therapy.  Um.
+
+PATIENT Y905
+You know I'm doing a lot of exercising myself so I don't even know if physical therapy would work.
+
+DOCTOR Y905
+You know otherwise there's not, I mean I could send you to see the orthopedic surgeons to see if they'd like to operate on you but other than that there's not a whole lot we can do for arthritis.
+
+PATIENT Y905
+Okay so that, actually everything I'm having in my leg that's due to arthritis?
+
+DOCTOR Y905
+Uh-huh.
+
+PATIENT Y905
+Okay what's, you know the other day I was watching this program on PAD.
+
+DOCTOR Y905
+Hmm.
+
+PATIENT Y905
+Okay and from what they were describing on TV it's the same symptoms that I have on my left leg.
+
+DOCTOR Y905
+Uh-huh.
+
+PATIENT Y905
+You know uh.
+
+DOCTOR Y905
+What symptoms are those?
+
+PATIENT Y905
+Uh poor circulation you know.
+
+DOCTOR Y905
+Well it's just poor circulation isn't a symptom.  Like symptoms are like pain and tenderness and tingling.  Poor circulation.
+
+PATIENT Y905
+See I have that tingling and you know like I said the tingling it's like someone is @@@ apart.
+
+DOCTOR Y905
+Yeah.
+
+PATIENT Y905
+Like cold water on the inside and it's like it's draining and running down the inside of my leg.
+
+DOCTOR Y905
+Well why don't you have a seat, let's take a look at it, how about that.
+
+PATIENT Y905
+And like I said this here on my left side, they said kidney because you know almost everything is on my left side.  Right, you know I have the soreness, stuff all on my left side.
+
+DOCTOR Y905
+Yeah.
+
+PATIENT Y905
+Everything's on my left side.
+
+DOCTOR Y905
+Do you know what the treatment is for; the first line treatment is for PAD?
+
+PATIENT Y905
+What?
+
+DOCTOR Y905
+Quit smoking.
+
+PATIENT Y905
+Oh.
+
+DOCTOR Y905
+Yeah, see, yeah.
+
+PATIENT Y905
+I mean if that, if that's what’s gotta be done, that’s what’s gotta be done!
+
+DOCTOR Y905
+You know.
+
+PATIENT Y905
+You know what I'm saying.
+
+DOCTOR Y905
+Alright let's take a look at you, okay alright.  
+
+PATIENT Y905
+Yeah that's pretty good; everything is on the left side.  Man I do a lot of walking and standing.
+
+DOCTOR Y905
+Okay.  
+
+PATIENT Y905
+And you see I'm out of Tylenol 3.
+
+DOCTOR Y905
+Yeah.
+
+PATIENT Y905
+You know and they told me I had to come back here for you to prescribe it again.
+
+DOCTOR Y905
+You got good pulses.  I don't think you have PAD.
+
+PATIENT Y905
+Okay.
+
+DOCTOR Y905
+Alright let’s take a listen to you here.
+
+PATIENT Y905
+Oh okay, you know.
+
+DOCTOR Y905
+Nice deep breaths and nice deep breaths.  Alright, just breathe normal.  Okay.
+
+PATIENT Y905
+Okay you know and it was like @@@ on the top of this @@@ but sometimes I get more spots in my hair and my hair is falling out more.
+
+DOCTOR Y905
+Oh really.
+
+PATIENT Y905
+See what I'm saying.
+
+DOCTOR Y905
+Yeah sure, sure, we could have you see the dermatologist for that one.  Alright, Dermatology, I'll refill your medicine uh what's, uh we need some labs on you today.  We need to check your hepatitis levels.  You're due for a cholesterol check.
+
+PATIENT Y905
+Hey you know sometime.  Also you know when I was in the Marine Corps.
+
+DOCTOR Y905
+Uh-huh.
+
+PATIENT Y905
+And they were giving a shot, they used the same needle.  You know what I'm saying, cause it was a gun like we stood in line and somebody with a gun and shh shh shh.  Is it possible I got hepatitis that way?
+
+DOCTOR Y905
+Hmm it's pretty unlikely.  Hepatitis C, the one you had that's mostly likely from either uh intravenous drug use or uh like a sexual encounter.
+
+PATIENT Y905
+Okay.
+
+DOCTOR Y905
+Yeah just getting like immunizations.
+
+PATIENT Y905
+Oh.
+
+DOCTOR Y905
+It's extremely unlikely.  Um alright, let's see if you.
+
+PATIENT Y905
+They just did a blood thing the other day before I did the MRI last week and I got an appointment this Friday.
+
+DOCTOR Y905
+You had an appointment with the orthopedist.
+
+PATIENT Y905
+I got it this Friday on the 23rd.
+
+DOCTOR Y905
+Oh you do?
+
+PATIENT Y905
+Yeah at 2:30.
+
+DOCTOR Y905
+Cause it looks like you didn't make it to your last one.
+
+PATIENT Y905
+No I didn't, I rescheduled.
+
+DOCTOR Y905
+Got it, got it.  Oh perfect, perfect, perfect.
+
+PATIENT Y905
+I got it written down.
+
+DOCTOR Y905
+Good.
+
+PATIENT Y905
+For some reason I was in here doing something else.
+
+DOCTOR Y905
+Yeah.
+
+PATIENT Y905
+And I know I had an appointment for something but I couldn't remember what it was and it was scheduled on a Tuesday when I have my @@@ medicine class and my PTSD class.
+
+DOCTOR Y905
+Yeah got it.  Uh are you sure we can't interest you in any vaccinations or a colonoscopy today?
+
+PATIENT Y905
+No nothing.
+
+DOCTOR Y905
+We have to offer, we have to offer it.
+
+PATIENT Y905
+I know you got to offer it.  And I know you offered it.
+
+DOCTOR Y905
+Alright let's see otherwise.
+
+PATIENT Y905
+What is it about the kidney thing then?
+
+DOCTOR Y905
+Well it looks like you're seeing the specialist for this right?  You know the GU Clinic and uh it looks like, yeah what'd they say.
+
+PATIENT Y905
+Cause as a matter of fact the last time I went to the doctor was for my prostate.
+
+DOCTOR Y905
+For gross hematuria, @@@ left renal mass, MRI, you had the MRI they didn't really see that much.  So it seems like they uh, so it just seems like they want to follow you for it.  They don't think it's much.  They think it might be a cyst on your kidney but.
+
+PATIENT Y905
+Check on, you know the last time I went over there and @@@ doctor told me that my prostate was swelled right.
+
+DOCTOR Y905
+Hmm.
+
+PATIENT Y905
+And they didn't give me anything for it.  I go back again and the guy's gonna stick this finger in my ass again.
+
+DOCTOR Y905
+Hmm.
+
+PATIENT Y905
+I'm uh @@@ if you keep doing that, excuse my way of talking but if you keep sticking your finger in my ass and then giving nothing for it you know I say hey, ain't nothing happening.
+
+DOCTOR Y905
+Yeah.
+
+PATIENT Y905
+So why do you always, so you know it ain't happening this time I go back.  You didn't give me nothing, you not sticking your finger in my ass again, somebody @@@.
+
+DOCTOR Y905
+Well I don't know, you know they're the specialist, they really should enlarged, okay let's see.  Well no actually they didn't think it was enlarged.
+
+PATIENT Y905
+Oh okay.
+
+DOCTOR Y905
+They it was normal.
+
+PATIENT Y905
+Well why does the guy keep sticking his finger in my ass?  That's what I'm talking about see, cause I mean there's something wrong with him.
+
+DOCTOR Y905
+Uh like I say they're the prostate doctor.
+
+PATIENT Y905
+Yeah.
+
+DOCTOR Y905
+@@@.
+
+PATIENT Y905
+Yeah they getting off sticking their finger in my ass.  You know you guys are all @@@.
+
+DOCTOR Y905
+Well at least you got the five star treatment.
+
+PATIENT Y905
+Yeah that's what they call it?
+
+DOCTOR Y905
+You know you got the head to toe exam right.
+
+PATIENT Y905
+Yeah well that's like what about this thing on the side of my face that keeps rubbing it.
+
+DOCTOR Y905
+Let's uh, well I'll set you up to see the dermatologist when they check your head they can check this thing too okay, sound good?  Alright.
+
+PATIENT Y905
+We're coming up on @@@ after a while.
+
+DOCTOR Y905
+Meds refill, refill your meds, Ortho.  Hold that thought and let me get some papers for you, I'll be right back.
+
+PATIENT Y905
+You know that thing about the ass thing.
+
+DOCTOR Y905
+No.
+
+PATIENT Y905
+It wasn't right.
+
+DOCTOR Y905
+I'll be right back.
+
+(DOCTOR OUT:  44:59  DOCTOR IN:  47:24)
+
+PATIENT Y905
+The thing is doc.
+
+DOCTOR Y905
+Whoa, on the left side, yeah where's it at.
+
+PATIENT Y905
+On this side here, you know @@@.
+
+DOCTOR Y905
+Let's take a look.
+
+PATIENT Y905
+Everything's happening on it.
+
+DOCTOR Y905
+Yeah.
+
+PATIENT Y905
+It's all right here.
+
+DOCTOR Y905
+Do you feel like its swollen?
+
+PATIENT Y905
+You know if you look at it, I mean it looks swollen.  I look at it myself.
+
+DOCTOR Y905
+Looks okay to me.
+
+PATIENT Y905
+@@@.
+
+DOCTOR Y905
+Yeah.
+
+PATIENT Y905
+Well you think its fine.  I don't.
+
+DOCTOR Y905
+I think you’re fine.
+
+PATIENT Y905
+I ain't no, what you call a hypochondriac.
+
+DOCTOR Y905
+Hypochondriac.
+
+PATIENT Y905
+Yeah.  You know whatever it is, said that cause I'm @@@ so you know when I come into the doctor's office, all new thing @@@.
+
+DOCTOR Y905
+Yeah, no I got it, I got it.
+
+PATIENT Y905
+You know I'm 61 years old, @@@ @@.
+
+DOCTOR Y905
+Oh that's fine, that's fine.
+
+PATIENT Y905
+You know.  All of a sudden this thing started breaking down.
+
+DOCTOR Y905
+Alright stop by to get a blood draw on your way out alright.
+
+PATIENT Y905
+Okay.
+
+DOCTOR Y905
+And just @@@ they'll give you an appointment with Dermatology.
+
+PATIENT Y905
+Now I ain't going to wait another year before I come see you, you know.
+
+DOCTOR Y905
+Yeah.  Okie doke.  Just hand this to the lady at the front desk, they'll give you an appointment, stop by the blood draw, I'll refill your meds.  Do you want to pick them up at the window today?
+
+PATIENT Y905
+Yeah, uh-huh.
+
+DOCTOR Y905
+Okay.
+
+PATIENT Y905
+Okay thanks a lot doctor.
+
+DOCTOR Y905
+Alright take care alright.
+
+PATIENT Y905
+Okay.
+
+DOCTOR Y905
+Alright.
+
+PATIENT LEAVES:  48:55
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275392
+TRANSACTION # 578-10-2-316-0103

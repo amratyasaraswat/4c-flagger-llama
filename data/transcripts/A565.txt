@@ -1,0 +1,969 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR A565 
+PATIENT?  How you doing?
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+Alright.
+
+PATIENT A565
+Right here.
+
+DOCTOR A565
+So what's going on?
+
+PATIENT A565
+Um my prescription has run out and I needed some medications to make it to my next appointment.
+
+DOCTOR A565
+So you have an appointment scheduled?
+
+PATIENT A565
+Yeah April something.
+
+DOCTOR A565
+Who is that with?
+
+PATIENT A565
+The Blue Clinic.
+
+DOCTOR A565
+It's with us okay.
+
+PATIENT A565
+The Dulcolax is out completely that's why I need a new prescription for that.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+The other ones are already on my list already.  
+
+DOCTOR A565
+Now where are these prescriptions from?
+
+PATIENT A565
+Um St. Margaret in Hampton.  
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+My wife has uh Blue Cross and Blue Shield HMO.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+And she hates to drive way to the Westside so
+
+DOCTOR A565
+Yeah, yeah it's not a problem.
+
+PATIENT A565
+But the thing was, at the beginning of the year January her whole hospital changed from HMO, Blue Cross Blue Shield to Aetna.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+And they dropped me.
+
+DOCTOR A565
+Oh so now you're coming here okay.  So were you looking at something.
+
+PATIENT A565
+I generally, I used to come out here all the time and see DOCTOR in Rheumatology.
+
+DOCTOR A565
+Gotcha.  You're on insulin.  Do you know how much insulin you're taking?
+
+PATIENT A565
+Hmm no I don't.
+
+DOCTOR A565
+Now do you get your medications from here or um?
+
+PATIENT A565
+Mostly I get them here.
+
+DOCTOR A565
+Good.  When were you at St. Margaret's?
+
+PATIENT A565
+Uh like January the 10th or somewhere around there.
+
+DOCTOR A565
+Okay and what was it for?
+
+PATIENT A565
+Um I woke up one morning at home and I had water on my lungs, I couldn't catch my breath.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+So my wife took me to the nearest hospital which is St. Margaret's.  I live in Dawson.
+
+DOCTOR A565
+Okay and you've never had this happen before right?
+
+PATIENT A565
+No uh I'm taking dialysis now and uh I went to St. James out in Rowland Park.  They gave me a pacemaker.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+And I'm taking uh dialysis.  They just put a stent in my arm so I can take it in my arm and not in my hip.
+
+DOCTOR A565
+Okay.  When was that?
+
+PATIENT A565
+Uh the stent was put in two Tuesdays ago and the Pharmacy won't fill the prescription unless I see my doctor first.
+
+DOCTOR A565
+Uh-huh, okay.  @@@.  Did you get a biopsy done?
+
+PATIENT A565
+I was scheduled to have it done but I'm already on dialysis @@@.
+
+DOCTOR A565
+Okay.  Just reading up on the hospitalization.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+Did you get an echocardiogram done here?
+
+PATIENT A565
+I had one done the last time I was in the hospital here.
+
+DOCTOR A565
+So was it here?
+
+PATIENT A565
+Yes sir.
+
+DOCTOR A565
+Let's look.  So from here on out would you start having your primary care doctor here or would it be outside?
+
+PATIENT A565
+Uh my primary doctor's always been out here I just used her insurance card because she didn't want to travel.
+
+DOCTOR A565
+Right.
+
+PATIENT A565
+We live in Dalton a far south suburb so.
+
+DOCTOR A565
+I understand.
+
+PATIENT A565
+So she didn't want to drive all the way over here to get me in Emergency here.
+
+DOCTOR A565
+No I understand.
+
+PATIENT A565
+As long as I feel pretty decent now, I always bring myself here.
+
+DOCTOR A565
+Hmm.  Um any recent shortness of breath or that's good okay.
+
+PATIENT A565
+I @@@ where I'm at.
+
+DOCTOR A565
+Okay.  There you go then.  @@@ November at least.  Have they diagnosed you with heart failure?
+
+PATIENT A565
+At St. James.
+
+DOCTOR A565
+They did?
+
+PATIENT A565
+Yeah that's why they put the new pacemaker in here.
+
+DOCTOR A565
+What did they say was your um ejection fraction?  Do you remember that?
+
+PATIENT A565
+No sir.
+
+DOCTOR A565
+Now is that a pacemaker or a defibrillator?
+
+PATIENT A565
+Oh.
+
+DOCTOR A565
+Do you have card or anything?  
+
+PATIENT A565
+Yes. Does it tell you which one it is?
+
+DOCTOR A565
+Um I got to look this up and all.  Um when was this placed?
+
+PATIENT A565
+Uh December the 23rd.
+
+DOCTOR A565
+Okay.  They said that you had a slower heart rate during the hospitalization?
+
+PATIENT A565
+Right.
+
+DOCTOR A565
+Oh a slow heartbeat.
+
+PATIENT A565
+That's it.
+
+DOCTOR A565
+So that's what it was, okay.  Did they send documents over here, do you know?
+
+PATIENT A565
+Um there was a problem with me getting an appointment.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+They kept putting me back in March and then it was April and I bet they haven't really sent any of my records in there.
+
+DOCTOR A565
+Now would the dialysis @@@
+
+PATIENT A565
+Yes that was on the same @@@.  This was done at St. James.
+
+DOCTOR A565
+Hmm.
+
+PATIENT A565
+And I was asking them well why did they put it in my chest they said cause I had to have it right away, I got to start doing dialysis right away.
+
+DOCTOR A565
+For the dialysis okay.
+
+PATIENT A565
+So they put the first on in and said in about three or four weeks when this gets well.
+
+DOCTOR A565
+So let's say in a month how many times have you been hospitalized?
+
+PATIENT A565
+Uh last year was the most in my life.
+
+DOCTOR A565
+Yeah.
+
+PATIENT A565
+I think it was about four times.
+
+DOCTOR A565
+Okay so let's, I just want to get an idea of when things were happening. So you, as of, in November you weren't on dialysis right.  You didn't have the pacemaker, you didn't have okay.
+
+PATIENT A565
+I didn’t go on dialysis till December.
+
+DOCTOR A565
+So what happened in December?
+
+PATIENT A565
+Uh.
+
+DOCTOR A565
+Was that the same time with the heart issues or @@@.
+
+PATIENT A565
+Yes. My legs were you know I couldn't get my shoes on and my feet were swelling and my legs were swelling.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+My arms was getting fat so my wife got real nervous and took me straight to the hospital.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+At St. James.
+
+DOCTOR A565
+So at St. James.
+
+PATIENT A565
+Right.
+
+DOCTOR A565
+Uh they said that your kidneys weren't really working right?
+
+PATIENT A565
+Yes that's what it was there.  I know they took a lot of blood and uh then they said I have kidney failure they said it's kicking on and off.
+
+DOCTOR A565
+Yeah.
+
+PATIENT A565
+But it's supposed to work 24 hours a day but it wasn't so.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+They put me on the dialysis right away.
+
+DOCTOR A565
+So the dialysis.
+
+PATIENT A565
+And I felt better.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+Then in January I was at home.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+And uh I woke up that morning and uh my wife was in her room with the grandbaby and uh I couldn't catch my breath.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+So she uh called 911, they took me to St. Margaret which is close to my home.
+
+DOCTOR A565
+Right.
+
+PATIENT A565
+And they gave, they took off four liters of fluid that Sunday I went then the next Monday they took another four, so they took off about eight.
+
+DOCTOR A565
+Eight liters so that was.
+
+PATIENT A565
+Right and the doctor there suggested that I go to dialysis across the street from St. Margaret's.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+Da Vita.
+
+DOCTOR A565
+At Da Vita and that's where you've been doing it?
+
+PATIENT A565
+Yes.
+
+DOCTOR A565
+How often?
+
+PATIENT A565
+Monday, Wednesday, Friday.
+
+DOCTOR A565
+Okay.  Now, can you still do that without your wife's insurance or?
+
+PATIENT A565
+Right uh I was on disability.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+Uh DOCTOR put me on disability many years ago.
+
+DOCTOR A565
+Okay.  So you were able to get the dialysis.
+
+PATIENT A565
+Right.
+
+DOCTOR A565
+I just wanted to make sure @@@ dialysis okay.  Are they going to continue following you for dialysis or do they want you to be followed here?
+
+PATIENT A565
+No I'd rather be out there, it's closer to home.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+It's quite a drive to come from Dalton over here.
+
+DOCTOR A565
+Right.  So you're able to with your insurance.
+
+PATIENT A565
+Yes sir.
+
+DOCTOR A565
+Yeah if you're able to do that alright it's just for the primary stuff that you need to be here?
+
+PATIENT A565
+Yes sir.
+
+DOCTOR A565
+Okay.  
+
+PATIENT A565
+I'm a long time patient of DOCTOR in Rheumatology you know.
+
+DOCTOR A565
+Yeah he's a good guy um.
+
+PATIENT A565
+Yeah he's real sharp.
+
+DOCTOR A565
+Okay so after, at this the hospitalization on the 12th they also told you that you have heart failure?  But we can check on the pacemaker.
+
+PATIENT A565
+That was at St. James where they uh.
+
+DOCTOR A565
+In December, right okay.
+
+PATIENT A565
+Right.
+
+DOCTOR A565
+But they did the pacemaker that month too?
+
+PATIENT A565
+Yeah December the 23rd.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+Cause I wanted to go home for Christmas and they kept me, they put that in and had to keep me in observation then they gave me blood, two pints of blood.
+
+DOCTOR A565
+Okay.  Alright so basically three hospitalizations that we're talking about since November okay.
+
+PATIENT A565
+Yeah.
+
+DOCTOR A565
+@@@.  It's, I just want to make sure I got everything straight.  Sometimes things can slip a little bit and uh you know it's good just to have all of this documented.  So you ran out of and uh in January, mid January they gave you all your medications so it was just for 30 days right?  Is that right?
+
+PATIENT A565
+Yes.
+
+DOCTOR A565
+Okay.  Are these the same as the ones on your list?
+
+PATIENT A565
+The only one that wasn't on the list was the Dulcolax.
+
+DOCTOR A565
+Oh Dulcolax okay, so all the other ones were there?
+
+PATIENT A565
+The others are on there.  
+
+DOCTOR A565
+Okay, I sort of, I think the.
+
+PATIENT A565
+The Lipitor, I'm almost out and they say don't wait till I run out so just come back.
+
+DOCTOR A565
+Yeah did you check with the Pharmacy though?  Um cause you have refills for a lot of these.
+
+PATIENT A565
+Uh the Dulcolax I probably don't have a refill.
+
+DOCTOR A565
+Right.
+
+PATIENT A565
+Uh the Dulcolax is not on it.
+
+DOCTOR A565
+Right.
+
+PATIENT A565
+But @@@.
+
+DOCTOR A565
+Yeah that hasn't @@@.
+
+PATIENT A565
+And they wouldn't replace until I got a prescription for it.
+
+DOCTOR A565
+Yeah I can give you the Dulcolax or whatever.
+
+PATIENT A565
+Uh @@@ the one's that out, am I on that for that too, metoprolol.
+
+DOCTOR A565
+Yeah metoprolol.  Are you taking clonidine?
+
+PATIENT A565
+Clonidine?
+
+DOCTOR A565
+Are these the only medications you're taking right?
+
+PATIENT A565
+No I got a list of all of my medications.
+
+DOCTOR A565
+Yeah.
+
+PATIENT A565
+You want to see it?
+
+DOCTOR A565
+Yeah.
+
+PATIENT A565
+Yeah.
+
+DOCTOR A565
+Good and this is all from, okay.  @@@.  Any chest pain or shortness of breath at all?
+
+PATIENT A565
+No sir.
+
+DOCTOR A565
+Fever or chills, anything like that?
+
+PATIENT A565
+No sir.
+
+DOCTOR A565
+So you're doing okay?
+
+PATIENT A565
+Yes sir.  
+
+DOCTOR A565
+Leg edema, no swelling?
+
+PATIENT A565
+No sir.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+I'm trying to monitor my fluid intake to about one liter a day.
+
+DOCTOR A565
+Yeah that's perfect.  Um okay just a couple things um did you get your flu vaccine this year?
+
+PATIENT A565
+I don't @@@ vaccines though.
+
+DOCTOR A565
+Okay.  What about Pneumovax for pneumonia?  No.  Tetanus shot, it's basically that one's pretty important if you get cut.
+
+PATIENT A565
+Right, right, no.
+
+DOCTOR A565
+No.  Okay.  Have you had a colonoscopy done?
+
+PATIENT A565
+Um last year sometime.
+
+DOCTOR A565
+Okay.  Where was it?
+
+PATIENT A565
+Um I think I had it here.
+
+DOCTOR A565
+It was here.
+
+PATIENT A565
+Right.
+
+DOCTOR A565
+Good.
+
+PATIENT A565
+Back in 2010 I got bit by a spider.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+It gave me cellulitis.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+And I was here.
+
+DOCTOR A565
+In the hospital okay.
+
+PATIENT A565
+And then I came back and I went to the Infectious Disease Department.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+And uh back on that floor and uh she put me down in the Emergency Room.  The doctor came in, he was from Northwestern Surgery.
+
+DOCTOR A565
+Hmm.
+
+PATIENT A565
+And he took out a little chunk of my leg, my right rear leg and then I had to go on a wound vac about three months.
+
+DOCTOR A565
+Okay, I think I saw a record of that.  But as far as you're aware you had a colonoscopy you know screening for colon cancer, that was performed last year?
+
+PATIENT A565
+Yes, yes, yes.
+
+DOCTOR A565
+Do you know if it was negative?
+
+PATIENT A565
+It was negative.
+
+DOCTOR A565
+Good and so you think it was negative.
+
+PATIENT A565
+Yes that's what they tell me.
+
+DOCTOR A565
+Who’s your primary care doctor at the @@@ Hospital?
+
+PATIENT A565
+Hmm I don't remember the name.
+
+DOCTOR A565
+So you've been seeing them every couple months?
+
+PATIENT A565
+Not really I just started with this dialysis.
+
+DOCTOR A565
+Uh-huh.
+
+PATIENT A565
+This is just recently so I'm kind of foggy on names.
+
+DOCTOR A565
+Okay.  Let me @@@.
+
+PATIENT A565
+Before I started getting ill this was my primary clinic, the Blue Team.
+
+DOCTOR A565
+Right and now it's going to be as well, right?
+
+PATIENT A565
+Yeah.
+
+DOCTOR A565
+Okay.  Any numbness in your feet?
+
+PATIENT A565
+No sir.
+
+DOCTOR A565
+No.  Okay.  Let me do a quick exam on you and then I'll talk to DOCTOR and you'll be good to go.  Okay.  Deep breath in and out, again, again.  Can you lay down?  Okay.  @@@.  Okay.  Can you take your jacket off? I just want to listen to your back.  Deep breath and out, in and out, in and out, in and out good.  @@@.  Good.  So when your leg was swollen it was much more than this?
+
+PATIENT A565
+Yeah they were real fat.  I went from 160 down to 140.
+
+DOCTOR A565
+And @@@ okay.  I'll be right back okay.
+
+PATIENT A565
+Okay.
+
+(DOCTOR OUT:  46:22  DOCTOR IN:  60:56)
+
+DOCTOR A565
+Hey.  So I'd like to ask a couple of questions. In terms of this medication list.
+
+PATIENT A565
+Uh-huh.
+
+DOCTOR A565
+Were you getting your medications at the other hospitals or were you always getting your medications here?
+
+PATIENT A565
+I was always getting them here.
+
+DOCTOR A565
+Okay.  Um because some of these were expired so I don't know if you were still taking them or not.  What I want to do um, yeah instead of refilling everything what are the things that you.
+
+PATIENT A565
+Those are the things I need right there on the @@@ list.
+
+DOCTOR A565
+Yeah I think that you have refills for most of them.
+
+PATIENT A565
+Right.
+
+DOCTOR A565
+But so the only thing was the Docusate.
+
+PATIENT A565
+Docusate yeah.
+
+DOCTOR A565
+I'm just gonna look here.  Where did you get the metoprolol from, was it here?
+
+PATIENT A565
+No the last time I was out I had to go to Walgreens.
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+That's going back here.
+
+DOCTOR A565
+@@@ prescribe that.
+
+PATIENT A565
+Uh I think it was at St. Margaret's.  I know I sound vague @@@ you know my wife handles a lot of this stuff you know.
+
+DOCTOR A565
+Yeah.  Well the, it's I mean I guess as long as you're taking, if you're getting all your medical care here it helps to have you getting them in one place.  You know because it's impossible for you to know some of the things that happen in other hospitals.
+
+PATIENT A565
+Uh-huh.
+
+DOCTOR A565
+But to keep track of what medications they've given you okay so.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+So the metoprolol we'll do that.
+
+PATIENT A565
+So I can go down to the Pharmacy and get that today?
+
+DOCTOR A565
+Yeah you can basically, metoprolol.
+
+PATIENT A565
+You put the Dulcolax in there?
+
+DOCTOR A565
+Yeah I'm gonna do that too um.  Okay the statin.
+
+PATIENT A565
+Uh-huh.
+
+DOCTOR A565
+The atorvastatin.
+
+PATIENT A565
+Uh-huh.
+
+DOCTOR A565
+And you can get it out there, oh it looks like you got it recently, you got that on the 24th uh.
+
+PATIENT A565
+I think what probably happened was the doctor prescribed it at 150 mg a day twice a day and I only got the 50 mg so I went right straight through it you know and that's why I'm almost out.  
+
+DOCTOR A565
+Okay.
+
+PATIENT A565
+And I need enough to make 150 mg a day.
+
+DOCTOR A565
+Okay.  Do you have enough insulin or do you need the um?
+
+PATIENT A565
+Well according to the package it says that it's only filled for 28 days so.
+
+DOCTOR A565
+@@@.
+
+PATIENT A565
+I need the needles and the insulin.
+
+DOCTOR A565
+Okay.  And so these are the only things I'm going to refill for a month's supply.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+What I want you to do is with your old um, yeah with whatever bottles you've been taking before okay.
+
+PATIENT A565
+Bring them back?
+
+DOCTOR A565
+Yeah I want you to bring them back to the Pharmacy.  Do you have that form that they gave you initially when you walked in?
+
+PATIENT A565
+The form?
+
+DOCTOR A565
+Yeah it's with your name and it's got all the stuff.
+
+PATIENT A565
+No they didn't give me a form.
+
+DOCTOR A565
+Uh Pharmacy visit, in one month okay.
+
+PATIENT A565
+Okay.  
+
+DOCTOR A565
+Or not one month sorry, one week, okay.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+Now you used to see the cancer doctors here.  Do you have an appointment with them any time soon?
+
+PATIENT A565
+No @@@.
+
+DOCTOR A565
+Were you supposed to have an appointment with them any time soon?
+
+PATIENT A565
+Every time I try to make an appointment they keep putting me back to like March.
+
+DOCTOR A565
+Okay.  Well so you need to try to make that appointment okay.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+So we'll do that.  Now with the pacemaker they want you to see the cardiologist over there or did they say for you to have a cardiologist here?
+
+PATIENT A565
+Um I think I was supposed to take a stress test out there.  I seem vague about this, but my wife is the one @@@ make the appointment @@@.
+
+DOCTOR A565
+So basically if you're seeing a cardiologist there you can continue seeing them.
+
+PATIENT A565
+Hmm.
+
+DOCTOR A565
+If you need to see a cardiologist here we would want you to establish care here so.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+Do you have a cardiologist there?
+
+PATIENT A565
+Yes.
+
+DOCTOR A565
+Okay.  That you are going to continue to see them?
+
+PATIENT A565
+Yes.
+
+DOCTOR A565
+Okay.  We're gonna do some labs um would you be okay trying in the next day or two getting labs in the morning?
+
+PATIENT A565
+As long as they're not on Monday, Wednesday or Friday.
+
+DOCTOR A565
+Okay.  Basically whenever um.  You could do it now too, you probably ate today.
+
+PATIENT A565
+Yeah I ate today.
+
+DOCTOR A565
+Yeah so if you can do it um what's tomorrow, tomorrow's Wednesday, Thursday morning?
+
+PATIENT A565
+Thursday morning?
+
+DOCTOR A565
+Okay yeah.  Alright I'll make sure the orders there @@@ and then you haven't seen DOCTOR in a while either.
+
+PATIENT A565
+No.
+
+DOCTOR A565
+Yeah.
+
+PATIENT A565
+I'm trying to get in to see him but they keep telling me you know he's booked up till March.
+
+DOCTOR A565
+Yeah, yeah.  Well either way you know still make those appointments.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+You know and um basically we want you to do that.  We can handle things up until then.
+
+PATIENT A565
+Okay.
+
+DOCTOR A565
+Uh but you know if you see him in three months, five months, whatever be sure you're on the books so.  Okay.  @@@.
+
+PATIENT A565
+Okay.  @@@.
+
+DOCTOR A565
+Yeah that's good.  Um do you have your card?  Uh the @@@ card?
+
+PATIENT A565
+Yes.
+
+DOCTOR A565
+I gave it back to you?
+
+PATIENT A565
+Yes.
+
+DOCTOR A565
+Can I make a copy of it just so I can put it in our records?  And that way the Pharmacist can check.  I'll be right back okay.
+You're almost done.  I need to make a photocopy of this, alright, good.
+
+PATIENT LEAVES:  69:38
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300317
+TRANSACTION # 578-10-2-316-0103

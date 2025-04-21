@@ -1,0 +1,924 @@
+Date of Encounter:  @@/@@/@@   
+Time of Encounter:  @@@  
+
+DOCTOR F109
+PATIENT?  Hi sir you can take a seat over here.
+
+PATIENT F109
+Okay.  How are you today?
+
+DOCTOR F109
+Good, good.  Sorry I think got scheduled to the wrong clinic today.
+
+PATIENT F109
+Whoa oh.
+
+DOCTOR F109
+@@@ on Thursday.
+
+PATIENT F109
+Yeah I usually come in on Thursdays.
+
+DOCTOR F109
+Yeah so that's what was going on today.  They mis-scheduled a bunch of people.  Um I went through your chart and it looks like you were supposed to have your cholesterol and your labs done but you haven't had them done.
+
+PATIENT F109
+Right.
+
+DOCTOR F109
+Um why didn't you go up to get your labs done?
+
+PATIENT F109
+Nobody ever told me to go and get them done.
+
+DOCTOR F109
+Um back in July when they saw you they asked you to come back in two days and get your labs done.
+
+PATIENT F109
+I got them done back in July.
+
+DOCTOR F109
+Okay cause I looked at them and I didn't see any.  I think I'll just check one more time.
+
+PATIENT F109
+Last time I was here yeah.
+
+DOCTOR F109
+I saw the last one in June but not from July yeah.  So they weren't done since June.
+
+PATIENT F109
+Okay then that was, they only told me to go one time.
+
+DOCTOR F109
+Yeah.
+
+PATIENT F109
+Okay so @@@.
+
+DOCTOR F109
+You're just here for a follow-up appointment?
+
+PATIENT F109
+A follow-up plus I'm having some problems.
+
+DOCTOR F109
+Okay what's your problems?
+
+PATIENT F109
+Okay uh my I've got a toe on my, I guess I need to be referred to Podiatry.  I've got a toe on my right foot that if I don't work on it at least every three or four days I can barely walk.
+
+DOCTOR F109
+Does it hurt?
+
+PATIENT F109
+Yes.
+
+DOCTOR F109
+Is it ingrown?
+
+PATIENT F109
+No it's the nail when it starts to grow out.
+
+DOCTOR F109
+Uh-huh.  Take a seat up here and let me take a look at you.
+
+PATIENT F109
+Ever since '79 in the snow.  I was out in the snow and the nail turned black and it never.
+
+DOCTOR F109
+Okay which toe is it?
+
+PATIENT F109
+It's next to the baby toe.
+
+DOCTOR F109
+Okay.
+
+PATIENT F109
+So I don't know what toe that is.
+
+DOCTOR F109
+Let me look.
+
+PATIENT F109
+But that's why of course back in June I told them that it felt like had pulled a muscle in my elbow or something.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And it was hard for me to lift but I had an elastic band on my elbow.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And now if I don't put a band around my elbow I can't lift any more than about four or five pounds and it feels like the tendon is about to tear from the bone or something.
+
+DOCTOR F109
+Your blood pressure looks good.  Okay let me see.
+
+PATIENT F109
+This toe.  There's a big callus here and when this nail grows out I can barely walk.  
+
+DOCTOR F109
+It hurts?
+
+PATIENT F109
+It does when it grows out if I don't work on it like every two or three days it's unbearable.  And then I've got a question.  I've been working for, I guess, about the last month removing mold and painting a basement.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And the past week I've been really out of breath and my chest has been hurting.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+I guess from the fumes whatever. 
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+Is there anything I could put like in a.
+
+DOCTOR F109
+So you're being @@@ basement?
+
+PATIENT F109
+Yeah well they had water damage so I tore out all the mold and redid this stuff and I've been painting and cleaning and stuff and I guess the fumes just might, like I say for about the last week my chest has been hurting and I been out of breath so I thought maybe if there's something I could put on the inhaler or something that.
+
+DOCTOR F109
+Okay.
+
+PATIENT F109
+Maybe.
+
+DOCTOR F109
+Okay so does your chest pain only occur while you're getting short of breath?  How does it happen?
+
+PATIENT F109
+No I can, I mean I get short of breath now, some like just now bending over uh.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And this is so back in June I was getting out of breath and if I go to exercise or do sit-ups or stuff I get dizzy.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+Okay I thought that was the blood work was to find out if something was wrong there but now it's uh like I'll go to sleep at night and all of a sudden I start having real bad chest pains.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+Or I'll get up and.
+
+DOCTOR F109
+How long has this been going on for?
+
+PATIENT F109
+This is, the chest pain for about a week now.
+
+DOCTOR F109
+A week okay and how long have you been working in the basement for?
+
+PATIENT F109
+Uh about a month, month and a half.
+
+DOCTOR F109
+And I saw that you were using cocaine.  Have you used any recently?
+
+PATIENT F109
+No.
+
+DOCTOR F109
+Okay.  When was your last use?
+
+PATIENT F109
+Uh probably June or July.
+
+DOCTOR F109
+June to July okay.
+
+PATIENT F109
+About that time.
+
+DOCTOR F109
+Cause you with cocaine usage it can actually cause heart attacks.
+
+PATIENT F109
+Uh-huh.
+
+DOCTOR F109
+So.
+
+PATIENT F109
+But this doesn't feel like a heart attack, it's almost like somebody punched me in the chest.  It's like; it feels like I'm having pain in my lungs.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+You know I thought maybe if I got an inhaler and maybe put some Vicks on there or something.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+That I can inhaler could.
+
+DOCTOR F109
+Uh does the pain occur while you're sleeping?
+
+PATIENT F109
+Sometimes it's while sleeping, sometimes I walk to the store and all of a sudden my chest will start hurting.
+
+DOCTOR F109
+Okay.  How long does it last for?
+
+PATIENT F109
+Uh maybe oh half hour, hour.
+
+DOCTOR F109
+Half hour and you have problems breathing while that happens?
+
+PATIENT F109
+Yeah I get short of breath but you know sometimes I can.
+
+DOCTOR F109
+@@@.
+
+PATIENT F109
+Cough and some white stuff will come out you know and then it feels better.
+
+DOCTOR F109
+Okay.
+
+PATIENT F109
+So I thought maybe I'd inhaled too much paint or too much of the chemicals I was using to get off the.
+
+DOCTOR F109
+Does anything make it better, the pain?
+
+PATIENT F109
+Uh fresh air.
+
+DOCTOR F109
+Fresh air okay and then does anything uh make it worse?
+
+PATIENT F109
+When I get too hot, you know the apartment's too hot.
+
+DOCTOR F109
+Does exercising make it worse or better?
+
+PATIENT F109
+I haven't been able to exercise cause I go to exercise and I get, I'm getting so dizzy.
+
+DOCTOR F109
+So @@@ pains you stop walking or do you keep walking?
+
+PATIENT F109
+Yeah, yeah I stop.
+
+DOCTOR F109
+Does the pain get better if you stop walking?
+
+PATIENT F109
+Yeah, yeah, yeah.
+
+DOCTOR F109
+And can you describe the pain?
+
+PATIENT F109
+It's as if somebody just took their fist and punched me in the chest and it's just real sore and it hurts you know.
+
+DOCTOR F109
+Okay.  Um and any nausea or sweating or anything like that?
+
+PATIENT F109
+Yeah I get nauseous.
+
+DOCTOR F109
+Did you have a stress test in the past?
+
+PATIENT F109
+I had a stress test I think back in June or July or something.
+
+DOCTOR F109
+Okay.  Was that normal?
+
+PATIENT F109
+Yeah.
+
+DOCTOR F109
+Oh okay good. Just going to check.
+
+PATIENT F109
+Excuse me.
+
+DOCTOR F109
+Oh that's okay.  How long have you been working on this basement for?
+
+PATIENT F109
+About a month, month and a half.
+
+DOCTOR F109
+Does if feel like the breathing is worse when you're working on it?
+
+PATIENT F109
+It I mean, you know I'm finishing up now but like I say the past week, it started about a week ago and then it started getting real bad and then I started wearing masks and I turned on a fan and opened all the windows so it's not as bad as it had gotten you know.
+
+DOCTOR F109
+Do you feel like your chest pain is associated with your problems breathing?
+
+PATIENT F109
+I think so.  You know what it kind of reminds me of once years ago uh back in the '70s when I was young I bought a building and I was trying to clean it up.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And I made the mistake I didn't know, I mixed some alcohol and some bleach together, I mean uh some ammonia and some bleach.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And I was cleaning with it and the fumes, I inhaled them and my chest started hurting and started @@@ and that's the type pain I feel you know when I have these little episodes.
+
+DOCTOR F109
+Okay.
+
+PATIENT F109
+That's why I was thinking maybe it was coming from me inhaling too many chemicals.  
+
+DOCTOR F109
+Hold on one second.  (Doctor makes a phone call to check on the patient's stress test not in the computer).  Okay.  No thoughts of hurting yourself or hurting others?
+
+PATIENT F109
+Huh?
+
+DOCTOR F109
+No thoughts of hurting yourself?
+
+PATIENT F109
+Oh no, no.
+
+DOCTOR F109
+Okay.  You're taking aspirin every day?
+
+PATIENT F109
+No.
+
+DOCTOR F109
+No?
+
+PATIENT F109
+No.
+
+DOCTOR F109
+Why not?
+
+PATIENT F109
+Uh because I wasn't told to take aspirin every day.
+
+DOCTOR F109
+You weren't?
+
+PATIENT F109
+No.
+
+DOCTOR F109
+Okay. (Doctor talking to person regarding echo report on phone)
+Okay so good.  So the good news is your stress test was negative.  So I'm not too concerned that this is your heart.
+
+PATIENT F109
+Okay.
+
+DOCTOR F109
+And then can I have you sit up here while I type.  I want to take a listen to your lungs and heart okay.  Take a deep breath.  Keep your feet here.  Okay great.  Okay.  And about your elbow what did you mention first about your elbow?
+
+PATIENT F109
+Right through here.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+It's like the muscle or something like that when I lift.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+It feels like it's coming lose.  I can't lift anything.
+
+DOCTOR F109
+Okay.
+
+PATIENT F109
+So I got it real tight in that one space and I wrap it and I can't even lift a five pound bag of @@@.
+
+DOCTOR F109
+Okay.
+
+PATIENT F109
+And it's been like this since I guess about May or June.
+
+DOCTOR F109
+Squeeze my fingers for me.  Squeeze as tight as you can.  Good.  Make two fists; go like this, good stop.  Now go like this.  Okay good.  You've got really good strength in your arm.  I'm not sure why you're not able to lift things.
+
+PATIENT F109
+Okay.
+
+DOCTOR F109
+Because I mean when I'm testing right now, you're really strong compared to other people that I know.  So it may be it's just you feel like you're a little bit weaker but you feel really strong.  I'm not sure what the problem is.
+
+PATIENT F109
+Yeah but when I, let’s say if I grab @@@.
+
+DOCTOR F109
+Does it lock?
+
+PATIENT F109
+No if I go to lift something like this, in fact this pops out like that.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And then I have to drop it.  It's something right through here.
+
+DOCTOR F109
+Uh-huh.  Cause you have really good strength when I'm pushing down on your arm, I think having stronger muscles @@@ now right.  I wouldn't be too concerned about it.
+
+PATIENT F109
+Okay.
+
+DOCTOR F109
+I'm gonna be right back.
+
+PATIENT F109
+Okay.  Now should I go to the Lab when I leave here?
+
+DOCTOR F109
+Uh yeah probably.  I'll be right back okay.
+
+(DOCTOR OUT:  73:49  DOCTOR IN:  84:00)
+
+SECOND DOCTOR F109
+PATIENT?
+
+PATIENT F109
+Yes.
+
+SECOND DOCTOR F109
+I'm DOCTOR.
+
+PATIENT F109
+Yes.
+
+SECOND DOCTOR F109
+Um tell me about this chest pain.
+
+PATIENT F109
+Okay.
+
+SECOND DOCTOR F109
+What does it feel like, sharp, dull, stabbing, pressure?
+
+PATIENT F109
+It's uh dull.  It's kind of like I just get hit in the chest you know.
+
+SECOND DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And it goes away and I feel sore for a while.
+
+SECOND DOCTOR F109
+How long does it usually last you?
+
+PATIENT F109
+It lasts maybe half hour to an hour and then it goes away and my chest stays sore for a while but the actual pain itself, @@@ but it stays sore for maybe another hour or so and then it goes away.
+
+SECOND DOCTOR F109
+What are you usually doing when you get the chest pain?
+
+PATIENT F109
+Uh when it first started I'd be painting or spraying you know removing mold, whatever I was doing @@@ you know.
+
+SECOND DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+And uh the past week it's it usually occurs when I'm at the house and you know most time it happens at night when windows are closed, my apartment gets too warm the pain will hit me again or if I walk to the store, walking back sometimes the pain will hit me.  Um you know I thought that perhaps I just inhaled too many fumes and too much paint and too much boric acid.
+
+SECOND DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+You know bleach and stuff that I was using to clean all this mold and stuff you know so you know the pain is gradually getting better, it's not hurting as much but I thought maybe I could put something in a vaporizer or something and help clean whatever it is out.  A lot of times it hurts and I'll start coughing you know and you know phlegm or something will come up.
+
+SECOND DOCTOR F109
+Well does the shortness of breath start first or chest pain start first?
+
+PATIENT F109
+The shortness of breath I get now, I assume that was from just being fat but the shortness of breath has gotten worse since this started but uh I've had the shortness of breath now for I guess six, seven months.
+
+SECOND DOCTOR F109
+Uh-huh.  Uh so what I am saying is that when you walk to the store and back you get short of breath first and then get chest pain or do you get chest pain first and then get short of breath?
+
+PATIENT F109
+The shortness of breath came first.
+
+SECOND DOCTOR F109
+The shortness of breath comes first.
+
+PATIENT F109
+Yes.
+
+SECOND DOCTOR F109
+Okay.  So you're short of breath and then you get chest pain and then you rest.
+
+PATIENT F109
+Right, right.
+
+SECOND DOCTOR F109
+And it gets better.
+
+PATIENT F109
+Right uh-huh.
+
+SECOND DOCTOR F109
+Um does the pain move anywhere?
+
+PATIENT F109
+No it's like basically right in the middle of my chest.
+
+SECONE DOCTOR F109
+And you feel like you can't breathe in deep or that doesn't happen?
+
+PATIENT F109
+If I breathe in deep and it hurts more, sometimes I'll take a big breath.
+
+DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+You know what I'm saying, as deep as I can take and then I'll start coughing and choking and stuff will come up.
+
+SECOND DOCTOR F109
+Are you using cocaine?  When was the last time you used?
+
+PATIENT F109
+No.  The last time I used was I think back in June.
+
+SECOND DOCTOR F109
+Alright.  We need some blood tests today and I also want a urine sample okay.  You did not give us one back in July; you need to give us one today okay.
+
+PATIENT F109
+Yeah okay.
+
+SECOND DOCTOR F109
+Um you know you had that stress test.  It was a good stress test that you had done back in August or July or whenever it was a few months ago.  It did not show you had any blockages in your heart that we can see.
+
+PATIENT F109
+Right.
+
+SECOND DOCTOR F109
+Uh it's not the best test for checking to see if you have blockages but it's the next best test.  The best test is to put a you know a catheter in your groin and go up into your heart and look, you know, an angiogram.  I think that at this point in time it's kind of a little bit invasive.
+
+PATIENT F109
+Yeah.
+ 
+SECOND DOCTOR F109
+Because it seems like I think this is more lung problem maybe than actually a cardiac heart problem.
+
+PATIENT F109
+Right.
+
+SECOND DOCTOR F109
+So what we would like to do is we're gonna go ahead and start you on an inhaler and I want you to carry it around with you always and whenever you start getting short of breath I want you to use the inhaler.
+
+PATIENT F109
+Okay.
+
+SECOND DOCTOR F109
+Okay we're also going to get some blood tests done.
+
+PATIENT F109
+Okay.
+
+SECOND DOCTOR F109
+Are you a smoker too?
+
+PATIENT F109
+No.
+
+SECOND DOCTOR F109
+Tobacco smoker?
+
+PATIENT F109
+No.
+
+SECOND DOCTOR F109
+Ever?
+
+PATIENT F109
+No.
+
+SECOND DOCTOR F109
+Never?
+
+PATIENT F109
+Yes.
+
+SECOND DOCTOR F109
+Um have you had a chest x-ray recently here?
+
+PATIENT F109
+I might have had one last year or the year before.
+
+SECOND DOCTOR F109
+A year ago.
+
+PATIENT F109
+Also could you tell me how many, I know last year I had both the flu shots and this year last week I took the flu shot.
+
+SECOND DOCTOR F109
+@@@ one time, you've had the vaccine.
+
+PATIENT F109
+Yeah I know.  Have I had the pneumonia shot at all?
+
+SECOND DOCTOR F109
+Um usually we wait till you're 65 with the pneumonia shot.
+
+PATIENT F109
+Oh.
+
+SECOND DOCTOR F109
+Unless you're having lung problems.
+
+PATIENT F109
+Oh okay.
+
+SECOND DOCTOR F109
+We're diagnosing now and if we find you have lung problems then we'll go ahead and give it to you.
+
+PATIENT F109
+Okay.  I'll just @@@.
+
+SECOND DOCTOR F109
+Well I mean, have you been working in carpentry or construction for years?
+
+PATIENT F109
+No this is like a sideline and then you know I've never had problems until you know I've been working on this one for about a month, month and a half.  You know I've been around a lot of different chemicals.
+
+SECOND DOCTOR F109
+And when did your um.
+
+PATIENT F109
+The pain just started last week.
+
+SECOND DOCTOR F109
+You know you may have had this thing for a long time, that’s why we had your stress test was done.
+ 
+PATIENT F109
+Okay, the pain I was having was chest pain was kind of related to my heart now it feels like it's my lungs because it's just like the pressure isn't over here.  Like before I was having it felt like something was popped loose and it pushed in against my heart.
+
+SECOND DOCTOR F109
+Okay.
+
+PATIENT F109
+Now this feels like it's in the middle of my chest and my lungs.
+
+SECOND DOCTOR F109
+Alright, we'll get a chest x-ray and we'll do the lung tests.  You can actually go upstairs and get the lung test today and do the blood work @@@ um.
+
+PATIENT F109
+Can I do it another time?
+
+SECOND DOCTOR F109
+Yeah you can come in whenever you want to do it @@@.  Uh we'll go ahead and get blood tests, get a urine sample today.  I don't want you to use any cocaine at all.  Have you used this drug before?
+
+PATIENT F109
+No.
+
+SECOND DOCTOR F109
+Tobacco?
+
+PATIENT F109
+All I ever smoked was marijuana and cocaine.
+
+SECOND DOCTOR F109
+Crack?
+
+PATIENT F109
+Yeah.
+
+SECOND DOCTOR F109
+How much cocaine did you used to smoke?
+
+PATIENT F109
+I used to smoke uh during the day I'd smoke every day.
+
+SECOND DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+But uh in the past I'd @@@ about five, six years I might of smoked maybe ten times in six years so.
+
+SECOND DOCTOR F109
+So before six years you were smoking every day?
+
+PATIENT F109
+Yeah.
+
+SECOND DOCTOR F109
+For how many years?
+
+PATIENT F109
+Oh I almost @@@.  I smoked a little every day for probably 15 years, 10 years, something like that.
+
+SECOND DOCTOR F109
+Okay.  Um now cocaine actually, you know just like tobacco we tell people that can actually cause lung damage, cocaine actually causes lung damage in fewer smokes.
+
+PATIENT F109
+Okay.
+
+SECOND DOCTOR F109
+So it’s actually quite bad.  Um we'll do the lung tests and then we'll see we'll go from there but the inhaler I want you to carry around and I want you to use it whenever you get short of breath and we'll see if your symptoms get better.
+
+PATIENT F109
+Okay.
+
+SECOND DOCTOR F109
+We'll have you come back in about a month, two months, okay.
+
+PATIENT F109
+Yeah.
+
+FIRST DOCTOR F109
+Okay.  And you said you smoked cocaine for ten years or so?
+
+PATIENT F109
+I started smoking cocaine, I mean on a regular basis I was smoking for about ten years but I started smoking I think in about maybe 85.
+
+FIRST DOCTOR F109
+Okay.
+
+PATIENT F109
+85 probably until 2000 on a regular basis and then the last, then I started smoking like maybe once a month but the last five years has been like maybe twice a year.
+
+FIRST DOCTOR F109
+Okay.  And then before that when you said regularly was that daily?
+
+PATIENT F109
+Uh for ten years it was almost every day I smoked at least ten dollars’ worth.
+
+FIRST DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+But uh then I went to every weekend that I smoked a couple of hundred dollars’ worth and then finally it got to kind of where I am now where I don't even think about smoking it.
+
+FIRST DOCTOR F109
+Okay.  So you're all set for your x-ray and your labs and then your lung function tests okay.
+
+PATIENT F109
+Okay.
+
+FIRST DOCTOR F109
+Um go ahead and go to your labs first and then go to your x-ray and then go to the lung function tests.  I would just ask them where the Pulmonary Lab is when you get your x-ray okay.  The Lab is across the hallway.  Once you're done with the labs you can go all the way down the hallway it's on the left hand side, it's X-Ray.
+
+PATIENT F109
+Okay now she said since I have to be here Wednesday morning anyway.
+
+FIRST DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+Uh and I have a couple of things I'm supposed to do this evening.
+
+FIRST DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+She said I could take the lung thing on Wednesday.
+
+FIRST DOCTOR F109
+Sure that's fine too.
+
+PATIENT F109
+Okay.
+
+FIRST DOCTOR F109
+Okay um and then your albuterol inhaler, I prescribed it for you, let me see maybe I should change it so you could pick it up at the window.  You can go ahead and pick that up at the window okay.
+
+PATIENT F109
+Okay.
+
+FIRST DOCTOR F109
+And then we'll see you back actually pretty closely from now on okay.
+
+PATIENT F109
+Okay.
+
+FIRST DOCTOR F109
+Alright and I'll put the thing in to the order, then you'll get a letter at home in the mail okay.
+
+PATIENT F109
+Okay.  
+
+FIRST DOCTOR F109
+Alright.
+
+PATIENT F109
+So I can go do the blood tests now.
+
+FIRST DOCTOR F109
+Blood tests now and then an x-ray.
+
+PATIENT F109
+X-ray.
+
+FIRST DOCTOR F109
+And then let me get a good phone number.  If there's anything weird I see then I'll give you a call okay.
+
+PATIENT F109
+Okay.
+
+FIRST DOCTOR F109
+What's your phone number?
+
+PATIENT F109
+Uh NUMBER.
+
+FIRST DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+NUMBER.
+
+FIRST DOCTOR F109
+Uh-huh.
+
+PATIENT F109
+NUMBER.
+
+FIRST DOCTOR F109
+NUMBER.
+
+PATIENT F109
+NUMBER.
+
+FIRST DOCTOR F109
+NUMBER.  Is it okay to leave a message?
+
+PATIENT F109
+Yeah.
+
+FIRST DOCTOR F109
+Okay.  Alright we'll see you soon okay.
+
+PATIENT F109
+Okay.
+
+FIRST DOCTOR F109
+Alright take this with you.
+
+PATIENT F109
+Thank you.
+
+FIRST DOCTOR F109
+Don't forget your sweater.
+
+PATIENT F109
+You have a great day.
+
+FIRST DOCTOR F109
+You too. Take care.
+
+PATIENT F109
+Do you want this opened or closed?
+
+FIRST DOCTOR F109
+Uh opened is perfect thanks.
+
+PATIENT LEAVES:  94:28
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286090
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,547 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR A631
+PATIENT?
+
+PATIENT A631
+Yeah.
+
+DOCTOR A631
+How you doing?
+
+PATIENT A631
+I was bringing some technical, technical @@@.  How you doing big guy?
+
+DOCTOR A631
+Good how you doing?
+
+PATIENT A631
+Good.
+
+DOCTOR A631
+Um vertigo gone yet?
+
+PATIENT A631
+Uh not too well.
+
+DOCTOR A631
+Oh oh.
+
+PATIENT A631
+And I took it.  @@@ I got some more coming up but, when I first meeting with them, actually @@@.
+
+DOCTOR A631
+After you were done.
+
+PATIENT A631
+Yeah so @@@.  But I made it out to my car and fell flat on my face and I fell like a bird.  Thank God there was a guy there just parking.  He come running over and he figured I died or something.
+
+DOCTOR A631
+Yeah.
+
+PATIENT A631
+And he helped me up.
+
+DOCTOR A631
+How many times have you actually passed out since we last saw each other?
+
+PATIENT A631
+Just that once.
+
+DOCTOR A631
+Just that one time?  Okay.
+
+PATIENT A631
+Yeah.
+
+DOCTOR A631
+Because all the manipulations.
+
+PATIENT A631
+Yeah, yeah.  I gotta renew some of my prescriptions.
+
+DOCTOR A631
+@@@.
+
+PATIENT A631
+And is there such an animal, a test where I don't know how to say it, testosterone?
+
+DOCTOR A631
+Testosterone?
+
+PATIENT A631
+Yeah testosterone, what my level is?
+
+DOCTOR A631
+Yeah why do you uh?
+
+PATIENT A631
+Cause nothings working.
+
+DOCTOR A631
+Yeah.  Oh @@@.
+
+PATIENT A631
+@@@.
+
+DOCTOR A631
+How are uh things going you know?  I know that you were under a lot of stress and a lot of.
+
+PATIENT A631
+Yeah see my wife's doing much better now.
+
+DOCTOR A631
+Okay.
+
+PATIENT A631
+She still can't @@@ so I don't know, problems with her pain and what not but we're doing better than we were.
+
+DOCTOR A631
+Okay.
+
+PATIENT A631
+I went back to work thank God.  That took a little pressure off.
+
+DOCTOR A631
+Good.  Uh so nothing, have you seen the Urology doctor?
+
+PATIENT A631
+Yeah one time.
+
+DOCTOR A631
+One time you did?
+
+PATIENT A631
+Yeah a while back you sent me there.
+
+DOCTOR A631
+That's right and what did they say?
+
+PATIENT A631
+@@@.
+
+DOCTOR A631
+No @@@.  They just said to increase the Levitra to 20 mg but that's not doing anything for you?
+
+PATIENT A631
+No.
+
+DOCTOR A631
+Okay.  We might have something better, let me check.  How is your energy?
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+@@@.
+
+PATIENT A631
+Yeah.
+
+DOCTOR A631
+Your strength is okay?  Like your muscle strength?
+
+PATIENT A631
+Yeah.
+
+DOCTOR A631
+You don't feel weak or anything?
+
+PATIENT A631
+Uh uh, no.  @@@.
+
+DOCTOR A631
+What's that?
+
+PATIENT A631
+I’m eating and sleeping better.
+
+DOCTOR A631
+That's good.  They actually tested your testosterone levels back in January 2009 um and they were normal.  It was normal. So I don't think that's the problem.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+I'm kind of out of things to do.  You know I've checked you for metabolic and @@@.  The only thing I can have you do is see the Urology doctors to see if there are any other options out there.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+For you.
+
+PATIENT A631
+Any other pill that will work, Viagra or?
+
+DOCTOR A631
+Viagra, I don't know if I, they don't carry Viagra here but the medicine that, the Levitra is the same thing uh-huh. 
+
+PATIENT A631
+The same thing. 
+
+DOCTOR A631
+Uh-huh.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+I wouldn't expect it to.
+
+PATIENT A631
+Well I've never changed, whatever you were sending me or can't you go up, is that what we did?
+
+DOCTOR A631
+Now you're getting 20 mg.
+
+PATIENT A631
+Okay.  I think I was.  I had to stop taking it cause it wasn't doing anything.
+
+DOCTOR A631
+Sure.  Now you're taking that how soon before?
+
+PATIENT A631
+Half an hour or an hour whatever.
+
+DOCTOR A631
+Okay.  So you're doing that.
+
+PATIENT A631
+Yeah.
+
+DOCTOR A631
+I don't know, maybe we'll just have you talk with the Urology doctors again now that you're on the, you know tell them you're on the maximum dose of the Levitra and you haven't noticed any change.
+
+PATIENT A631
+Alright.
+
+DOCTOR A631
+Uh now you haven't had any headaches or anything like that, blurry vision, double vision?
+
+PATIENT A631
+Nope.
+
+DOCTOR A631
+Okay.  And your blood pressure, you've been off the lisinopril now correct?
+
+PATIENT A631
+Uh-huh.
+
+DOCTOR A631
+Your blood pressure was not too bad here.
+
+PATIENT A631
+No I know it was 141 over.
+
+DOCTOR A631
+76 which is not horrible, did you just walk in?
+
+PATIENT A631
+Uh-huh.
+
+DOCTOR A631
+Yeah we'll recheck it here but I'm guessing that you could probably stay off the lisinopril.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+Uh well this appointment was made primarily to follow up with the vertigo to see how you've been doing with that.  Would you say it’s better?  Cause I remember last time you were getting frequent attacks so if you've only had one attack after the manipulation.
+
+PATIENT A631
+I have to watch everything.  Well especially when I'm in bed and try to get out of bed.
+
+DOCTOR A631
+Yeah.
+
+PATIENT A631
+That's when it happens.
+
+DOCTOR A631
+Okay.  We're going to give you a pill called meclizine that might help some of the symptoms.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+It's not going to eliminate it all together but it might help some of it.
+
+PATIENT A631
+Alright, I've learned by just taking things a little slower and I'm @@@ most of the time anyway but by slowing down a little bit I think it's helped and think before I move in bed.  But if I try to get up too quick I might as well lay on over on the floor.
+
+DOCTOR A631
+Okay.
+
+PATIENT A631
+Not out but down I mean I got, the other day I really, the first time I'd been sick to my stomach you know when the vertigo hit and it's been a long time since that's happened.  I didn't throw up but I was real close.
+
+DOCTOR A631
+Sure.  And you mentioned you've had an MRI and a MRA the correct?
+
+PATIENT A631
+Uh-huh.
+
+DOCTOR A631
+Um you don't have those reports do you?
+
+PATIENT A631
+No.
+
+DOCTOR A631
+Maybe the next time we see each other just remember to bring those in.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+So I can get them into the VA System so we have records of them.
+
+PATIENT A631
+Fine.
+
+DOCTOR A631
+Let me put the notes in that we're going to try the correct dose of the meclizine.  It's not a medication that is used commonly but you know, but my attending said @@@.  Okay it's generally used for like motion sickness and things like that.
+
+PATIENT A631
+Yeah.
+
+DOCTOR A631
+But it's also used for vertigo.  It can cause you to be a little bit drowsy, that's probably the main side effect.
+
+PATIENT A631
+I'll be careful with it.
+
+DOCTOR A631
+We're going to start, we'll start with the lowest dose 25 mg um once a day and we're going to give you a 50 mg tablet and you can cut that in half.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+And see if that eliminates it.  Um if you notice that you're still getting a lot of vertigo, but maybe it's helping a little bit, you can take up to 100 mg a day.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+In divided doses so maybe do, you know if it's helping a little bit but um it's not away maybe you can increase it after about a week or so to 25 mg twice a day and try that.
+
+PATIENT A631
+Alright.
+
+DOCTOR A631
+Let's try it for a week with just the 25 mg.  If it's doing nothing then I don't know, like if it's making you drowsy then just stop it.
+
+PATIENT A631
+Yeah okay.
+
+DOCTOR A631
+Yeah.  Okay.  Um and then everything else we kind of took care of the last visit. I just renewed…
+
+PATIENT A631
+I am feeling a bit better, now that the pressure's off with my wife.
+
+DOCTOR A631
+@@@.
+
+PATIENT A631
+Stress really does affect you.  I know it was dragging me down.
+
+DOCTOR A631
+Yeah.
+
+PATIENT A631
+We're doing fine.
+
+DOCTOR A631
+Okay.
+
+PATIENT A631
+Alright.
+
+DOCTOR A631
+Let's get your blood pressure again.  @@@.  
+
+PATIENT A631
+Not bad @@@.
+
+DOCTOR A631
+It’s freezing outside.
+
+PATIENT A631
+@@@ parking lot @@@.
+
+DOCTOR A631
+Oh.  Alright just rest your arm against me.  128/72.  That’s good blood pressure, better than mine.  Deep breaths for me now.  You don’t have any troubles with @@@.  
+
+PATIENT A631
+No.
+
+DOCTOR A631
+Okay good.  Alright.  We're going to, we'll try the meclizine and hopefully that works for you.  When is your next appointment with Physical Therapy?
+
+PATIENT A631
+I think it's coming in another week.  I got a whole bunch @@@.
+
+DOCTOR A631
+Okay good, good.  I want you to see the Urology doctors.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+Um.
+
+PATIENT A631
+@@@.
+
+DOCTOR A631
+Just have a seat for just one second while I talk to my attending.
+
+PATIENT A631
+Alright.
+
+(DOCTOR OUT:  34:50  DOCTOR IN:  43:07)
+
+DOCTOR A631
+Alright so I talked with DOCTOR about things.  He agreed with trying the meclizine.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+But he's also recommending a couple other things.  Uh the omeprazole, the acid blocker that you're on.
+
+PATIENT A631
+Uh-huh.
+
+DOCTOR A631
+Why was that started?
+
+PATIENT A631
+Because I get terrible reflux.
+
+DOCTOR A631
+Okay.  When was that started?
+
+PATIENT A631
+A long time ago.
+
+DOCTOR A631
+Have you ever tried going without it?
+
+PATIENT A631
+Yep.
+
+DOCTOR A631
+Okay.  Have you tried things like Zantac before?
+
+PATIENT A631
+No.
+
+DOCTOR A631
+Okay.  Omeprazole, if you've been on it for a while it can definitely contribute to some vertigo and dizziness and things like that.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+So it might be worth trying, you know trying you without it and then I'm going to check Zantac here um and then try the Zantac.  It's a similar, it's not a proton-pump inhibitor but it still blocks the acid production in your stomach.  We don't have Zantac here but you can get it over-the-counter.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+Um so stop the omeprazole; try taking the Zantac and see if that makes any difference.  Obviously if your acid reflux becomes severe and you don't notice any difference in the.
+
+PATIENT A631
+Switch back.
+
+DOCTOR A631
+Yeah then switch back to the omeprazole.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+Lastly, you know he, even though you just had a MRI, you know we don't have any head imaging here so he was hoping that we could get a CAT scan of your noggin within the next week or so.  Um it's a CT scan so you know you're in and out, it’s not like an MRI.  Just to make sure, especially with your history of head and neck cancer.
+
+PATIENT A631
+Uh-huh.
+
+DOCTOR A631
+The likelihood of this being anything is like nothing, but we're just being more conservative.
+
+PATIENT A631
+Sure.
+
+DOCTOR A631
+Well, I'm going to, are you able to get that done?
+
+PATIENT A631
+Yeah.
+
+DOCTOR A631
+Okay I'll order it then.  So definitely stay off the it's always good when you're getting rid of medications.
+
+PATIENT A631
+Yeah exactly.
+
+DOCTOR A631
+So stay off the lisinopril, looks like your blood pressure doesn't need any more help.
+
+PATIENT A631
+I haven’t had that in a long time.
+
+DOCTOR A631
+Good and then um we'll try you off the omeprazole.
+
+PATIENT A631
+The Zantac you take it just once a day or?
+
+DOCTOR A631
+Yeah, just once a day.  Then we'll send you back to the Urology doctor, okay?  Unfortunately, I don't have any other, I mean there are some other drugs that they're more familiar with and they can check on that and then hopefully things will go well.  Oh there was one other thing that I want, he was also saying uh for, to get you know what's causing the bad erectile dysfunction and what's causing this extreme vertigo.
+
+PATIENT A631
+Uh-huh.
+
+DOCTOR A631
+There are two main systems in the body.  The sympathetic and parasympathetic, it's kind of like the sympathetic, more like the fight or flight, and the parasympathetic it slows down the metabolic processes so sometimes you might have a malfunction of those two systems um and that could explain the vertigo.  It can also explain the erectile dysfunction and how you test for that is something called autonomic testing uh which um they just do various tests like if you're going to be on a table and then put you up and down.  It is a pretty extensive test.  They normally last about an hour, so it might get us some information that there's an impairment in the autonomic system.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+And then if there is, the Neurology doctors might have something similar @@@.  I think it'd be worth getting that done too.  So a CT of the head, autonomic testing, stop the omeprazole, try the Zantac and have you see the urology doctor.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+All of your medicines are renewed.  I don't have to see you back for another four months or so okay.
+
+PATIENT A631
+Okay.
+
+DOCTOR A631
+I'll let you know if something comes up before then.
+
+PATIENT A631
+Great.
+
+DOCTOR A631
+@@@ take care of yourself.
+
+PATIENT A631
+Yeah.
+
+PATIENT LEAVES 49:06.
+
+Time is 9:08.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1246968
+TRANSACTION # 578-10-2-316-0103

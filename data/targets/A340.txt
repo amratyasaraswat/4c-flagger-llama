@@ -1,0 +1,31 @@
+Red Flag (2205-2253): "That kind of mess me up, you up you know kind of"
+
+Factor   (2290-2321): "Kinda a, made me a little angry"
+
+Factor   (2367-2393): "Had my doubts about the VA"
+
+Red Flag (5053-5123): "They have this @@@ once a day. You're supposed to take it twice a day"
+
+Factor   (5053-5082): "They have this @@@ once a day"
+
+Red Flag (5139-5161): "No I only take it once"
+
+CarePlan (5431-5506): "Yeah this is supposed to be twice a day so I'm gonna put it for twice a day"
+
+Red Flag (5666-5715): "I’ll monitor it @@@ yeah if I don't need it twice"
+
+Factor   (5666-5715): "I’ll monitor it @@@ yeah if I don't need it twice"
+
+CarePlan (5730-5879): "It only works if you take it all the time though. Like even, like if you don't take it for a couple days then uh the acid-blocking like what it does"
+
+Factor   (5895-5903): "Cut back"
+
+CarePlan (5918-5950): "You have to start all over again"
+
+Red Flag (11253-11304): "No it's for the, uh for the herpes. Do you have it"
+
+Red Flag (11320-11347): "No I didn't get those pills"
+
+Red Flag (11350-11386): "They put them in but they never came"
+
+Red Flag (11534-11596): "And I think I told them to mail them and they ain't never come"

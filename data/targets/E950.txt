@@ -1,0 +1,63 @@
+Red Flag (1203-1269): "I don't know if its enough and I don't if it's even the right drug"
+
+Red Flag (1305-1348): "By the way I've run out of it, two days ago"
+
+Factor   (1353-1428): "they won't refill it downstairs because there's not a standing prescription"
+
+Factor   (1443-1478): "Hmm, yeah it's expired that's right"
+
+Probe    (1481-1582): "So why do you think you don't know if it's the right drug. Has it been helping enough with your pain"
+
+Red Flag (4271-4331): "No in fact I had to drop my Blue Cross/Blue Shield insurance"
+
+Red Flag (4385-4428): "Yeah uh well that's just the financial fact"
+
+Red Flag (4587-4620): "Because that's all I could afford"
+
+Red Flag (5705-5758): "Uh I ran out of Plavix so I just went to baby aspirin"
+
+Factor   (5793-5880): "Uh they won't renew that. There's a lot of the drugs they just won't renew them for me"
+
+Probe    (5921-6086): "So I never got, they usually send me an alert that uh you're out of meds and will I renew them for you. So you called the Pharmacy and they just wouldn't renew them"
+
+Factor   (6102-6210): "No I called the Pharmacy and they said oh you gotta come in so I made a trip in. I talked to the pharmacist"
+
+Factor   (6247-6425): "And he said oh there's not a prescription for it that's all, you got to get a prescription and so I made the appointment with you today because that's getting out of hand as well"
+
+CarePlan (6453-6538): "The neurologist wants you and I want you on the Plavix so I'm renewing that right now"
+
+Red Flag (6867-6923): "You know because I'm out of it. I mean I've got nothing"
+
+Probe    (7872-7909): "Um are you, have you been taking them"
+
+Red Flag (8149-8220): "I never got results back from the two tests that they did the last time"
+
+Red Flag (8693-8756): "So I would say that your cholesterol is not well controlled yet"
+
+Red Flag (10139-10257): "I spoke recently to a collection agency that I was turned over to because there was a nonpayment of $1500 on that bill"
+
+Factor   (11067-11169): "Uh do you know the route that I have to take to inquire with the VA if they would pick up some of that"
+
+CarePlan (11198-11258): "I think uh maybe a social worker would be the place to start"
+
+CarePlan (11372-11470): "If not we'll set you up with the social worker and see if she can point you in the right direction"
+
+Red Flag (13126-13172): "I've had a more difficult road to haul of late"
+
+Red Flag (13207-13363): "You know losing my eyesight in 2009 and then you know my daughter's still a teenager, she's 19 and she moved to Florida. Uh my wife's had two heart attacks"
+
+Red Flag (13508-13697): "Legitimately I mean without making it some grander problem but as I was going into therapy uh I had to leave for Florida because my daughter fell into some really bad times there in Florida"
+
+Factor   (13637-13697): "my daughter fell into some really bad times there in Florida"
+
+Red Flag (13734-13844): "So I left for Florida and I missed several appointments and when I got back I just never bothered to reappoint"
+
+Factor   (13845-14049): "because what was being accomplished was very little um. I think the psychologist wanted to, let's say take it from the beginning. You know he wanted to try and delve into my life as from what I remember"
+
+CarePlan (15960-16006): "maybe if there's someone else that you can see"
+
+Red Flag (18969-19021): "And so but I never got results over the phone either"
+
+Red Flag (20631-20669): "Good, as long they're not nonsteroidal"
+
+CarePlan (21909-21965): "And then I'm gonna put in a consult to the social worker"

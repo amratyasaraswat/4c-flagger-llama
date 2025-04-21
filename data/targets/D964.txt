@@ -1,0 +1,33 @@
+Probe    (4435-4461): "Are you taking medications"
+
+Red Flag (4477-4522): "Yeah but it seems like its still running high"
+
+Red Flag (4742-4783): "Uh it looks like their still running high"
+
+Red Flag (5220-5259): "it was 168 and I couldn't understand it"
+
+Red Flag (5543-5663): "And that one tells us that it's been out of control for a long time now, like for three months, probably since I saw you"
+
+Factor   (7411-7446): "A lot of time, I do forget at night"
+
+Factor   (7564-7620): "Well a couple times at night I forget before I go to bed"
+
+Red Flag (7847-7930): "And I'm looking at your weight, your weight let's see, it’s been going up, actually"
+
+Factor   (8362-8482): "Yeah maybe like before you know it got cool it was kind of, the weight was, I don't know I was fishing and moving around"
+
+Factor   (8533-8588): "And I was doing more things than I'm doing now you know"
+
+Probe    (9125-9149): "How is, what's your diet"
+
+Probe    (9125-9149): "How is, what's your diet"
+
+Red Flag (11796-11857): "some of these medications haven't been filled since September"
+
+Probe    (11858-11865): "it says"
+
+Red Flag (20331-20419): "Cause see last time they say they gonna mail me one and I never seen nothing in the mail"
+
+Factor   (20387-20419): "I never seen nothing in the mail"
+
+CarePlan (20453-20499): "No, no so this one they'll give it to you then"

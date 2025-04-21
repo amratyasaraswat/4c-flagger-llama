@@ -1,0 +1,998 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR G122
+PATIENT?
+
+PATIENT G122
+Oh.
+
+DOCTOR G122
+Hi I'm DOCTOR.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+Nice to meet you.
+
+PATIENT G122
+Uh you too.  I missed a couple of appointments I had before.
+
+
+DOCTOR G122
+Yeah I don't think I've met you before.
+
+PATIENT G122
+No, no this is our first.
+
+DOCTOR G122
+Uh-huh, okay.  Did you get in okay today with the storm?
+
+PATIENT G122
+Yeah, well I was surprised it went so fast.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+Cause I'm usually, you know I left early because I wasn't sure if I was going to be you know the guy, got on the road.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+And it was fine.
+
+DOCTOR G122
+Yeah I think it really scared off.
+ 
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+Overworking to get that going so.  So this is the first time I'm meeting you.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+I kind of looked through your chart and I saw that you were recently in the hospital.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+A pretty long time.
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+You came in at first with some lower extremity.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+Uh cellulitis.
+
+PATIENT G122
+Yes.
+
+DOCTOR G122
+Then went to the ECC for antibiotics.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+And then was back in the hospital from diarrhea.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+Right okay.
+
+PATIENT G122
+That's all taken care of.
+
+DOCTOR G122
+So how that's doing?
+
+PATIENT G122
+Everything's fine now.  I haven't had any problems since I had that two to three day stay.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+And the antibiotics for that.
+
+DOCTOR G122
+Okay.  Leg is all healed up?
+
+PATIENT G122
+Leg is fine.  No problems walking around.
+
+DOCTOR G122
+How about the diarrhea?  Any more?
+
+PATIENT G122
+That's I say I haven't had any more problems.
+
+DOCTOR G122
+How are your bowel movements are they regular?
+
+PATIENT G122
+I've had, I usually get one maybe two a day, but most of the time one a day now so.
+
+DOCTOR G122
+And its formed?
+
+PATIENT G122
+It's formed, everything's fine.
+
+DOCTOR G122
+No blood that you've noticed in it?
+
+PATIENT G122
+Well I just had some hemorrhoids uh.
+
+DOCTOR G122
+Uh-huh.
+
+PATIENT G122
+Surgery two weeks ago it was.
+
+DOCTOR G122
+You had the surgery?
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+Yeah by whom?
+
+PATIENT G122
+Yeah DOCTOR.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+So that was, I had a little blood.
+
+DOCTOR G122
+From that.
+
+PATIENT G122
+From that but nothing now, it's stopped so.
+
+DOCTOR G122
+Okay.  Have you ever had a colonoscopy before?
+
+PATIENT G122
+Yep I've had that.
+
+DOCTOR G122
+It looks like you've had @@@.  Let me look down there, you have @@@.
+
+PATIENT G122
+I’ve had all my shots.
+
+DOCTOR G122
+Okay and um okay.  So I see for medical problems you have some high blood pressure that you take the enalapril for.
+
+PATIENT G122
+Right, right yeah.
+
+DOCTOR G122
+Are you taking that every day?
+
+PATIENT G122
+Yes.
+
+DOCTOR G122
+Twice a day?
+
+PATIENT G122
+Yep.
+
+DOCTOR G122
+Okay.  Do you check your blood pressure at home at all?
+
+PATIENT G122
+No, no I haven't.
+
+DOCTOR G122
+Do you have a blood pressure machine?
+
+PATIENT G122
+No.
+
+DOCTOR G122
+Are you interested in getting one?
+
+PATIENT G122
+Yeah not really.
+
+DOCTOR G122
+We can provide you one if you want.  You have some vitamin D deficiency which you get a shot once a month for?
+
+PATIENT G122
+I haven't gotten any of those yet.
+
+DOCTOR G122
+You haven't gotten any of those yet okay.
+
+PATIENT G122
+I thought it was just a pill.
+
+DOCTOR G122
+Is there a pill, yeah there's pill, once a month.
+
+PATIENT G122
+Right I haven't got any of those.  I haven't got that far that.
+
+DOCTOR G122
+The order yet?
+
+PATIENT G122
+The order yet.
+
+DOCTOR G122
+You must have got it while you were in the hospital.
+
+PATIENT G122
+The last time was December, maybe January, I don't know if I got one in January or not.
+
+DOCTOR G122
+Are you home, where are you living right now?
+
+PATIENT G122
+I'm living at home by myself.
+
+DOCTOR G122
+Okay and uh, do you live in an apartment or a house?
+
+PATIENT G122
+Yeah apartment.
+
+DOCTOR G122
+Do you have stairs at all?
+
+PATIENT G122
+I got stairs but I also have an elevator.
+
+DOCTOR G122
+Okay, do you ever use the stairs?
+
+PATIENT G122
+Sometimes.
+
+DOCTOR G122
+Have you ever had any trouble getting up the stairs?
+
+PATIENT G122
+No, no, I haven't had any.
+
+DOCTOR G122
+Have you had any chest pain or trouble breathing?
+
+PATIENT G122
+No, no I've been going to the gym doing walking in the pool and stuff for about half an hour.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+Then I'll go and you know once in a while I'll use the hot tub to get aches and pains you know minor things.
+
+DOCTOR G122
+Looks like while you were in the hospital here you lost some weight.
+
+PATIENT G122
+Yeah I lost some weight and then I've gained a few pounds, a couple of pounds.
+
+DOCTOR G122
+@@@.  Well I have from 360 to 392, the last time that you were here in the hospital you were in the 360s.
+
+PATIENT G122
+I was, I thought it was 370 or whatever; still I gained some weight back.  I got to go back there to keep, keep.
+
+DOCTOR G122
+It's better than the 411.
+
+PATIENT G122
+Oh yeah.
+
+DOCTOR G122
+That you were before.
+
+PATIENT G122
+Oh yeah, right I know I got to go back to my other.
+
+DOCTOR G122
+You know it's going to help with heart attaches and strokes.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+You know you're blood pressure is still a little high today and if you can decrease some more weight that's gonna help with that.
+
+PATIENT G122
+Right, yeah so I'm gonna have to watch what I'm doing again.
+
+DOCTOR G122
+Uh-huh, okay.
+
+PATIENT G122
+I've got this one leg, well you know.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+The holidays, that kind of thing.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+Super Bowl Sunday.
+
+DOCTOR G122
+Okay.  Is there any particular concerns or pains that you're having?
+
+PATIENT G122
+No.
+
+DOCTOR G122
+Do you smoke at all?
+
+PATIENT G122
+No I quit a long time ago.
+
+DOCTOR G122
+When was a long time ago?
+
+PATIENT G122
+25 years.
+
+DOCTOR G122
+Oh that is long ago.
+
+PATIENT G122
+At least.
+
+DOCTOR G122
+And how much were you smoking then?
+
+PATIENT G122
+I was only smoking about a pack a day.
+
+DOCTOR G122
+Okay.  Do you drink alcohol?
+
+PATIENT G122
+Once in a while.
+
+DOCTOR G122
+Okay like every day?
+
+PATIENT G122
+No not every day, just a couple of times a week.
+
+DOCTOR G122
+Okay.  Do you do any other drugs, cocaine, heroin, marijuana?
+
+PATIENT G122
+No, never, none of that stuff.
+
+DOCTOR G122
+Okay.  Um are your parents still with us?
+
+PATIENT G122
+No both are dead.
+
+DOCTOR G122
+Did they have any medical problems that you know of?
+
+PATIENT G122
+My dad had leukemia and he was a diabetic.  My brother is a diabetic but I'm not.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+My mother had no problems.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+She died at 93; as a matter of fact she died a year ago.
+
+DOCTOR G122
+Hmm.  93 years old huh.
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+Okay.  Um you had some hemorrhoid surgery have you had any other surgeries in the past?
+
+PATIENT G122
+No, well I had an appendectomy when I was in the 30s, when I was 30 and they had to go back in because there was an infection, a week later they had to go back in and clean it out.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+So those are the only two surgeries.  I had tonsillitis when I was a youngster.
+
+DOCTOR G122
+Okay.  I see you saw the Dermatology people today.
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+They removed some skin tags?
+
+PATIENT G122
+Yes.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+Well they took some stitches out from under the arm where they did the biopsy.
+
+DOCTOR G122
+Uh-huh.
+
+PATIENT G122
+And just some skin tags today on the face.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+DOCTOR says hello.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+She's the one to see me.
+
+DOCTOR G122
+Did you say you were going to see to me?  
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+She's a good friend of mine.
+
+PATIENT G122
+That what she said she was.  When she was giving me the shot, I was getting a lot of pain so I asked her what her name was and she says DOCTOR.  She didn't know how to take the heat.  Even if it was sensitive up there.
+
+DOCTOR G122
+Uh-huh.  So um you said you walk around in the pool.
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+Any trouble walking around?
+
+PATIENT G122
+No. No, no.
+
+DOCTOR G122
+No problem with the leg.
+
+PATIENT G122
+No, no no problems at all.  Once in a while I get itching with dry skin but I got orange for that.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+I've skin creams for that.
+
+DOCTOR G122
+Okay.  Any nausea, vomiting?
+
+PATIENT G122
+Nope, never, never had.
+
+DOCTOR G122
+Fevers or chills?
+
+PATIENT G122
+Nope.
+
+DOCTOR G122
+Urinating okay?
+
+PATIENT G122
+Oh yeah it's fine.
+
+DOCTOR G122
+Okay.  Um are you working at all?
+
+PATIENT G122
+No I retired.
+
+DOCTOR G122
+Okay.  Anything that you're doing to keep yourself busy.
+
+PATIENT G122
+As I say just going to the gym and that kind of thing and go out.  Nothing right now but in the summer I might be doing some more going out.
+
+DOCTOR G122
+Let's just sit up here and I'll take a look and see how things are going.  So have you had doctors here before at Hines?
+
+PATIENT G122
+No, no this is the first time.
+
+DOCTOR G122
+Okay and are you seeing a doctor at all on the outside?
+
+PATIENT G122
+I was but when I retired the insurance cut out.
+
+DOCTOR G122
+Uh-huh.
+
+PATIENT G122
+And then I tried getting, I just got the letter now that you know provided supplemental insurance.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+To keep the insurance I've got to figure out to see if I can afford it, $400 a month.
+
+DOCTOR G122
+Hines is a great hospital and I am more than happy to take care of you.
+
+PATIENT G122
+Yeah I know that.  That's why I came here.
+
+DOCTOR G122
+Uh-huh.  Uh most of the doctors work here and at Loyola.
+
+PATIENT G122
+Right I know about that cause my dad came here all the time.
+
+DOCTOR G122
+Well we have all the specialties here.  Some of the VAs don't have a general surgery or some specialities but we have them all here so.  I say if you need to go somewhere Hines is the place to go.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+Breathe in.  Take a look at my nose here.  How's your vision doing?
+
+PATIENT G122
+Good.
+
+DOCTOR G122
+Have you seen a doctor at all for your eyes?
+
+PATIENT G122
+No not lately.
+
+DOCTOR G122
+No.  Do you use glasses?
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+Reading or distance?
+
+PATIENT G122
+Both.
+
+DOCTOR G122
+Okay.  Ah.  
+
+PATIENT G122
+Ah.
+
+DOCTOR G122
+You're supposed to get your eyes checked at least you know once a year.
+
+PATIENT G122
+Yeah I was going to do that, I was going to do that.
+
+DOCTOR G122
+Uh-huh.
+
+PATIENT G122
+Well I'm going on vacation and when I come back I was gonna go.
+
+DOCTOR G122
+Where are you going?
+
+PATIENT G122
+I'm probably going to Sears or some.
+
+DOCTOR G122
+Uh-huh.  Okay. Have you ever had any skin cancers or skin problems.
+
+PATIENT G122
+No.  No the one they took under the arm it was abnormal but it wasn't cancerous.
+
+DOCTOR G122
+Okay good.  
+
+PATIENT G122
+But that's why they went in for a second biopsy.
+
+DOCTOR G122
+Yeah.  Take a deep breath for me, in and out.  Can you lie back for me?  
+
+PATIENT G122
+Oh you got the mechanical one huh.
+
+DOCTOR G122
+Are you cooking at home or you eating out?
+
+PATIENT G122
+I cook at home.
+
+DOCTOR G122
+Okay.  What kind of food you cooking?
+
+PATIENT G122
+Uh eggs and steak sometimes you know, grilled cheese sandwiches.  I also just make regular sandwiches.
+
+DOCTOR G122
+Trying to increase in your vegetables and fruits?
+
+PATIENT G122
+Yeah I do that now that I got uh, orange juice and apples at home and.
+
+DOCTOR G122
+Take a look here.  How's the swelling in the legs, do you get swelling?
+
+PATIENT G122
+No.
+
+DOCTOR G122
+No.  Do you know what caused the infection in the leg when you had it?
+
+PATIENT G122
+No I don't.
+
+DOCTOR G122
+Uh-huh.  Was it your whole leg or where was it in the leg?
+
+PATIENT G122
+Just the lower calf.
+
+DOCTOR G122
+Uh-huh.
+
+PATIENT G122
+On the middle calf and.
+
+DOCTOR G122
+Uh-huh.  I can only see some of it.
+
+PATIENT G122
+No.
+
+DOCTOR G122
+You said that it's all healed up.
+
+PATIENT G122
+Oh yeah.
+
+DOCTOR G122
+It looks good here.
+
+PATIENT G122
+That's why I left the stocking off; I didn't know if you wanted to look.
+
+DOCTOR G122
+Let me help you up here.  Do you wear stockings?
+
+PATIENT G122
+Yeah I do but like I said I left them off today because I didn't want a.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+That ones a lot smaller than this one.
+
+DOCTOR G122
+Yeah the infection can kind of cause that.
+
+PATIENT G122
+That's what they said.
+
+DOCTOR G122 
+Let's see here.  Any weakness in your arms or legs?
+
+PATIENT G122
+No.
+
+DOCTOR G122
+No okay.  You can get down.  Well I'm glad that everything kind of cleared up from when you were in the hospital.
+
+PATIENT G122
+Yeah.
+
+DOCTOR G122
+Um again your blood pressure is a little bit elevated.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+So you know, try to decrease the salt that you eat and activity will help that um.  But I'm glad to hear that you don't smoke, that's good.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+Um and we did have some blood work that was recently done in January so I don't think we need to do anything to take a look at things right now.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+At your age and you recently had your colonoscopy.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+That was okay.  Um did you get your flu shot and all of your shots?
+
+PATIENT G122
+Yes.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+I got tetanus, pneumonia and both flu shots.
+
+DOCTOR G122
+Okay and um anything else that you had a question about or concern that I didn't talk about with you?
+
+PATIENT G122
+Uh no, except that we got to make out a prescription for the vitamin D or how do I get it?
+
+DOCTOR G122
+Yeah I can do that for you.
+
+PATIENT G122
+Okay and just have me pick it up at the Pharmacy?
+
+DOCTOR G122
+Oh do you want to pick it up or do you mailed to your house?
+
+PATIENT G122
+Well yeah you can mail it to the house cause that's.
+
+DOCTOR G122
+Yes.
+
+PATIENT G122
+Cause you just take that once a month then huh.
+
+DOCTOR G122
+Yeah.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+And then we'll.
+
+PATIENT G122
+I mean I drink regular milk; I drink whole milk and everything.
+
+DOCTOR G122
+Let's uh, let me get everything @@@ and we'll start from there.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+I won't make you get that if you've had it recently.  Um your enalapril I'm sending enough refills for you.
+
+PATIENT G122
+Yeah I've got two more yet.
+
+DOCTOR G122
+Um and then since you recently had some blood work done we can say next time you come in we'll get blood work.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+Okay.  Let me step out for one second to talk to my attending and make sure I'm not missing anything else.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+And I'll be right back.
+
+PATIENT G122
+Alright.
+
+(DOCTOR OUT:  18:57  DOCTOR IN:  24:55)
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+Alright.
+
+DOCTOR G122
+I just wanted to make sure everything was all set.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+So he thinks everything's good and doesn't want me to change or do anything at this point.
+
+PATIENT G122
+Alright.
+
+DOCTOR G122
+Um continuing taking your blood pressure medicine.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+And we'll give you the vitamin D medicine and um we'll kind of see how you do.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+I encourage you to diet and exercise.
+
+PATIENT G122
+Right, yeah.
+
+DOCTOR G122
+And do that.
+
+PATIENT G122
+Yeah actually I will be doing that again, I need to so.
+
+DOCTOR G122
+Yeah, sure.  I'm gonna say, since everything's doing well and you're doing okay, I'm going to put six months for a follow-up.
+
+PATIENT G122
+Okay.
+
+DOCTOR G122
+Um but if something happens.
+
+PATIENT G122
+Oh yeah.
+
+DOCTOR G122
+We'll see you sooner or later.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+Okay.
+
+PATIENT G122
+I've got the phone number.  I think I've got all the phone numbers.
+
+DOCTOR G122
+I don't think we can do anything right now.  The only thing that you should follow up is with the skin doctors because this was a little atypical and see if there's anything that changes with that.
+
+PATIENT G122
+That's why they took another biopsy; they went deeper this time and just did a lot more.
+
+DOCTOR G122
+Yeah.  So just follow up with those results.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+And if you need to see them, go follow with them closely.
+
+PATIENT G122
+Like I said I'm gonna go back March 3rd.
+
+DOCTOR G122
+Oh that's good.
+
+PATIENT G122
+For some more stuff to take off.
+
+DOCTOR G122
+Yeah skin cancer be a little scary.
+
+PATIENT G122
+Right.
+
+DOCTOR G122
+So you want to stay on top of that.
+
+PATIENT G122
+Yeah, okay, okay.
+
+DOCTOR G122
+Any other questions or concerns?
+
+PATIENT G122
+No.
+
+DOCTOR G122
+Nice to meet you sir okay.
+
+PATIENT G122
+So I'll be getting the vitamin D, that's once a month on that.
+
+DOCTOR G122
+@@@.
+
+PATIENT G122
+And it's supposed to be six weeks on that, from what I understand.
+
+DOCTOR G122
+I'll make sure that there’s enough, okay.
+
+PATIENT G122
+How do I get the refills for the enalapril though?
+
+DOCTOR G122
+So you can call it in, we can do it on the computer.
+
+PATIENT G122
+Well I mean I need to get the refills cause I mean.
+
+DOCTOR G122
+I'll make sure there's refills on them.
+
+PATIENT G122
+I mean I've got two more yet.
+
+DOCTOR G122
+I'm renewing it so you're going to get 60 days.
+
+PATIENT G122
+Oh okay.  Cause I just take them.
+
+DOCTOR G122
+What you will do is a left and then a right to go check out.
+
+PATIENT G122
+Okay thank you.
+
+PATIENT LEAVES 26:38.
+
+Time is 10:20.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238082
+TRANSACTION # 578-10-2-316-0103

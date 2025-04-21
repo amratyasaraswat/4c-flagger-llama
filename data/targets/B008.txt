@@ -1,0 +1,15 @@
+Red Flag (3578-3616): "Yeah my sugars been running a bit high"
+
+Red Flag (3662-3704): "Uh like 275, 188, it's always over the 150"
+
+Red Flag (4265-4314): "your sugars, I'm looking back, have been too high"
+
+Probe    (4317-4337): "How's your diet been"
+
+Probe    (4632-4684): "Are you taking the regular insulin three times a day"
+
+Red Flag (4792-4904): "But you know I @@@ gain any weight because now I'm 218 instead of @@@ and I was down, at first I was in the 180s"
+
+Factor   (5078-5129): "they give us snacks cause I'm in a transition house"
+
+Factor   (5166-5273): "And sometime I find myself eating cookies and candy and stuff all through the night, potato chips and stuff"

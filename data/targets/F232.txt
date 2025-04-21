@@ -1,0 +1,61 @@
+Red Flag (1322-1390): "When I seen the pharmacist, there’s some that she didn't send it out"
+
+Red Flag (1641-1664): "She didn't send the B12"
+
+Probe    (1745-1767): "Yeah, yeah. I see that"
+
+Red Flag (1783-1809): "And she didn't send me the"
+
+Red Flag (1830-1857): "Okay. Are you out of those"
+
+Red Flag (1873-1876): "Yes"
+
+Probe    (2022-2037): "B12 looked okay"
+
+CarePlan (2040-2259): "Uh so you know sometimes we stop the B12 so I think that for the next whole month you know your last level was in May and before then you had been on the low side so we're pretty good so we can talk about refilling that"
+
+Red Flag (2529-2558): "And I was out of Tylenol also"
+
+Probe    (2640-2667): "Yeah cause you have refills"
+
+Factor   (2640-2685): "Yeah cause you have refills on all these guys"
+
+CarePlan (2688-2724): "So what you do is you can call it in"
+
+Factor   (2740-2793): "Well I didn't want to call it in cause I wasn't there"
+
+Factor   (2828-2869): "Sometimes they just leave it on the porch"
+
+CarePlan (2922-3002): "So you know if you're not home if you just want to pick it up in the future okay"
+
+Probe    (3215-3249): "I guess they mailed it on June 1st"
+
+CarePlan (3285-3398): "But when you go there you can talk about yeah hey I would like all my medications to be um for me to pick up okay"
+
+CarePlan (3461-3505): "In the future do you want them mailed to you"
+
+Red Flag (4318-4330): "It's 150-160"
+
+Red Flag (4775-4791): "It's rather high"
+
+Red Flag (6251-6308): "Uh so the one thing, I think I tried to call um your home"
+
+Probe    (8942-8973): "You're still taking the 5 units"
+
+Red Flag (9736-9785): "And when was the last time you saw the eye doctor"
+
+Red Flag (10106-10207): "ophthalmology doctor? Did you ever see uh you know an exam they'd be looking at the back of your eye"
+
+Red Flag (10223-10274): "I don't know if I have one coming up or I missed it"
+
+Probe    (10289-10320): "Let me double check on that one"
+
+Probe    (12446-12529): "the bedtime one or the nighttime um are you taking it before dinner or after dinner"
+
+Probe    (12576-12629): "Okay so before dinner um and never at nighttime right"
+
+CarePlan (14532-14588): "You know you can go to the Pharmacy for the refills okay"
+
+CarePlan (14705-14825): "you know you can tell them this time I want to pick it up but in the future you know I would like to get it mailed to me"
+
+CarePlan (14828-14861): "You know however you want it okay"

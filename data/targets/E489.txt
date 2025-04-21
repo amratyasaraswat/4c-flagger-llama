@@ -1,0 +1,19 @@
+Red Flag (2117-2158): "I hadn't even gotten my medicines all day"
+
+Red Flag (6469-6504): "you had some memory problems before"
+
+Red Flag (6712-6738): "And you're not on Coumadin"
+
+Red Flag (6760-6762): "No"
+
+Probe    (7619-7669): "Was it you that didn't want to do the Coumadin, no"
+
+Factor   (7685-7713): "I don't even know what it is"
+
+Factor   (7912-8033): "See he had a buddy who was diabetic and he was on Coumadin and he died in a pool of blood. Five years ago. I think that’s"
+
+Red Flag (16261-16362): "Now I, my memory has just gone to heck. I mean I can start from here to there and I lost it you know"
+
+Red Flag (16769-16801): "Has his blood sugar ever run low"
+
+Red Flag (16817-16828): "It runs low"

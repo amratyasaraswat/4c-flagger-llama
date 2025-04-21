@@ -1,0 +1,586 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR E128
+PATIENT?
+
+PATIENT E128 
+Hi.  How you doing?
+
+DOCTOR E128
+Hi.  I'm DOCTOR.  How you doing?
+
+PATIENT E128
+Okay.
+
+DOCTOR E128
+I haven't seen you in quite a while.
+
+PATIENT E128
+That's right.
+
+DOCTOR E128
+How you feeling?
+
+PATIENT E128
+You haven't been around.
+
+DOCTOR E128
+Yeah, @@@.  How you doing?
+
+PATIENT E128
+Oh I feel good.
+
+DOCTOR E128
+So you're feeling pretty good.  Have a seat in a chair if you like.
+
+PATIENT E128
+Oh my feet.
+
+DOCTOR E128
+Did you have a nice holiday?
+
+PATIENT E128
+Uh-huh.
+
+DOCTOR E128
+Good.  So the last time you were here and the time before that there was some issues with your gout.
+
+PATIENT E128
+Uh-huh.
+
+DOCTOR E128
+And there were also some issues with your esophagus.
+
+PATIENT E128
+Right.
+
+DOCTOR E128
+How's all that going?
+
+PATIENT E128
+Uh well right now seem like when I breathe.
+
+DOCTOR E128
+Uh-huh.
+
+PATIENT E128
+Like I get a @@@ main here.
+
+DOCTOR E128
+Uh-huh okay.  It's more in your stomach than in your chest.
+
+PATIENT E128
+It makes the area pain here.
+
+DOCTOR E128
+Okay.  Okay.  
+
+PATIENT E128
+It comes and goes.
+
+DOCTOR E128
+Uh-huh.  Okay.
+
+PATIENT E128
+And I have a lot of mucous in my chest too.
+
+DOCTOR E128
+Okay.
+
+PATIENT E128
+And I was wondering was that caused from some of the medication.
+
+DOCTOR E128
+Uh-huh.  Um.
+
+PATIENT E128
+Like they say some can cause pneumonia.
+
+DOCTOR E128
+Yeah there's sometimes some medications that can put you at higher risk.
+
+PATIENT E128
+Right.
+
+DOCTOR E128
+They don't usually cause it but they make you at risk for it.
+
+PATIENT E128
+Yeah.
+
+DOCTOR E128
+Yeah, sure.  Um I don't know let's see.  Let's see which medicines you're on.  Well um albuterol is not going to do that.  This is for your gout, the allopurinol and amlodipine is for your blood pressure that's okay.  You're using artificial tears, the capsaicin cream, eye drops, those are all okay.  Colchicine um, shouldn’t be a problems.  The miconazole for the fungal infection in your mouth.  Flunisolide okay.  Uh that's a steroid that you spray in the nose yes, yeah.  Steroids sometimes lower immunity um but usually if you put them in your nose and not.
+
+PATIENT E128
+I've never used that.
+
+DOCTOR E128
+You never use it okay so you don't have to worry about that.
+
+PATIENT E128
+Yeah.
+
+DOCTOR E128
+Cancel it off your list.
+
+PATIENT E128
+Alright.
+
+DOCTOR E128
+Um Flovent, formoterol, these are all good, those are all safe.  Vicodin, lisinopril, loratadine, mometasone.  Do you use the mometasone inhaler?
+
+PATIENT E128
+Yes.
+
+DOCTOR E128
+Okay good and omeprazole, terazosin, thiamine, ipratropium.  Okay.  You getting the tiotropium as well too?
+
+PATIENT E128
+Yes.  I take three.
+
+DOCTOR E128
+You take three a day okay, okay.  So you've been having more mucous lately?
+
+PATIENT E128
+Yeah.
+
+DOCTOR E128
+Huh.  Any fevers?
+
+PATIENT E128
+No.
+
+DOCTOR E128
+Okay.  Um any shortness of breath?
+
+PATIENT E128
+Yes.
+
+DOCTOR E128
+Worse than usual?
+
+PATIENT E128
+It ain't getting any better.
+
+DOCTOR E128
+Okay.  But in terms of shortness of breath ,no better, no worse.
+
+PATIENT E128
+Right.
+
+DOCTOR E128
+Okay.  Um.
+
+PATIENT E128
+Now it seem like I got, like I'm nervous you know.
+
+DOCTOR E128
+Why is that?
+
+PATIENT E128
+I don't know but um, up in here I get this fluttering.
+
+DOCTOR E128
+Okay.
+
+PATIENT E128
+It's not like the heart thing, just like a flutter thing, you know the fluttering.
+
+DOCTOR E128
+Huh okay.  It's uh, it's only in your chest, it's not in your hands?
+
+PATIENT E128
+No not really.  It's in this area over here, I don't know.
+
+DOCTOR E128
+Okay.  That's uh, how often does it happen?
+
+PATIENT E128
+Often.
+
+DOCTOR E128
+What are you doing when that happens?  Just sitting there?
+
+PATIENT E128
+Yeah.
+
+DOCTOR E128
+Does it happen when you're walking or doing something or when you're sitting real still?
+
+PATIENT E128
+Really it just does it; I don’t, I mean whatever I'm doing I can feel it, just like a fluttering.
+
+DOCTOR E128
+Uh-huh.
+
+PATIENT E128
+Over that area, I don't know.
+
+DOCTOR E128
+Okay.  It doesn't sound like something serious.  It could just be a little muscle spasm.
+
+PATIENT E128
+Right, that's what I think.
+
+DOCTOR E128
+Yeah, that's probably what it is.  Um okay let's see are you able to swallow okay?  Any pain when you swallow?
+
+PATIENT E128
+Yeah swallowing’s been okay.
+
+DOCTOR E128
+You're swallowing is okay, okay.  Do you have a good appetite?
+
+PATIENT E128
+Uh-huh.
+
+DOCTOR E128
+Okay.  Uh are you urinating okay?
+
+PATIENT E128
+What?
+
+DOCTOR E128
+Are you urinating okay?
+
+PATIENT E128
+Yeah.
+
+DOCTOR E128
+Um and any problems with bowel movements?
+
+PATIENT E128
+Not really.
+
+DOCTOR E128
+Okay um, good, good, good.  Let's see.  Have you been seeing the GI doctors lately?
+
+PATIENT E128
+What is that?
+
+DOCTOR E128
+The gastroenterologist.
+
+PATIENT E128
+Not lately.
+
+DOCTOR E128
+Not lately okay.  Let me see what all is in here.
+
+PATIENT E128
+I need to go see a foot doctor though.
+
+DOCTOR E128
+Uh-huh.
+
+PATIENT E128
+If you can schedule me for one.
+
+DOCTOR E128
+Definitely uh I should be able to do that.  Uh what's going on with your feet?
+
+PATIENT E128
+Well when I was in the service I had frostbite.
+
+DOCTOR E128
+Oh okay.
+
+PATIENT E128
+I just want them to look at it.
+
+DOCTOR E128
+Okay.  Does that hurt a lot?
+
+PATIENT E128
+Not really.
+
+DOCTOR E128
+The frostbite down there.
+
+PATIENT E128
+It doesn’t hurt, but.
+
+DOCTOR E128
+Okay.
+
+PATIENT E128
+My feet all scaly and dry all the time.  In the cold weather they aches a lot that's why.
+
+DOCTOR E128
+Okay.  Okay um yeah I definitely can set you up with the podiatrist.  Um okay, let's see.  Your @@@.
+
+PATIENT E128
+Oh yeah, I've taken that uh test last time @@@.
+
+DOCTOR E128
+Yeah, I mean open it up and see.  I’m sorry I’m tired. @@@
+
+PATIENT E128
+@@@
+
+DOCTOR E128
+Yeah, let's look.  @@@ um.  Okay so it says that your heart is pumping out a normal amount of blood, so that's good.  Uh it does say that your heart is a little bit stiff so um we call that diastolic dysfunction um and uh you have a little bit of that going on.  But as long as we work on controlling your blood pressure that should be okay.  Um and no valvular problems, no heart valve problems.  So that's good.  Good echo.  Okay um your blood pressure today looks good.  Your GI stuff @@@ okay.  Uh how's your drinking going?  How much are you drinking?
+
+PATIENT E128
+Oh what alcohol?
+
+DOCTOR E128
+Uh-huh.
+
+PATIENT E128
+I don't drink anymore.  I haven't had a drink in a good while.
+
+DOCTOR E128
+Good, that's great to hear.
+
+PATIENT E128
+Uh it wasn't because I wanted to.
+
+DOCTOR E128
+Yeah.
+
+PATIENT E128
+I love to drink.
+
+DOCTOR E128
+Yeah.
+
+PATIENT E128
+They said it would kill you.
+
+DOCTOR E128
+Yes.  That's a good reason to stop.
+
+PATIENT E128
+Yeah. Damn good reason.
+
+DOCTOR E128
+Yeah.  Okay.
+
+PATIENT E128
+Hopefully now that I quit drinking @@@ never bad.  But anyway.
+
+DOCTOR E128
+Yeah, that's @@@ few extra years here, I think you're on the @@@ with us so that's really good.  And any problems with your gout lately?
+
+PATIENT E128
+I haven't had a flare in a while.
+
+DOCTOR E128
+That's good.  Do you follow with Rheumatology, or no.
+
+PATIENT E128
+Who's that?
+
+DOCTOR E128
+The arthritis doctors, do you see them or you don't see them?
+
+PATIENT E128
+Just yeah right now I need to go up there and see them cause I don't have an appointment for a while.
+
+DOCTOR E128
+Okay.  Your uric acid level looks good, so that's a positive sign.  Okay good.  Go ahead and have a seat over here.  Okie dokey. Just take off the jacket, can you do that? 
+Okay.  Do you need any refills on anything?
+
+PATIENT E128
+Uh refills?
+
+DOCTOR E128
+Uh-huh.
+
+PATIENT E128
+No I don't need them.
+
+DOCTOR E128
+Okay good.  I'm gonna listen to your heart. Good.  I want you to hold your breath and I'll listen to your neck.  Breathe; now hold your breath again.  Good.  I'm gonna listen to your lungs.  I'll lift your shirt, okie dokie.  Take some deep breaths.  Okay.  Any pain in the belly?  No.
+
+PATIENT E128
+No not really.
+
+DOCTOR E128
+Good. @@@.  Okay, any joint problems?
+
+PATIENT E128
+The arthritis in my arms and shoulders.
+
+DOCTOR E128
+Yeah. Let me see here. And you don't have any leg swelling.  Any pain back here?
+
+PATIENT E128
+No.
+
+DOCTOR E128
+You've got a strong leg.
+
+PATIENT E128
+Yeah.
+
+DOCTOR E128
+Yeah, that's good.  Have seat back down here.  Okay.  Um.  Let me go talk to DOCTOR and then when I come back @@@.
+
+PATIENT E128
+@@@.
+
+DOCTOR E128
+Uh-huh.
+
+PATIENT E128
+Yeah you got something for that mucous?
+
+DOCTOR E128
+Yeah.
+
+PATIENT E128
+Just to kind of break it up or something.
+
+DOCTOR E128
+Something to help cough it up yeah.
+
+PATIENT E128
+Yeah.
+
+DOCTOR E128
+We can definitely do that.  I could give you something called guaifenesin.
+
+PATIENT E128
+Alrighty.
+
+DOCTOR E128
+Okay I'll be right back.
+
+(DOCTOR OUT:  87:03  DOCTOR IN:  89:22)
+
+SECOND DOCTOR E128
+Hey PATIENT.
+
+PATIENT E128
+Oh how you doing?
+
+SECOND DOCTOR E128
+Doing well.
+
+PATIENT E128
+Good to see you, alrighty.
+
+SECOND DOCTOR E128
+Alright so you had a fun holiday?
+
+PATIENT E128
+Oh yeah.
+
+SECOND DOCTOR E128
+How's your breathing?
+
+FIRST DOCTOR E128
+It's pretty good.
+
+SECOND DOCTOR E128
+You know your echo says that your heart is doing good.
+
+PATIENT E128
+Oh okay.
+
+SECOND DOCTOR E128
+So I think you really need to lose some weight.
+
+PATIENT E128
+Alrighty I'm trying to.
+
+SECOND DOCTOR E128
+We'll help you for sure.  Okay we have a program here MOVE Program, you know about it?
+
+PATIENT E128
+No.
+
+SECOND DOCTOR E128
+Let me give you the flyer for that.
+
+PATIENT E128
+Okay.
+
+FIRST DOCTOR E128
+Okay, here’s what we’re going to do.  We're going to get the cough medicine called guaifenesin.  That'll help you cough up the stuff.  The other thing is, do you have a humidifier at home?
+
+PATIENT E128
+No.
+
+FIRST DOCTOR E128
+Sometimes a humidifier can help with that.  Um it can, if you get the air a little bit wetter, because the air feels dry and everything.
+
+PATIENT E128
+Uh-huh.
+
+FIRST DOCTOR E128
+Then it makes the mucous dry and then it's harder to cough up and if you have a humidifier or if not um you know you can boil some water on the stove and breathe in the steam that might help too.  But I'm gonna give you this medicine to help break it up.  You want it mailed to you or do you want to pick it up?
+
+PATIENT E128
+Mail it.
+
+FIRST DOCTOR E128
+Mail it.
+
+PATIENT E128
+I want to get out of here.
+
+FIRST DOCTOR E128
+Okay got it and then the other thing we could do is one blood test, its one stick of blood to check your blood count okay.
+
+PATIENT E128
+Alright.
+
+FIRST DOCTOR E128
+Other than that, you come back and see us in six months, sooner if you need to.
+
+PATIENT E128
+Oh okay.
+
+FIRST DOCTOR E128
+Okay so.
+
+PATIENT E128
+Do you want me to take the test now?
+
+FIRST DOCTOR E128
+The blood test?
+
+PATIENT E128
+Yeah.
+
+FIRST DOCTOR E128
+Yeah.
+
+PATIENT E128
+Okay.
+
+FIRST DOCTOR E128
+Just go in the Lab and they'll do that for you and I'll mail you that medicine.
+
+PATIENT E128
+Okay.
+
+FIRST DOCTOR E128
+Follow up, read this thing and come to the appointment on Mondays if you can okay.
+
+PATIENT E128
+Alrighty.
+
+FIRST DOCTOR E128
+Alright.
+
+PATIENT E128
+Thank you much.
+
+FIRST DOCTOR E128
+Have a nice weekend, see you later.
+
+PATIENT E128
+Yes.
+
+PATIENT LEAVES:  91:18.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286103
+TRANSACTION # 578-10-2-316-0103

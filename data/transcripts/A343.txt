@@ -1,0 +1,508 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR A343
+Good to see you again. 
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+It's been a while.
+
+PATIENT A343
+Yeah it has.
+
+DOCTOR A343
+I think I met you one time right?
+
+PATIENT A343
+Yeah once or twice.
+
+DOCTOR A343
+Back in like September of last year.  How have things been?  I saw you were recently in the hospital for a day or so.
+
+PATIENT A343
+Yeah I was having uh respiratory problems.  I was short of breath and I'd run my medication out and with the heat that we were having at 10 o'clock. 
+
+DOCTOR A343
+I think you called August 6th.
+
+PATIENT A343
+I was in on the 7th I think.
+
+DOCTOR A343
+For a refill.
+
+PATIENT A343
+It might have been yeah either the 6th or 7th is when I came in.
+
+DOCTOR A343
+Yeah and no it shows that same day you went into the Emergency Room.
+
+PATIENT A343
+Yeah, yeah it was that day.
+
+DOCTOR A343
+Hmm.  Next time call earlier.
+
+PATIENT A343
+Oh yeah, that's right.
+
+DOCTOR A343
+Why didn't you call earlier?
+
+PATIENT A343
+I really just lost track of it.  Cause I'd been pretty much surviving on my back-up.
+
+DOCTOR A343
+What's your back-up?  The albuterol or?
+
+PATIENT A343
+That one I've got listed.  Proventil.
+
+DOCTOR A343
+Okay.  Yeah the albuterol.  Um how many times a week have you been using the albuterol?
+
+PATIENT A343
+Um two, maybe three times a week.  Not so much lately now that the weather is cooling off again.
+
+DOCTOR A343
+Okay.  Two or, say it again once or twice a week?
+
+PATIENT A343
+Twice.
+
+DOCTOR A343
+Twice a week.
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+What's your current asthma medication regimen?
+
+PATIENT A343
+Uh it's, if I saw it I'd know it.  I can't think of it off the.  It's the thing that counts off, does this look like.
+
+DOCTOR A343
+Mometasone okay so you're taking that.  How often are you using that?
+
+PATIENT A343
+Once a day.
+
+DOCTOR A343
+Okay and then what about, are you using any like nasal spray or anything like that?
+
+PATIENT A343
+I got a nasal spray that I use from time to time but it's not, it's not a regular day to day thing.
+
+DOCTOR A343
+Okay and you haven't seen the pulmonary doctors in a while right?
+
+PATIENT A343
+Right.
+
+DOCTOR A343
+Were you using a medicine called, let's see, flunisolide, the nasal spray is flunisolide right and you're using mometasone.  What about someterol?  Were you ever on that medicine?
+
+PATIENT A343
+Not that I can remember.
+
+DOCTOR A343
+And your breathing since you've been discharged in August?
+
+PATIENT A343
+Fine.
+
+DOCTOR A343
+Fine of using albuterol twice a week and your mometasone once a day.
+
+PATIENT A343
+Once a day yeah.
+
+DOCTOR A343
+And um no coughing, shortness of breath or anything?  Good.  What was the trigger?  Like what brought you in?
+
+PATIENT A343
+Well I think it was the humidity and the heat and I cut my own grass and I do stuff around the house so uh.  You know whatever outside allergies there might be but I don't necessarily, I'm not necessarily affected by.
+
+DOCTOR A343
+Okay.
+
+PATIENT A343
+But the combination of the heat.
+
+DOCTOR A343
+Running out of your meds.
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+Where do you get the albuterol from?  You don't have that listed in our medicine regimen.
+
+PATIENT A343
+No when in remission.  I get it here.
+
+DOCTOR A343
+You get it from here?
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+Mometasone.
+
+PATIENT A343
+That's what I get.  Right.
+
+DOCTOR A343
+And you have enough of these at home?
+
+PATIENT A343
+Uh and I had another one in 2000.
+
+DOCTOR A343
+Make sure that gets on your medicine list.  Um how have other things been going?
+
+PATIENT A343
+Everything's been going, oh I was wondering if I could get a reinstatement on that @@@ that I was getting.
+
+DOCTOR A343
+Sure.
+
+PATIENT A343
+On a monthly basis.
+
+DOCTOR A343
+So you saw that, I think it's @@@ to some of your testosterone levels, your free testosterone levels came back a little low which could be contributing to your erectile dysfunction.
+
+PATIENT A343
+That could have been it.
+
+DOCTOR A343
+How is your mood and are you like you know.
+
+PATIENT A343
+My mood.
+
+DOCTOR A343
+Your libido, like you're feeling.
+
+PATIENT A343
+Oh I feel good.
+
+DOCTOR A343
+Okay.
+
+PATIENT A343
+That might be a little low too cause I haven't been, you know like I said I haven't had that medication at all and uh, I haven't been as active as I was so.
+
+DOCTOR A343
+Well you know it might be worth treating it then, so we can just put like a @@@ might consider a patch but uh a testosterone patch, that can help replace the testosterone.  It's actually quite common you know in men in their 60s and 70s.  If you have a deficiency but uh, yeah like yours was, your free testosterone was 0.9 and 1.5 is the lower end of normal.  Yours is definitely low.  One thing we could do is repeat it and see where you are today and then consider putting you on that.
+
+PATIENT A343
+Yeah I would repeat it and see where we're at with it after.  It's been a while since I had that vardenafil.
+
+DOCTOR A343
+How many times are you have sexual intercourse?
+
+PATIENT A343
+Uh well more like once a month.
+
+DOCTOR A343
+Once a month?  Okay.
+
+PATIENT A343
+Currently.  
+
+DOCTOR A343
+Um okay so the last time you were here we measured your prostate-specific antigen, the PSA.
+
+PATIENT A343
+Uh-huh.
+
+DOCTOR A343
+A blood test that kind of measures the growth of your prostate um and it can be used for screening for colon cancer or prostate cancer but it has some downfalls um.  We talked about that last time, it giving false positives.
+
+PATIENT A343
+Uh-huh.
+
+DOCTOR A343
+@@@.  But then yours has elevated from 06 to 07 it went up kind of quickly but then from September of 07 to January 09 it was more or less the same.  I definitely want to repeat that.
+
+PATIENT A343
+Yeah I think in April is when I had the colonoscopy.
+
+DOCTOR A343
+Yeah you had the colonoscopy in April of 09.  That showed one small polyp.
+
+PATIENT A343
+Yeah they removed that.
+
+DOCTOR A343
+They removed it.  It was a tubular adenoma which is a benign growth but it's actually not entirely benign in the sense that it could, has the potential to develop into a malignancy but that takes many years.  That's why they do a colonoscopy to catch things like this.
+
+PATIENT A343
+Uh-huh.
+
+DOCTOR A343
+They're recommending getting a repeat colonoscopy in five to seven years.  I prefer to get it in five because you’re young and otherwise healthy.
+
+PATIENT A343
+Uh-huh.
+
+DOCTOR A343
+We want to make sure we don't miss anything.  Um, are you having any like urinary symptoms like a weak stream, dribbling stream?
+
+PATIENT A343
+Sometimes weak.
+
+DOCTOR A343
+Sometimes weak.
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+How many times a night are you going to the bathroom?
+
+PATIENT A343
+Uh generally I'm waking up once a night.
+
+DOCTOR A343
+Once night, not too bad.  What about intermittency where you start and stop when urinating?
+
+PATIENT A343
+Maybe once.
+
+DOCTOR A343
+Once in a while?
+
+PATIENT A343
+Once in a while.
+
+DOCTOR A343
+So we'll get that repeat colonoscopy in 2012.  Looks like you're up-to-date on all your shots.  The flu shot is coming like in a week or so.
+
+PATIENT A343
+Okay.
+
+DOCTOR A343
+So make sure you come and get that.
+
+PATIENT A343
+I'll come and get it.
+
+DOCTOR A343
+Um.
+
+PATIENT A343
+I had the pneumonia I think a couple years ago, shot.
+
+DOCTOR A343
+Are you able to come back to get some fasting blood work because I want to check.
+
+PATIENT A343
+Sure.
+
+DOCTOR A343
+Your cholesterol, I want to check your prostate antigen, I want to check some screening for diabetes.
+
+PATIENT A343
+Actually I have, I could do it today if you want.
+
+DOCTOR A343
+Are you fasting?
+
+PATIENT A343
+I haven't had anything since 6 or 7 last night.
+
+DOCTOR A343
+Coffee?
+
+PATIENT A343
+Nothing.
+
+DOCTOR A343
+Okay let's do it, let's do it today then.  Um I want to check a few things.  So if that testosterone comes back low I'll find out today or tomorrow, would you consider going on the testosterone patch?  It's a patch you wear on your arm, it has to be removed and changed once a day but you know it might give you energy.  It might give you more libido.
+
+PATIENT A343
+Sure.
+
+DOCTOR A343
+It might help with erectile dysfunction.
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+Now remember next time, even if your asthma's under great control, next time you run out of your medicines.
+
+PATIENT A343
+Then just get it.
+
+DOCTOR A343
+Oh you know a week ahead of time call.
+
+PATIENT A343
+Uh-huh.
+
+DOCTOR A343
+And it’s hard to keep track of everyone and I hadn't seen you in a long time.
+
+PATIENT A343
+Yeah so, it'd been quite a while.
+
+DOCTOR A343
+Um which one did you run out of, was it the mometasone or the albuterol?
+
+PATIENT A343
+It was the one that uh, I think it’s mometasone.  The albuterol I had.
+
+DOCTOR A343
+Okay have a seat up hear so I can have a listen to you.  Do you get any chest pain or pressure when you exert yourself?  
+
+PATIENT A343
+No.
+
+DOCTOR A343
+Okay.  @@@.  Take some deep breaths in and out.  Appetite's good.
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+Any change in your weight up or down?
+
+PATIENT A343
+No.  I'm still at 160.
+
+DOCTOR A343
+Swelling in your feet or legs?
+
+PATIENT A343
+No swelling problems, no swelling.
+
+DOCTOR A343
+Sleeping okay?
+
+PATIENT A343
+Yeah.
+
+DOCTOR A343
+Bleeding or bruising anywhere? 
+
+PATIENT A343
+Uh uh.
+
+DOCTOR A343
+Moving your bowels?
+
+PATIENT A343
+@@@ yeah.
+
+DOCTOR A343
+Okay good.  Alright let me go talk to DOCTOR or one of the other supervising doctors and I'll be back shortly okay.
+
+PATIENT A343
+Okay.
+
+DOCTOR A343
+Get some blood work done today.  I want to have you come back, you know things are going okay now but of course if things change we'll see you sooner.
+
+PATIENT A343
+Oh yeah.
+
+DOCTOR A343
+But maybe six months okay?
+
+PATIENT A343
+That's fine.
+
+DOCTOR A343
+And I'll stay in touch.  I'll give you a phone call about the testosterone and.
+
+PATIENT A343
+Uh-huh.
+
+DOCTOR A343
+The other blood work if it's abnormal.
+
+PATIENT A343
+Okay.
+
+DOCTOR A343
+Alright.
+
+(DOCTOR OUT:  42:36  DOCTOR IN:  49:48)
+
+DOCTOR A343
+So everything is the exact same as I talked about. 
+
+PATIENT A343
+Okay.
+
+DOCTOR A343
+With one minor exception, I just read your labs when we checked them.
+
+PATIENT A343
+Uh-huh.
+
+DOCTOR A343
+Your percent free, I'm just telling you why I can figure it but the percent free testosterone for you was low but that doesn't really mean anything cause your total testosterone and your total free testosterone were high.
+
+PATIENT A343
+Oh good.
+
+DOCTOR A343
+So adequate.
+
+PATIENT A343
+Good.
+
+DOCTOR A343
+So we don't need to recheck the testosterone today.
+
+PATIENT A343
+Okay good enough.
+
+DOCTOR A343
+I'll just give you the refills on the medicines.  Um and I'll see you back in six months okay.
+
+PATIENT A343
+Okay.
+
+DOCTOR A343
+You can go just across the way to get labs done okay.
+
+PATIENT A343
+Sure.
+
+DOCTOR A343
+And I'll send it up to the Lab. 
+
+PATIENT A343
+So now where do I need to go for that?
+
+DOCTOR A343
+Right here.
+
+PATIENT A343
+Oh okay.
+
+DOCTOR A343
+@@@.
+
+PATIENT A343
+@@@.  Thank you.
+
+PATIENT LEAVES:  50:59.
+
+Time is 10:50 a.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238130
+TRANSACTION # 578-10-2-316-0103

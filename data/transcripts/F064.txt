@@ -1,0 +1,913 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR F064
+PATIENT?  Hi how are you? 
+
+PATIENT F064
+I'm good.
+
+DOCTOR F064
+Doing okay.
+
+PATIENT F064
+@@@.
+
+DOCTOR F064
+@@@.  Have a seat.
+
+PATIENT F064
+I could @@@.  Good to see you.
+
+DOCTOR F064
+Good to see you.
+
+PATIENT F064
+When was the last time?
+
+DOCTOR F064
+Maybe yeah.
+
+PATIENT F064
+Yeah you the man.
+
+DOCTOR F064
+Yeah you're just not sick enough to see me enough, you're too healthy.
+
+PATIENT F064
+@@@ It’s been awhile.
+
+DOCTOR F064
+@@@
+
+PATIENT F064
+That's what he put me on.
+
+DOCTOR F064
+Yeah.
+
+PATIENT F064
+@@@.
+
+DOCTOR F064
+Alright, I'll see if it's available.  Alright so uh are both knees still bothering you?
+
+PATIENT F064
+Yes.  I came to the Emergency Room the First of March, do you see that?
+
+DOCTOR F064
+Yes I do.
+
+PATIENT F064
+And uh I was having chills and pain in my left arm and the right arm, achy all over.  And the doctor who saw me, he gave me a EKG, he did @@@ blood.
+
+DOCTOR F064
+Okay.
+
+PATIENT F064
+And he said that uh probably was the cholesterol medication I was taking.
+
+DOCTOR F064
+Uh-huh.
+
+PATIENT F064
+He told me to stop taking it.  
+
+DOCTOR F064
+Has that stuff gone away sometime?
+
+PATIENT F064
+It did slow down a lot. Every now and then I get it, I mean I get it just not as much as I was getting it before so I thought I was having a heart attack man.
+
+DOCTOR F064
+Mainly in the shoulder this time?
+
+PATIENT F064
+My shoulder, right shoulder and in the left arm and the right arm, achy all over.  Even in my head with that stuff.
+
+DOCTOR F064
+Okay.  Simvastatin? 
+
+PATIENT F064
+Yes 80 mg.
+
+DOCTOR F064
+Are the symptoms completely gone now?
+
+PATIENT F064
+Well it comes and goes.  Every now and then it'll come and I get the pain in my shoulders and my arms, you know not as much as it was before.  Doctor said it would take a while before it was out of my system.
+
+DOCTOR F064
+That's true.  Um when do you get that pain in your shoulder?
+
+PATIENT F064
+Especially at night when I'm laying down.
+
+DOCTOR F064
+Do you ever get it when you're walking around?
+
+PATIENT F064
+Sometimes.  Very rarely, not too regular.
+
+DOCTOR F064
+Okay.
+
+PATIENT F064
+But when I lay down and relax that's when the pain in the shoulders, arms, I get the pain.
+
+DOCTOR F064
+Um, do you ever get short of breath with that?
+
+PATIENT F064
+Sometimes I get a little bit short of breath just when I walk.
+
+DOCTOR F064
+Do you get the shortness of breath at the same time as the shoulder pain or is that separate?
+
+PATIENT F064
+It's separate.
+
+DOCTOR F064
+Okay.  Uh what about nausea or vomiting?
+
+PATIENT F064
+No sir.
+
+DOCTOR F064
+Well it doesn't sound like it’s your heart.
+
+PATIENT F064
+I have an appointment with Cardiology Clinic next month.
+
+DOCTOR F064
+You do.
+
+PATIENT F064
+@@@.
+
+DOCTOR F064
+Alright.
+
+PATIENT F064
+That gave me the name.
+
+DOCTOR F064
+Good.  Uh when was the last time you saw them?  Cardiology folks, October?
+
+PATIENT F064
+They took an EKG downstairs.
+
+DOCTOR F064
+Alright good.
+
+PATIENT F064
+It wasn’t nothing.
+
+DOCTOR F064
+You had a and in the past you've had some testing done on your heart.
+
+PATIENT F064
+I had stents.
+
+DOCTOR F064
+Yeah but even since that time um, it looks like you've had a stress test.
+
+PATIENT F064
+A long time before I had the stents.
+
+DOCTOR F064
+It was?
+
+PATIENT F064
+Before I get stents again.
+
+DOCTOR F064
+Okay.  When were the stents put in?
+
+PATIENT F064
+Oh a couple years ago.
+
+DOCTOR F064
+Which year do you remember?
+
+PATIENT F064
+09.
+
+DOCTOR F064
+09 okay.  Are you able to walk?
+
+PATIENT F064
+Pardon?
+
+DOCTOR F064
+Can you walk now without getting short of breath?
+
+PATIENT F064
+Uh if I walk alone, just walk to fast I'll be short of breath.
+
+DOCTOR F064
+Okay.  How long is a long distance?
+
+PATIENT F064
+I'd say about one block.
+
+DOCTOR F064
+One block?
+
+PATIENT F064
+Yes.  I take more steps when I walk fast, try to keep up with my wife you know and then I get tired.
+
+DOCTOR F064
+I don't blame you at all okay.  Trying to find when that stress test was that you did.  November.  Alright so, it's good. That makes me feel better.
+
+PATIENT F064
+What's that?
+
+DOCTOR F064
+So the stress test that you had was good.
+
+PATIENT F064
+It was good but um, but there was this young guy up there.  He suggested that I go downstairs and take that cardiac angiogram.
+
+DOCTOR F064
+Angiogram?
+
+PATIENT F064
+Angiogram right.  He suggested I do that.  And when I was on the table and he was doing it, then the doctor came in and he told me I two blockages and said he's going to put two stents while I was in there already.
+
+DOCTOR F064
+That was done here?
+
+PATIENT F064
+Yes, right here.
+
+DOCTOR F064
+Trying to figure out when that was done, what month.  Okay February.  
+
+PATIENT F064
+Was it in 09, was it ’09?
+
+DOCTOR F064
+No it was in January 2010.
+
+PATIENT F064
+January?  No, was it?
+
+DOCTOR F064
+Yeah.
+
+PATIENT F064
+I didn't think so.
+
+DOCTOR F064
+Well let me see, yeah that's when they planned to do it at least.
+
+PATIENT F064
+Pardon?
+
+DOCTOR F064
+February, February 2010, that was about a year ago.  And you had one vessel that was blocked.
+
+PATIENT F064
+There were two blockages.
+
+DOCTOR F064
+Yeah, two main ones blocked and what did they do for you, they put some stents in at that time.
+
+PATIENT F064
+Yes they did.  Two stents.  And kept me in the hospital for a day or two.
+
+DOCTOR F064
+But does what you have now, does it feel at all the same as what you had back then?
+
+PATIENT F064
+I really think, I didn't feel no different back then cause I didn't know I had a blockage or anything you know.
+
+DOCTOR F064
+Okay.
+
+PATIENT F064
+I didn't know until they told me.  I was downstairs on the table so.  
+
+DOCTOR F064
+Hop up here.  Yeah, let me look at your medication list here.
+
+PATIENT F064
+I got that here, you want it?
+
+DOCTOR F064
+No I've got the same one here in the computer.
+
+PATIENT F064
+Okay.
+
+DOCTOR F064
+We'll read together here then.  Amlodipine for blood pressure, you got aspirin every day and Plavix every day.  Those two are protecting your heart.  You've got Tylenol with codeine if you need to for pain.
+
+PATIENT F064
+Right.
+
+DOCTOR F064
+Iron supplement.
+
+PATIENT F064
+Right.
+
+DOCTOR F064
+Gemfibrozil for cholesterol.  Hydrochlorothiazide for blood pressure.  Do you take insulin?
+
+PATIENT F064
+Take insulin?  Yes, yes.
+
+DOCTOR F064
+Yes, how much?
+
+PATIENT F064
+Uh 36.
+
+DOCTOR F064
+36 units.
+
+PATIENT F064
+Yeah twice a day.
+
+DOCTOR F064
+Okay.
+
+PATIENT F064
+But you know doctor, my  @@@ fluctuates so.
+
+DOCTOR F064
+Yeah.
+
+PATIENT F064
+Some days it's 200s you know, it's 250 some days and then some days it drops down to 100 something you know.  It fluctuates you know.  
+
+DOCTOR F064
+What is it usually?
+
+PATIENT F064
+I can't stabilize it.
+
+DOCTOR F064
+How about in the morning?  What is it usually in the morning?
+
+PATIENT F064
+Well, I should have brought my pad, uh this morning it was 180 this morning.
+
+DOCTOR F064
+180.
+
+PATIENT F064
+180 something.
+
+DOCTOR F064
+What is it normally in the morning?
+
+PATIENT F064
+It varies.
+
+DOCTOR F064
+What's the lowest and the highest?
+
+PATIENT F064
+Uh maybe, maybe 230-240, something like that.
+
+DOCTOR F064
+That's the highest?
+
+PATIENT F064
+Yeah.
+
+DOCTOR F064
+And the lowest?
+
+PATIENT F064
+The lowest tends to be down to 80.
+
+DOCTOR F064
+Okay.  Well are you changing your diet?  Are you eating different things?
+
+PATIENT F064
+I try to watch what I eat and I try to stay off those sweets.
+
+DOCTOR F064
+Good.
+
+PATIENT F064
+You know and I just drink water you know.
+
+DOCTOR F064
+Does it ever go above 240?
+
+PATIENT F064
+Some days it does.
+
+DOCTOR F064
+Okay.  In the 300s after meals?
+
+PATIENT F064
+Well some days, it hasn't been 300 in a while.  It hasn't been 300 in a while.
+
+DOCTOR F064
+Okay.
+
+PATIENT F064
+But @@@ stabilize it.
+
+DOCTOR F064
+Well I think we need to um, we need to get them better than that cause I think you're right.  300s, 230, 240s that's too high, we want to get it lower than that.  Now when was your last A1c, let me find out.  Okay so August.
+
+PATIENT F064
+A couple times it go low you know, I can feel it goes low you know a couple times.
+
+DOCTOR F064
+Start feeling bad?
+
+PATIENT F064
+I have to get something sweet you know like orange juice or something like that to bring it up you know.
+
+DOCTOR F064
+Uh-huh.
+
+PATIENT F064
+I feel real jittery you know.
+
+DOCTOR F064
+Yeah.  Alright so your hemoglobin A1c, that's the blood test that we use to check how your sugar has been over a three month period.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+It's been right around 7, 6.9 to 7.3.  That's pretty good.  We want it to be lower than 7 if we can.  So we’ll try to, we can adjust a little bit your regimen.  Now looks like your cholesterol was also checked back at that time, about a year ago.  We need to check that again.
+
+PATIENT F064
+The last @@@.
+
+DOCTOR F064
+@@@.
+
+PATIENT F064
+That was in March, when I came downstairs I think we checked it.
+
+DOCTOR F064
+Yeah here it is.
+
+PATIENT F064
+Yeah, they should have checked it downstairs.
+
+DOCTOR F064
+No they didn't actually check that one.  They checked a lot of other good things but not that one.  I'm going to order a few things right now for you.  Um have you ever been on lisinopril?
+
+PATIENT F064
+What?
+
+DOCTOR F064
+We didn't get through the rest of your list so I need to talk to you about the rest of your medications.  You're on Losartan, metoprolol, a multivitamin.
+
+PATIENT F064
+Right.
+
+DOCTOR F064
+Omega 3 fatty acids, omeprazole, you were on simvastatin, sildenafil for erectile dysfunction and terazosin for prostate.
+
+PATIENT F064
+Yes sir.
+
+DOCTOR F064
+Eye drops, okay.
+
+PATIENT F064
+Can you take them off?
+
+DOCTOR F064
+I wish I could.  No I don't think we can today.  So your blood tests from the first of this month look pretty good.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+Um your hemoglobin is just a little bit low and that's the blood count, you know the total blood count, it's still a little low.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+When was your last colonoscopy?
+
+PATIENT F064
+Hmm, I don't know cause I had one here didn't I?
+
+DOCTOR F064
+Um I don't know I could check for you though.  All your other tests look pretty good so I think really it's the diabetes that we need to work on, just to continue to fine tune that.  I think you're not too far off from where you need to be overall.  Have you seen an eye doctor this year?
+
+PATIENT F064
+Yes.
+
+DOCTOR F064
+Back in December okay.
+
+PATIENT F064
+Yeah I had, yeah I saw him.
+
+DOCTOR F064
+Okay.  Alright take your shoes and socks off for me.  Have you changed the terazosin @@@.
+
+PATIENT F064
+What?
+
+DOCTOR F064
+The medicine called terazosin or terazosin.
+
+PATIENT F064
+What is that for?
+
+DOCTOR F064
+Prostate.
+
+PATIENT F064
+Yeah I'm taking that every night.
+
+DOCTOR F064
+Good.
+
+PATIENT F064
+That one I take before I go to bed.
+
+DOCTOR F064
+Alright good.
+
+PATIENT F064
+Yes, capsules.  You want me to just keep taking those pills?
+
+DOCTOR F064
+Yeah. @@@ Inhale, go ahead and let it out.  @@@.  Anyway I'll see you one more time.
+
+PATIENT F064
+Pardon?  You'll see me again?
+
+DOCTOR F064
+Yeah.
+
+PATIENT F064
+Oh great, good.
+
+DOCTOR F064
+I want you to have your blood tests done before you see me.  Do it about a week before you see me okay, fasting. 
+
+PATIENT F064
+Pardon?
+
+DOCTOR F064
+I want you to get your blood tests about a week before you see me.
+
+PATIENT F064
+Oh man.
+
+DOCTOR F064
+Fasting blood test.
+
+PATIENT F064
+Fasting blood test, what’s that?
+
+DOCTOR F064
+Just means nothing to eat for 12 hours beforehand.
+
+PATIENT F064
+And they going to take a blood test?
+
+DOCTOR F064
+Yep.
+
+PATIENT F064
+@@@.
+
+DOCTOR F064
+So that just means just when you're at home but then nothing after midnight.
+
+PATIENT F064
+Oh okay.
+
+DOCTOR F064
+You come in and get the blood tested in the morning.
+
+PATIENT F064
+So when we gonna do that?
+
+DOCTOR F064
+Just about a week before your next appointment with me.
+
+PATIENT F064
+Okay.
+
+DOCTOR F064
+And that'll be in June.
+
+PATIENT F064
+Okay.
+
+DOCTOR F064
+Alright.  That'll be @@@.  Let me check your feet.  Any loss any sensation in your feet?
+
+PATIENT F064
+No sir.
+
+DOCTOR F064
+Alright I'm going to hit you with this fishing line but you'll feel it like that, do you feel that?
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+@@@ your toes. Let me know when you feel it.
+
+PATIENT F064
+Yes.
+
+DOCTOR F064
+Yeah.
+
+PATIENT F064
+Yeah, yeah, ooh.
+
+DOCTOR F064
+Way down there.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+What's this?
+
+PATIENT F064
+@@@.
+
+DOCTOR F064
+A little scar there.
+
+PATIENT F064
+Scar.
+
+DOCTOR F064
+Very good.  Did you take your medicines today?  
+
+PATIENT F064
+Yes sir.
+
+DOCTOR F064
+Did they check your blood pressure or no.
+
+PATIENT F064
+She took it; she said it was where it was supposed to be.  It come up a little bit.
+
+DOCTOR F064
+How high?
+
+PATIENT F064
+173/80.
+
+DOCTOR F064
+80 oh that's too high.
+
+PATIENT F064
+It was 160; she said you would check it.  @@@.
+
+DOCTOR F064
+I'll take it again.  @@@.  Let's see where it's at.  Deep breath.  Okay lay back.  Alright I 140/68.
+
+PATIENT F064
+I'll be darn.
+
+DOCTOR F064
+So it's still too high but it's not terribly high.  @@@ reading.  About your diabetes, so we'll go problem by problem.  The diabetes I think is doing well but I understand what you're saying about the fluctuation going up and down.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+I'd like your numbers to be a little bit lower.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+So what I'd like you to do, when you come in next time, I want to record for me, in a little book or a binder or piece of paper, right when you wake up in the morning what your sugar is.
+
+PATIENT F064
+That thing I take it at home with, oh yeah I got that at home.
+
+DOCTOR F064
+Perfect and then one time throughout the day, about two hours after you eat.
+
+PATIENT F064
+I record it in the morning and record @@@ okay.
+
+DOCTOR F064
+Okay so this is what I want you to keep doing the morning one.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+And then also do it sometime during the day, maybe lunch time or dinner time but two hours after your meal.
+
+PATIENT F064
+Okay.
+
+DOCTOR F064
+Cause then we can adjust your insulin if we need to.  Uh no medicine changes for now and you have an appointment next month with the cardiologist?
+
+PATIENT F064
+Yes, I think it's made for the 15th.
+
+DOCTOR F064
+Oh that's good.  I want you to mention the shoulder pain to them.  I don't think it's your heart but you didn't have chest pain before they found this blockage last time, I want to make sure it's not a new blockage.
+
+PATIENT F064
+It showed that before.
+
+DOCTOR F064
+Right.
+
+PATIENT F064
+I don't have chest pain; I don't have no chest pain now.
+
+DOCTOR F064
+No.
+
+PATIENT F064
+Put my shoes back on?
+
+DOCTOR F064
+Yep.  I'm going to go talk to my boss and I'll be right back.  
+
+(DOCTOR OUT:  33:32  DOCTOR IN:  42:16)
+
+DOCTOR F064
+Alright, thanks for waiting.  So I think we can make one small adjustment for you.  You're taking 36 units of insulin twice a day?
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+I want to go up on the morning dose okay so to about 38, it's a small increase.  You'll go from 36 to 38 in the morning.
+
+PATIENT F064
+Uh-huh.
+
+DOCTOR F064
+Keep it at 36 in the evening and do like I told you which is check your blood sugar in the morning and then in the evening and we'll see how they go.  Everything else is going to be the same for now and then we'll see you back in about 6-8 weeks.
+
+PATIENT F064
+You renew all my medications?  @@@ run out of some of them.
+
+DOCTOR F064
+You have refills on all of them it looks like.
+
+PATIENT F064
+@@@?
+
+DOCTOR F064
+I'm not giving you a refill on the sildenafil.
+
+PATIENT F064
+Who?
+
+DOCTOR F064
+The erectile dysfunction.
+
+PATIENT F064
+Oh okay maybe it's easier.
+
+DOCTOR F064
+I'll renew all @@@.
+
+PATIENT F064
+Don't take the cholesterol medicines, should I stay off it?
+
+DOCTOR F064
+Oh you know what, you're right.  I wanted to talk to you about that too.  I think its okay to restart that but I want to start it at a lower dose.  You're taking the highest dose that's available right now.  I'm going to change that so that it's a low dose.
+
+PATIENT F064
+@@@ how many?
+
+DOCTOR F064
+It was 80; I'm going to go to 20.
+
+PATIENT F064
+@@@ the same way.  @@@ the same way.
+
+DOCTOR F064
+Yeah.
+
+PATIENT F064
+@@@ the same that she had.
+
+DOCTOR F064
+With the muscles and stuff?
+
+PATIENT F064
+Yes, yes.  She did the same problem.
+
+DOCTOR F064
+Well let's try it on 20 and if you get the problem again we'll quit it all together okay.
+
+PATIENT F064
+I ain't going to feel like that, I felt like hell.
+
+DOCTOR F064
+You don't want to have that?
+
+PATIENT F064
+I don't want to feel like that anymore.
+
+DOCTOR F064
+Well you'll know.
+
+PATIENT F064
+Can you just give me just one week or put me on something else?
+
+DOCTOR F064
+Well the problem is, that's the best medication that we have.
+
+PATIENT F064
+Oh.
+
+DOCTOR F064
+There are different types of statins but that's the best one we have for.
+
+PATIENT F064
+Okay.
+
+DOCTOR F064
+It's for your heart disease, for your cholesterol.
+
+PATIENT F064
+So don't take nothing till I get.
+
+DOCTOR F064
+Just take the low dose.  Don't take the ones you have.
+
+PATIENT F064
+So take nothing until I get the new one right?
+
+DOCTOR F064
+Right.
+
+PATIENT F064
+Don't take nothing until I get the new one.
+
+DOCTOR F064
+Correct.
+
+PATIENT F064
+If it starts doing it again just stay lay off it again right?
+
+DOCTOR F064
+And then just quit yeah, just don't take it again.  Alright.
+
+PATIENT F064
+Okay.  I'm going to go and get that shot now, I hate that, man.
+
+DOCTOR F064
+You got another shot in the knee?
+
+PATIENT F064
+In the shoulder too.
+
+DOCTOR F064
+But it makes you feel better though doesn't it?
+
+PATIENT F064
+Sounds good.
+
+DOCTOR F064
+Yeah right.  Take care of yourself.
+
+PATIENT F064
+See you soon.
+
+DOCTOR F064
+You take care.
+
+PATIENT F064
+See you again, take care.  Thanks a lot.
+
+DOCTOR F064
+Alright take care.
+
+PATIENT F064
+Okay.
+
+DOCTOR F064
+This is a form to give them when you check out.
+
+PATIENT LEAVES:  45:28.
+
+Time is 2:36
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249438
+TRANSACTION # 578-10-2-316-0103

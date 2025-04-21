@@ -1,0 +1,39 @@
+Red Flag (246-364): "Uh I'm going to be your primary care physician and I was just, I think I was expecting you in July but you didn't come"
+
+Factor   (380-417): "Yeah I totally forgot the appointment"
+
+Probe    (432-489): "Yeah and then uh, it looks like you had @@@ scheduled @@@"
+
+Factor   (505-542): "Oh, I have, an unpredictable schedule"
+
+Red Flag (1527-1600): "Oh I was on Vicodin and I had, but it was only if I need it and I ran out"
+
+Red Flag (1635-1668): "And I just never came back for it"
+
+Probe    (1683-1747): "Okay. Um but you're doing fine without that or do you want more"
+
+Red Flag (1763-1797): "There's some days I'd like to have"
+
+Red Flag (2575-2628): "Uh and the Naproxen you take that pain medication too"
+
+Red Flag (2644-2659): "I'm out of that"
+
+Red Flag (7474-7530): "So I was thinking you want to have like a flu shot today"
+
+Red Flag (7546-7557): "No I'm okay"
+
+Probe    (7572-7582): "Okay. Why"
+
+Factor   (7598-7617): "I don't get the flu"
+
+CarePlan (7786-7864): "I mean nobody's diagnosed with flu, usually it's a cold and @@@ you'll be fine"
+
+Red Flag (12106-12134): "Well I have a no resuscitate"
+
+Red Flag (12149-12212): "Oh you have no resuscitate, you want to do a Do Not Resuscitate"
+
+Red Flag (12228-12232): "Yeah"
+
+Probe    (12247-12262): "And why is that"
+
+Factor   (12278-12372): "Uh I watched my mom and dad die and they kept trying and trying and trying and was nothing and"

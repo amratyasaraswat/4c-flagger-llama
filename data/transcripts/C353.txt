@@ -1,0 +1,321 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@ 
+
+PATIENT C353
+Hi doctor how are you?
+
+DOCTOR C353
+Good how are you?
+
+PATIENT C353
+I'm hanging in there.
+
+DOCTOR C353
+Alright.  What can I help you with today?
+
+PATIENT C353
+Well I had the appointment to see you today.
+
+DOCTOR C353
+Okay.
+
+PATIENT C353
+I thought maybe something come up that you need to talk to me about.
+
+DOCTOR C353
+Um no they were supposed to make an appointment with your primary care DOCTOR.
+
+PATIENT C353
+They were supposed to.
+
+DOCTOR C353
+What happened there?
+
+PATIENT C353
+Ah probably a mix up.
+
+DOCTOR C353
+Alright let's see.  Your blood pressure is good.  Very good so whatever we did last time worked I guess.
+
+PATIENT C353
+Yeah I guess you're right.  I'm glad of that.  You approve of that uh, good.
+
+DOCTOR C353
+So let's see.  We'll see what it's telling us today.  So you just saw DOCTOR right?
+
+PATIENT C353
+I saw her a week ago right.
+
+DOCTOR C353
+And she, sounds like she said everything’s tiptop, everything is doing okay.
+
+PATIENT C353
+Yeah.  But you could look at that, I think my blood and everything, it didn't come up yet but do you, would have that on the screen or no?
+
+DOCTOR C353
+Uh-huh.  
+
+PATIENT C353
+Could you check that and let me know what's going on, I'd like to know.
+
+DOCTOR C353
+Okay your blood work, the white count is good.  Um your hemoglobin is good, you’re not anemic and your platelets are in the right place so your blood counts are good.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+Your PSA is very low.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+Almost 0 and uh electrolytes, they're good, nothing really to write home about and that's all.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+That looks good to.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+Your PSA is low for a while, so nothing exciting.
+
+PATIENT C353
+Okay, great.
+
+DOCTOR C353
+Okay alright then we also need to get you the eyes or remember how we were trying to get you.
+
+PATIENT C353
+That's what they did.
+
+DOCTOR C353
+They did, alright.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+I'm going to listen to your heart.
+
+PATIENT C353
+Yeah.
+
+DOCTOR C353
+Your heart and lungs.
+
+PATIENT C353
+You’re being recorded, you know.
+
+DOCTOR C353
+Okay, take a real deep breath.  Good, any swelling in your legs?
+
+PATIENT C353
+I don't think so.
+
+DOCTOR C353
+No okay.  No looks good, well alright.  Uh so I would just say stay the course, that it worked since whatever we changed to works, uh can you check it only once in a while for your blood pressures?
+
+PATIENT C353
+Yeah.
+
+DOCTOR C353
+This amlodipine.
+
+PATIENT C353
+Right.
+
+DOCTOR C353
+Okay.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+Good.  
+
+PATIENT C353
+That should be sufficient shouldn't it?
+
+DOCTOR C353
+Yeah it's low; it's like 108 so that's good.
+
+PATIENT C353
+Okay.  And I think there's something wrong with that machine cause at the house I get a different reading.
+
+DOCTOR C353
+Really.
+
+PATIENT C353
+Uh-huh.
+
+DOCTOR C353
+Does it give you a higher one?
+
+PATIENT C353
+Yeah.
+
+DOCTOR C353
+Um so what I would say is uh.
+
+PATIENT C353
+Could you try another machine though?
+
+DOCTOR C353
+Um come back for a nursing visit.  Do you have any other appointments?  You have an eye doctor and Hematology on the 20th.  You have an appointment with DOCTOR.
+
+PATIENT C353
+Yeah on the 20th.
+
+DOCTOR C353
+So come here for a blood pressure check, for nursing blood pressure check.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+And bring your machine, your home machine.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+And so they can correlate to see if it's reading right or not.
+
+PATIENT C353
+Thank you.
+
+DOCTOR C353
+And we'll solve that problem.
+
+PATIENT C353
+Right.
+
+DOCTOR C353
+And other than that um did you get shots, you know the immunization shots?  You didn't so it looks like the flu, I think you should have the flu shot.  Do you want to get flu shot today?
+
+PATIENT C353
+Uh can I wait later?
+
+DOCTOR C353
+You can.
+
+PATIENT C353
+Thanks.
+
+DOCTOR C353
+Alright and did you have a colonoscopy?
+
+PATIENT C353
+I've had one but maybe it's time for another one maybe.
+
+DOCTOR C353
+Let's see.
+
+PATIENT C353
+What do you think?
+
+DOCTOR C353
+Let me see when it was.  You didn't have anything there so it's still good for a couple years alright.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+Okay well let me talk to my bosses and we're not doing anything really today.
+
+PATIENT C353
+Thank you.
+
+DOCTOR C353
+But we'll get in two weeks a blood pressure check.
+
+PATIENT C353
+Okay.
+
+DOCTOR C353
+With um your machine in the nurses clinic and we'll have you come back in three months and probably on appointment (in the correct clinic).  Not that I'm not glad to see you but they know you, they don’t like when we pull patients from one clinic to another.
+
+PATIENT C353
+Oh okay.
+
+DOCTOR C353
+With DOCTOR.  
+
+PATIENT C353
+Alright.
+
+DOCTOR C353
+Alright, I'll be right back.
+
+PATIENT C353
+Thank you, alright.
+(DOCTOR OUT:  17:35  DOCTOR IN:  20:11)
+
+DOCTOR C353
+Alrighty.
+
+PATIENT C353
+Thank you.
+
+DOCTOR C353
+You're all set today.  Do you have enough of refills and everything for your, well why don't you let me just check if you have your medications.
+
+PATIENT C353
+Alright.
+
+DOCTOR C353
+Do you want to have a 90 day supply?
+
+PATIENT C353
+Please.
+
+DOCTOR C353
+To mail you?
+
+PATIENT C353
+Yes, good.
+
+DOCTOR C353
+Okay, you're welcome.  To mail yep.
+
+PATIENT C353
+Good.
+
+DOCTOR C353
+Alright.
+
+PATIENT C353
+Thank you.
+
+DOCTOR C353
+All done.
+
+PATIENT C353
+Alright, thank you again.
+
+DOCTOR C353
+Okay, well just call if there is anything.
+
+PATIENT C353
+Will do and the same to you.
+
+DOCTOR C353
+Okay, you take care.
+
+PATIENT C353
+Yes.
+
+PATIENT LEAVES:  21:03
+
+Time is 4:10.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238132
+TRANSACTION # 578-10-2-316-0103

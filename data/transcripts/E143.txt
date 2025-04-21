@@ -1,0 +1,1122 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @:@@ 
+
+DOCTOR E143
+PATIENT?  How ya doing?
+
+PATIENT E143
+Pretty well.
+
+DOCTOR E143
+Good to see you again, come on back.  I @@@.  So what's new?
+
+PATIENT E143
+I'm glad you asked.  I got a list.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+I uh, I had this Grover's disease for a couple of years now.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+It, it's not gone.  It's kind of in check uh still bugging me a little bit and, and the next thing.  When I take my cup of coffee in the morning and I lift it like this, my hand goes like this.
+
+DOCTOR E143
+Okay, that's new for you?
+
+PATIENT E143
+Well it's new in the last five or six months.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+Um and my, it doesn't have, you know any particular tremor but this is the one where I'm using several small muscles and when I get the coffee cup up to my, so I wanted to mention that to you.
+
+DOCTOR E143
+Is it just the one hand?
+
+PATIENT E143
+Well, I mean it's all I notice.  I, I don't feel any particular unease in my body.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+Or I'm not shaky going down stairs or anything like that.
+
+DOCTOR E143
+It's your right hand?
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+Are you right-handed?
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+You've never seen it in your left hand when you're doing stuff?
+
+PATIENT E143
+I tried on my left hand and uh, I, to a point it's similar but the place I, I first noticed it was my right hand.  @@@.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+So anyhow, I thought this might be a decent time to mention it.  It get, it's gotten a little bit more prominent in the last eh, you know as time goes along.
+
+DOCTOR E143
+And it doesn't happen all the time, just happens occasionally?
+
+PATIENT E143
+Just occasional.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+But I don't have any trouble putting keys in you know in a car or anything like that but.  Something else I noticed, I'm getting reflux.
+
+DOCTOR E143
+Okay what do you mean by reflux?
+
+PATIENT E143
+I get, if I, especially if I have something to eat after 7 o'clock at night.  I'll go to bed and I'm laying there and all of a sudden I get swallowing because the reflux, the gorge, the acid kind of a taste comes up through my trachea.
+
+DOCTOR E143
+Okay.  So you get like a strange taste in your mouth you're saying.
+
+PATIENT E143
+It's not a strange taste when it comes up, you just don't start swallowing junk.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+And so sometimes I get up and uh maybe just sit for awhile, go brush my teeth but that's happening, it probably happened eight or ten times in the last month.
+
+DOCTOR E143
+You've had this before too?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+In your chart did somebody mention that you've had this reflux before?  What would have done that, that notion?  You've never had an endoscopy that I've seen in our system.
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Ever have one a Loyola or anywhere else? No?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+But.
+
+DOCTOR E143
+Have you ever had medication for that though?
+
+PATIENT E143
+No, but you know my squeeze (NAME), takes, she has reflux and so she's had the endoscopy and the different things and so she's been treated for it and so that's what makes me think I just had too much to eat probably.  That's a big factor.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+You know I need a piece of pumpkin pie and ice cream at 8:30 at night like another hole in the head right?
+
+DOCTOR E143
+Uh, have you noticed certain foods that make it worse?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Do you know a food that typically makes it worse.
+
+PATIENT E143
+Yeah, I always eat Haagen Daz ice cream.  @@@.
+
+DOCTOR E143
+@@@ It's possible but it's just not in the literature to say Haagen Das ice cream.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Tobacco, caffeine.
+
+PATIENT E143
+I don't drink.  I mean I don't drink that I can remember.  I don't smoke, never.
+
+DOCTOR E143
+Alcohol?  Caffeine?
+
+PATIENT E143
+Uh.  
+
+DOCTOR E143
+You told me you're drinking tea right?  Coffee right?
+
+PATIENT E143
+Yeah.  
+
+DOCTOR E143
+Uh minty stuff, like menthol?
+
+
+PATIENT E143
+Huh no.
+
+DOCTOR E143
+Um tomato and citrus stuff?
+
+PATIENT E143
+Maybe, I know I like pasta.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+And uh you know spaghetti and meatballs.
+
+DOCTOR E143
+Some people get it worse, if they eat spaghetti sauce they can tell right away, because they get bad reflux symptoms.
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+And like you mentioned, it's classic.  If you eat right before you go to sleep, now that's the problem.  Then you lay flat and the stuff that you eat you're pushing it back into the esophagus.
+
+PATIENT E143
+Exactly.  And so it's almost like the hiccups, I mean here it comes. 
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+At 6 miles an hour.
+
+DOCTOR E143
+And it's not and it's not uh, you know it's not anything like, if you have it for a long time you get problems with changing of the cells that line your esophagus.
+
+PATIENT E143
+Okay.
+
+
+DOCTOR E143
+The cells that line the esophagus are a certain type of cell type and they're different than the ones in your stomach.  The ones in your stomach are used to the acidic environment.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+And if the esophagus gets exposed to this acid over and over, they start to change to resemble more of the ones in the stomach they got to cope with it.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+But as those cells change rapidly, there's a chance of developing cancer.  Something called Barrett's esophagus.  If we see a change in the cell type of your esophagus that tells us that you now are getting close to reflux but now you're having change in the cells.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+That puts you at risk for esophageal cancer.  So it's nothing that we need to worry about now.  I'm just saying, you know it's something to keep an eye on because it's something you want to treat.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Now your squeeze, well what kind of medicines did she take for that.
+
+PATIENT E143
+You know I really don't.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+Except that I know that it's been a problem for her for a few years now.
+
+DOCTOR E143
+Yeah okay.
+
+PATIENT E143
+And uh it hasn't, it's not cancerous.
+
+DOCTOR E143
+No, no I mean there's nothing to suspect that at this point and you need to know um that's nothing I'm worried about.  I'm just telling you, so this is why you know doctors can be concerned about this stuff.
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+They need to think about it.
+
+PATIENT E143
+Well it suddenly occurred to me if it happens after 8:30 in the evening again, maybe it's like, @@@ I do this.
+
+DOCTOR E143
+Yeah don't do that yeah, yeah.
+
+PATIENT E143
+Okay I got that part.  Uh so those are the things I wanted to ask.  By the way I've got a friend who had shingles.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+It's horrible.
+
+DOCTOR E143
+Terrible.
+
+PATIENT E143
+Yes.  He said, he said have you ever had a shot for shingles, I said no why.  He said you can have like an antibody shot, a shot for shingles prior to getting shingles.
+
+DOCTOR E143
+Yes.
+
+PATIENT E143
+After which once you get it you're toast, you're in for the ride.  So here a guy that had an itch that I really don't feel comfortable with and uh and it held on for a while if I was just wondering if the shingle shots were available?
+
+DOCTOR E143
+Yeah we can get you one.  Uh they're probably going to be, so I don’t think I could give it to you today, be able to schedule this for you, you have to come back and get it.
+
+PATIENT E143
+That's fine.
+
+DOCTOR E143
+But it's no problem.
+
+PATIENT E143
+But if it's available I'd like it.
+
+DOCTOR E143
+Did you get a flu shot this year?
+
+PATIENT E143
+No, hell no.
+
+DOCTOR E143
+You didn't get one?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+I mean I got one when I was in the service in the 50s.
+
+DOCTOR E143
+You got to get it every year.
+
+PATIENT E143
+It gave me the flu every time Jesus.
+
+DOCTOR E143
+You can't get the flu from the shot.  Let me get this phone call.
+
+PATIENT E143
+Okay.
+
+(DOCTOR ON PHONE CALL: 45:56 until 47:13)
+
+DOCTOR E143
+Okay, sorry about that.
+
+PATIENT E143
+No that's okay.  Uh the only thing else I got is, I got a friend, a lady, that socially I know, has had Grover's disease.  I said oh yeah I had that, @@@.  So she had some and she's a little obese but in any case she got light treatments for it and it was very effective.  Now I'm just sitting here, I'll get up sometimes in the middle of the night I'll have sensations on parts of my body and in Grover's disease it's laying there.  You know it's not dormant it's just preceded.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+I'm not comfortable.  I know its there.  I mean you know I just have the awareness, it's a cold shed that's all.  I just wondered if I got if I need to go to Dermatology and see if that might be an avenue that might.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+Put this in.
+
+DOCTOR E143
+I'm fine with that.
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+I don't know enough about it to say whether it's a good idea.  I know I just looked at all the medications down for this and there are quite a few and I wouldn't be the one doing the treatment so I would say you call the Dermatology Clinic and say look I want to talk about this option.
+
+PATIENT E143
+Cool, I'll do that.  Other than that I guess uh.  What medicines do you show me getting?
+
+DOCTOR E143
+Uh terazosin, uh for prostate.  Finasteride, both those right?
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+Okay.  You take uh simvastatin.
+
+PATIENT E143
+I take uh, simvastatin I don't take.
+
+DOCTOR E143
+You stopped taking it?
+
+PATIENT E143
+Just a minute I said the simvastatin I am taking.
+
+DOCTOR E143
+But it's not on the list.
+
+PATIENT E143
+Not on the list.
+
+DOCTOR E143
+It just expired that's all, renew it.
+
+PATIENT E143
+Okay.  I would like uh, I would like some medicine like a two months supply of medicines.  It's pretty stable, so a two or three month's supply of medicine of those three sent to me if you will.
+
+DOCTOR E143
+Sure.
+
+PATIENT E143
+Then @@@.
+
+DOCTOR E143
+I have some other creams and other stuff you use as well.
+
+PATIENT E143
+Yeah.  You know what, to be truthful with ya.
+
+DOCTOR E143
+Which ones of these don't you use?
+
+PATIENT E143
+Uh the cream that I don't use.
+
+DOCTOR E143
+Capsaicin, you use that one?
+
+PATIENT E143
+Capsaicin.  I don't use that.
+
+DOCTOR E143
+Okay we'll get rid of that one.
+
+PATIENT E143
+Okay and uh that's it.
+
+DOCTOR E143
+This uh, this steroid cream you still use?
+
+PATIENT E143
+Uh, yeah I've got some still in stock and once in a while if it bothers me.
+
+DOCTOR E143
+Which one do you use?
+
+PATIENT E143
+Uh, you know.
+
+DOCTOR E143
+The @@@ and another one, do you use both of them?
+
+PATIENT E143
+Uh, I should.
+
+DOCTOR E143
+@@@ this one @@@.  Do you use those?
+
+PATIENT E143
+Very, very sparingly.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+Usually on a hot spot, I've got maybe seven or eight spots on my body that are, they're more bothersome than others.  I mean I could, you can scratch it and you know you're in trouble.  It's one of those when I itch too good, kind of a deal.
+
+DOCTOR E143
+Yeah, okay.
+
+PATIENT E143
+I've got a half dozen of those spots on my body.
+
+DOCTOR E143
+What about these other ones, hydroxyzine, do you take the Zyrtec, do you still take any of those?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Okay I'll get rid of those and then that shampoo you still use?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+You don't use that either?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+I thought that stuff worked pretty good for you.
+
+PATIENT E143
+Ah it did but you know, I've got about six bottles of it.  Heck it was really designed to put on my body when I was in, pretty extreme.
+
+DOCTOR E143
+Flares right?
+
+PATIENT E143
+Yeah and uh and it was just supposed to be all over my body.  Well I never, I got a little better and I stopped using the darn stuff.   So it was like a salve really.
+
+DOCTOR E143
+Okay, I can stop it.
+
+PATIENT E143
+You can dump, yeah you can dump that.  That's my shopping list ho, ho, ho.
+
+DOCTOR E143
+That’ my Christmas present, from me to you.
+
+PATIENT E143
+(Laughs) Whatever but uh, but uh the tremor I have it's this funny, odd motion where I'm using shoulder and different muscles you know and it comes up here and it's in the morning, maybe I'm not ready to give it a whirl or what.  It kind of catches me in the morning first thing.
+
+DOCTOR E143
+Uh alright lets.  
+
+PATIENT E143
+So the reflux, I’m good, we're gonna watch it if it's okay with you.
+
+DOCTOR E143
+No what's the.
+
+PATIENT E143
+And I'm not gonna eat after 8:30.
+
+DOCTOR E143
+That's, that's one way to do it.  Let's uh, there's a couple of things we could do about this really.  Um, I’m just looking at your last labs, it’s been a while.  Okay, we need to recheck your blood on your next visit; we're fine on this visit okay.  And your blood pressure was okay um.  You ever take your blood pressure at home?
+
+PATIENT E143
+Um no.  I've never had high blood pressure.  As a matter of fact most surprising it's down in the 59 or 60s; it's usually be 70 and 110 or 112.
+
+DOCTOR E143
+Oh. Okay.  Alright come on here we'll take a listen.  I'll let you know what we’re going to do with this stuff.  Okay.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Alright let's see your hands, stick them out in front of you all the way. You want to see a trick? This is what I do.  Keep your arm straight.  Ah see this doesn't count, @@@.
+
+PATIENT E143
+Stop.  Alto! I speak Spanish.
+
+DOCTOR E143
+Alright, so it’s not that.
+
+PATIENT E143
+Now.
+
+DOCTOR E143
+@@@.
+
+PATIENT E143
+I’ll be truthful with you, if I didn't drink coffee I'd never even be talking about this.
+
+DOCTOR E143
+Is it only when you drink coffee that you get this?
+
+PATIENT E143
+Oh yeah, it's just that I'm sensitive.  You know hot coffee, you're pretty careful about things that you lift.  
+
+DOCTOR E143
+What I’m saying is it is after you drink coffee do you get the tremor?  
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+That's the first shot.
+
+DOCTOR E143
+Okay let's do this uh, finger of your right hand, touch your nose, touch my finger, nose again, touch my finger, nose.  Okay other hand, @@@.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+What that is it's called an essential tremor.  It kind of runs in families but a lot of times it doesn't.  It's nothing to worry about.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+It's not like a Parkinson's type thing.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+It's just stuff some people get.  It's like a nervous twitch.  More common in old age.  Unless it really bothers you and inhibits what you're doing, there's not a good treatment for, for tremors like that.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+So I would uh, you know I would just try to live with it the best you can.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+If it gets worse or you notice things happening when you're not moving, when you're just kind of resting and that's when we need to think about other things; so for now I would have you just.
+
+PATIENT E143
+Okay.  I'll just qualify it and if it gets worse.
+
+DOCTOR E143
+It's called essential tremor.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+You can look it up if you want but that's just, it's a benign thing.  It's nothing to worry about.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Okay.  Breathe normal for now.  No chest pain, no trouble breathing?  Deep breath in and out. (Examining patient) Another deep breath.  Open your mouth, ah. 
+
+PATIENT E143
+Ah.
+
+DOCTOR E143
+Okay lay back for me and lift up your shirt as well. Can you unbutton or?  Okay up here?
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+No change in appetite?
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+No weight loss or anything like that?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Okay climb off.  Alright.  Um so this seems like reflux you're right.
+
+PATIENT E143
+Yeah.  Yeah now that bothered me cause she's had it for the last two or three years off and on.  You know fighting it and doing whatever, so she, we're very aware of it and the ramifications of course.
+
+DOCTOR E143
+Um, so the foods I mentioned that causes trouble with those foods or late at night um and then we'll try this medication.  We'll try it for a couple of weeks, maybe a month, two months to see how it does.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+@@@ for long period of time.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+So we'll use it @@@ and that's fine and at then at some point we'll try to stop it and see if the symptoms have improved even off of it.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Okay does that make sense?  It's called omeprazole when there's just lot of acid to your stomach, so if you have some reflux it doesn't cause any problems.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+It doesn't irritate the lining of the esophagus okay.
+
+PATIENT E143
+@@@ frequently she sleeps with two pillows so that her body is tilted a little up, it seems to help.
+
+DOCTOR E143
+Yeah it can help.  I don't @@@ for you.
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Uh, give me a second and I'll be right back.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Oh you know what else, colonoscopy?
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+When was your last colonoscopy, it says what was it five years ago or so?
+
+PATIENT E143
+Me?  Colonoscopy?  You know what I just had, I just had a operation for prostate and they went in through my.
+
+DOCTOR E143
+Yeah but that's not a colonoscopy.
+
+PATIENT E143
+Well, that's such a fun thing.
+
+DOCTOR E143
+You were probably don’t need another one um we generally seem to stop screening about 75 to 80 uh but you had polyps on your last one right?  From what I remember.
+
+PATIENT E143
+Mmm.
+
+DOCTOR E143
+Uh so that's something that we need to look into.  If you have polyps you're supposed to follow them up every five years or so.
+
+PATIENT E143
+Yeah.  I.
+
+DOCTOR E143
+Hey I mean you're pretty healthy.
+
+PATIENT E143
+I don't want to be a hero or anything you know just.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+If it's time, we'll get the colonoscopy.
+
+DOCTOR E143
+Where'd you have it done last?
+
+PATIENT E143
+Out in Aurora at uh.
+
+DOCTOR E143
+In the VA Aurora?
+
+PATIENT E143
+Not in the VA.  I was using the Medicare.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+Uh.  I have a doctor out there at uh.
+
+DOCTOR E143
+Do you know what hospital you had it done at?
+
+PATIENT E143
+No.  It’s on the tip of my tongue, but I can’t.
+
+DOCTOR E143
+@@@ Copley?
+
+PATIENT E143
+No.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+One farther out west uh.
+
+DOCTOR E143
+I'm not sure then.
+
+PATIENT E143
+Yeah.  
+
+DOCTOR E143
+You know what, I mean I'd like to see the records if you could get them.
+
+PATIENT E143
+I can.
+
+DOCTOR E143
+Yeah cause that would @@@ if you have to have one done here um.  You know for most people who are 76, I honestly say it's no problem, for you I think it's worthwhile doing.
+
+PATIENT E143
+I'm probably going to be around a while.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+Everything else equal.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+Okay.  I'll get em.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+Uh do you want me then to uh.
+
+DOCTOR E143
+You can just bring em with you next time if you want.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+You won't have to pay, bring em the next time you come in.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Um I'll be right back.
+
+(DOCTOR OUT:  59:41  DOCTOR IN:  64:04)
+
+DOCTOR E143
+Alright.  Um, let's try this medication called omeprazole for your stomach.
+
+PATIENT E143
+Okay, alright.
+
+DOCTOR E143
+Take it once a day.
+
+PATIENT E143
+Alright.
+
+DOCTOR E143
+It doesn't matter if you take it morning or night.  Take it in the morning with these other medications.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Now we'll try it for about three, two or three months.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+And we'll see how you do.  If your symptoms are not completely better we may have to do the scope to look for something else that could be causing this.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Fair enough?
+
+PATIENT E143
+Sounds good.
+
+
+DOCTOR E143
+I’ll see you in about three months, try to get those records for your colonoscopy.
+
+PATIENT E143
+In three months I'm gonna be in Florida.
+
+DOCTOR E143
+When you coming back?
+
+PATIENT E143
+Probably.
+
+DOCTOR E143
+Ever?  Are you coming back?
+
+PATIENT E143
+Well, yeah I come back when it gets warm up here.
+
+DOCTOR E143
+When, when is that?
+
+PATIENT E143
+Uh, I usually I'm down there for the month of March, big part of February.
+
+DOCTOR E143
+Okay.
+
+PATIENT E143
+So I usually get back April.
+
+DOCTOR E143
+So that's ah like six months or five months from now.
+
+PATIENT E143
+Yeah.
+
+
+DOCTOR E143
+Okay.  
+
+
+PATIENT E143
+Well obviously, I'm not going down for another month or two so you know, if these things haven't been alleviated.
+
+DOCTOR E143
+Yeah we usually want to use the medicine.
+
+PATIENT E143
+I'll be like on like a cold sweat.
+
+DOCTOR E143
+You want to use the medicine about eight weeks or so.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+But yeah I mean if you're, if you have no improvement after you know a couple weeks of this medication.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Let me know.
+
+PATIENT E143
+Okay I will.
+
+DOCTOR E143
+And uh you know what if the pain gets worse also on this medication you know let me know or you know the reflux symptoms get worse.
+
+PATIENT E143
+It is distressing to say the least.
+
+DOCTOR E143
+Yeah.
+
+PATIENT E143
+I mean it will wake you up like a shot.
+
+DOCTOR E143
+Yeah but I think we know what it is so that's pretty reassuring.
+
+PATIENT E143
+Okay, okay, that's good.
+
+DOCTOR E143
+And this usually treats it pretty well.  So, April will be about five months, we'll say five months we'll have you come back.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+We'll see how that's doing.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Like but yeah in the meantime, if it's getting worse or anything, just let me know so we can try to get you set up for this.  We'll get some baseline um blood draws today.
+
+PATIENT E143
+Okay alright. I already had a blood draw.
+
+DOCTOR E143
+Which order did they fill?
+
+PATIENT E143
+I got here at 2:30 I think.
+
+
+DOCTOR E143
+@@@.  For your PSA?
+
+PATIENT E143
+Uh, they never, I just went down and got it because they said come in early, get some blood drawn, but I didn't have, they didn't die it or anything.
+
+DOCTOR E143
+Yeah, @@@ from the Radiation oncologist.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+What we need um, I want to check your blood levels with this and uh your Lipitor for next time you come in, your cholesterol panel.  We just need a fasting lab.
+
+PATIENT E143
+Okay.  I'll get my blood taken again.
+
+DOCTOR E143
+So yeah, I'll let you get your blood taken again today.
+
+PATIENT E143
+Uh-huh.
+
+DOCTOR E143
+And then again before you come in next time.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Fasting, so you don't have to do it now, you can do it in April but you need to do it fasting.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+@@@.
+
+PATIENT E143
+Even this time, so I should fast for this time?
+
+DOCTOR E143
+No so this time we could do it right now before you leave.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+Okay.  Next time you come see me, in five months.
+
+PATIENT E143
+Well you say we'll have a baseline and we'll be able to.
+
+
+DOCTOR E143
+Uh come with the colonoscopy record, come with this lipid panel.
+
+PATIENT E143
+Yeah.
+
+DOCTOR E143
+And the cholesterol panel and uh I will put a the desk – the vaccine is called the Zoster vac.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+You know what, when they call back in to do the Zoster vac, you could do the blood draw then if you want.
+
+PATIENT E143
+Yep, okay.
+
+DOCTOR E143
+Or you can do it today.
+
+PATIENT E143
+Okay, when would that?
+
+DOCTOR E143
+I think it should be in the next week.
+
+PATIENT E143
+Yeah okay.
+
+DOCTOR E143
+Okay.  
+
+PATIENT E143
+Uh, you know.  As long as I'm here I might as well have the blood drawn.
+
+DOCTOR E143
+Okay, that is fine.
+
+PATIENT E143
+I'll just stop on the way out so.  Okay, so I'll be sure I have the, why can't I think of that hospital?
+
+DOCTOR E143
+I don't know, the only one I know out there is the Copley.  They'll mail this stuff out to you, the medication uh.  You should be getting it in the mail and @@@.
+
+PATIENT E143
+I'm kinda figuring that will pretty much tie me over till you know.  I don't want to be in Florida and running out, that's the whole thinking.  Once you change your address to send it to you that's your new address and I got to change it back.
+
+DOCTOR E143
+Well the thing is yeah I don't want it, you know this medicine is for a limited time use so if you're using it five months down the road that's, we like to see is to use it for two or three months.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+And see how it does and then stop it.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+That's the idea.  We don't want you on this for a long time.
+
+PATIENT E143
+Alright.  That will work.
+
+DOCTOR E143
+Okay, alright.  We'll get you set up.  Get your blood drawn here.  So they'll call you when they're ready after that you will see the nurse who will get you set up for the vaccine.
+
+PATIENT E143
+Okay.
+
+DOCTOR E143
+@@@ on your way out just drop off the form and they'll do the packet.
+
+PATIENT E143
+But today I'm gonna @@@ what?
+
+DOCTOR E143
+Today you get the blood drawn and then the nurse will see you to schedule all that stuff.  Okay.
+
+PATIENT E143
+@@@.
+
+DOCTOR E143
+Just have a seat and they'll call you.
+
+PATIENT E143
+Okay, thanks a lot.
+
+(DOCTOR OUT:  69:41)
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235290
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,720 @@
+
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR E376
+Hello.
+
+PATIENT E376
+Hi, good to see you.
+
+DOCTOR E376
+Nice to see you, come on back here.  
+
+PATIENT E376
+How are you?
+
+DOCTOR E376
+Doing okay?
+
+PATIENT E376
+Okay, how are you?
+
+DOCTOR E376
+Good, yeah good to see you again.  @@@.
+
+PATIENT E376
+Yeah that's too long yeah.
+
+DOCTOR E376
+You doing fine on the @@@.
+
+PATIENT E376
+@@@.
+
+DOCTOR E376
+Oh great.
+
+PATIENT E376
+@@@.
+
+DOCTOR E376
+Why is that?  @@@.
+
+PATIENT E376
+Oh okay.
+
+DOCTOR E376
+Oh do you take his vitals?
+
+SECOND PERSON E376
+Oh no I watch them.
+
+DOCTOR E376
+Okay, okay.
+
+SECOND PERSON E376
+They gave us.  They were @@@ I think it was like in the @@@.
+
+DOCTOR E376
+Right, right.  Um tell me about the arm.
+
+PATIENT E376
+Well we got that, it's like static, @@@ from switching over in my arms but it seems like to me I feel like it bothers me here, it usually feels swollen to me, maybe I’m just imagining it.
+
+DOCTOR E376
+Okay.
+
+PATIENT E376
+But it seems like it’s swollen in here, but suddenly here is especially where it hurts me.
+
+DOCTOR E376
+Okay.  Does it come; do you get pain in your neck at all?  No.
+So it's just @@@ the arm.
+
+PATIENT E376
+But once I turn my head it'll go away.
+
+DOCTOR E376
+Oh I remember that from last time.
+
+PATIENT E376
+Remember.
+
+DOCTOR E376
+Yeah, yeah, yeah.  Uh.
+
+PATIENT E376
+And they cancelled my appointment and I've been trying to call them to see if they'd give me another appointment and they never return my calls.
+
+DOCTOR E376
+Appointment with who?
+
+PATIENT E376
+Well for my arms.
+
+DOCTOR E376
+With the physical therapist, is that what it was?
+
+PATIENT E376
+Right.
+
+DOCTOR E376
+I remember.  I do, I know it was something with your arm and now I remember you saying when you bend that way is what makes it better.
+
+PATIENT E376
+@@@.
+
+DOCTOR E376
+@@@ canceled. I don't know why.  Alright well we'll re-set it up.  I'm sorry; I don't know why that happens.
+
+PATIENT E376
+I called them twice and twice they never answered me.  Never gave me a return call.  Try to find out cause I thought maybe that's what you wanted to know.
+
+DOCTOR E376
+Yeah, that's the one thing.  What we do is uh help us decide where the um you know where the nerve is obstructed so.
+
+PATIENT E376
+Right.
+
+DOCTOR E376
+You're having and I think we talked about it last time, but you're having this sensation like electrical sensation down there.
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+Right and um you know we know that you have like problems with the back.
+
+PATIENT E376
+Right.
+
+DOCTOR E376
+But usually most of the time the problems that we know about are down here, not as much up here.
+
+PATIENT E376
+No right.
+
+DOCTOR E376
+Um and you know you're symptoms are limited, kind of like here to here.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+So I don't know exactly where the problem is, so I wanted to do that test to see and I'm not sure why.  Of course they don't give any information, it just says will reschedule.
+
+PATIENT E376
+I tried to explain it to them that I'm seeing you today.
+
+DOCTOR E376
+Right.
+
+PATIENT E376
+And I'm sure you want to know the results.
+
+DOCTOR E376
+Yeah.
+
+PATIENT E376
+I thought I was coming here for nothing you know.
+
+DOCTOR E376
+Right.
+
+PATIENT E376
+Then I couldn’t get the results.
+
+DOCTOR E376
+Oh yeah.  So you probably coming here for nothing but definitely it's not your fault.  I'm glad you tried um you know, just it's unfortunately sometimes the way the system works.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+And I don't know if they've ever a perfect way to fix it but I'll try to reschedule it again.
+
+PATIENT E376
+Okay.
+
+DOCTOR E376
+And we'll see if we can get you done um cause it's hard for me to know exactly what's the best way to treat it.  You know take this off, let me examine it again okay.  Otherwise things are good?
+
+PATIENT E376
+Yeah.  Just my back in the morning you know.  I get up and there's a lot of pain when I walk but after I walk for a while it'll go away.
+
+DOCTOR E376
+Once you're up yeah.
+
+PATIENT E376
+Do you want me to sit? @@@.
+
+DOCTOR E376
+No, no. That’s good. Okay so the pain is, it starts down here and shoots up right?
+
+PATIENT E376
+Down in here and then here.  Right here, for some reason it bothers me.
+
+DOCTOR E376
+That's what you were saying you feel like it can get a little swollen or so.
+
+PATIENT E376
+If feels that way yeah.
+
+DOCTOR E376
+Does it hurt when I push on it?
+
+PATIENT E376
+No it didn't, it does sometimes but.
+
+DOCTOR E376
+But not right now.
+
+PATIENT E376
+No I can feel it there.
+
+DOCTOR E376
+Okay.  Is it like tender?
+
+PATIENT E376
+No it's just, @@@. But just right in here is where it bothers me.  Right now it's not @@@ there.
+
+DOCTOR E376
+Right in there huh.
+
+PATIENT E376
+Right there.
+
+DOCTOR E376
+Now it's only this arm right, it's not the left arm.
+
+PATIENT E376
+No.
+
+DOCTOR E376
+It's not in your legs.
+
+PATIENT E376
+Just the one arm.  I fell down about three months ago and it didn't bother me and then all of a sudden about two or three weeks later is when all this started.  I don't know if that's what did it.
+
+DOCTOR E376
+How'd you fall?
+
+PATIENT E376
+I fell down two flights of stairs @@@.
+
+DOCTOR E376
+Wow how'd you do that?
+
+PATIENT E376
+I fell right on here.  I hit the wall you know with my arm but it didn't bother me.
+
+DOCTOR E376
+Was it hurting you before then?  Before you fell?
+
+PATIENT E376
+No.
+
+DOCTOR E376
+So after you fell was when that started?
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+Oh that's a new piece of information okay.
+
+PATIENT E376
+Right.
+
+DOCTOR E376
+So how did you, what made you fall?
+
+PATIENT E376
+Well I was coming out of the washroom and I have two steps coming out and down and one going up and I forgot about them steps and I you know, without knowing @@@.
+
+DOCTOR E376
+Okay.
+
+PATIENT E376
+I fell up against the wall.
+
+DOCTOR E376
+Okay.  So you kind of bumped that shoulder and that arm into the wall.
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+And since then is when you've been having the pain?
+
+PATIENT E376
+Well maybe a week after that.  It didn't bother me at so I didn't do nothing till it bothered me.
+
+DOCTOR E376
+Okay hmm, that's interesting.  Um I don't know that it helped me figure out what it is but it's interesting and that's probably something to do with that.  Um squeeze my fingers good.  Now pull me towards you good.  Push me away.  So I'm just checking you know for strength @@@ for the triceps, pushing with the triceps, squeezing to make sure that you have @@@.  Your strength is really good, it's the same on both sides and that's kind of the easiest way to tell.  You know you want to compare from side to side, especially since this arm isn’t bothering him.  Um okay and uh something that was going well @@@ making sure I wasn’t causing pain with pronation, supination, nothing we can do to make it worse when we do that huh.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+When I let you pull and then push that didn’t seem to make it worse?
+
+PATIENT E376
+No.
+
+DOCTOR E376
+Okay.
+
+PATIENT E376
+And usually when it starts is when I'm sitting @@@ like this here.  As soon as I take it off @@@ it'll go away.
+
+DOCTOR E376
+Right.
+
+PATIENT E376
+And if I leave my arm long enough it'll start, that'll start.
+
+DOCTOR E376
+No swelling?
+
+PATIENT E376
+@@@.
+
+DOCTOR E376
+No swelling in your face or neck or anything like that basically?
+
+PATIENT E376
+No.
+
+DOCTOR E376
+Okay.  Um no headaches?
+
+PATIENT E376
+No.
+
+DOCTOR E376
+Okay um when you turn the neck away, it gets better.
+
+PATIENT E376
+It is better.
+
+DOCTOR E376
+See one thing I’m thinking is is I don't know if you've gotten to this in gross anatomy is radial plexus. @@@ Radial plexus is basically a collection of nerves that comes down the spinal cord @@@ down the arm.  I'm gonna, this is for both of you @@@.  But basically the nerves will come out and they come down the arms and they go to different places um to your biceps, to your triceps to the muscles here to your hand and it's what allows you to move all this stuff as well as feel sensation there okay.  If when you fell, if you kind of pulled this area you can pull muscles there but you can also actually kind of strain the nerves in that area.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+And that can cause a problem um.  I don't know if that's part of what's going on.  Um it would maybe explain why when you move your neck you can get it in a position that it feels better.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+Um but again the best way would maybe be to do the needle test so that's you know um but this isn't getting any better on its own.
+
+PATIENT E376
+No.
+
+DOCTOR E376
+Is it getting worse or it's just the same?
+
+PATIENT E376
+Well it's the same but it bothers me at night you know.
+
+DOCTOR E376
+Yeah that's @@@.
+
+PATIENT E376
+And it wakes me up.
+
+DOCTOR E376
+Yeah um and you're taking Tylenol which is what you normally take right?
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+Does that help this pain at all?
+
+PATIENT E376
+Yes it does.
+
+DOCTOR E376
+Okay.  Alright well I guess if it helps.  Does it at least, does it make it more tolerable and help you sleep a little bit better?
+
+PATIENT E376
+Uh yeah if I take the Tylenol but I always take one before I go to bed.
+
+DOCTOR E376
+Right.
+
+PATIENT E376
+And I don't want to take another when I get up you know.
+
+DOCTOR E376
+So really you're only taking right now is the one before you go to bed?
+
+PATIENT E376
+I take two.
+
+DOCTOR E376
+Two before you go to bed.
+
+PATIENT E376
+In the morning on account of my back I'll take one and then one before I go to bed.
+
+DOCTOR E376
+Okay, okay.  Um I guess um if you think that that's working for now, I'd say we could stick with that until we get the test and see if that helps us figure it out.
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+The other thing we could do is we could either try a little bit more Tylenol, which would be okay, you're not taking that much.  We could even go up to.
+
+PATIENT E376
+@@@.
+
+DOCTOR E376
+We could give you three before you go to bed, would be okay, instead of those two pills if you want or we could even try some Tylenol with codeine if you thought you wanted to try that which would be a little bit stronger mixed with Tylenol with codeine which is kind of a lighter narcotic agent.
+
+PATIENT E376
+Okay.
+
+DOCTOR E376
+And maybe give you a little bit more pain relief until we have a better idea of what's going on.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+Would you want to try that?
+
+PATIENT E376
+Yes I'll try it.
+
+DOCTOR E376
+Okay.
+
+PATIENT E376
+I can.
+
+DOCTOR E376
+Okay, alright um but during the day you're able to do everything you need to do?
+
+PATIENT E376
+Yeah that's normal.
+
+DOCTOR E376
+Um okay.  But you don't feel weak or anything, it's really just the.
+
+PATIENT E376
+No.
+
+DOCTOR E376
+Pain okay.  How about um just, as far as sleeping, if you maybe are able to put the pillows a certain way to keep your head in that position would that help?
+
+PATIENT E376
+Hmm yeah if I sleep on this side it'll pull my head this way but @@@ I'm leaning on this.
+
+DOCTOR E376
+Okay.  So we've never really done an x-ray right?
+
+PATIENT E376
+No not of my arm @@@.
+
+SECOND PERSON E376
+@@@.
+
+DOCTOR E376
+Um and you have no pain in the shoulder here right?
+
+PATIENT E376
+No.
+
+DOCTOR E376
+So lift your arm, no pain doing that?
+
+PATIENT E376
+You know when it bothers me when I'm combing my hair or I'm shaving, that's when it really starts when I'm doing that yeah.  When I comb my hair or shave then it really starts.
+
+DOCTOR E376
+It does seem that one of the nerves that comes in here is being pinched somewhere, whether it's at the shoulder or somewhere at the bicep or in the neck, I'm not totally sure where.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+You know cause it seems like certain motions now.
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+Put your neck like this, put your arm up, something that is pushing it is pinching the nerve um.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+Um so imaging would help us figure out which nerve it is and then the next step would be what can we do about it so.
+
+PATIENT E376
+Okay.
+
+DOCTOR E376
+Um to be honest with you I don't know if there's gonna be a perfect answer for this.  I don't know, even once we get the results if I'm gonna be able to say okay now that I know, I know how to fix it.
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+And I might not be able to but at least it might give us an idea.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+So let me talk to DOCTOR.  Everything else is good.  We're good with refills and everything?
+
+PATIENT E376
+Well I need lisinopril.
+
+DOCTOR E376
+Okay.
+
+PATIENT E376
+The other ones I got for a couple more weeks.
+
+DOCTOR E376
+Whatever you need is okay.  I'll just have them mailed to you when it runs out?
+
+PATIENT E376
+Yes that's good.  I think I got enough for like ten days.  I don't know if they all have to be reordered anyway.
+
+DOCTOR E376
+I think I did all the others it looks like last time but we'll check and see if you need that one, okay they're refilled.  @@@ a 90 day supply.  Okay I'll be right back alright.
+
+PATIENT E376
+Okay.
+
+DOCTOR E376
+You can put your shirt back on.
+
+PATIENT E376
+Okay.
+
+(DOCTOR OUT:  41:56  DOCTOR IN:  45:37)
+
+DOCTOR E376
+Alright, so um DOCTOR and I were talking a little bit.  Um I think it makes sense to do it, so, the test, to do the test, you know cause we just have to find out what it is but kind of like I was saying I don't know for sure that we're gonna be able to fix it once we know.
+
+PATIENT E376
+Hmm.
+
+DOCTOR E376
+But my thought is I'd like to find out and then we can go from there.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+Um see if it helps.  Um instead of going up on the Tylenol he recommended trying a medicine at night that will maybe help a little bit with sleep but it also gives a neuropathic pain effect.  I other words it gives you pain relief with nerve pain and that's what we think this is.  We think this is an irritation of the nerve.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+Um and it gives some help with that so I probably instead of increasing do the Tylenol with codeine and we'll try that to see if it helps.
+
+PATIENT E376
+It's not going to interfere with aspirin is it?
+
+DOCTOR E376
+Nope doesn't interfere with the aspirin at all um.
+
+PATIENT E376
+So right now I take, sometimes I take @@@ pills when my back aches and then once I get up in the morning it hurts but after I walk for a while it'll go away excepting if I walk @@@.  Like when I go shopping.
+
+DOCTOR E376
+Uh-huh.
+
+PATIENT E376
+I get a burning sensation right here.
+
+DOCTOR E376
+Yeah and that's what.  When you lean over @@@ push the cart does that make it feel a little better, does that help?
+
+PATIENT E376
+I hang on to them yeah.
+
+DOCTOR E376
+Yeah and that's consistent with the spinal stenosis that we know you have.
+
+PATIENT E376
+And I can't stand in one place too long that's when it really burns.
+
+DOCTOR E376
+Right exactly and that's because when you're standing, around the spinal cord where the area is tight and then it really starts squeezing on that cord and it hurts, just like we're talking about the nerves up here.
+
+PATIENT E376
+Yeah.
+
+DOCTOR E376
+The same thing with the nerves going through your legs um and you know, there's not great options with these things unfortunately.  You know we can do surgery um but right.
+
+PATIENT E376
+If I could, you know when I walk, it's always the same it's just that you know when I can't tolerate the pain then we might have to do an operation on it but I can live with it.  I've had it for a long time so.
+
+DOCTOR E376
+Alright so we'll try this medicine desipramine it's called okay.  Uh we'll just start with a really small dose, the lowest dose.  Just take one time at night.
+
+PATIENT E376
+Okay.
+
+DOCTOR E376
+Take it with the Tylenol.  It might make you a little sleepy, so I would definitely start you know just taking it before you go to bed and see how it makes you feel.
+
+PATIENT E376
+I can take it with Tylenol?
+
+DOCTOR E376
+You can take it with the Tylenol.
+
+PATIENT E376
+And an aspirin?
+
+DOCTOR E376
+Uh-huh, no problem, definitely won't hurt with aspirin.
+
+PATIENT E376
+Cause I take one before I go to bed.
+
+DOCTOR E376
+Yeah that's perfect, you can take it together and um um and so it might make you a little sleepy.  Um it'll take a little while, a week or two probably before we would see any affect on the pain I think.  Because it takes a little time to build up in your system.
+
+PATIENT E376
+Uh-huh.
+
+DOCTOR E376
+Uh but we'll see if it has any affect on this pain especially at night okay.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+And we'll, you know it can be a little trial and error.  We'll see what works and what doesn't work.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+And then I put in for them to reschedule the test.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+Okay and I'll see you back in a couple months and we'll see how things are going.
+
+PATIENT E376
+Great.
+
+DOCTOR E376
+Alright.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+That's it.
+
+PATIENT E376
+Now I can report at the desk.
+
+DOCTOR E376
+No I'll do it all through the computer.
+
+PATIENT E376
+Okay.
+
+DOCTOR E376
+Okay.
+
+PATIENT E376
+Thank you very much.
+
+DOCTOR E376
+Good to see you.  Have a good holiday.
+
+PATIENT E376
+@@@ you too.  Nice seeing you.
+
+DOCTOR E376
+Good luck to you.
+
+SECOND PERSON E376
+Alright thank you.
+
+DOCTOR E376
+I'll have them just mail you this medicine so you don't have to worry about it.
+
+PATIENT E376
+Alright.
+
+DOCTOR E376
+Okay.  Sounds great.  @@@.
+
+PATIENT E376
+@@@.
+
+PATIENT LEAVES:  48:48
+
+Time is1:40.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255145
+TRANSACTION # 578-10-2-316-0103

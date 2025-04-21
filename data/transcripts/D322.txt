@@ -1,0 +1,795 @@
+Date of Encounter: @@/@@/@@   
+Time of Encounter:  @@@ 
+
+DOCTOR D322
+PATIENT?
+
+PATIENT D322
+Yes.
+
+DOCTOR D322
+Hi how are you today?
+
+PATIENT D322
+There you are.  @@@ Good doctor yes.  Hi.
+
+DOCTOR D322
+This way, have a seat I haven't seen you.  It's been a long time.
+
+PATIENT D322
+Yeah a long time geez.  I'm getting tired of waiting.
+
+DOCTOR D322
+Oh, @@@.  A lot of times we don't have a lot of openings.  We only have the clinic twice a month so.
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+Not very many.
+
+PATIENT D322
+Yeah and I'm coming back once a year so they have to keep adjusting the med and they take good care of me.
+
+DOCTOR D322
+Yeah, I saw that.  How you doing?
+
+PATIENT D322
+I'm okay.
+
+DOCTOR D322
+Yeah, how many times have you been to the Emergency Room?
+
+PATIENT D322
+Uh twice since the last time I saw you.
+
+DOCTOR D322
+Okay.  
+
+PATIENT D322
+@@@ more things since @@@ October.
+
+DOCTOR D322
+Two times in the last five months maybe.
+
+PATIENT D322
+Uh-huh.
+
+DOCTOR D322
+For exacerbations?
+
+PATIENT D322
+Yes.
+
+DOCTOR D322
+You've gotten worse.
+
+PATIENT D322
+Yeah.  Well I think it's got something to do with where I work.
+
+DOCTOR D322
+Okay, yeah.  I forgot what you said, um grinder.
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+United Standard Industry grinder, exposed to a lot of dust.
+
+PATIENT D322
+Dusts, chemicals.
+
+DOCTOR D322
+Yeah and uh.
+
+PATIENT D322
+People with a lot of cologne on and everything.
+
+DOCTOR D322
+Yeah.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+Let me look, it looks like you went to the ER in June and March and in June they did prednisone.  They gave you antibiotics @@@.  How do you think that went, did that help?
+
+PATIENT D322
+Worked good.
+
+DOCTOR D322
+Okay and how do you feel right now?
+
+PATIENT D322
+Uh, @@@ outside, I'm in air conditioning now so.  It's like 95 degrees @@@.
+
+DOCTOR D322
+The albuterol inhalers?
+
+PATIENT D322
+Yes. @@@.  At one point @@@.  But otherwise I'm doing good.
+
+DOCTOR D322
+Any coughs?
+
+PATIENT D322
+Yeah I get a cough.
+
+DOCTOR D322
+How bad?
+
+PATIENT D322
+Ah sometimes I wake up in the middle of the night coughing and I take the inhaler.
+
+DOCTOR D322
+Is it improved with the inhaler?
+
+PATIENT D322
+Yes.
+
+DOCTOR D322
+And in general how's your exercise tolerance, can you walk without getting short of breath?
+
+PATIENT D322
+Well yeah.
+
+DOCTOR D322
+About how far can you walk?
+
+PATIENT D322
+I don't know, I'm used to walk about a mile or two.  I need to walk to one end of the shop and the the other @@@ and back again @@@.
+
+DOCTOR D322
+So you can walk?
+
+PATIENT D322
+Yes.
+
+DOCTOR D322
+Pretty good.
+
+PATIENT D322
+Yes.
+
+DOCTOR D322
+You don't feel limited by your breathing?
+
+PATIENT D322
+No.  It depends on what I'm doing.  Like if I'm moving something heavy then, yeah moving something heavy.
+
+DOCTOR D322
+Okay and you're taking the Combivent?
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+The albuterol and the formoterol.
+
+PATIENT D322
+@@@ one, I discontinued one @@@.
+
+DOCTOR D322
+Oh.  @@@ refills. Do you need some. I’ll just refill that.
+
+PATIENT D322
+Um.  @@@.
+
+DOCTOR D322
+I want to make sure you have enough so that you don't have to keep calling, you now to get hold of me.
+
+PATIENT D322
+I have to come @@@.
+
+DOCTOR D322
+@@@.
+
+PATIENT D322
+Oh.
+
+DOCTOR D322
+You already had the formoterol they gave you a six months @@@.  And I just gave you refills for the other ones.
+
+PATIENT D322
+Oh okay.
+
+DOCTOR D322
+Anything else going on? any chest pains, fevers or chills?
+
+PATIENT D322
+No you know just the heat.  Break out in a cold sweat you now and hopefully by the time I get to work tomorrow @@@.
+
+DOCTOR D322
+I hear you, it's hot out.  Is it a hot day.
+
+PATIENT D322
+Oh yeah.
+
+DOCTOR D322
+I haven’t been outside @@@.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+Not since this morning.
+
+PATIENT D322
+My @@@ was 95.  @@@.
+
+DOCTOR D322
+Any trouble with weight loss or weight gain?
+
+PATIENT D322
+Uh you know I think I still stayed the same.
+
+DOCTOR D322
+So how's your appetite?
+
+PATIENT D322
+Uh you know the other day I don’t eat a lot @@@.
+
+DOCTOR D322
+But at night you eat a real meal?
+
+PATIENT D322
+Yeah late night @@@.
+
+DOCTOR D322
+Still smoking?
+
+PATIENT D322
+Yeah still working on it.
+
+DOCTOR D322
+Um.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+What do you want to do to quit?  How else can I help you?
+
+PATIENT D322
+Well I had the patches, but I still got some of those.  I use @@@.  I put one on @@@ I change it and tried it when I go to work @@@.  Mooching off me and @@@.
+
+DOCTOR D322
+Would you want to see the Smoking Cessation Clinic here?  Maybe they have.  I mean I can offer you patches and @@@ drugs but they may have some different method of um smoking cessation like using behavioral modification or.
+
+PATIENT D322
+No, I’m gonna try it on my own.
+
+DOCTOR D322
+Okay.
+
+PATIENT D322
+I'm not sure @@@.
+
+DOCTOR D322
+How much are you smoking?
+
+PATIENT D322
+Uh about maybe a half a pack a day now.  I've cut down.
+
+DOCTOR D322
+Okay.
+
+PATIENT D322
+One week, I had it down to like three cigarettes but then @@@.
+
+DOCTOR D322
+It's hard, I mean I've never smoked so I don't really know a lot about it but, from what I hear it's hard to @@@.
+
+PATIENT D322
+Since I was 13.
+
+DOCTOR D322
+Yeah but it would improve your lung function.
+
+PATIENT D322
+Uh-huh.
+
+DOCTOR D322
+You know your lung function will continue to deteriorate at a rapid rate if you keep smoking.  If you stop smoking it kind of goes back to the normal deteriorating rate, you know if you hadn't smoked so.
+
+PATIENT D322
+Now did you get my medical forms?  I brought in my uh medical stuff from my other doctor and she said she was going to give it to you.
+
+DOCTOR D322
+Let me look.  Nothing is in my mailbox right now, when did you bring it in?
+
+PATIENT D322
+Well last.
+
+DOCTOR D322
+Long time ago?
+
+PATIENT D322
+Yes.
+
+DOCTOR D322
+Okay.
+
+PATIENT D322
+The first time I went to the Emergency Room @@@ follow-up.
+
+DOCTOR D322
+And then you saw me.
+
+PATIENT D322
+No I saw somebody else, DOCTOR.
+
+DOCTOR D322
+Oh, between me and the.
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+Oh you saw DOCTOR.
+
+PATIENT D322
+No I didn't see a doctor, another girl but.
+
+DOCTOR D322
+Yeah the resident.
+
+PATIENT D322
+Then I came back one day I had an appointment with you but then it was cancelled so then I got in to see the nurse and I gave the nurse the forms @@@.
+
+DOCTOR D322
+Let me look for that.
+
+PATIENT D322
+Yeah if you could.  My doctor @@@ 50% @@@.
+
+DOCTOR D322
+Well we were going to repeat the PFTs but I don't think that's been done yet.  The order is in.  Oh, it’s active.  Let me see if I can find it.  Oh you didn't show up, maybe you didn't know.  When they set you up for an appointment on 03/11 at 2 o'clock but it says you didn't show up.
+
+PATIENT D322
+I didn't get anything.
+
+DOCTOR D322
+Here why don’t we redo the order.  We need to check your lung function.
+
+PATIENT D322
+This time I got one, I was going to be on vacation then and now I have to take off and I'm losing money @@@.
+
+DOCTOR D322
+Well, it doesn't take very long.  @@@ 15 minutes.  
+
+PATIENT D322
+@@@ day off @@@.
+
+DOCTOR D322
+Yeah.  Want to hold off for now?
+
+PATIENT D322
+Let's hold off for now and uh.
+
+DOCTOR D322
+If your symptoms start to change then we'll make more of an effort to.
+
+PATIENT D322
+Yeah, @@@.  I'd like to hang on until January when I have vacation time.
+
+DOCTOR D322
+Let me check your vitals.  Blood pressure is a little high; I just want to recheck it.  Looks like we checked some labs back in February. Blood work.It looks like your blood counts look good.  Your kidney function is good.  Your cholesterol looks good.  We want this number under 200 and @@@ under 160 and its 100 and this is your good cholesterol the HDL and yours is great.  That's like the best good cholesterol I've ever seen.  Well that's another thing we probably need to talk about um.  How much are you drinking?
+
+PATIENT D322
+Uh maybe four drinks a week.
+
+DOCTOR D322
+So last time you told me eight so that must be getting better.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+Okay.  Well maybe chest x-ray @@@.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+@@@.  Why did we do the CAT scan again?
+
+PATIENT D322
+Uh.
+
+DOCTOR D322
+Oh the weight loss.
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+Huh, right.  But they didn't see anything.  
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+Well they saw like some degenerative joint disease in the spine which happens as people get older.  You get a little bit of arthritis, just like you would get in you know your knees and spine.  So if that becomes a problem you have to let me know.
+
+PATIENT D322
+I get it once in a while, right in my lower back.
+
+DOCTOR D322
+Okay.  I think it was about here where they saw it.
+
+PATIENT D322
+I just get it once in a while.
+
+DOCTOR D322
+@@@ and the treatment for that would be taking something like Tylenol or ibuprofen.
+
+PATIENT D322
+Oh.
+
+DOCTOR D322
+Or Naproxen or something like that.  Uh, okay.  I'd forgotten about that.  So it looked okay.  Good.  The PFTs we'll need to do it later okay.  Okay, what else were we going to do?  Oh did you see Mental Health?
+
+PATIENT D322
+No I didn't.
+
+DOCTOR D322
+Do you feel depressed at all?
+
+PATIENT D322
+Just @@@.
+
+DOCTOR D322
+Okay so normal.
+
+PATIENT D322
+Yeah, just the normal feelings.
+
+DOCTOR D322
+No feelings of hurting yourself.
+
+PATIENT D322
+No.
+
+DOCTOR D322
+@@@.  
+
+PATIENT D322
+@@@.  
+
+DOCTOR D322
+I'm going to check a couple other things here while you're here.  They checked your prostate gland it looks fine.  They checked your thyroid and it looks good.  The cholesterol we talked about.  They checked your vitamin levels, sometimes when you drink beer you don't get the right vitamins.
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+That all looked good.  So far so good.
+
+PATIENT D322
+I’m going to live.
+
+DOCTOR D322
+Yeah, you just quit smoking though really, we talked about that so.
+
+PATIENT D322
+Yeah I know.
+
+DOCTOR D322
+Uh now a colonoscopy, what do you think about that?
+
+PATIENT D322
+No.
+
+DOCTOR D322
+So you're still thinking about it.
+
+PATIENT D322
+I'm still thinking about it.
+
+DOCTOR D322
+Okay.  Um everything else looks good.  Well, let me take a listen to you.  You don't drive after you drink or anything like that?
+
+PATIENT D322
+No I don't believe in that.  @@@.
+
+DOCTOR D322
+No.  You don't need it and neither does anyone else on the street.
+
+PATIENT D322
+Yeah I know, my twin brother got a warrant out for his arrest so he used my name and put @@@ under that and now, since he was here, he died here and he got the warrant out it's on me now too.
+
+DOCTOR D322
+Oh my goodness.
+
+PATIENT D322
+So whenever they look for my license plate, his name comes up and my name comes up and I get pulled over and I end up going back to the station and everything so.
+
+DOCTOR D322
+Oh my God.  Is this recent?
+
+PATIENT D322
+Uh nine years ago is when he died up here.
+
+DOCTOR D322
+Oh man.
+
+PATIENT D322
+And uh, he was a bad boy.
+
+DOCTOR D322
+Well he's your brother.
+
+PATIENT D322
+Yeah, messing around.  Ever since he got his Drivers License when he was 1.
+
+DOCTOR D322
+He was trouble.
+
+PATIENT D322
+@@@.  But every time he got, every time he got arrested.
+
+DOCTOR D322
+@@@.
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+@@@.
+
+PATIENT D322
+No.  I think he had a @@@ Vietnam. @@@  
+
+DOCTOR D322
+When people @@@ react @@@.  Can you see @@@
+
+PATIENT D322
+Yeah I can see something bright, like on a bright day, I @@@.
+
+DOCTOR D322
+Okay.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+That's really weird, I didn't notice that last time.  We always worry about people if they aren’t symmetrical @@@ their brain.
+
+PATIENT D322
+Right.
+
+DOCTOR D322
+It's a big problem, but if you've had it for a long time so.  You know.  Not to scare you, I am sure it is fine.
+
+PATIENT D322
+No it never bothered me.
+
+DOCTOR D322
+Take a deep breath, again.  Breathe normally.  Let's repeat your blood pressure.  All my patients in the hospital right have to have blood pressures.  I've been repeating them all day.
+
+PATIENT D322
+Uh-huh.
+
+DOCTOR D322
+Getting really good at it.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+Huh?
+
+PATIENT D322
+Wife's was 247/197.
+
+DOCTOR D322
+Oh my God at home?
+
+PATIENT D322
+No she's in the hospital.  She had an infection on her leg @@@.
+
+DOCTOR D322
+I had someone come into the clinic with a blood pressure like that.  @@@.  It's 120/90.
+
+PATIENT D322
+@@@.
+
+DOCTOR D322
+Yeah it could be the stress of parking and getting in here.  Okay.  I got to make sure we don’t need to treat you.  Otherwise you feel pretty good?  Your lungs sound good.
+
+PATIENT D322
+Yeah.  Doing good.
+
+DOCTOR D322
+Okay and no blood in the stool or anything?
+
+PATIENT D322
+No.
+
+DOCTOR D322
+So think about the colonoscopy.  I mean I can't force you but it's always a good idea to look.
+
+PATIENT D322
+Yeah I know, my boss was telling me that.
+
+DOCTOR D322
+Yeah, well early detection is nice because they pull the polyp out and it's gone so.
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+So yeah.
+
+PATIENT D322
+But um.  I was going to ask you, how bad, I mean the lowest blood pressure how low can it go?
+
+DOCTOR D322
+Well.
+
+PATIENT D322
+To where it's bad.
+
+DOCTOR D322
+For you you mean?
+
+PATIENT D322
+No my wife, she's been on medication.
+
+DOCTOR D322
+It's kind of dependent on symptoms uh for her, once you hit below like 90, the top number 90.
+
+PATIENT D322
+Uh-huh.
+
+DOCTOR D322
+Then you kind of have to start to worry that maybe the blood pressure medicine is too much and especially if she feels lightheaded when she stands up.
+
+PATIENT D322
+Uh-huh.
+
+DOCTOR D322
+Or feels like she's going to pass out, you know that kind of feeling then you have to worry if the blood pressure medicine is too much.
+
+PATIENT D322
+Okay.
+
+DOCTOR D322
+So.
+
+PATIENT D322
+I wish I could get her here @@@.
+
+DOCTOR D322
+And sometimes too if you, if you want, just kind of like that's what we do here in the hospital but if you take her blood pressure lying down.
+
+PATIENT D322
+Uh-huh.
+
+DOCTOR D322
+And then have her stand up and stand for like two minutes and then take her blood pressure standing up, those numbers should be almost the same.  If the blood pressure standing up is a lot lower like 20 points lower then she's probably on too much medicine okay.
+
+PATIENT D322
+Okay.  Thanks.
+
+DOCTOR D322
+So you could try that and at least  you’ll know.  So I'll be right back okay.
+
+PATIENT D322
+Alright.
+
+DOCTOR D322
+Five minutes.
+
+PATIENT D322
+Okay.
+
+DOCTOR D322
+I'm the only one here so.  Real quick.
+
+(DOCTOR OUT:  39:36  DOCTOR IN:  44:08)
+
+DOCTOR D322
+Okay, you're good, nothing new.
+
+PATIENT D322
+Alright.
+
+DOCTOR D322
+When do you think you should come back.  Do you want to try and do six months?
+
+PATIENT D322
+Yeah.
+
+DOCTOR D322
+Okay if something happens obviously.
+
+PATIENT D322
+Oh yeah.
+
+DOCTOR D322
+Come back sooner.
+
+PATIENT D322
+Yeah @@@.
+
+DOCTOR D322
+Or I mean, do you think you can handle waiting to see me or something just try and make an appointment sooner.  If you need to come to the ER, come to the ER.
+
+PATIENT D322
+Okay.  @@@.
+
+DOCTOR D322
+Okay.
+
+PATIENT D322
+The only time I do that is if I get really congested at night @@@ these things are working or the albuterol is running out.
+
+DOCTOR D322
+Yeah well if you run out call and I'll refill them.
+
+PATIENT D322
+Okay.
+
+DOCTOR D322
+Okay.
+
+PATIENT D322
+Alright.
+
+DOCTOR D322
+That's the easiest.
+
+PATIENT D322
+Alright I'll be doing it online.
+
+DOCTOR D322
+Okay, yeah do.  Renew but if they tell you you have no refills.
+
+PATIENT D322
+Uh-huh.
+
+DOCTOR D322
+Then you have to call and they will contact me to renew it.
+
+PATIENT D322
+Oh okay.
+
+DOCTOR D322
+So you should have enough for six months then.
+
+PATIENT D322
+Okay.
+
+DOCTOR D322
+Okay.
+
+PATIENT D322
+Alright great.
+
+DOCTOR D322
+Alright, there you go.  Nice job.
+
+PATIENT D322
+Okay.  Good to see you again.
+
+DOCTOR D322
+Alright, good to see you.  Enjoy the summer.
+
+PATIENT D322
+You too.
+
+DOCTOR D322
+Stay cool.
+
+PATIENT D322
+I'm trying.
+
+PATIENT LEAVES 45:13
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238117
+TRANSACTION # 578-10-2-316-0103

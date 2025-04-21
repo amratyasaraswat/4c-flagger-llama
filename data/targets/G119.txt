@@ -1,0 +1,73 @@
+Red Flag (353-373): "Some of them are out"
+
+Red Flag (480-519): "Your blood pressure's a little bit high"
+
+Red Flag (535-608): "That's because some of them are out. Some of my blood pressure medicines"
+
+Red Flag (849-881): "I haven't been poking my fingers"
+
+Factor   (896-986): "I know I'm feeling pretty good cause my vision's not blurry and I don't have any headaches"
+
+Red Flag (1113-1133): "Probably once a week"
+
+Red Flag (4460-4475): "I'm out of that"
+
+Red Flag (4515-4544): "That's the heartburn medicine"
+
+Red Flag (5001-5035): "Podiatrist, that's the foot doctor"
+
+Red Flag (5152-5176): "So you haven't seen them"
+
+Red Flag (5192-5194): "No"
+
+Probe    (5493-5525): "why was your blood pressure high"
+
+Red Flag (5506-5525): "blood pressure high"
+
+Red Flag (5556-5657): "I'll be honest, I won't lie, I been taking my medicine, the blood pressure probably every other night"
+
+Probe    (5672-5675): "Why"
+
+Factor   (5691-5724): "Because some nights I just forget"
+
+Probe    (5739-5749): "You forget"
+
+Factor   (5765-5957): "Yeah and I like taking it at night rather than getting up and taking it in the morning, you know since I @@@ well I got to take my medicines at night and then you fall asleep and don't take it"
+
+Factor   (6419-6526): "I could switch it around and take them all in the day. I want to be able to take them all at the same time"
+
+CarePlan (6541-6662): "Um let's see. I guess the only one, I mean you just want to make sure you don't forget and your blood pressure right now"
+
+Factor   (6987-7078): "It's working, it's just I got to get back on my, get on my horse and my schedule to take it"
+
+Factor   (7398-7535): "I remember about them telling me about the insulin that I was warned that it could pull, I been taking it and it would be too much for me"
+
+Factor   (7687-7763): "You were concerned if I would be taking the insulin bringing it down too low"
+
+Red Flag (7916-7970): "Alright I cut back on the insulin like every other day"
+
+Red Flag (8198-8238): "I went back to taking it every other day"
+
+Red Flag (8300-8315): "Every other day"
+
+CarePlan (8545-8759): "How about this, give me your phone number, we'll check today to see what your sugar has been in the last three months. If it's a lot worse then we'll go back to every day okay. So keep doing what you're doing now"
+
+CarePlan (8796-8846): "And then I'll call you and let you know what to do"
+
+Factor   (9408-9504): "Yeah but you know when it goes low you, I mean you'll know it. You know you'll feel weak, tired"
+
+Red Flag (9596-9625): "Are you going to pick them up"
+
+Red Flag (9641-9659): "No mail everything"
+
+Factor   (9662-9748): "I got to get to the cashier before 4 o'clock so I have child expenses to pay back home"
+
+Factor   (9783-9868): "Cause they don't stay open when you got 3 o'clock appointments, they close at 4 sharp"
+
+Red Flag (10553-10560): "aspirin"
+
+Red Flag (10576-10650): "I had been taking them but last night when I ran out I stopped taking them"
+
+Factor   (10710-10750): "I never thought I had any heart problems"
+
+CarePlan (10765-10849): "And you’re diabetic so it's kind of like having heart problems even though you don't"

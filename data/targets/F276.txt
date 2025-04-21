@@ -1,0 +1,39 @@
+Red Flag (2662-2739): "Um and they were thinking about possibly getting more Home Health Care things"
+
+Probe    (2810-2842): "What's the situation at home now"
+
+Factor   (2986-3147): "Helping him remember to take his medicine and all that but she is partially in a wheelchair. She can stand but it's mostly to get around,she’s in the wheelchair"
+
+Factor   (2986-3147): "Helping him remember to take his medicine and all that but she is partially in a wheelchair. She can stand but it's mostly to get around,she’s in the wheelchair"
+
+Factor   (4256-4377): "He has some days unfortunately when he has good days and sometimes he has days where he'll be like deer in the headlights"
+
+Factor   (4256-4377): "He has some days unfortunately when he has good days and sometimes he has days where he'll be like deer in the headlights"
+
+Factor   (4420-4463): "He doesn’t know who you are are or anything"
+
+Factor   (4420-4463): "He doesn’t know who you are are or anything"
+
+CarePlan (5099-5189): "So I'll ask DOCTOR what else is available other than you have a nurse already coming by um"
+
+Red Flag (6161-6209): "Would you like to see a doctor visit you at home"
+
+Red Flag (6225-6227): "No"
+
+Red Flag (6282-6308): "No, it's no, no, no please"
+
+Probe    (6442-6586): "Um then there's also what about the cooking and cleaning and stuff like that, there's homemaker services. I don't know if she talked about that"
+
+Red Flag (6819-6864): "No I don't want no doctors to come and see me"
+
+CarePlan (12926-13063): "Cause it's still psychiatry's stuff so. And then as far as home-based health care aid, they will contact you. I gave your number to her"
+
+CarePlan (13137-13191): "No I gave your number to her and they will contact you"
+
+Red Flag (14442-14475): "Actually, do you want a homemaker"
+
+Red Flag (14538-14556): "No, no, no, no, no"
+
+Factor   (14597-14619): "No issue with my house"
+
+Red Flag (18447-18474): "This one I'm completely out"

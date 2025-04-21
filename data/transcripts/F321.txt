@@ -1,0 +1,1267 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@
+
+DOCTOR F321
+PATIENT?
+
+PATIENT F321
+Hmm.
+
+DOCTOR F321
+How you doing?
+
+PATIENT F321
+Good to see you.
+
+DOCTOR F321
+You too, how are you?
+
+PATIENT F321
+I'm fine and yourself?
+
+DOCTOR F321
+I'm alright.  Alright, so how have things been since I saw you last?
+
+PATIENT F321
+Oh, sucky.
+
+DOCTOR F321
+What's wrong?
+
+PATIENT F321
+Can't seem to get my blood down.
+
+DOCTOR F321
+Alright so how high have you been?
+
+PATIENT F321
+It's been uh, I think well I'm averaging lately about 244.
+
+DOCTOR F321
+Okay.  You're taking metformin??
+
+PATIENT F321
+Twice a day.
+
+DOCTOR F321
+1000 mg twice a day.
+
+PATIENT F321
+Yep.
+
+DOCTOR F321
+Okay.  And you're checking once a day now?
+
+PATIENT F321
+Uh yeah.  I'm going usually about uh once a day when I'm up in the 240+ range.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+And every other day when I'm closer to 2.
+
+DOCTOR F321
+Okay.  Now this seems uh you know, we don't have a hemoglobin A1c on you in a while.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+But um this seems higher than it was before.
+
+PATIENT F321
+Yeah but I got a lot of stress going on.
+
+DOCTOR F321
+A lot of stress.
+
+PATIENT F321
+A lot of stress.
+
+DOCTOR F321
+Okay.  Um are you eating differently?
+
+PATIENT F321
+Everything I can.
+
+DOCTOR F321
+You're eating a lot?
+
+PATIENT F321
+Well I'm eating small amounts throughout the day.
+
+DOCTOR F321
+Okay, like what kind of foods are we talking about here?
+
+PATIENT F321
+Uh what kind of foods.  Uh oatmeal in the morning.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Um no milk or sugar.  Um then a sandwich in the afternoon and then probably a larger meal around 4 o'clock and then a snack of some sort in the evening about 8 o'clock.
+
+DOCTOR F321
+Okay.  Are these things that have a lot of sugar in them, like cookies?
+
+PATIENT F321
+Of course.
+
+DOCTOR F321
+Okay and this is eating out of stress or what's going on?
+
+PATIENT F321
+Nervous eating I think.
+
+DOCTOR F321
+Nerves okay.
+
+PATIENT F321
+See I work out of my home so I have access to the refrigerator downstairs.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+That's a problem.  It was better when I was exercising, I mean when I was walking which I haven't been doing and I probably in all fairness will not do it as long as it's winter.
+
+DOCTOR F321
+Do you have any way to exercise in your home or do you belong to the gym?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Cause you've also gained some weight since the last time you were here.
+
+PATIENT F321
+Yeah I think I've gained a couple pounds.
+
+DOCTOR F321
+Yeah.
+
+PATIENT F321
+And I feel it.
+
+DOCTOR F321
+Alright so we've got to get you on a different trajectory here.  Right now we're going in the wrong direction.
+
+PATIENT F321
+I am on a downhill slope.
+
+DOCTOR F321
+Yeah.
+
+PATIENT F321
+And I feel it.
+
+DOCTOR F321
+So the stress, what are you doing to deal with the stress other than eating?
+
+PATIENT F321
+Oh not a thing.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+You know, I sleep about six hours a night and uh then I just get up and start doing what I got to do.
+
+DOCTOR F321
+Uh-huh, okay.  So walking, exercising does that help you feel better?
+
+PATIENT F321
+Evidently it does.
+
+DOCTOR F321
+Yeah.  Yeah.
+
+PATIENT F321
+But.
+
+DOCTOR F321
+But you're not doing that.
+
+PATIENT F321
+I'm not doing that.
+
+DOCTOR F321
+Okay.  Alright cause that you know, that's one of the best ways, everything is going to be interrelated for you.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+So.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+If you can exercise well first of all you'll just feel better, your blood sugars will be better.  
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+You'll feel better overall and it helps a lot of people deal with stress to exercise like that.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Sorry, I have post-nasal drip.  Every time I start talking I start coughing alright but in the meantime, I mean we'll check your hemoglobin A1c again today and see what your average blood sugars have been for the last three months.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Um and um but we should make some changes to your medications to manage your blood sugars in the meantime okay.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+And what can you do to change your eating?  Would you like to see the nutritionist?
+
+PATIENT F321
+I've seen the nutritionist.
+
+DOCTOR F321
+So you know what's in your food.
+
+PATIENT F321
+I do yeah.
+
+DOCTOR F321
+You look at nutrition labels?
+
+PATIENT F321
+Uh no I don't you know. Um I'm the type of person who will make a bowl of spaghetti and eats the leftovers the next day, whatever is left in the frig.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+I'll eat while I'm working.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+So.
+
+DOCTOR F321
+Can we change that?
+
+PATIENT F321
+Change that?  We can do anything.
+
+DOCTOR F321
+Right.  I mean what I would do is try to I mean you can do something like keeping a log of what you're eating.
+
+PATIENT F321
+On my intake?
+
+DOCTOR F321
+Yeah just to make yourself a little more cognizant of what you're eating.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+And if you're holding yourself accountable in that way some people find it's easier to say well maybe I don't really need these cookies considering I've already eaten some spaghetti and some you know had some juice and whatever else.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+Um today so you know and then you'll see the correlation between days where eating more sugar with your blood sugars getting worse.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+So that's, that's maybe one idea we can use to, to eat a little bit less hopefully um.
+
+PATIENT F321
+And exercise more.
+
+DOCTOR F321
+Yes
+
+PATIENT F321
+See these are things I know I'm supposed to be doing.
+
+DOCTOR F321
+Yeah I know, maybe reminding you of all of these things.  I'm going to get this page, give me one moment.
+
+PATIENT F321
+Alright, alright.
+
+DOCTOR F321
+(Doctor answers page)  Um otherwise any problems like fevers, chills, nausea, vomiting, diarrhea, constipation?
+
+PATIENT F321
+Hmm, um I've had an upset stomach for a while.
+
+DOCTOR F321
+How long? Like months? Years?
+
+PATIENT F321
+Ah a couple weeks.
+
+DOCTOR F321
+Weeks okay.
+
+PATIENT F321
+Couple.
+
+DOCTOR F321
+Uh and what do you mean by upset stomach?
+
+PATIENT F321
+Oh just a little uh, maybe it's more like a nervous stomach you know.
+
+DOCTOR F321
+Okay like what do you feel or what happens?  Is it um feeling like heartburn, indigestion?
+
+PATIENT F321
+Well yeah.
+
+DOCTOR F321
+Yeah.
+
+PATIENT F321
+More like a heartburn, an acid reflux or something yeah.
+
+DOCTOR F321
+Is it worse at night when you lay down?
+
+PATIENT F321
+No, no.
+
+DOCTOR F321
+What times do you?
+
+PATIENT F321
+Usually about midday.
+
+DOCTOR F321
+Okay.  Okay and have you tried anything for that?
+
+PATIENT F321
+Um I may have a sandwich and a glass of milk.
+
+DOCTOR F321
+Okay.  So are you eating to try and uh.
+
+PATIENT F321
+Sometimes yeah.
+
+DOCTOR F321
+Alleviate some of the discomfort in your stomach okay.  Alright.  Well we kind of, I think it sounds like maybe you've got some acid reflux.  It can go on with stress, that's another thing that can go along with stress.  So we kind of have two options for treating that or to see if they help you.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+And the first one would be to take something as needed like Tums or something like that.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+Have you tried that at all?
+
+PATIENT F321
+Well sometimes that helps.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+And I haven't, it hasn't gotten to the point where I need Tums.
+
+DOCTOR F321
+Okay, but you eat instead.
+
+PATIENT F321
+Yeah, I would rather have a sandwich than a Tums.
+
+DOCTOR F321
+Alright maybe what we could do instead is try um something that you take every day.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+It takes a few weeks to build up in your system and then um and it'll work on suppressing the amount of acid in your stomach, decreasing the amount of irritation you have in your stomach and your esophagus.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+And then hopefully things will get, you know it'll prevent that feeling from coming on at all.
+
+PATIENT F321
+Actually coming here motivates me.  
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Not so much seeing you, although I enjoy seeing you.  It's because I see the other veterans and their condition and I don't want to get to that point.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Okay, so that's kind of a motivating factor.
+
+DOCTOR F321
+Yep and it's, that's just fine.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+That's you know.
+
+PATIENT F321
+So.
+
+DOCTOR F321
+I want this, the goal in this clinic is to help you take care of yourself and prevent you from developing a lot of complications.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+That happens to a lot of these vets okay.  Alright now this, do you ever get pain in your stomach.
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Or is it like a nausea feeling that you get or?
+
+PATIENT F321
+It's more of a heartburn.
+
+DOCTOR F321
+Heartburn okay.  Cause if you ever develop pain in your stomach.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+That's relieved by eating.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+That's something we should talk about cause that can be a sign of an ulcer.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Alright and uh if you have an ulcer we should have you see a gastroenterologist and get that addressed okay.  Now last time you were here or back in February.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+We checked your cholesterol levels and they were kind of borderline.  For someone with diabetes they were you know we have a really strict idea of what we want your cholesterol level to be.  Yours were like at the borderline and we didn't feel like we needed to start a medication for them.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Then because um you were doing a good job as far as your diet and exercise.  Now I would anticipate that these are going to be worse if we were to check them again today.
+
+PATIENT F321
+Yeah what was my cholesterol?
+
+DOCTOR F321
+Last time you were here your total cholesterol was 142.  The most important number that we look at is your bad cholesterol, your LDL which was 82.
+
+PATIENT F321
+Oh.
+
+DOCTOR F321
+Now for your average person that would be a great number but for a diabetic we want them to be under 70.  We want to see 70 or less.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Alright. 
+
+PATIENT F321
+So would think that my LDL would be higher than 82.
+
+DOCTOR F321
+Uh-huh.  Based on what you're telling me about your diet and not exercising both of them really help it.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+So I think we should check it again.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+If they are significantly higher I think we should start a medication to treat your cholesterol and bring it down.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Um once we get a handle on everything else.
+
+PATIENT F321
+Fine.
+
+DOCTOR F321
+Okay now have you eaten yet today?
+
+PATIENT F321
+I have.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+I had a bowl of oatmeal.
+
+DOCTOR F321
+Would it be possible for you to come back another time on an empty stomach and get blood drawn?
+
+PATIENT F321
+Uh well I can always come back.
+
+DOCTOR F321
+Uh-huh.  Okay cause we have to do these labs the first thing in the morning, have you fast for 12 hours.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+And then get the blood drawn.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Um and what else.  I think that's pretty much all you're due for.  Your blood pressure looks great today.  Um you saw the ophthalmologist, they didn't see any problems.
+
+PATIENT F321
+I see him again today.
+
+DOCTOR F321
+Okay good, good um.  No signs of kidney problems related to the diabetes.
+
+PATIENT F321
+No.
+
+DOCTOR F321
+And you've been seeing the podiatrist.
+
+PATIENT F321
+Now remember I had the kidney stone removed in January.
+
+DOCTOR F321
+Are you still seeing a urologist?
+
+PATIENT F321
+Um no but I am on a medication um and I brought the bottle but I forgot to bring it up.
+
+DOCTOR F321
+Oh okay.
+
+PATIENT F321
+Yeah.
+
+DOCTOR F321
+Um cause right now all I have as far as the medications that you're taking is the metformin and then we're ordering your test strips through here.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+And you're on something for your prostate?
+
+PATIENT F321
+Uh with the doctor that I was seeing yeah.
+
+DOCTOR F321
+Okay so you're not seeing him anymore?
+
+PATIENT F321
+No I'm not scheduled till later in the year.
+
+DOCTOR F321
+Oh okay.  Is it like something to shrink your prostate cause yours was enlarged?
+
+PATIENT F321
+Yes he thought it was larger than normal.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+And I just told him I just had a large prostate.
+
+DOCTOR F321
+But you did, okay.  Um is it like Flomax or?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Um uh, I forget the brand names um like finasteride.
+
+PATIENT F321
+No, starts with an O I think.
+
+DOCTOR F321
+Starts with an O?  Hmm.
+
+PATIENT F321
+Well.
+
+DOCTOR F321
+Your PSA, I know we talked about this before.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+Your PSA was high when we took it here.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+And you said it's been high in the past.
+
+PATIENT F321
+Yes.
+
+DOCTOR F321
+Have you ever had a biopsy of your prostate?
+
+PATIENT F321
+I have, I did not like it.
+
+DOCTOR F321
+Yeah.  Alright so can we get, I really like to get reports from your urologist of whatever they found.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Or whatever evidence they have that this is you know that there's no prostate cancer cause that's what the elevated PSA is suggestive of.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+@@@.
+
+PATIENT F321
+They don't think I ever had @@@.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+So that I don't have to uh have problems down the road.
+
+DOCTOR F321
+Right um so that, if they could just send us whatever like biopsy results they have or anything, just so we can have it on our record and we can stop asking you about it.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Um I can give you our fax number here and they can go ahead and fax it to me.  That way you don't have to @@@.
+
+PATIENT F321
+Well actually the only person I explain this to is you so.
+
+DOCTOR F321
+Alright then it'll make me feel better.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+Um okay so our fax number here is @@@-@@@-@@@@.  So why don't you have a seat up here.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Take a deep breath for me.  Okay open your mouth ah.  No chest pain ever or shortness of breath?
+
+PATIENT F321
+Oh the shortness of breath?
+
+DOCTOR F321
+Yeah.
+
+PATIENT F321
+Yeah.
+
+DOCTOR F321
+When does that happen?
+
+PATIENT F321
+Oh I think if I bend over too long.
+
+DOCTOR F321
+Okay.  Um does it happen like when you're walking?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Climbing a flight of stairs?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Lying down?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Just when you bend over?
+
+PATIENT F321
+Yeah.
+
+DOCTOR F321
+Okay just when you stand back up?
+
+PATIENT F321
+It may just be like my diaphragm it's possible.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+@@@.
+
+DOCTOR F321
+Alright take a deep breath in and out.  Any pain in your belly here?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+When I push?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Okay.  You get any swelling in your legs ever?
+
+PATIENT F321
+No um oh yeah sometimes I have socks that are tight around the.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Top and they leave a mark and it goes away.
+
+DOCTOR F321
+It looks like you might have a little bit of swelling in your legs.
+
+PATIENT F321
+Well you know, as I told you previously and you probably don't recall it is I do have traces of gout.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Sometimes it comes and goes or I really don't know what gout is but when it becomes inflamed I can tell a couple days before it starts.
+
+DOCTOR F321
+And where do you get that?  What joints?
+
+PATIENT F321
+Uh either the knee.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Or the ankle.
+
+DOCTOR F321
+Okay.  So you've never been given any medications for.
+
+PATIENT F321
+No.
+
+DOCTOR F321
+To prevent it from happening.  Do you get medication when you have a flare?
+
+PATIENT F321
+Uh no.  I'll take uh Tylenol.
+
+DOCTOR F321
+Okay and how long does it take for it to go way usually?
+
+PATIENT F321
+When I feel an onset?
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Uh I start taking Tylenol two tablets three times a day.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+And it'll prevent it from getting becoming a problem.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+And it'll be around for three days and then it'll stop.
+
+DOCTOR F321
+Okay.  Do they get real red and inflamed?
+
+PATIENT F321
+No I can just feel it.  I can feel it's tender sometimes.
+
+DOCTOR F321
+Okay you can come back and have a seat.  Alright so we have.
+
+PATIENT F321
+But I believe that's my diet also.
+
+DOCTOR F321
+Okay, eating a lot of red meat and things like that?
+
+PATIENT F321
+Cause I think it's.
+
+DOCTOR F321
+Does red meat trigger it or alcohol?
+
+PATIENT F321
+It's probably more of alcohol.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Because I really do not drink a lot but when I do because it's hot and you know or there's some sort of event, it'll come down the road a few days later.
+
+DOCTOR F321
+You're not a smoker are you?
+
+PATIENT F321
+No.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+Not any longer.
+
+DOCTOR F321
+How long ago did you quit?
+
+PATIENT F321
+Uh about 28 years ago, thirty years, 25, somewhere around there.  You know some people just know the date and time.  I just noticed I wasn't smoking so.
+
+DOCTOR F321
+Okay.  Alright I'm going to step out for one minute I'll be right back.
+
+PATIENT F321
+Okay.
+
+(DOCTOR OUT:  47:43  DOCTOR IN:  61:54)
+
+DOCTOR F321
+Enjoying the view?
+
+PATIENT F321
+@@@ window.
+
+DOCTOR F321
+Alright so what we're going to do.  I think we can wait on getting your uh cholesterol checked for the time being.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Um but I would like to check your hemoglobin A1c and your kidney function and stuff today.  So if you can stay and get some labs today we'll take care of that.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+Um and we can add another medication for your diabetes to try and get that under control.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+Um you know in dealing with whatever this stress is that you have in your life is going to be key.  It's going to be key in controlling your blood sugar.
+
+PATIENT F321
+Exactly.
+
+DOCTOR F321
+Your weight and everything.  Is there anything that you can do about that?  I mean you said you're working from home.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+Um and is it just trying to get the work done or is it dealing with colleagues or?
+
+PATIENT F321
+No I have um; I deal in the foreclosure market.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Um you know doing short sales and helping businesses and homeowners uh keep their businesses going.
+
+DOCTOR F321
+Yeah.
+
+PATIENT F321
+So um it's a financial stress.
+
+DOCTOR F321
+Yeah.
+
+PATIENT F321
+You know we're not always successful.
+
+DOCTOR F321
+Right.
+
+PATIENT F321
+So.
+
+DOCTOR F321
+Okay.  Um.
+
+PATIENT F321
+It's just the nature of the job.
+
+DOCTOR F321
+Yeah.  Is there a lot of anxiety that you're feeling related to it?
+
+PATIENT F321
+No I think it's more a frustration.
+
+DOCTOR F321
+Okay.
+
+PATIENT F321
+Yeah.
+
+DOCTOR F321
+Alright.  Alright, do you think talking with someone would help you deal with it?
+
+PATIENT F321
+No because uh I've been doing this for a long time.  I pretty much uh understand that you know there's a lot items out of my control.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+So.
+
+DOCTOR F321
+Alright.  But it's still affecting your.
+
+PATIENT F321
+Well it affects me because its, you know I'm still dealing with people and you know what's going on in their lives.
+
+DOCTOR F321
+Right, right, right.
+
+PATIENT F321
+So.
+
+DOCTOR F321
+Hmm.
+
+PATIENT F321
+I was listening to the radio coming in and uh they said that the poverty levels in the suburbs have gone up.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+And um you know Naperville, the poverty has gone up in the suburbs 70%, in Charles 120%, Romeoville where I live is 500%.  
+
+DOCTOR F321
+Wow.
+
+PATIENT F321
+So there's a lot of it going on and you know I'm trying to help people keep their houses.
+
+DOCTOR F321
+@@@.
+
+PATIENT F321
+Or move on to the next.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Situation.
+
+DOCTOR F321
+Uh-huh.  As cleanly as possible.
+
+PATIENT F321
+That's just you know the price of business.
+
+DOCTOR F321
+Yeah.
+
+PATIENT F321
+If I didn't care I wouldn't have the stress.
+
+DOCTOR F321
+Yes.  Yeah but I don't want this to have such a large negative impact on your health.
+
+PATIENT F321
+Well I just think it's, I just think as the economy gets worse, which it will continue to do, there's just going to be more of it.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Fortunately I can only do so much.
+
+DOCTOR F321
+Right.
+
+PATIENT F321
+So.
+
+DOCTOR F321
+Alright well I don't want this to keep you.
+
+PATIENT F321
+No.  I'll just go home and drink.
+
+DOCTOR F321
+That's really true but this can be just as bad like when we talk about you, you see some of the veterans here who.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+Yeah and so it's, we don't want what's happening now affect you much further down the road.
+
+PATIENT F321
+Right.
+
+DOCTOR F321
+Alright cause.
+
+PATIENT F321
+But if you give you an assignment, which you have, of monitoring my intake.
+
+DOCTOR F321
+Uh-huh.
+
+PATIENT F321
+Uh I'll do that.
+
+DOCTOR F321
+Okay, alright and we'll see how it goes and we're going to start this new medication.  Do you want to pick it up at the Pharmacy or have them mailed to you?
+
+PATIENT F321
+Oh just have it mailed to me.
+
+DOCTOR F321
+Okay.  So.
+
+PATIENT F321
+What is it?
+
+DOCTOR F321
+Um glipizide is the name of it.  It's another oral medication that is going to work in a slightly different way.
+
+PATIENT F321
+Is it in replace of or in addition to?
+
+DOCTOR F321
+No in addition to.
+
+PATIENT F321
+Okay are there any side effects?
+
+DOCTOR F321
+Well the one thing that can.
+
+PATIENT F321
+Will it make me sexy or something?
+
+DOCTOR F321
+It can make your blood sugar drop low.  Unlike metformin, it's very rare with metformin to have a low blood sugar because it works in a different way but this medication is going to increase your own secretion of insulin and so sometimes the side effect can be low blood sugars.  We're starting you on a dose that probably won't have that affect given what your blood sugars are.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+But I would like to um you know, I'd like you to keep checking just like you are.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+And every once in a while.  Are these mostly fasting blood sugars in the morning that you're checking or are they during the day?
+
+PATIENT F321
+Usually in the morning.
+
+DOCTOR F321
+Yeah so let's try checking maybe one day a week check a blood sugar before dinnertime.
+
+PATIENT F321
+Okay.
+
+DOCTOR F321
+And see where things are there, at that time of day, so we know what your fluctuation is okay.  And today we'll do, we'll just check a couple labs.  Um and give us a call, maybe in a month and if you can give us a call and just tell us how your blood sugars are doing.
+
+PATIENT F321
+Alright.  Who do I call?
+
+DOCTOR F321
+I have a number here.  Um you can call, I'll have you call the nursing like hot line and then they'll send the message along to me.  So the phone number is @@@-@@@-@@@@.  Oh and the last thing I wanted to do, just for your stomach in the meantime.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+Is give you that medication we were talking about, it's called omeprazole and I'll have you take it for a month.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+And then you can stop.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+It will work to decrease the acid secretion in your stomach.  Hopefully you won't be eating to try and you know.
+
+PATIENT F321
+Help me give it up.
+
+DOCTOR F321
+Yeah I mean what you're trying to do is neutralize that acid.
+
+PATIENT F321
+Uh-huh.
+
+DOCTOR F321
+And create a barrier to protect your stomach.  That's why, especially milk, things like that are counteracting the acid so, so do it for a month and see if that helps.
+
+PATIENT F321
+Okay.  That's not something I would have to stay on?
+
+DOCTOR F321
+No.  Hopefully after a month it gives your stomach some time to heal.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+And then most people are able to stop.  If it does persist then that's a sign that something a little bit more worrisome is going on and we'll have you checked out by the gastroenterologist okay.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+Alright so.  I want you to come back and see me in three months.  We'll get the hemoglobin A1c.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+And check the electrolytes today.  Um and have you give us a call in about a month and let me know how your blood sugars are doing.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+And if you're getting low blood sugars give a call too.
+
+PATIENT F321
+And where do I go again for the?
+
+DOCTOR F321
+We'll see if they can get you in out here.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+You know it looks like she's not here, so we'll have you go down to the Lab to have your labs drawn.
+
+PATIENT F321
+Alright
+
+DOCTOR F321
+Alright so I'll give you this and you can turn that in at the front and you'll head down to the first floor for blood work.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+Okay.  I won't shake your hand.
+
+PATIENT F321
+Alright.
+
+DOCTOR F321
+I'll give you a call if there are any problems with the labs.
+
+PATIENT F321
+Okay.  Thank you.
+
+PATIENT LEAVES:  69:57
+
+Time is 10:15
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238133
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,794 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR D030
+Good to see you.
+
+PATIENT D030
+Isn't that cool?
+
+DOCTOR D030
+Are they @@@ you?  Okay.  How are things going?
+
+PATIENT D030
+Uh pretty good, pretty good.
+
+DOCTOR D030
+Okay um so you're that heart test that you did was normal.  The one where they, it was done at the end of January.
+
+PATIENT D030
+The echogram?
+
+DOCTOR D030
+Yeah.
+
+PATIENT D030
+That echogram.
+
+DOCTOR D030
+Yeah.
+
+PATIENT D030
+Yeah @@@ wanted to ask you @@@ his heart.
+
+DOCTOR D030
+Yeah.
+
+PATIENT D030
+So I got a pretty good heart and you know that's, you know I have a good heart @@@ muscle.
+
+DOCTOR D030
+Yeah.
+
+PATIENT D030
+Gets the blood everywhere.
+
+DOCTOR D030
+@@@ sure.  Any problems since I last saw you?
+
+PATIENT D030
+Uh no not really.  You know but one thing I'm really concerned about and @@@ I take my blood pressure at home occasionally.
+
+DOCTOR D030
+Uh-huh.
+
+PATIENT D030
+And sometime my heart race, it's up to like 52, is that kind of too low or?
+
+DOCTOR D030
+Well if you have any symptoms from it?  In terms of do you feel lightheaded at all?
+
+PATIENT D030
+No, no, I don't think so.
+
+DOCTOR D030
+Okay.  Um any.
+
+PATIENT D030
+But you know, I know you can look at my records uh in February I spent a couple of days in the hospital here because I did pass out.
+
+DOCTOR D030
+Right yeah.
+
+PATIENT D030
+But I think they agreed with me like I just got overheated.  I told them I got real hot and I just stopped and sat down and the next thing I know they were putting cold @@@ somebody and uh they said I was out for maybe a minute, not even a minute, you know just half a minute so.
+
+DOCTOR D030
+Yeah there's lots of reasons why you can um be, why you can pass out.  Sometimes it's you're heart but it's not always.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+So I would say, you know there was one time you were here when it was reported in the 50s but it looks like you're consistently you know in the 60s or 70s which is actually good.  It means the medication's working.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+That's what we want it to do , because the atenolol, that medication you're on protects your heart a little bit.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+So um.
+
+PATIENT D030
+Well I'm like on a half a tablet only right now.
+
+DOCTOR D030
+I know yeah and you're on a small dose, that's right.
+
+PATIENT D030
+Yeah right.
+
+DOCTOR D030
+So I would say just continue.  You know if it were to recur again then we'll look at and when it does happen.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+If at that time your heart rate is low then we would consider stopping it but I think.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+When it happens your heart rate wasn't that low so it means that it wasn't that low, so just continue it.
+
+PATIENT D030
+Okay, that's good, that's really good.
+
+DOCTOR D030
+@@@.  Um so the other thing I'm going to send you vitamin D pills.
+
+PATIENT D030
+Oh yeah, I was supposed to have that a long time but you know I just bought some and so I taking them, I think @@@ 800 units. 
+
+DOCTOR D030
+Oh you do.
+
+PATIENT D030
+Something like that.
+
+DOCTOR D030
+Okay.
+
+PATIENT D030
+@@@.
+
+DOCTOR D030
+Is it cheaper for you to buy them?
+
+PATIENT D030
+Yeah, oh yeah, yeah.
+
+DOCTOR D030
+Okay, okay.
+
+PATIENT D030
+I get 400 in a bottle @@@.
+
+DOCTOR D030
+Okay so what I want you to do is um stop, I'm going to send these other, these concentrated pills uh just cause your level was borderline low so to get your numbers back into the normal range.
+
+PATIENT D030
+Oh okay.
+
+DOCTOR D030
+And then we'll and then you could, so don't throw those pills that you have away.
+
+PATIENT D030
+Alright.
+
+DOCTOR D030
+But I'll these send you these and you just take it once a week.
+
+PATIENT D030
+Oh okay.
+
+DOCTOR D030
+For 12 weeks.
+
+PATIENT D030
+Don't take it with the other ones.
+
+DOCTOR D030
+Right just hold, put those aside for three months.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+And then once you're done taking these once a week for 12 weeks.
+
+PATIENT D030
+Oh okay.
+
+DOCTOR D030
+Then start taking those.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+Okay and it should, you know now that's it's sunny outside that'll help your Vitamin D.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+Help you.  I think all people who live in Chicago are Vitamin D deficient.
+
+PATIENT D030
+Yeah right.
+
+DOCTOR D030
+Um and otherwise no changes to any of your medications I think.  Your blood pressure looks good.  Your cholesterol is still at goal um.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+And then my only other question, you don't have a urology appointment until October right?
+
+PATIENT D030
+I don't know.  It's like once a year.  I don't know, I just wait until they call me.  It's only like a once a year basis now.
+
+DOCTOR D030
+Yeah they say in October and @@@.
+
+PATIENT D030
+They wouldn't call me back until when, October?
+
+DOCTOR D030
+The urologist.
+
+PATIENT D030
+Oh.
+
+DOCTOR D030
+Put in a request for you to see them so.
+
+PATIENT D030
+Okay I'll just; I know I'll probably see you before then.
+
+DOCTOR D030
+Yeah you'll see me before.  Then you have, do you get your meds in three months supplies?
+
+PATIENT D030
+Uh-huh, 90 days, well 90 days yeah.
+
+DOCTOR D030
+Okay.
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+Cause you have, it looks like you have enough refills then.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+Okay so, oh my only other question is do you know when your, I know you've had a colonoscopy.  Do you remember what year it was?
+
+PATIENT D030
+Uh probably two years ago.
+
+DOCTOR D030
+Okay.
+
+PATIENT D030
+And I think they said I'm good for five years so.
+
+DOCTOR D030
+Okay.
+
+PATIENT D030
+This time they did find some polyps the first time but you know they weren’t bad.
+
+DOCTOR D030
+Yeah and they take then out right then.
+
+PATIENT D030
+Right.
+
+DOCTOR D030
+So it's just the, yeah I don't know let me just make sure that there's no other.  We just checked your blood so I don't think there's anything for me to look at but hmm.  Do you have any questions for me?
+
+PATIENT D030
+Yes.  Well I have a question; I have something I would like for you to do for me.
+
+DOCTOR D030
+Sure.
+
+PATIENT D030
+I have to renew my handicapped sticker.  I have it because I have these arthritic knees and when I have to walk a long time, a long distance, it's like I'm only doing my walking in the day so I got a knee brace on to help me get up.  Uh it expired yesterday but I had, last time I was here I had the doctor fill out the form for me.  The Secretary of State wouldn't accept it because uh he put over here one year.
+
+DOCTOR D030
+Oh yeah.
+
+PATIENT D030
+See it's either permanent or six months and I have a permanent one.
+
+DOCTOR D030
+Do you have a new form or can I just @@@.
+
+PATIENT D030
+No, no, no.  They wouldn't let me change that.
+
+DOCTOR D030
+Okay.
+
+PATIENT D030
+So I got a new form, see I got already had a permanent when they did the @@@.
+
+DOCTOR D030
+Oh okay.
+
+PATIENT D030
+And uh I got a new form.
+
+DOCTOR D030
+Oh yeah let's do that then.
+
+PATIENT D030
+And they have to be filled out and they wouldn't accept this one because he put one year in there and I said what, can I just eliminate that?  I just is that what he said, probably just @@@.  And I @@@ handicapped @@@.
+
+DOCTOR D030
+Yeah.
+
+PATIENT D030
+You got to do all of this stuff and I see this was expired yesterday and I don't want to be getting no ticket for it.
+
+DOCTOR D030
+What did we put on the old one?
+
+PATIENT D030
+It's up here knee osteoarthritis is what they put.  Uh I don't know that it's terrible, I see that date of birth up here.  
+
+DOCTOR D030
+Oh sure.
+
+PATIENT D030
+Does it call for that?  
+
+DOCTOR D030
+This one is.
+
+PATIENT D030
+The one that says now that's what disability, that's why I come here, @@@ permanent @@@ right.
+
+DOCTOR D030
+Yep.
+
+PATIENT D030
+Yeah but that's why we'll get this right.
+
+DOCTOR D030
+What's this on the bottom here?  Down here.
+
+PATIENT D030
+Yeah.  Oh.
+
+DOCTOR D030
+Now DOCTOR isn't here any more.
+
+PATIENT D030
+Oh.
+
+DOCTOR D030
+Did she tell you?
+
+PATIENT D030
+Uh no, no.
+
+DOCTOR D030
+There's somebody who replaced her and her name is DOCTOR.  @@@ introduce herself.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+We'll look at um okay.  This one.
+
+PATIENT D030
+@@@.
+
+DOCTOR D030
+I'll have her fill this one out.
+
+PATIENT D030
+Alrighty.
+
+DOCTOR D030
+@@@.  Otherwise it looks like you're in good shape.
+
+PATIENT D030
+Alright.  @@@.
+
+DOCTOR D030
+Just sit up here for me, I'm gonna take a look at you.  Anything else I can do for you @@@.
+
+PATIENT D030
+No I think that's about it.
+
+DOCTOR D030
+Okay.  
+
+PATIENT D030
+You know it took a long time cause I had a 10 o'clock appointment and @@@ could have done you know at least 30 minutes after my appointment now and I'm usually in and out.
+
+DOCTOR D030
+They told me they checked you in.  They had here you were at 10:30.
+
+PATIENT D030
+Oh.
+
+DOCTOR D030
+When I came to look for you um and I couldn't find your @@@ they had the paperwork and then it disappeared and so.
+
+PATIENT D030
+Yeah okay, I talked to two people out there and try to you know, like this guy with the heart thing and then talked to him.
+
+DOCTOR D030
+Oh okay.
+
+PATIENT D030
+So maybe.
+
+DOCTOR D030
+Yes.
+
+PATIENT D030
+Maybe they pulled my papers while I'm talking with them or something I don't know.
+
+DOCTOR D030
+I think that's the problem cause I know you showed up early.
+
+PATIENT D030
+Oh yeah I was here long before 10 o'clock.
+
+DOCTOR D030
+And you were yeah.
+
+PATIENT D030
+Always, I'm always early.
+
+DOCTOR D030
+And maybe they took it yeah.  So that's.  Few deep breaths for me.  One more.  You sound good.  
+
+PATIENT D030
+Okay.  Did I mention to you, I did mention to you about that low heart rate I get sometimes at home right?
+
+DOCTOR D030
+Yep.
+
+PATIENT D030
+But you said that's nothing to worry about huh?
+
+DOCTOR D030
+But if you feel, dizzy if that does happen. 
+
+PATIENT D030
+Uh-huh.
+
+DOCTOR D030
+Then um I would say you could just hold off on your atenolol.
+
+PATIENT D030
+Oh okay.
+
+DOCTOR D030
+For a few days and see if it helps you.
+
+PATIENT D030
+I'll see.
+
+DOCTOR D030
+And you can always come back to Urgent Care.
+
+PATIENT D030
+Yeah, I'll keep track of that then.
+
+DOCTOR D030
+But yeah.  I'd say the best thing to do is take it, if you want to check it, take it first thing in the morning but you're on a small dose and your blood pressure is otherwise controlled so it's helping protect your heart a little bit but if you know, it you check it and it's low then you can stop it.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+Uh I'll check it and if it's low. You can always many an appointment to see me sooner.
+
+PATIENT D030
+I always check it first thing in the morning.
+
+DOCTOR D030
+Okay.
+
+PATIENT D030
+Right before I eat.
+
+DOCTOR D030
+Okay.  Um yeah if you have no other problems I'll see you back in four months.
+
+PATIENT D030
+Okay @@@.
+
+DOCTOR D030
+Yeah but let me go have DOCTOR.
+
+PATIENT D030
+Oh oh, okay yeah.
+
+DOCTOR D030
+@@@ so she can have those @@@.  So I'll see you in August.
+
+PATIENT D030
+Oh okay good.
+
+DOCTOR D030
+Four months.
+
+PATIENT D030
+Good.
+
+DOCTOR D030
+About a week before you um, like a few days before the next appointment, come to the Lab and get your blood drawn and we'll check to make sure that vitamin D has been replaced.
+
+PATIENT D030
+Oh okay.
+
+DOCTOR D030
+I suspect it should.
+
+PATIENT D030
+Uh and when I come to the Lab for that, I'm probably not going to be in the computer or anything.   I just go in there and I don't have to be right?
+
+DOCTOR D030
+Yes I'm putting in the computer right now.
+
+PATIENT D030
+Oh okay.
+
+DOCTOR D030
+For um August.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+So any time after August 1st you can come in and get that checked.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+And I @@@ these other pills that will replace your low level.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+And we'll just make sure okay.
+
+PATIENT D030
+Okie dokie.
+
+DOCTOR D030
+Um okay.  So let me talk to my attending and I'll be right back.
+
+PATIENT D030
+Okay.
+
+DOCTOR D030
+Okay, hold on.
+
+(DOCTOR OUT:  83:33  DOCTOR IN:  94:46)
+
+SECOND DOCTOR D030
+Hi there.
+
+PATIENT D030
+Oh hello.
+
+SECOND DOCTOR D030
+How are you PATIENT?
+
+PATIENT D030
+I'm doing just fine, how about yourself?
+
+SECOND DOCTOR D030
+Hanging in there.
+
+PATIENT D030
+Yeah.
+
+SECOND DOCTOR D030
+I'm DOCTOR.
+
+PATIENT D030
+Okay.
+
+SECOND DOCTOR D030
+I've been working in the Blue Clinic.
+
+PATIENT D030
+Okay.
+
+SECOND DOCTOR D030
+So the Blue Team I'm working is DOCTOR gave me the scoop on your history.  Sounds like you're doing great.
+
+PATIENT D030
+Oh yeah I feel great too.
+
+SECOND DOCTOR D030
+Yeah you’re not leaving us much to do.  
+
+PATIENT D030
+Good.
+
+SECOND DOCTOR D030
+Yeah but there's a couple things we can talk about but for the most part you're doing really well.
+
+PATIENT D030
+Okay.
+
+SECOND DOCTOR D030
+So I just wanted to make sure that you met me.
+
+PATIENT D030
+Alright.
+
+SECOND DOCTOR D030
+So I'm always around but DOCTOR is taking good care of you.
+
+PATIENT D030
+Okay.  DOCTOR.
+
+SECOND DOCTOR D030
+DOCTOR.
+
+PATIENT D030
+DOCTOR okay.
+
+SECOND DOCTOR D030
+Okay take care.
+
+PATIENT D030
+Okay, sure will.
+
+FIRST DOCTOR D030
+Thank you.  Okay, so um I'm going to write your cholesterol numbers down so you have them on this paper.
+
+PATIENT D030
+Okay, the what now?
+
+FIRST DOCTOR D030
+Your cholesterol numbers, would you like to have them?
+
+PATIENT D030
+Yeah, do that, yeah, yeah that's a good idea.
+
+FIRST DOCTOR D030
+Okay this is a list of all your medications that you're on right now anyway so we'll just give you and um so all of your numbers look good.  So your total, @@@ total cholesterol.
+
+PATIENT D030
+Uh-huh.
+
+FIRST DOCTOR D030
+Um HDL is the good cholesterol.
+
+PATIENT D030
+Uh-huh.
+
+FIRST DOCTOR D030
+And remember H is for healthy.
+
+PATIENT D030
+Yeah okay.
+
+FIRST DOCTOR D030
+And it looks like you're 149 and then your LDL remember L for lethal, is your bad cholesterol.
+
+PATIENT D030
+Hmm.
+
+FIRST DOCTOR D030
+Is 67 and so we want, so to meet your goal less than 200 you want this above 40, this one less than 150 and this is less than 70.
+
+PATIENT D030
+Above 40?
+
+FIRST DOCTOR D030
+So right, so there's no medication.  Well there is a medication that can raise it but the other thing that can raise it is doing aerobic exercise.
+
+PATIENT D030
+Okay.
+
+FIRST DOCTOR D030
+So either walking or riding a bike or something.
+
+PATIENT D030
+Kind like kills the walking.  Cause my wife gets up at 6 o'clock every morning and goes for a walk, oh maybe about a mile, mile and a half, with my neighbor.
+
+FIRST DOCTOR D030
+Okay.
+
+PATIENT D030
+And I'm going to go so bad but I drop out about half a block because this knee is so bad.
+
+FIRST DOCTOR D030
+Oh right.  Now can you do swimming or biking?
+
+PATIENT D030
+Uh a stationary bike.
+
+FIRST DOCTOR D030
+Yeah.  So if you just do it you know for about 20 or 30 minutes, enough to break a sweat.
+
+PATIENT D030
+Uh-huh.
+
+FIRST DOCTOR D030
+You don't have to be drenching.
+
+PATIENT D030
+Uh-huh.
+
+FIRST DOCTOR D030
+But you need to do that @@@ and that'll help raise it.
+
+PATIENT D030
+Oh okay.
+
+FIRST DOCTOR D030
+But this number is everything else looks good so I wouldn't say that this is low enough and these other numbers are not abnormal so I wouldn't.
+
+PATIENT D030
+Okay that should be up in the 70s?
+
+FIRST DOCTOR D030
+40s.
+
+PATIENT D030
+Oh show I should go, I was looking at that @@@.
+
+FIRST DOCTOR D030
+That means greater.  Greater than and less than.
+
+PATIENT D030
+Okay.  Okay, @@@.
+
+FIRST DOCTOR D030
+So it's not low enough because @@@ I wouldn’t put you on another medication.
+
+PATIENT D030
+Uh-huh.  I'll see if I couldn't get it up by the next time I get here.
+
+FIRST DOCTOR D030
+Okay.
+
+PATIENT D030
+Alright.  Thank you very much.
+
+FIRST DOCTOR D030
+You're welcome, take care.
+
+PATIENT D030
+You have a nice day now.
+
+FIRST DOCTOR D030
+You too.
+
+PATIENT D030
+I don't have to check in at the desk?
+
+FIRST DOCTOR D030
+Nope, you don't have to check.  I'll send that medication in the mail.
+
+PATIENT D030
+Oh okay, very good.
+
+FIRST DOCTOR D030
+@@@ at 7.
+
+PATIENT D030
+Yeah, yeah, yeah.  Yeah I'm going to go up and see them.
+
+FIRST DOCTOR D030
+Uh he's right here.
+
+PATIENT D030
+Okay okay.  Thanks.
+
+PATIENT LEAVES:  98:17
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255201
+TRANSACTION # 578-10-2-316-0103

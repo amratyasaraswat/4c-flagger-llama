@@ -1,0 +1,5 @@
+Probe    (4379-4449): "Do you live by yourself or do you have someone to kind of help you out"
+
+Red Flag (7198-7244): "When was the last time you've seen the dentist"
+
+Red Flag (7300-7322): "Oh about ten years ago"

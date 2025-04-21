@@ -1,0 +1,707 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR E485
+PATIENT?  How you doing?
+ 
+PATIENT E485
+Okay, how are you?
+
+DOCTOR E485
+Good.  I'm DOCTOR.
+
+PATIENT E485
+You're what?
+
+DOCTOR E485
+DOCTOR.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+Nice to meet you.
+
+PATIENT E485
+Okay.  @@@.
+
+DOCTOR E485
+We'll go down here.  How are you doing today?
+
+PATIENT E485
+@@@.
+
+DOCTOR E485
+Oh I know it really nice.
+
+PATIENT E485
+Can I hang my coat up here?
+
+DOCTOR E485
+Absolutely yeah.
+
+PATIENT E485
+Now they gave me a microphone or something, we're supposed to record something.
+
+DOCTOR E485
+Oh okay.
+
+PATIENT E485
+Did you know about that?
+
+DOCTOR E485
+Uh yeah I know they're doing it occasionally with people so.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+Yeah.
+
+PATIENT E485
+I hope they're not gonna ask me to sing though.
+
+DOCTOR E485
+(Laughter)  I don't think so.
+
+PATIENT E485
+Okay.
+
+DOCTOR E485
+I'm just going to open up the computer here real quick okay.
+
+PATIENT E485
+Alright.
+
+DOCTOR E485
+Anything new you wanted to talk about?
+
+PATIENT E485
+Any new?
+
+DOCTOR E485
+Yeah.
+
+PATIENT E485
+No, I uh just got out of the hospital a couple, about a month ago.
+
+DOCTOR E485
+Oh okay.
+
+PATIENT E485
+My heart was missing beats and I had to wear a monitor for a month.
+
+DOCTOR E485
+Okay.
+
+PATIENT E485
+But uh all the time I had the monitor my heart was running right so I didn't.
+
+DOCTOR E485
+Huh.
+
+PATIENT E485
+Record anything and uh I feel okay.
+
+DOCTOR E485
+Have you had, when your heart misses a beat, do you.
+
+PATIENT E485
+Oh yeah I have a heart problem, I have a heart problem, I have to take a medication for that.
+
+DOCTOR E485
+Can you feel your heart missing and skipping beats?
+
+PATIENT E485
+Well at the time it happens I start getting nauseated and then I know that because the last time I had it was about a year ago and then I had it about a month ago and I can tell because then I feel my heart beat and I know beep, beep and it stalls and then it goes again and then it stops so I think, I called my doctor and he told me to come into Emergency right away to check me out.  They held me for two days; they were checking me out and stuff like that.
+
+DOCTOR E485
+Okay.
+
+PATIENT E485
+But I.
+
+DOCTOR E485
+Do you see the cardiologists here also?  Do you see a cardiologist?
+
+PATIENT E485
+Yes I have a cardiologist.
+
+DOCTOR E485
+Oh you do, here at the VA?
+
+PATIENT E485
+No, no, no I have one on the outside.
+
+DOCTOR E485
+Oh okay.  Let me just open your chart real quick.
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+So where is your cardiologist?
+
+PATIENT E485
+Who is he?
+
+DOCTOR E485
+Yeah where does he practice?
+
+PATIENT E485
+He's in uh, Northwestern.
+
+DOCTOR E485
+Northwestern okay.
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+And that's where you got the Holter monitor?
+
+PATIENT E485
+Uh-huh yeah.
+
+DOCTOR E485
+Where they put the monitor.
+
+PATIENT E485
+Yeah, yeah.
+
+DOCTOR E485
+Okay.  And that's where you hospitalize there.
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+Okay.  And that was one month ago.
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+So right now they haven't really found anything?
+
+PATIENT E485
+Well they know that I had blockages.
+
+DOCTOR E485
+Okay.
+
+PATIENT E485
+I have some blockages and I've been medicating for over a year now.  I'm taking medications.  They said that they couldn't give me a stent for some reason or the other and they couldn't put stents on me so they're just medicating.  But I actually feel alright you know except for that one time and that happened a month ago.
+
+DOCTOR E485
+And you felt a little nauseous then?
+
+PATIENT E485
+Yeah it starts out as a little bit nauseous.  Cause I had that same things about oh about a year ago.  I started feeling nauseated and I was missing beats and they rushed me to the hospital again.
+
+DOCTOR E485
+Let's see here so.  Do you check your blood pressures at home?
+
+PATIENT E485
+Yes.
+
+DOCTOR E485
+What do they usually range?
+
+PATIENT E485
+Uh anywhere from 90, from 87 to well it depends on if I cheat the day before then it goes up a little bit.
+
+DOCTOR E485
+Yeah sure.  @@@.
+
+PATIENT E485
+Uh like this morning it was about 147 but it's usually between 90, 107 and things like that if I behave.
+
+DOCTOR E485
+And do you smoke?
+
+PATIENT E485
+No.
+
+DOCTOR E485
+You quit like 45 years ago?
+
+PATIENT E485
+Yeah close to 50 now.
+
+DOCTOR E485
+Okay.  No other drugs or anything like that?
+
+PATIENT E485
+No.
+
+DOCTOR E485
+Have you seen the ophthalmologist, the eye doctor recently?
+
+PATIENT E485
+Yes I had uh, I had a cataract removed about two months ago in my right eye and uh I'm supposed to go back next month for the other eye.
+
+DOCTOR E485
+Where, who's your, where do you see the ophthalmologist?
+
+PATIENT E485
+In uh Northwestern.
+
+DOCTOR E485
+At Northwestern okay.
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+And that was two months ago you had it?
+
+PATIENT E485
+It was about two months ago I had the right yeah. 
+
+DOCTOR E485
+Uh-huh.
+
+PATIENT E485
+That made a big difference.  I can drive without my glasses.  I can see TV without my glasses.  It made, I was surprised the difference it makes.
+
+DOCTOR E485
+Good, very good.  Let me see if you have any lab work here, let's see.  Do you see a kidney doctor also?
+
+PATIENT E485
+Uh yes.
+
+DOCTOR E485
+Okay and he's at Northwestern?
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+Okay.  So you only have the primary care done here.
+
+PATIENT E485
+Just the primary.  I hadn't been here oh for a while and I needed strips to test my blood.
+
+DOCTOR E485
+Sure.
+
+PATIENT E485
+And DOCTOR says you know I should come in and get tested once in a while he said otherwise I can't get those strips so he sent me the strips anyway but he says I should come in and get a check-up or you know just a, so I can qualify for strips or whatever I need.  I don't know if you can order the test strips, they would the last time I was here.
+
+DOCTOR E485
+Yeah let's see, the last time you were here was June of this year to see the rheumatologist.
+
+PATIENT E485
+June of this year?
+
+DOCTOR E485
+Yeah so about six months ago.
+
+PATIENT E485
+Oh that's right yeah I seen doctor, oh I can't think of his name, yeah I seen him because uh every once in a while I get my finger sticks and I had to get a shot you know.  Those shots are painful in the hands.  I think it was a shot @@@.
+
+DOCTOR E485
+Yeah and the @@@.
+
+PATIENT E485
+Those I get @@@ yeah.
+
+DOCTOR E485
+Yeah yep they put a steroid in them.
+
+PATIENT E485
+Yeah, oh they're rough, they're rough.
+
+DOCTOR E485
+So which medications are you taking right now?
+
+PATIENT E485
+Oh I can give you a list I have.
+
+DOCTOR E485
+Yeah that'd be great.
+
+PATIENT E485
+Taking so many medications.  I don't know wait a minute, that's not the.  Hmm there we go over here and some on the back.
+
+DOCTOR E485
+Okay.  Do you need any refills on anything?
+
+PATIENT E485
+No I was just wondering if I could get Ranexa here cause it's so expensive that Ranexa.
+
+DOCTOR E485
+Oh I'll have to check to see if they carry that here, I don't think they do but I'll double check for you.
+
+PATIENT E485
+Yeah.  Everything else I get from Walgreens.
+
+DOCTOR E485
+And you have refills enough for it?
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+And have you had the cholesterol checked recently?
+
+PATIENT E485
+The what, honey?
+
+DOCTOR E485
+Your cholesterol?
+
+PATIENT E485
+Uh I don't know, I think I've had it checked but.
+
+DOCTOR E485
+Yeah I think we should go ahead and check it just today.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+Um actually did you eat yet today, you probably did right?
+
+PATIENT E485
+When this morning?
+
+DOCTOR E485
+Yeah.
+
+PATIENT E485
+Oh I had breakfast this morning.
+
+DOCTOR E485
+Yeah well unfortunately we have to check your cholesterol when you're fasting which means that you don't eat from midnight.
+
+PATIENT E485
+Uh-huh.  Well I.
+
+DOCTOR E485
+And then you get your lab work.
+
+PATIENT E485
+I can do that the next time I come.
+
+DOCTOR E485
+Yeah that'd be great if you could do that.
+
+PATIENT E485
+And then I just remembered, if I can get an early appointment cause I you know if I'm gonna fast, I don’t want to come in after noon or something.
+
+DOCTOR E485
+Absolutely.  So I'm gonna refill those test strips for you.
+
+PATIENT E485
+I just got, I just got some.
+
+DOCTOR E485
+Oh.
+
+PATIENT E485
+I just got some about a week ago.
+
+DOCTOR E485
+Okay.  I'm gonna make sure you have enough refills.
+
+PATIENT E485
+Oh okay, hon.
+
+DOCTOR E485
+So that way you don't have to worry about calling in for them.  So today I want to check your cholesterol and your hemoglobin A1c which checks your diabetes levels.
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+And then um let's see.  Do you want the test strips mailed to you?
+
+PATIENT E485
+The what?
+
+DOCTOR E485
+The test strips do you want them mailed to you?
+
+PATIENT E485
+Yeah, yeah, mail them to me.
+
+DOCTOR E485
+Okay.  Uh did you get the flu shot this year?
+
+PATIENT E485
+I yes I had the flu shot.
+
+DOCTOR E485
+Okay.  @@@ thank you.
+
+PATIENT E485
+I guess this helps because I couldn't remember all this.
+
+DOCTOR E485
+Yes it helps having that around.
+
+PATIENT E485
+I always carry it with me.
+
+DOCTOR E485
+Good.  And you had a tetanus shot, is that right?
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+Do you remember when approximately?
+
+PATIENT E485
+Uh I think, I think that was when I got my flu shot, that was about, about two months ago.
+
+DOCTOR E485
+Two months ago.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+Okay, did you have any other questions?
+
+PATIENT E485
+Uh no.
+
+DOCTOR E485
+So I'm just gonna order the lab work now and then whenever you come back in make sure you didn't eat the night before.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+Um.
+
+PATIENT E485
+The night before.
+
+DOCTOR E485
+Yeah starting at midnight the night before.
+
+PATIENT E485
+Uh-huh.
+
+DOCTOR E485
+You can't eat and then once you get the lab, like in the morning and then once you get the lab you can eat.
+
+PATIENT E485
+Okay.
+
+DOCTOR E485
+Yep.
+
+PATIENT E485
+And when do you want me to come back?
+
+DOCTOR E485
+Oh I want you to come back and see me in six months.
+
+PATIENT E485
+In six months.
+
+DOCTOR E485
+Yeah but you can get the lab work done whenever you're able to come back and get the lab work done and I'll look at it in the computer.
+
+PATIENT E485
+Oh I can come in just for the lab?
+
+DOCTOR E485
+Yeah, just for the lab work yeah.
+
+PATIENT E485
+Whenever I'm available.
+
+DOCTOR E485
+Uh-huh.
+
+PATIENT E485
+And how do I arrange that?
+
+DOCTOR E485
+You just go, I have the order in, so if you just go to the Lab.  Do you know where the Lab is?  It's just across the hall here.
+
+PATIENT E485
+You mean where they draw blood?
+
+DOCTOR E485
+Yes.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+Where they draw blood.  You just go there and say I need to get my blood drawn and they'll see the orders in the chart.
+
+PATIENT E485
+Oh okay.
+
+DOCTOR E485
+Yep.
+
+PATIENT E485
+Okay.  So I can come tomorrow or next week.
+
+DOCTOR E485
+Yeah.
+
+PATIENT E485
+Or whenever.
+
+DOCTOR E485
+Uh-huh.
+
+PATIENT E485
+Whenever and that.
+
+DOCTOR E485
+But within the next month.
+
+PATIENT E485
+Yeah and that's for the cholesterol.
+
+DOCTOR E485
+That's for the cholesterol and the blood sugars.
+
+PATIENT E485
+Yeah.  Well it'll probably be after the holidays.
+
+DOCTOR E485
+Yeah that's fine.
+
+PATIENT E485
+Cause I'm busy right now with the shopping and the.
+
+DOCTOR E485
+That's fine.  I'll give you a paper so you remember.
+
+PATIENT E485
+Okay.
+
+DOCTOR E485
+I'll be right back okay.
+
+PATIENT E485
+Okay hon.
+
+(DOCTOR OUT:  28:08  DOCTOR IN:  34:04)
+
+DOCTOR E485
+Alright.  You have a little bit of a step down.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+So this is a piece of paper.  It's just to tell you that we need to do lab work.
+
+PATIENT E485
+Oh I have to bring this with me.
+
+DOCTOR E485
+No, no, you don't have to, that's for you to remember.
+
+PATIENT E485
+Oh okay.
+
+DOCTOR E485
+You can keep that with you.
+
+PATIENT E485
+Oh okay honey.
+
+DOCTOR E485
+And the Ranexa we don't have on formulary here so the only way we can try to get it non-formulary is if you see one of the cardiologists and they okay it.  Is that something you want to do?
+
+PATIENT E485
+No I'll just keep on getting it the way I am, you know.  Thank you anyway honey.
+
+DOCTOR E485
+Okay.  And then um you come back to see me in six months.
+
+PATIENT E485
+That's it?
+
+DOCTOR E485
+Yes that's it actually you need this to check out; you can keep it if you want to.  Your blood pressure is a little bit higher than what it really is.
+
+PATIENT E485
+Higher.
+
+DOCTOR E485
+Uh-huh.
+
+PATIENT E485
+What was my blood pressure?
+
+DOCTOR E485
+132/80.
+
+PATIENT E485
+That's high?
+
+DOCTOR E485
+Oh that's right around where you should be, it should be 120s, 130s.
+
+PATIENT E485
+Oh okay.  Take this with me?
+
+DOCTOR E485
+You can take it, you can keep it or you don't need it unless something's really.
+
+PATIENT E485
+Well I like to keep a record.
+
+DOCTOR E485
+Yeah, sure that sounds good.
+
+PATIENT E485
+Of the things that I do.  Okay now I'm supposed to turn this in.
+
+DOCTOR E485
+Yeah when you get out to the front.  Yeah.
+
+PATIENT E485
+I thought I was gonna have to sing a song or something.
+
+DOCTOR E485
+They might make you do that yet.
+
+PATIENT E485
+Yeah well, I don't care I like to sing.  I'm always singing by myself and my wife says, what are you singing for nobody's listening.
+
+DOCTOR E485
+Oh.  I'm sure it makes you and everybody around happy.
+
+PATIENT E485
+Yeah.
+
+DOCTOR E485
+To hear that. 
+
+PATIENT E485
+Okay then.
+
+DOCTOR E485
+And you have a good day okay.
+
+PATIENT E485
+You too.  Uh which way do I go?
+
+DOCTOR E485
+Just down here to that door on the left. 
+
+PATIENT E485
+Okay thank you bye, bye.
+
+Time is 1:25.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300295
+TRANSACTION # 578-10-2-316-0103

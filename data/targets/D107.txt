@@ -1,0 +1,15 @@
+Red Flag (8093-8147): "and you had just recently been diagnosed with diabetes"
+
+Red Flag (8163-8169): "I have"
+
+Red Flag (8212-8242): "If I have, I haven't been told"
+
+Probe    (8271-8336): "Well no we told you that you had recently high blood sugars right"
+
+Factor   (8352-8426): "Well the last time I came here you asked for a blood test and a urine test"
+
+Factor   (8464-8481): "That was the last"
+
+CarePlan (9347-9544): "See the sugars that we took were high but your hemoglobin A1c was okay, so I think we won't, basically we're just not going to start you on anything but you're kind of on the borderline of diabetes"
+
+Red Flag (15381-15429): "Well I, personally I don't like to take anything"

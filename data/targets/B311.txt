@@ -1,0 +1,43 @@
+Red Flag (1058-1195): "Uh-huh but anyway I went away and I forgot to take my, I took blood pressure pill, I had that with me but the diabetes pill I been taking"
+
+Factor   (1197-1301): "I forgot to take it with me. I went down to Tennessee to a funeral. A first cousin of mine passed away"
+
+Factor   (1197-1301): "I forgot to take it with me. I went down to Tennessee to a funeral. A first cousin of mine passed away"
+
+Red Flag (1347-1425): "I was gone for about six days and I didn't take any medicine at all that I had"
+
+Red Flag (1870-1936): "When I took that pill one time that pill put my reading down to 49"
+
+Red Flag (5733-5753): "can I get the Viagra"
+
+Factor   (5755-5779): "I want to get the Viagra"
+
+Probe    (5864-5875): "You do have"
+
+CarePlan (5864-5897): "You do have some of that actually"
+
+Red Flag (9313-9355): "Okay, but do you need to go to the dentist"
+
+Red Flag (9415-9436): "No I don't see nobody"
+
+Factor   (9437-9508): "now because if I don’t have a tooth here, I won’t be able to eat hardly"
+
+Factor   (9437-9508): "now because if I don’t have a tooth here, I won’t be able to eat hardly"
+
+Factor   (9437-9508): "now because if I don’t have a tooth here, I won’t be able to eat hardly"
+
+CarePlan (9523-9554): "Well what about having dentures"
+
+CarePlan (9523-9554): "Well what about having dentures"
+
+CarePlan (9601-9691): "Go to see the dentist because you could probably wear dentures and be able to eat the food"
+
+CarePlan (9601-9691): "Go to see the dentist because you could probably wear dentures and be able to eat the food"
+
+Red Flag (9733-9760): "The way that your teeth are"
+
+Probe    (9733-9795): "The way that your teeth are right now how can you eat anything"
+
+Factor   (10112-10176): "I'm afraid of dentists cause I don't want to get my teeth pulled"
+
+Factor   (10213-10358): "But maybe that's,@@@ , at the same time, I might pull my teeth out myself cause it got loser and I took my finger back one morning when I woke up"

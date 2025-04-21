@@ -1,0 +1,117 @@
+Probe    (245-287): "So what's going on with the blood pressure"
+
+Red Flag (343-370): "Your blood pressure is high"
+
+Red Flag (405-433): "Your blood pressure was high"
+
+Red Flag (472-476): "High"
+
+Factor   (492-513): "No it's not. Not yet"
+
+Factor   (492-513): "No it's not. Not yet"
+
+Probe    (629-657): "So you don't think it's high"
+
+Probe    (690-709): "What's high for you"
+
+Factor   (725-771): "Uh maybe if it gets up about 300 might be high"
+
+Factor   (809-990): "I only get, I know when my blood pressure's high, when I get a pain behind my eyes and my head hurts really bad then I know I got high blood pressure. Other than that it works fine"
+
+Factor   (1057-1146): "Uh it gets too low I can't do nothing, all I do is sit around and do nothing and pass out"
+
+Probe    (1161-1179): "And what's too low"
+
+Factor   (1195-1296): "Uh what you people want 130 over whatever. I can't get down that low. If I go that low I can't move"
+
+Factor   (1330-1453): "I got to be able to have a little blood pressure. It's just like in a car, when the oil pressure is high the car runs good"
+
+Factor   (1490-1530): "When my blood pressure's high I run good"
+
+CarePlan (1545-1660): "Hmm. See, the thing about your blood pressure going high is something getting to 300 that's um an impending stroke"
+
+CarePlan (1694-1841): "You should never feel your blood pressure, even if it's high you shouldn't feel it, that's you know, that's concerning cause it's a risk for stroke"
+
+Factor   (1857-1888): "No I can feel it when it's high"
+
+CarePlan (1903-2017): "That's what I'm saying cause that means it's getting way too high and its way too late. It shouldn't be like that"
+
+Factor   (2033-2137): "Oh well, where it's at now, it's not bad. I would say fair to midland right there. It goes down though"
+
+Red Flag (4938-5005): "Uh I'd say it gets around 180, around 180, 185, something like that"
+
+Factor   (5008-5026): "That's kind of low"
+
+Factor   (5061-5195): "But when it gets really low, I don't know what it is, I just don't feel like moving at all. I just sit there and fall asleep you know"
+
+Probe    (5459-5522): "What do you take for your blood pressure? Do you take anything"
+
+Factor   (5538-5561): "Yeah, I listen to music"
+
+Red Flag (5645-5740): "This is a really high blood pressure, I'm definitely not comfortable with it I'll tell you that"
+
+Factor   (5932-5948): "It's kind of low"
+
+CarePlan (5963-6038): "So just so you know the normal numbers are 120, 130s okay, these are normal"
+
+Red Flag (6077-6109): "And your numbers are in the 200s"
+
+Red Flag (6125-6135): "It was 216"
+
+Red Flag (6188-6207): "It's extremely high"
+
+Factor   (6223-6246): "I don't have a headache"
+
+CarePlan (6261-6338): "It doesn't matter. If you have a headache, like I said it's already too late"
+
+Factor   (6497-6570): "And I hum and it goes away, blood pressure goes down, the head don't hurt"
+
+Probe    (6585-6649): "What causes your blood pressure to be that high, what's going on"
+
+Factor   (10840-10899): "Oh there's one other thing that brings my blood pressure up"
+
+Factor   (10936-10969): "Uh when I take too much vitamin B"
+
+Red Flag (15267-15278): "foot doctor"
+
+Red Flag (15652-15702): "they wanted you to go back and see them in October"
+
+Red Flag (15736-15786): "They wanted you to go back three months in October"
+
+Red Flag (16082-16136): "And uh I told them that I was soaking my feet with CLR"
+
+Factor   (16173-16214): "Because I was getting tired of the fungus"
+
+Red Flag (16251-16297): "So I went to extremes and I soaked them in CLR"
+
+Factor   (16334-16396): "And that's probably stopping the fungus, it killed it you know"
+
+Red Flag (17189-17291): "I'm saying your blood pressure is extremely high, @@@ than others um but you don't want any medication"
+
+Red Flag (17307-17335): "Oh no, no, I won't take that"
+
+Red Flag (17430-17469): "Well I know, no blood pressure medicine"
+
+Red Flag (17523-17560): "And you don't cholesterol medications"
+
+Factor   (17576-17612): "Oh I take that, I take a cholesterol"
+
+Factor   (17734-17763): "Red yeast rice is what I take"
+
+Factor   (17820-17885): "That's cholesterol medicine. That's better than anything you got"
+
+CarePlan (17907-17945): "But that's not something I'd prescribe"
+
+Factor   (18076-18234): "Because you don't want nobody to get well I understand that. You want to sell drugs that you got stock in the drug company; you want to sell them drugs to me"
+
+CarePlan (18249-18278): "I have no stocks in any drugs"
+
+Red Flag (18913-18970): "the kind of blood pressure you have that makes me nervous"
+
+Factor   (19659-19683): "I'm not like most people"
+
+Factor   (19725-19862): "My insides are not like most people. They don't act the same as most people. I don't act, I don't react to drugs the way most people do"
+
+Factor   (20484-20665): "The blood pressure, the blood pressure I can't take the pills because the pills don't do what they're supposed to do. They don't. One of them actually brought my blood pressure up"
+
+Red Flag (21330-21370): "Uh it's 200/100. It's still pretty high"

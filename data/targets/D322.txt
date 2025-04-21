@@ -1,0 +1,55 @@
+Red Flag (244-265): "It's been a long time"
+
+Factor   (358-404): "A lot of times we don't have a lot of openings"
+
+Red Flag (702-758): "Yeah, how many times have you been to the Emergency Room"
+
+Red Flag (774-812): "Uh twice since the last time I saw you"
+
+Red Flag (897-936): "Two times in the last five months maybe"
+
+Red Flag (1024-1043): "You've gotten worse"
+
+Factor   (1059-1121): "Yeah. Well I think it's got something to do with where I work"
+
+Red Flag (2870-2888): "I discontinued one"
+
+Red Flag (4398-4453): "Would you want to see the Smoking Cessation Clinic here"
+
+Red Flag (4636-4666): "No, I’m gonna try it on my own"
+
+Red Flag (6455-6476): "Oh you didn't show up"
+
+Probe    (6478-6499): "maybe you didn't know"
+
+Red Flag (6502-6594): "When they set you up for an appointment on 03/11 at 2 o'clock but it says you didn't show up"
+
+Factor   (6610-6631): "I didn't get anything"
+
+Red Flag (6732-6835): "This time I got one, I was going to be on vacation then and now I have to take off and I'm losing money"
+
+Factor   (6819-6835): "I'm losing money"
+
+CarePlan (6854-6902): "Well, it doesn't take very long. @@@ 15 minutes"
+
+CarePlan (7138-7197): "I'd like to hang on until January when I have vacation time"
+
+Red Flag (7239-7270): "Blood pressure is a little high"
+
+Red Flag (8884-8912): "Oh did you see Mental Health"
+
+Red Flag (8928-8939): "No I didn't"
+
+Red Flag (9720-9770): "Uh now a colonoscopy, what do you think about that"
+
+Red Flag (9786-9788): "No"
+
+CarePlan (14565-14674): "Or I mean, do you think you can handle waiting to see me or something just try and make an appointment sooner"
+
+Factor   (14783-14905): "The only time I do that is if I get really congested at night @@@ these things are working or the albuterol is running out"
+
+CarePlan (14920-14970): "Yeah well if you run out call and I'll refill them"
+
+CarePlan (15143-15189): "Renew but if they tell you you have no refills"
+
+CarePlan (15226-15284): "Then you have to call and they will contact me to renew it"

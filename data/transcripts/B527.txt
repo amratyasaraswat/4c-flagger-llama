@@ -1,0 +1,853 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@ 
+
+DOCTOR B527
+PATIENT?  How you doing? 
+
+PATIENT B527
+Oh good to see you.
+
+DOCTOR B527
+So how have you been?
+
+PATIENT B527
+Ahh. Hanging in there.
+
+DOCTOR B527
+@@@.
+
+PATIENT B527
+Oh okay.
+
+DOCTOR B527
+In here.
+
+PATIENT B527
+Yeah.  I just figured I could get some blood taken in case you asked for you, now I ain’t scheduled for it.
+
+DOCTOR B527
+No I think you did have some blood orders but they expired, they're expired.  @@@.
+
+PATIENT B527
+Yeah just they you know check on my cholesterol and my iron and all that other stuff.
+
+DOCTOR B527
+Yeah.  @@@.  You can come right here.
+
+PATIENT B527
+Oh yeah I remember that.  It's not bad with someone like you but when you get uh some of these guys with the walkers and it takes five minutes to get back.
+
+DOCTOR B527
+Oh yeah, yeah.
+
+PATIENT B527
+I just walk around with a cane once in a while with that.
+
+DOCTOR B527
+Oh because of the.
+
+PATIENT B527
+Yeah @@@.
+
+DOCTOR B527
+You look like you're doing pretty well though.
+
+PATIENT B527
+Yeah I was hit by a car in 80.
+
+DOCTOR B527
+Oh I thought it was because of the, you had a stroke in the back of the head.
+
+PATIENT B527
+But that was in 80, no that was in 02.
+
+DOCTOR B527
+02.
+
+PATIENT B527
+Yeah.  No I was hit by a car in 80.
+
+DOCTOR B527
+So how you doing today?
+
+PATIENT B527
+Oh alright, just hanging in there.
+
+DOCTOR B527
+Okay any problems?
+
+PATIENT B527
+No.  I been getting a lot of heartburn lately @@@.
+
+DOCTOR B527
+Um heartburn?
+
+PATIENT B527
+Yeah.  Everything I eat is a problem.
+
+DOCTOR B527
+Have you had that in the past?
+
+PATIENT B527
+No.  
+
+DOCTOR B527
+This is um; uh we'll get back to this.  This is uh a new thing we're doing.  This is an advanced directive and they want to know if you have any durable power of attorney, living wills, that kind of stuff. Um fill it out.  Uh you've never had heartburn before, you're starting to get it?
+
+PATIENT B527
+Yeah well I've had heartburn before but just not every day, you know once in a while.
+
+DOCTOR B527
+Are you still taking the uh.
+
+PATIENT B527
+I'm on one medication.
+
+DOCTOR B527
+The acid-blocker you still taking?
+
+PATIENT B527
+I ain't taking anything right now but aspirin.
+
+DOCTOR B527
+You're not taking any medications?
+
+PATIENT B527
+No I'm all out.
+
+DOCTOR B527
+Oh okay.  Um how long have you been out of the omeprazole?
+
+PATIENT B527
+Oh I've been out of that one since February.
+
+DOCTOR B527
+Well that may be why uh you're having heartburn.
+
+PATIENT B527
+Yeah probably.
+
+DOCTOR B527
+So.
+
+PATIENT B527
+Yeah the only thing I've been on is the aspirin and that's it.
+
+DOCTOR B527
+Yeah.  You're not taking the Synthroid either.
+
+PATIENT B527
+No every thing’s run out, I ran out.
+
+DOCTOR B527
+Okay.  Um okay.  You can always call us or call me and I can put in refills for you.  Um you know we do like to see you, you know probably at least every six months just to make sure the medications, you're on the right doses and everything.
+
+PATIENT B527
+Right, right.
+
+DOCTOR B527
+But uh some of the medications, like especially the Synthroid um you shouldn't just stop.
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+It kind of regulates your thyroid and your thyroid can slow down and it can cause a lot of problems including it can put you in like a coma like state.
+
+PATIENT B527
+Uh-huh.
+
+DOCTOR B527
+It's pretty rare but.
+
+PATIENT B527
+Well when I called in to have it refilled they said no you're done, you're done I said well you know.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+No way of getting hold of you but its okay.
+
+DOCTOR B527
+Yeah I'm sorry about that.
+
+PATIENT B527
+It's okay.  Now what do I do here?
+
+DOCTOR B527
+Uh so basically this is just for you to read.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+And if you have a living will, power of attorney and that kind of stuff.
+
+PATIENT B527
+Yeah I got a living will.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+I just said yes.
+
+DOCTOR B527
+Yeah the last time I saw you was last March.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+And those prescriptions expire after a year.
+
+PATIENT B527
+Right and from the other doctor.
+
+DOCTOR B527
+So you cut your hand back in February?
+
+PATIENT B527
+Yeah it was just my finger.
+
+DOCTOR B527
+How's that going?
+
+PATIENT B527
+When I cut it I think I don't they put something on there and then it just flared up and then all of a sudden it was infected.
+
+DOCTOR B527
+Doing better now?
+
+PATIENT B527
+Yeah I squeezed it and got the pus out of it and that was it.  Okay is that all they need?
+
+DOCTOR B527
+Whatever happened with the colonoscopy and the biopsies they did?  Did they ever call you back?
+
+PATIENT B527
+No. They said I’m good.  But my next one won't be for maybe another ten years they said.  @@@.
+
+DOCTOR B527
+They said next one in ten years?
+
+PATIENT B527
+About that yeah.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+No red flags, every thing’s all good and I said okay.  That's the last time I heard from them.
+
+DOCTOR B527
+Okay.  Yeah the pathology on it looks good.
+
+PATIENT B527
+Oh that's good.
+
+DOCTOR B527
+No other problems, complaints, doing well?  Nothing today?
+
+PATIENT B527
+Everything seems to be alright.
+
+DOCTOR B527
+Can I get you up here?
+
+PATIENT B527
+@@@.
+
+DOCTOR B527
+Yeah if you don't mind.  Eating okay?
+
+PATIENT B527
+Yeah, yeah.  @@@.
+
+DOCTOR B527
+No chest pain, shortness of breath?
+
+PATIENT B527
+No.
+
+DOCTOR B527
+A couple of deep breaths.  Breathe normal.  Open your mouth, say ah. Is your nose always kind of red like that?
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+Okay does it ever bother you?
+
+PATIENT B527
+No, just from my hay fever you know.
+
+DOCTOR B527
+Oh okay.  Kind of looks like something we call rosacea, it's not really serious but.  What happened here?
+
+PATIENT B527
+What this scar?
+
+DOCTOR B527
+Yeah.
+
+PATIENT B527
+Oh that was way back in the 70s, I had an operation done in Oklahoma when I was kid to take a cyst out.
+
+DOCTOR B527
+Oh okay.
+
+PATIENT B527
+And then I got on a fight on the school bus, somebody busted the stitches open.
+
+DOCTOR B527
+Oh.
+
+PATIENT B527
+When they went back in and tried to repair it and then the tornado hit in Oklahoma at that time, back in the 60s and I never went back to them.
+
+DOCTOR B527
+Oh.  Lay back for me.  No problems with that ever?
+
+PATIENT B527
+No.
+
+DOCTOR B527
+Oh okay.  You said you're eating fine.
+
+PATIENT B527
+Uh-huh.  
+
+DOCTOR B527
+Okay you can sit up.  Any weight loss at home?
+
+PATIENT B527
+No.
+
+DOCTOR B527
+Bowel movements are okay?
+
+PATIENT B527
+Yeah so far.
+
+DOCTOR B527
+No more dark ones.  I saw that you were in the ER a month or two ago and thought you had dark bowel movements.
+
+PATIENT B527
+Yeah that was because of my iron I think it was.
+
+DOCTOR B527
+@@@.
+
+PATIENT B527
+Yeah and I was taking multiple vitamins and every thing’s fine.
+
+DOCTOR B527
+Okay.  You still taking the iron?
+
+PATIENT B527
+Uh no.
+
+DOCTOR B527
+Okay.  Are you out of it?  You're not taking it because you are out of it?
+
+PATIENT B527
+Oh no.
+
+DOCTOR B527
+@@@.
+
+PATIENT B527
+No I might have just @@@.  
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+I quit taking it.  I'm taking a multivitamin.
+
+DOCTOR B527
+Which is not as strong.
+
+PATIENT B527
+Yeah.  Which worked just as well so I was hoping to get my blood, my iron level and see how my iron is doing and my cholesterol.
+
+DOCTOR B527
+Well your blood counts are great.  They're normal. They did those when you were here in February.
+
+PATIENT B527
+Okay well that's good.
+
+DOCTOR B527
+Um.  We need to check your cholesterol today.  I'm going to check your thyroid levels.  Uh and you haven't taken the Synthroid since when?
+
+PATIENT B527
+Uh February.
+
+DOCTOR B527
+Okay you haven't taken anything since February?
+
+PATIENT B527
+No just aspirin.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+I think I might have taken little purple pills but I take them for a blood pressure.
+
+DOCTOR B527
+What's that?
+
+PATIENT B527
+It's the purple pills, I don't know what their called but they're tablets.  They're for night.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+I take those.  I still got a couple left.
+
+DOCTOR B527
+And you said you're walking okay.
+
+PATIENT B527
+Yeah, yeah, fine.  I don't walk really that far far, I do my little stroll.
+
+DOCTOR B527
+You walk up stairs without a problem?
+
+PATIENT B527
+Yeah, yeah.
+
+DOCTOR B527
+Any more urinary tract infections?
+
+PATIENT B527
+No, so far.
+
+DOCTOR B527
+Okay.  And I know you were having a problem with that.
+
+PATIENT B527
+Yeah I don't know what, all of a sudden it just comes up like that and then I take the antibiotic and I'm fine.
+
+DOCTOR B527
+Where do you live sir?
+
+PATIENT B527
+I live in Oak Forest.
+
+DOCTOR B527
+Oak Forest.
+
+PATIENT B527
+Yeah down south.  About an hour away from here.
+
+DOCTOR B527
+Okay.  I'm assuming you've eaten today right?
+
+PATIENT B527
+Yeah I had some Egg McMuffins earlier @@@.  Yeah I had McDonalds earlier.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+About 10 o'clock or so.
+
+DOCTOR B527
+That's probably going to skew your cholesterol levels uh, especially McDonalds it's got a lot of cholesterol in it.
+
+PATIENT B527
+Oh.
+
+DOCTOR B527
+Uh maybe can you come back some time this week or next week and get the blood draws done in the morning before you eat?
+
+PATIENT B527
+Well I like to give that in Oak Lawn.  Cause it takes me at least an hour to get up here.
+
+DOCTOR B527
+Does it really?
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+Is there a VA in Oak Lawn?
+
+PATIENT B527
+Yeah I can get that outpatient patient there over on 95th Street.  
+
+DOCTOR B527
+Yeah if they can do it there.  Is it through Hines?
+
+PATIENT B527
+Yeah.  They can draw blood there.
+
+DOCTOR B527
+Okay that's fine then.  Yeah if I put the order in here then they should be able to get it.
+
+PATIENT B527
+They should get it there and I can get.
+
+DOCTOR B527
+All I want to check is just your cholesterol levels and your thyroid, make sure your thyroid is doing okay because you haven't taken the thyroid pill since February.  Okay, otherwise are you feeling good?
+
+PATIENT B527
+Yeah I'm feeling alright.
+
+DOCTOR B527
+Okay.  Let me be right back.
+
+PATIENT B527
+Yeah I can't any more time off of work right now.
+
+DOCTOR B527
+Okay.  Yeah go to Oak Lawn @@@ that's fine.
+
+PATIENT B527
+Yeah if I can get in, I just call them and you know they usually draw my blood.
+
+DOCTOR B527
+Where you working, remind me?
+
+PATIENT B527
+Oh BBC Passengers over there in Alsip.
+
+DOCTOR B527
+Okay.  @@@.  Stay tuned and I'll be right back with you.
+
+PATIENT B527
+Oh okay alright.
+
+DOCTOR B527
+I'll drop this off while I'm out.
+
+PATIENT B527
+Okay.
+
+(DOCTOR OUT:  105.0  DOCTOR IN:  109:40)
+
+DOCTOR B527
+Uh so I want to check your blood today before um we start any, specifically the Synthroid, um the thyroid medication.  Just to see how your thyroid level is doing.  Um we'll check that.  It should be back to me by the end of the week and I can give you a call and tell you if you need to restart it or not.  Um we should restart probably all the other stuff, at least the cholesterol medications um.  Do you check your blood pressures at home?
+
+PATIENT B527
+No.
+
+DOCTOR B527
+No.  Can you get a blood pressure medication and check it at home?
+
+PATIENT B527
+Uh they just took my blood pressure and it was 138/75.
+
+DOCTOR B527
+Yeah it was good, 138/72 um which is good.  What I'm wondering is that's pretty good but your blood pressure can change.  Uh you're on some blood pressure medications at home.
+
+PATIENT B527
+Hmm.
+
+DOCTOR B527
+And I'm wondering if we need to keep you on them or not.  That's why it's important you know it's important to get you here every couple of months so we can check your blood pressure.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+I don't want to have you on blood pressure medications that you don't need.  At the same time I don't want to stop the blood pressure medications cause your blood pressure looks good today and then find out that you normally run 165 at home or something like that.
+
+PATIENT B527
+Right, right.
+
+DOCTOR B527
+So I think it would be best, it'd be best for you, to be honest, if you got a blood pressure cuff and was checking your blood pressure regularly at home.  For the sole reason that if you don't need to be on medication that you're taking, one less medication you have to take.  That's one less hassle you have to deal with.
+
+PATIENT B527
+Yeah I don't have one of those machines.
+
+DOCTOR B527
+So you can get them um at Walgreen’s.
+
+PATIENT B527
+Walgreen’s right.
+
+DOCTOR B527
+Walgreen’s or CVS and they cost from what I hear generally $20-$25 for one that works fine.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+If you don't want to buy one you can go into any CVS and they have them that you can check your blood pressure there but that means you have to be going to the CVS all the time.
+
+PATIENT B527
+Alright.
+
+DOCTOR B527
+Um but uh from what people that have got them have told me they cost about $20-$25.
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+Um the other thing uh is it an issue getting here um, being from Oak Lawn.  Is that why you don't come often?
+
+PATIENT B527
+No Oak Forest.
+
+DOCTOR B527
+Oak Forest.
+
+PATIENT B527
+Yeah I mean it takes me at least an hour, especially at this time, there's rush hour.
+
+DOCTOR B527
+Yeah.  No I understand.  The thing is with the stuff you're on, with the medications you're on and the medical issues you have we'd really like to be seeing you every three months or so.
+
+PATIENT B527
+Uh-huh.
+
+DOCTOR B527
+Um if that's not possible uh we need you to get up here every three months, uh there is the Oak Lawn Clinic.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+I just asked my attending about it and he said that if you get the number for them, I can't get you an appointment there or anything but um they can give you the number.  I'm not saying, we'd love to still treat you here, you know I'd love to have you come here every three months.
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+But if that's not possible I'd much rather have you seen every three months than once every 15 months and your medications run out and you're not taking your medications for three months and.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+You know we're coming in and we're trying to chase our tail with everything else.  If it's going to be easier for you to get into that clinic um, for your own good I think its better that.
+
+PATIENT B527
+Yeah it only takes me about 15-20 minutes to get there.  I'm usually in and out of there anyway.
+
+DOCTOR B527
+But it's up to you.  Like I say.
+
+PATIENT B527
+I got the numbers at home.
+
+DOCTOR B527
+Okay.  
+
+PATIENT B527
+I got them in my.
+
+DOCTOR B527
+Okay.  I'd keep all your appointments here until you make an appointment there cause like I said we can't make an appointment there.
+
+PATIENT B527
+I know they got doctors here, you know they could schedule me or whatever and I could get that to work and they'd put that in my files so you know.
+
+DOCTOR B527
+Yeah.  But you really should be seeing someone every three months or so.
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+Cause you're on, as you know you're on a bunch of medications.
+
+PATIENT B527
+Right, right.
+
+DOCTOR B527
+And we need to make sure we have you on the right doses that we don't have you on too much medication or too little.  Um seeing you every 15 months it's only going to hurt you.
+
+PATIENT B527
+Right, right.
+
+DOCTOR B527
+Um and while we'd love to keep you here, I'd much rather you actually see someone regularly.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+So it may be an option for you.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+Um but if you don't mind we'll check the labs today and I'll give you a call later in the week and let you know uh about the Synthroid.
+
+PATIENT B527
+Hmm.
+
+DOCTOR B527
+I'll put through for the other medications okay.
+
+PATIENT B527
+Yeah.  So I got to go back down and get the blood tests?
+
+DOCTOR B527
+Yeah.  Yeah sorry.
+
+PATIENT B527
+That's alright, that's what happens I guess.
+
+DOCTOR B527
+Um yeah just get it done today because you said you can't make it later in the week right?
+
+PATIENT B527
+No it's just too hard.  I mean I'm taking off of work now but that's cause I got your appointment.
+
+DOCTOR B527
+When do you work, what shift do you work?
+
+PATIENT B527
+I work the day shift.
+
+DOCTOR B527
+Day shift.
+
+PATIENT B527
+I work from 7 to 3.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+7 to 3:30 yeah.
+
+DOCTOR B527
+If you can make it to the Oak Lawn Clinic this week sometime that would be fine too but I want to know whether we need to restart your thyroid medication and I'd like to let you know this week.
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+So it's up to you.
+
+PATIENT B527
+I can stop there afterwards because I've already eaten.
+
+DOCTOR B527
+Yeah okay.  Yeah if you can get it done today that's fine too.
+
+PATIENT B527
+As long as they can do it now, I'll go downstairs and they're quick.
+
+DOCTOR B527
+Okay.  Any other questions or anything?
+
+PATIENT B527
+No, no.
+
+DOCTOR B527
+Okay.  As far as the reflux that you're saying you're having.  I think if you get restarted on the omeprazole that'll help.  That's why we had you on it.
+
+PATIENT B527
+Yeah.
+
+DOCTOR B527
+For the reflux.  So probably stopping that is what made the reflux get worse.
+
+PATIENT B527
+Huh it just happens you know what I mean.  @@@.
+
+DOCTOR B527
+Yeah.
+
+PATIENT B527
+Just thought it was because of the food I was eating.
+
+DOCTOR B527
+Yeah and there are things that make it worse and I'm sure you get told this, you know anything spicy.
+
+PATIENT B527
+Oh yeah.  I knew that or coffee.  I always do coffee in the morning.
+
+DOCTOR B527
+Coffee, alcohol.
+
+PATIENT B527
+Oh if I do that.
+
+DOCTOR B527
+Smoking makes it worse.
+
+PATIENT B527
+Oh I don't smoke anymore.
+
+DOCTOR B527
+So those are just things to watch out for.
+
+PATIENT B527
+Right but I try to take it easy you know.  I just take some Tums or something.  
+
+DOCTOR B527
+Yeah don't take too many though.
+
+PATIENT B527
+No, hopefully.
+
+DOCTOR B527
+You can actually run into a problem eating too many of those.
+
+PATIENT B527
+Right.
+
+DOCTOR B527
+Good seeing you.
+
+PATIENT B527
+Okay.
+
+DOCTOR B527
+I'll give you a call.
+
+PATIENT B527
+@@@.
+
+DOCTOR B527
+You give them to them when you sign out, they'll make an appointment for you.  Keep the appointments until; if you're going to switch to the Oak Park Clinic keep these until you actually get an appointment there.  There's sometimes a waiting list so you can keep seeing us until they get you in.
+
+PATIENT B527
+Uh-huh.
+
+DOCTOR B527
+Okay.
+
+PATIENT B527
+Yeah okay.
+
+DOCTOR B527
+Alright.
+
+PATIENT B527
+@@@.  Thank you now.
+
+DOCTOR B527
+Okay and I'll give you a call at the end of the week.
+
+PATIENT B527
+Okay.
+
+DOCTOR B527
+I'll see you again.
+
+PATIENT B527
+Alright.
+
+PATIENT LEAVES 116:0
+
+Time is 3:05
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238106
+TRANSACTION # 578-10-2-316-0103

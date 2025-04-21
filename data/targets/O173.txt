@@ -1,0 +1,21 @@
+Red Flag (2596-2650): "This past week I ran out of the strips and before that"
+
+Red Flag (2704-2777): "Yeah I called to refill the script and they said it was beyond expiration"
+
+Red Flag (3058-3166): "So they're probably a little higher than we would like. You know there are quite a few that are in the 200s"
+
+Red Flag (4148-4193): "And then your blood pressure was up today huh"
+
+Red Flag (6826-6886): "Yeah it's definitely up a little bit, the 150s uh over 90 uh"
+
+Probe    (6935-6967): "Did you take your medicine today"
+
+Probe    (7146-7169): "Did you take that today"
+
+Red Flag (10371-10509): "I usually weighed 165-70, now I'm at 181, well with clothes and everything it's 186 just now they weighed me. But last week I was 180-181"
+
+Red Flag (14423-14502): "I don't want to wait a year this time if that's okay. That's a little too long"
+
+Red Flag (14505-14558): "I'm guessing you may have had a cancelled appointment"
+
+Red Flag (15005-15090): "I spent like three days or maybe four days here and there was no follow up after that"

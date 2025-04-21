@@ -1,0 +1,1141 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR D947
+PATIENT?
+
+PATIENT D947
+Yes.
+
+DOCTOR D947
+How are you?  I'm DOCTOR, nice to meet you.
+
+PATIENT D947
+Nice meeting you doctor.
+
+DOCTOR D947
+Come on in.  So how you doing today?
+
+PATIENT D947
+You know not too bad for an older gentleman.
+
+DOCTOR D947
+Yeah.  You're not that old, 73's not that bad.
+
+PATIENT D947
+No that's right, that's not bad.
+
+DOCTOR D947
+So I am, you previously saw DOCTOR is that right?
+
+PATIENT D947
+That's right.
+
+DOCTOR D947
+So I am the new DOCTOR.  So I took a look through your chart so it sounds like you were recently seen like in September in the Acute Care Clinic for some complaints of worsening shortness of breath and stuff like that.
+
+PATIENT D947
+Yeah and the COPD.
+
+DOCTOR D947
+So they sent you to the Pulmonary Clinic and you saw DOCTOR.
+
+PATIENT D947
+Right.
+
+DOCTOR D947
+He did the PFT test, he did a blood test.  Sounds like um, you know you have a little bit, what's known as moderate to severe you know COPD and um sounds like that at that time he thought that you are on the right medications and the best thing to do would just to be to exercise and he was contributing some of the symptoms to the deconditioning it sounds like.  Is that what he told you?
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+So how have you felt like since?
+
+PATIENT D947
+Well you know, he told me that I could use some of that inhaler more than I was originally told.
+
+DOCTOR D947
+Which one?
+
+PATIENT D947
+Uh, the Combivent.
+
+DOCTOR D947
+Okay.
+
+PATIENT D947
+And that I only need to use more often occasionally uh.  For the most part, it's, it's been fine I take the, I take so damn much medicine, the formoterol.
+
+DOCTOR D947
+Formoterol.
+
+PATIENT D947
+And then the Asmanex in the morning.
+
+DOCTOR D947
+Okay.
+
+PATIENT D947
+And that seems to bring me right through the evening when I take the formoterol again and that seems to be.
+
+DOCTOR D947
+Seems to be good?
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+Okay so you're feeling better than you were before.
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+Okay.
+
+PATIENT D947
+But uh, as far as the uh exercise uh, my wife and I used to do a lot of walking in the Forest Reserves until the weather got crappy.
+
+DOCTOR D947
+Right.  Did you used to do that like recently or in the distant past?
+
+PATIENT D947
+Oh recently up until you know the start of the fall when the weather started getting bad.  She drags me out to the mall a couple times a month.
+
+DOCTOR D947
+Yeah.  So you usually walk with your wife during the summer months but in the winter and fall you don't exercise as much.
+
+PATIENT D947
+Uh in the fall if the weather's nice we go.  You know if it's decent.  In the winter I.
+
+DOCTOR D947
+But it's a just an important thing to do.  You don't belong to a gym do you?
+
+PATIENT D947
+No.
+
+DOCTOR D947
+Um you now uh the YMCA or even just walking outside for you know a half an hour to an hour every day would be a good thing.  Um it sounds like you know your COPD is kind of where it is and the best thing that we can do to help that is give you the medications that we're giving you now, but also you need to optimize your health.  So you know to lose a little weight and continue to exercise is all good for lung function and can helped you feel better and things like that so.  Uh I would definitely recommend that.
+
+PATIENT D947
+Now we do have uh a Recreation Center in the Village.
+
+DOCTOR D947
+Good.  Do they have like a track or like a treadmill or something?
+
+PATIENT D947
+They got a nice walking track there.  It all goes around the basketball court.  You know I was talking to them and because of my a fib I could actually.
+
+DOCTOR D947
+Yeah.
+
+PATIENT D947
+They said they needed a letter from a doctor, my doctor.
+
+DOCTOR D947
+Uh-huh.
+
+PATIENT D947
+Before they could give me a membership.
+
+DOCTOR D947
+Oh clearance.  You need a letter from me?
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+Sure okay.  Uh and how have you been feeling otherwise?
+
+PATIENT D947
+You know really pretty good.  Like DOCTOR says we're holding you together pretty well aren't we?
+
+DOCTOR D947
+Yeah, sounds like it.  I mean you had the one episode of the COPD uh which you know wasn't too bad.  Uh so you have uh, you've been seen in the past with um some shortness of breath and things like that in the ER right?
+
+PATIENT D947
+Um yes.
+
+DOCTOR D947
+But you haven't had any episodes of shortness of breath or chest pain or edema or anything like that.
+
+PATIENT D947
+No.
+
+DOCTOR D947
+Okay.  You have the a fib right?
+
+PATIENT D947
+That's correct.
+
+DOCTOR D947
+And you're on what medications for that?
+
+PATIENT D947
+Coumadin.
+
+DOCTOR D947
+Coumadin.  And you're on metoprolol and tramadol.
+
+PATIENT D947
+And tramadol, Digoxin, diltiazem.
+
+DOCTOR D947
+You're on diltiazem as well?
+
+PATIENT D947
+Yes.
+
+DOCTOR D947
+Okay.  Alright.  You had one hospitalization where they had to change your diltiazem right, in the past.
+
+PATIENT D947
+Right.
+
+DOCTOR D947
+But now it's okay.
+
+PATIENT D947
+Now I'm on lisinopril also.
+
+DOCTOR D947
+For your high blood pressure.
+
+PATIENT D947
+Right.
+
+DOCTOR D947
+Okay and then uh high cholesterol you're on the simvastatin right?
+
+PATIENT D947
+That's correct.
+
+DOCTOR D947
+And the niacin, still take that?
+
+PATIENT D947
+That's correct.
+
+DOCTOR D947
+And I think your last numbers were pretty good, really good actually.  They were in; do you know when your last round was? I’ll tell you. It was July.
+
+PATIENT D947
+Yeah when they took the fasting blood test?
+
+DOCTOR D947
+Yeah.
+
+PATIENT D947
+Right.
+
+DOCTOR D947
+So that's pretty good, so I'd keep those kind of where they are.  Um so the diabetes is what we need to talk about today.  How you been doing with that?
+
+PATIENT D947
+Uh.
+
+DOCTOR D947
+How's your diet been?
+
+PATIENT D947
+My diet.  My problem doctor, is.
+
+DOCTOR D947
+@@@.
+
+PATIENT D947
+I'm a potato eater.
+
+DOCTOR D947
+That all takes potato signs.
+
+PATIENT D947
+Yes.  My mother and father were from Belgium and they went through the First World War and German invasion.
+
+DOCTOR D947
+Uh-huh.
+
+PATIENT D947
+Where they ate a lot of potatoes because that's all they had.
+
+DOCTOR D947
+They'd eat a lot of carbs and cheeses and all that kind of stuff.
+
+PATIENT D947
+Yeah and it kind of carried down into us.
+
+DOCTOR D947
+How long has your diet been bad, forever?  Have you ever been able to uh kind of get that under check at all or not really?
+
+PATIENT D947
+Well.
+
+DOCTOR D947
+So pretty much almost most of the time.
+
+PATIENT D947
+When I was working I was able to keep my weight reasonably in the high 190s or low 200s and if and you’re going to say if I would say if you would get out and walk you'd probably lose some weight.
+
+DOCTOR D947
+A little bit.  What did you do for a living?
+
+PATIENT D947
+I was a commercial salesman for Overhead Doors.
+
+DOCTOR D947
+Okay so you were out walking around a lot.
+
+PATIENT D947
+Yeah.  
+
+DOCTOR D947
+When did you retire?
+
+PATIENT D947
+Oh it's been eight years.  
+
+DOCTOR D947
+So we have a program here called the MOVE Program, have you heard of that before?
+
+PATIENT D947
+Uh I don't believe so.
+
+DOCTOR D947
+It's uh an active way to help veterans lose weight and programs and things like that.  Would you be interested in maybe doing something like that?  At least to assess you and just see ways we could help lose weight.
+
+PATIENT D947
+Um how often does it, I mean that probably requires coming in to the clinic.
+
+DOCTOR D947
+Yeah.  Yeah.  Coming to the class, I'm not really sure where the classes are.  I've heard good things from other veterans.  Some people like it, some people don’t, it's a personal preference.  The other thing I would recommend is to see the nutritionist too um to see if we can't work on some other healthy choices or ways that the foods that you like are also healthy for you.  So those are the two things that I recommend that you do and then I'll write the letter for the gym and I definitely think exercise is number one.  Number one and number two diet control and exercising.
+
+PATIENT D947
+Okay.
+
+DOCTOR D947
+I say this because you're last hemoglobin A1c, do you know what that is?
+
+PATIENT D947
+I'm not sure.
+
+DOCTOR D947
+That's what measures, so that's what measures your sugar over a three month period.  It's really good at giving us an idea of how you're dealing with the control of your diabetes.  Previously so we want that number below 7 and you probably below 6.5.  7 is kind of the cut-off.  You were 7.5 last November, this time last year.  In May you were 8.8, so you were up more than a point.  So you were poorly controlled on your diabetes.
+
+PATIENT D947
+Oh.
+
+DOCTOR D947
+What have your sugars been like?  Do you check them?
+
+PATIENT D947
+Oh like every other day you know.
+
+DOCTOR D947
+And what have they been?
+
+PATIENT D947
+Most of the time below 100s you know.  I'd say ranging between 98 and 120.
+
+DOCTOR D947
+Okay.  Do they ever get high?  When do you check them?
+
+PATIENT D947
+In the morning.
+
+DOCTOR D947
+Do you ever check them at night?
+
+PATIENT D947
+Uh no.
+
+DOCTOR D947
+And they never get really higher than that?
+
+PATIENT D947
+Uh, oh they have occasionally yeah.
+
+DOCTOR D947
+Yeah.  Recently?
+
+PATIENT D947
+Uh.
+
+DOCTOR D947
+So I mean you should be, you should be cause this number, this 8.5 number, 8.5 number is bad um and you're heading in the wrong direction.  We need to recheck it to make sure that it's pretty under @@@.
+
+PATIENT D947
+Well.
+
+DOCTOR D947
+You should check them in the morning and you should check them at night to give us an idea of what.
+
+PATIENT D947
+Okay.  There is another problems with doing that.
+
+DOCTOR D947
+What's that?
+
+PATIENT D947
+Is the Pharmacy, their directions are that I check it every other day and if I run out of the test strips.
+
+DOCTOR D947
+I can order some more.  I can always order you more test strips and I will today.  Do you get the test strips from us?
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+Um so, you're on metformin right?
+
+PATIENT D947
+Shoot that by me again?
+
+DOCTOR D947
+The medication that you're on, the metformin for the diabetes, do you take that?
+
+PATIENT D947
+Uh, is that the same as glipizide?
+
+DOCTOR D947
+Nope.
+
+PATIENT D947
+I'm taking glipizide.
+
+DOCTOR D947
+You're taking glipizide 10 but you're not taking the metformin?
+
+PATIENT D947
+I.
+
+DOCTOR D947
+You were in the past.
+
+PATIENT D947
+Don't have a prescription for it.
+
+DOCTOR D947
+So you're not on metformin, I'll see what else, so you're only controlled with the glipizide is that right?
+
+PATIENT D947
+That's correct.
+
+DOCTOR D947
+(Doctor answers a phone call)  Okay.  So I'm sorry uh where were we at?
+
+PATIENT D947
+Uh the diabetes medications.
+
+DOCTOR D947
+Yeah so, so you were not on the metformin in the past cause you have some baseline kidney disease right?
+
+PATIENT D947
+Oh yeah some damage to the kidneys from the high blood pressure.
+
+DOCTOR D947
+Right so uh you've been on the glipizide um 10 mg every day is that right?
+
+PATIENT D947
+That's correct.
+
+DOCTOR D947
+Okay.  And your A1c was getting better last time DOCTOR saw you.  You saw him about a year ago right?
+
+PATIENT D947
+Oh no, was it that long ago?
+
+DOCTOR D947
+Well let me see, one second.  DOCTOR, no he saw you in May.  Okay so um yeah and he talked about it then and we're going to talk about it again now is that the only concern is that the next step is to do insulin, giving yourself shots.  I know you're not thrilled about it.
+
+PATIENT D947
+I hate needles.  I've had so damn many needles stuck in me over the years.
+
+DOCTOR D947
+Yeah.
+
+PATIENT D947
+And I just hate them.
+
+DOCTOR D947
+So, so there's a couple ways of doing this um, so we can go right to the insulin or we can do diet and I'm talking strict diet control.  You know lose.  How much do you weigh right now?
+
+PATIENT D947
+Uh 229.
+
+DOCTOR D947
+226 and how tall are you?
+
+PATIENT D947
+Uh just a shade under 6 foot, like 5' 11 1/2.
+
+DOCTOR D947
+So you should be, your ideal body weight is more in the 180 range.
+
+PATIENT D947
+185?
+
+DOCTOR D947
+Yep so uh I mean you need to lose at least 20-30 pounds.  Which is, a lot, but I mean I'm talking ideally you need to lose at least 10 pounds, we need to get you exercising and you need to control your diet better um because I'm just, you know, I'm concerned.  You know, at your age diabetes can have, it can kind of wreak havoc on your body and with already the history of the atrial fibrillation that you have and already the history of COPD, you know these problems tend to mount up and this is one that we can definitely control.  But I think with some you know lifestyle modification, with some better diet, with some more exercise.  Uh maybe with one more pill uh that we take for diabetes uh we could better control this.  But I'm worried that you know that you went up that much.  It just shows that your diabetes is not as well controlled as we'd like and I think you would admitted that you're diet has been not as well right?
+
+PATIENT D947
+That's right.
+
+DOCTOR D947
+Okay.
+
+PATIENT D947
+I wo admit that.
+
+DOCTOR D947
+So what do you think about that?  Do you think that's a reasonable goal?
+
+PATIENT D947
+Yeah if it's going to make me feel better and add a few years to my life.
+
+DOCTOR D947
+Yeah absolutely.
+
+PATIENT D947
+I've got.
+
+DOCTOR D947
+Cause diabetes is just a tough disease and can cause a lot of problems but I think you know something that you can control but um we got to be proactive about it.  But aside from that um, you had an adrenalectomy for that @@@ right?  They took that off?
+
+PATIENT D947
+Of the adrenal gland, yeah.
+
+DOCTOR D947
+And you have oh you have sleep apnea right?
+
+PATIENT D947
+Yes.
+
+DOCTOR D947
+Um do you use the CPAP?
+
+PATIENT D947
+I do.
+
+DOCTOR D947
+Okay how's that working, better?
+
+PATIENT D947
+Well, yeah it took a long time to get used to.
+
+DOCTOR D947
+Yeah, no I'm sure it's a lot, but you're using it now?
+
+PATIENT D947
+Oh yeah.
+
+DOCTOR D947
+Good, well that's good.
+
+PATIENT D947
+Except when I go to see my grandchildren in northern Wisconsin.  I don't drag that thing around with me.
+
+DOCTOR D947
+How long did you go up there for?
+
+PATIENT D947
+Uh we usually only go for a weekend, three days.
+
+DOCTOR D947
+I see.  Well as long as you're using it uh you know by and large most of the time, you know I'm happy with that.  That's @@@.  Um let's see what else, so you have uh, you had a stroke in the past right?
+
+PATIENT D947
+Yeah a very mild one.
+
+DOCTOR D947
+And do you ever monitor your blood pressures at home?
+
+PATIENT D947
+Yes I do, yeah.
+
+DOCTOR D947
+What are they typically?
+
+PATIENT D947
+Uh you know normally they're uh, I guess it depends on the medication affects this.  Sometimes it's uh you know as low as 64/80 you know uh.  Sometimes it's you know 130/85 or something like that.
+
+DOCTOR D947
+But yeah, in the clinic here it's been pretty well controlled um so I'm happy with that.  We'll keep you on those medications.  And you have the low back pain from a disk herniation right?
+
+PATIENT D947
+Yes.
+
+DOCTOR D947
+How's that been doing?
+
+PATIENT D947
+Uh alright, yeah it's, the different things I do bother it yeah.
+
+DOCTOR D947
+Yeah.
+
+PATIENT D947
+My wife works part-time so I do, so I keep up with some of the housework for her and one of the worst things that just standing at the sink and doing the damn dishes.
+
+DOCTOR D947
+Really.
+
+PATIENT D947
+And it'll start to hurt and I think that's fairly sedentary activity, why should it bother me?
+
+DOCTOR D947
+Well, so you notice it more when you're standing for a long period of time or just when you're doing the dishes?
+
+PATIENT D947
+Well, mostly with those kind of activities.  You know when I'm walking it doesn't bother me.
+
+DOCTOR D947
+Okay.
+
+PATIENT D947
+Uh, it's kind of crazy.  I just never know when it's going to act up.
+
+DOCTOR D947
+You never know, it just comes and goes.  What do you do when you have the pain?
+
+PATIENT D947
+Uh.
+
+DOCTOR D947
+Do you take any medication?
+
+PATIENT D947
+But I'm cheap.
+
+DOCTOR D947
+Pretty cheap.  Do you take any Tylenol or anything like that?
+
+PATIENT D947
+Uh no I don't.  Like I say because I feel I take so damn much medications to begin with, I don't need anything more.
+
+DOCTOR D947
+Okay.  Um and then um have we ever done an abdominal ultrasound on you, do you know?
+
+PATIENT D947
+Hmm.
+
+DOCTOR D947
+Because typically over the age of 65, people that have smoked in the past uh deserve a abdominal ultrasound just to check for a aortic aneurysm.  It's kind of a routine screening.
+
+PATIENT D947
+Huh, no I've never had one.
+
+DOCTOR D947
+Well you had a CT scan of your thigh and shoulder in 2005 and it didn’t show any abnormalities, so I think we're probably okay.  Uh and then kind of health maintenance, do that the last colonoscopy was in 2004, it was normal.  Um you're last PSA was totally normal and that was in 2008, probably could recheck that.  Um so we'll do the colonoscopy in 2014, I think that’s the next one, ten years.
+
+PATIENT D947
+Okay.
+
+DOCTOR D947
+Um you got the flu vaccine I saw in October.  You don't smoke anymore, you used to right?
+
+PATIENT D947
+Uh yes, used to be a fairly heavy smoker. 
+
+DOCTOR D947
+A pack and a half a day for 40 years, that's what I saw in there, is that right?
+
+PATIENT D947
+Uh a pack and a half a day for 40 years would be.
+
+DOCTOR D947
+Fair?
+
+PATIENT D947
+Would be fair to say.
+
+DOCTOR D947
+And then uh do you drink alcohol anymore?
+
+PATIENT D947
+Um, a glass of wine occasionally.  When someone offers me a real good scotch I don't turn that down but that's about.
+
+DOCTOR D947
+So just socially okay.  Uh do you have any depression at all?  Do you ever get sad or anything.  Thoughts of you know, do you decreased energy or not sleeping well or anything like that?
+
+PATIENT D947
+No, uh uh.
+
+DOCTOR D947
+Not really.
+
+PATIENT D947
+I got a bunch of grandkids and three great grandkids, they kind of keep my, like I said they kind of keep my @@@.  And that just keeps your spirits up.
+
+DOCTOR D947
+Sure.  So you have some symptoms of urinary, I'm assuming hesitancy and you had some dribbling and things like that?
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+And you're on the terazosin now, better with that?
+
+PATIENT D947
+Yep.  I still pee an awful lot.
+
+DOCTOR D947
+You will.  Do you get up at night to urinate a lot?
+
+PATIENT D947
+Um yeah.  I usually go to bed between 10:30-11:00 o'clock and between 2 and 3 I'll be up to go and then I'll be up again around 6 to go, then I usually just stay up.  I'm up at 6 o'clock.
+
+DOCTOR D947
+Okay.  So let's see um and we're going to do a hemoglobin A1c today.  Uh did they give you information about that Advanced Directive?  In the event that you were to become unconscious or unable to make a medical decision, who would make the decision for you?  Did they give you information about that in the past?
+
+PATIENT D947
+Oh I have a Living Will on file here yes.
+
+DOCTOR D947
+You do.
+
+PATIENT D947
+No extreme measures.
+
+DOCTOR D947
+Um do you take any non-VA medications that we don't give you?
+
+PATIENT D947
+No.  Oh excuse me, other than an aspirin a day, children's aspirin a day.
+
+DOCTOR D947
+So you take a baby aspirin now.
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+Alright so what medications do you need refilled today?
+
+PATIENT D947
+Uh I need.
+
+DOCTOR D947
+I have you on the Combivent inhaler you have nine refills of that.  The albuterol rescue inhaler you have seven refills of that.
+
+PATIENT D947
+Yeah which I don't use the albuterol very often.
+
+DOCTOR D947
+How about the Digoxin?  I have that you only have one refill of that.  Do you want me to refill that one?
+
+PATIENT D947
+Yes and uh you know doctor I could use, if I could pick it up today, the metoprolol I probably got.
+
+DOCTOR D947
+Do you want to pick all this stuff up today or would you rather have most of it mailed and just pick up the metoprolol, whatever you'd like.
+
+PATIENT D947
+Uh the only thing I'm low on.
+
+DOCTOR D947
+Low on is the metoprolol.  Alright so I'll send everything else uh and uh the diltiazem you need a refill on that.  Uh formoterol, you've been on that.
+
+PATIENT D947
+No.
+
+DOCTOR D947
+So you pretty much need most of the stuff.
+
+PATIENT D947
+You know the formoterol I just opened the new box today and I've got at least one box sitting in there besides.
+
+DOCTOR D947
+And the Lasix, do you still take two tablets every morning and one at night?
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+40 in the morning and 20 at night.  And uh the lisinopril you have no refills and you take that every day right?  One mg every day?
+
+PATIENT D947
+Yeah uh-huh.
+
+DOCTOR D947
+And then the metoprolol, let's see we'll have you pick that up at the window.  You take 12.5 twice a day right?
+
+PATIENT D947
+That's correct, half tablet twice a day.
+
+DOCTOR D947
+That'll be ready for you to pick up at the window today.  Mometasone you have a lot of refills on, do you have enough of that?
+
+PATIENT D947
+The.
+
+DOCTOR D947
+The mometasone?  That's one of the other inhaler.
+
+PATIENT D947
+Is that Asmanex, is it the same thing?
+
+DOCTOR D947
+Hmm, let me check I'm not sure.  How many inhalers do you typically take every day?
+
+PATIENT D947
+Every day?
+
+DOCTOR D947
+Yeah.
+
+PATIENT D947
+I take the Asmanex, formoterol.
+
+DOCTOR D947
+The Asmanex is the mometasone.
+
+PATIENT D947
+And the Combivent.
+
+DOCTOR D947
+So do you need more of that or are you good on refills right now?
+
+PATIENT D947
+Uh I'm fine on the inhalers yeah.
+
+DOCTOR D947
+The mometasone okay.  The niacin I'll refill that and then the statin, you still take the statin drug right?
+
+PATIENT D947
+Yes, yeah that one.
+
+DOCTOR D947
+And the terazosin you take that as well and the Coumadin did they refill that for you?
+
+PATIENT D947
+Yes they do.
+
+DOCTOR D947
+Uh the glipizide.  Alright um let's see so every thing has been done here.  Anything else uh bothering you or things I should know about?
+
+PATIENT D947
+Uh no I was just at the Eye Clinic and I have the onset of glaucoma.
+
+DOCTOR D947
+Okay.  What are they doing with that?
+
+PATIENT D947
+Uh well they're going to see me in another couple months and uh see how; you know how much it's progressed.  It's a very slow progressing disease so I look at it, I'll probably be dead before I'm blind.
+
+DOCTOR D947
+That’s a way to look at it. So um any headaches or vision changes at all, aside from the kind of the glaucoma symptoms.
+
+PATIENT D947
+Uh no.
+
+DOCTOR D947
+Uh trouble swallowing, unintentional weight loss?
+
+PATIENT D947
+Nope.
+
+DOCTOR D947
+Um shortness of breath more than normal?
+
+PATIENT D947
+Nope.
+
+DOCTOR D947
+Chest pain, palpitations, anything like that?
+
+PATIENT D947
+No.
+
+DOCTOR D947
+Um do you have any abdominal pain at all, nausea, vomiting?
+
+PATIENT D947
+No.  Although I don't know if it's significant uh sometimes I have a helluva time with my bowel movements.
+
+DOCTOR D947
+Do you have some constipation?
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+Do you ever take any stool softeners at all?
+
+PATIENT D947
+Nope.
+
+DOCTOR D947
+Want to try one?
+
+PATIENT D947
+Sure.
+
+DOCTOR D947
+@@@.
+
+PATIENT D947
+If it'll help me go.
+
+DOCTOR D947
+It will.  Okay uh any cramping in your legs when you walk?
+
+PATIENT D947
+No, a lot of cramps at night when I sleep.
+
+DOCTOR D947
+Um.
+
+PATIENT D947
+Because the damn cat takes up most of the bed.
+
+DOCTOR D947
+Oh really.  When was your last, alright uh have a seat up here.  No lumps or bumps in your neck that you notice?
+
+PATIENT D947
+No.
+
+DOCTOR D947
+Can you take your glasses off for me?  Look right at my nose.  Follow my light with your eyes, don't move your head.  Stick your tongue out and say ah for me.
+
+PATIENT D947
+Ah.
+
+DOCTOR D947
+Yeah.  Okay.  Put your hand against my hand like this, @@@.  Shrug your shoulders up for me.  Smile like this.  Turn your head and cough.  Can you wrinkle your forehead like this?  Stick your tongue out like this.  Good.  Any trouble hearing at all?
+
+PATIENT D947
+No.  Although my wife.
+
+DOCTOR D947
+Selective hearing loss?
+
+PATIENT D947
+That's the likely theory.
+
+DOCTOR D947
+There you go.  Unfortunately we can't treat that much to her chagrin I'm sure.  Okay.  Can you lift your shirt up for me and I'll listen to your back here.  Deep breath.  Inhale and breathe out.  Relax.  Can you lay back for me?  I'm going to feel right there.  Any abdominal pain at all when I press there?
+
+PATIENT D947
+Nope.
+
+DOCTOR D947
+Okay.  You can sit up now.  You're not holding up any water in your legs or anything.
+
+PATIENT D947
+I'm sorry.
+
+DOCTOR D947
+You're not holding up any water in your legs or anything?
+
+PATIENT D947
+No.
+
+DOCTOR D947
+You've had some edema in the past right?
+
+PATIENT D947
+Yes.
+
+DOCTOR D947
+But since that time, no problems okay.  Alright any other questions or concerns for me right now?
+
+PATIENT D947
+Um, none that I can think of.
+
+DOCTOR D947
+Okay.
+
+PATIENT D947
+Um.
+
+DOCTOR D947
+We kind of went through everything.  Um well let me go talk with my attending really quick and I'll be right back after I see him okay.
+
+PATIENT D947
+Good to check.
+
+DOCTOR D947
+Alright.
+
+(DOCTOR OUT:  76:50  DOCTOR IN: 83:35)
+
+SECOND DOCTOR D947
+Hello.
+
+PATIENT D947
+Hi.
+
+SECOND DOCTOR D947
+I'm DOCTOR.
+
+PATIENT D947
+How are you doctor?
+
+SECOND DOCTOR D947
+I'm good.  So the only change I wanted to make was for your diabetes.  The last time we checked your diabetes test your A1c was quite high, about four months ago.  Have your blood sugars changed since the last test or have they been the same for a long time?
+
+PATIENT D947
+Uh, it's been fairly consistent.  I mean I don't check them as often as I should.
+
+SECOND DOCTOR D947
+Okay.
+
+PATIENT D947
+That's what DOCTOR told me.
+
+SECOND DOCTOR D947
+Okay.  Well you can go for some blood tests today and if it's still shows a high level we need to increase your medications.
+
+PATIENT D947
+Okay.
+
+SECOND DOCTOR D947
+Okay the other thing you could do is if you're a.m. the morning one is good, start checking different times of the day.  Maybe you could check it in the morning today before breakfast, check it before lunch on you know two days from now and then before dinner, then maybe two hours afternoon.  Make columns and write down your sugars when you check it so that way we'll know what time of the day is high.
+
+PATIENT D947
+Okay.
+
+SECOND DOCTOR D947
+Sometimes in the morning it will be good but it may be high later on in the day okay.
+
+PATIENT D947
+Understandable.
+
+SECOND DOCTOR D947
+Okay, alright.
+
+PATIENT D947
+Thank you so much doctor.
+
+FIRST DOCTOR D947
+Alright, so we kind of went over all your data um and the plan, I think is, so I'm going to put in a consult for that nutrition class.  I asked my attending about the MOVE class, you know the losing weight one and she said they meet once a month here.
+
+PATIENT D947
+Uh-huh.
+
+DOCTOR D947
+Uh and I think it would be worthwhile at least to try it, maybe just to get you started into getting back in the working out mode um, we'll do the Nutrition consult and then we're going to do a PSA.  We're going to do some basic labs and we're going to also do that hemoglobin A1c today.  If that's elevated I'm going to increase your glipizide.
+
+PATIENT D947
+Okay.
+
+DOCTOR D947
+To see.  I'd like to see you again in three months and when you come back I want you to do um a sugar diary so try to take it um every day and try to vary like DOCTOR was saying when you take it.  One day take it in the morning, one day take it before lunch and one day take it before you go to bed in the evening cause sometimes your sugars may be well controlled in the morning but maybe later on in the day they're not as well controlled and that's why.  Because the numbers that you're telling me right now like in the 120, the 90s-120s, don't correlate with the high hemoglobin A1c.  So I want to get another hemoglobin A1c just to make sure maybe that wasn't kind of a fluke thing and maybe it's a blood sugar @@@ something whatever and then you know if it's up we'll change it, if not we'll leave it how it is, okay.  And then let me go get some letterhead and I'm going to write uh the letter for your gym so that you can, one second hold on here.  Now I'm going to get some letterhead so that we can do that.  Okay official VA letterhead.
+
+PATIENT D947
+Okay now does this diet mean no more lasagna?
+
+DOCTOR D947
+Um.
+
+PATIENT D947
+Cause I have two Italian sister-in-laws that are marvelous cooks.
+
+DOCTOR D947
+I'm sure they are, all Italians are.  You know that stuff is all, because you know any carbohydrate turns into sugar obviously in your body so.
+
+PATIENT D947
+Yeah.
+
+DOCTOR D947
+Um so I'm not saying no never but take what you're eating now and cut it in half.  Do you know what I mean?  Don't stop all the lasagna you ever eat completely but try to reduce it and see if, you know we'll see if that doesn't help.  But it's tough with the holidays, I understand that.
+
+PATIENT D947
+Well the strange thing about the holidays, the only thing I really like is the turkey and dressing which is bad for me and the cranberry sauce which is bad for me.  The turkey is good, the rest of the things I like are bad.
+
+DOCTOR D947
+So just that you were evaluated here and that you can exercise without any restrictions?
+
+PATIENT D947
+Yeah.  For their liability.  
+
+DOCTOR D947
+And you never have had any chest pain or you know shortness of breathe with exertion or anything like that that you really notice?
+
+PATIENT D947
+No.
+
+DOCTOR D947
+Okay that's going to do it.  I'll put those consults in and I will also put in for you to pick up that metformin, not the metformin the metoprolol at the Pharmacy.
+
+PATIENT D947
+Okay.
+
+DOCTOR D947
+Okay and I'd like to see you again in three months with um the diary of your sugars and how they've been doing and varying the times that you take them.
+
+PATIENT D947
+Okay.
+
+DOCTOR D947
+If you run out of the test strips call me and I'll give you some more.  Okay.
+
+PATIENT D947
+Okay.  Very good, then I should take this to the check out.
+
+DOCTOR D947
+Check out and uh see you in a couple of months.  Have a very good holiday.
+
+PATIENT D947
+Thank you, you too doctor.
+
+DOCTOR D947
+Very nice to meet you.
+
+PATIENT D947
+It was nice meeting you.
+
+DOCTOR D947
+Okay.  Oh, oh I forgot.  I need you to get those blood tests today.
+
+PATIENT D947
+Oh.
+
+DOCTOR D947
+This is for you and I'll give you a hard copy.  You can get the labs drawn right up here.
+
+PATIENT D947
+I'm sorry.
+
+DOCTOR D947
+You can actually get the labs drawn right here.
+
+PATIENT D947
+Oh okay.
+
+DOCTOR D947
+So have a seat here and they'll call you when they're ready okay.
+
+PATIENT D947
+Sure.
+
+DOCTOR D947
+Very nice to meet you.
+
+PATIENT D947
+Thank you.
+
+DOCTOR D947
+I lied, they're not here right now, probably go downstairs.
+
+PATIENT D947
+I'll go downstairs.
+
+DOCTOR D947
+Just go downstairs okay.
+
+PATIENT D947
+Sure.  Thank you very much.
+
+DOCTOR D947
+Take care now.
+
+PATIENT LEAVES:  92:23.
+
+Time is 11:05
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238139
+TRANSACTION # 578-10-2-316-0103

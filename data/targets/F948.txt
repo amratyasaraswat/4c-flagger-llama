@@ -1,0 +1,41 @@
+Red Flag (494-538): "You keep canceling your appointments with me"
+
+Probe    (595-610): "What's the deal"
+
+Factor   (627-651): "My scooter lift is broke"
+
+Red Flag (1026-1053): "Yeah, your INR is low today"
+
+Probe    (1055-1084): "you been taking your Coumadin"
+
+Red Flag (3340-3370): "Are you taking your water pill"
+
+Red Flag (3387-3432): "Uh I am taking it occasionally, I'm taking it"
+
+Red Flag (3653-3667): "So you ran out"
+
+Red Flag (5124-5190): "I supposed to have my eyes checked too but they haven't been times"
+
+Factor   (5201-5242): "they haven't even contacted me about that"
+
+Red Flag (5707-5759): "Yeah it's because you're not taking your water pills"
+
+Probe    (6882-6918): "And I know you don't want to take it"
+
+Factor   (6968-7164): "But I've been so busy trying to like just get through the day, I tend of forget about it, just focus on the now with what I have to get done. If I have to get a letter out, pay a bill or whatever"
+
+Red Flag (8970-8995): "I don't do it religiously"
+
+CarePlan (10881-11090): "If you take two times each day, once in the morning when you wake up, that way you'll remember I need to take one pill when I wake up in the morning and then I need to take one pill when I go to sleep at night"
+
+Red Flag (16107-16138): "Your blood pressure is too high"
+
+Red Flag (17870-17942): "Well it probably ran out. The prescription probably ran out, tell NURSE"
+
+Factor   (18576-18658): "See I have a memory problem and a lot of things naturally I don't want to remember"
+
+CarePlan (19286-19307): "Write it on your frig"
+
+Red Flag (20292-20329): "you're out of your spironolactone too"
+
+CarePlan (21015-21211): "So when you go to the Pharmacy and you pick up your pills, they print out a nice thing for you, when to take them, so I want you to take a big piece of paper and tape it right on your refrigerator"

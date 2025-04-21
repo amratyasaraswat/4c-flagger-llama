@@ -1,0 +1,41 @@
+Red Flag (267-293): "blood pressure down to 135"
+
+Probe    (308-345): "Yeah you taking that medication right"
+
+Probe    (3124-3162): "So how are you taking your medications"
+
+Probe    (3673-3745): "Uh so you're taking the blood pressure medication. How many times a day"
+
+Probe    (3946-3979): "Which one do you take twice a day"
+
+Probe    (4141-4154): "As prescribed"
+
+Probe    (4665-4677): "Are you sure"
+
+Red Flag (6959-7019): "My blood pressure is back to, what was it 135 is what it was"
+
+Factor   (7502-7556): "I thought, I asked the lady and she said that's normal"
+
+CarePlan (7571-7667): "She didn't know you had all these other, it's normal for somebody who doesn't have heart disease"
+
+CarePlan (7722-7756): "Yeah but you're not normal anymore"
+
+CarePlan (7805-7928): "So we don't mean it in a bad way we mean it in just the, that way we identify you as somebody we need to take close care of"
+
+CarePlan (8082-8233): "I'm not saying your abnormal to make you feel bad. We just say that you don't have a normal heart anymore; you have blockages in the arteries and that"
+
+Red Flag (16397-16480): "But they said they were going to schedule it but I don't think they did it did they"
+
+Probe    (16446-16480): "I don't think they did it did they"
+
+Factor   (16547-16602): "I think it was a colonoscopy? They put me in a MRI and"
+
+Factor   (16635-16657): "I drank a lot of stuff"
+
+CarePlan (16672-16706): "Oh that's something different yeah"
+
+CarePlan (16816-17049): "The colonoscopy is they make a drink a prep overnight that makes you poop all night long cleans out your entire bowels and then they put you to sleep while they put a camera in your rectum and they look for cancers in your intestines"
+
+Red Flag (17052-17073): "You have not had that"
+
+Probe    (18524-18609): "So they wanted to do it but then they got worried that you were on that blood thinner"

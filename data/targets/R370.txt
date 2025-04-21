@@ -1,0 +1,29 @@
+Red Flag (205-228): "Leave @@@ at Holy Cross"
+
+Probe    (1648-1668): "So why did you leave"
+
+Red Flag (2809-2878): "Okay so you're gonna need to see the cardiologist as soon as possible"
+
+Red Flag (2940-2993): "Um I'm thinking whether I can have then see you today"
+
+Red Flag (3023-3047): "Not today @@@, not today"
+
+Probe    (4172-4196): "So why are you switching"
+
+Factor   (12653-12720): "not today cause I have some other things I want to do today, DOCTOR"
+
+Factor   (12858-12911): "No just @@@ 14 years old @@@ taxes @@@ crazy you know"
+
+Red Flag (19830-19939): "I didn't have one, they said they wanted to do surgery but I told them no, I’m going going that way, you know"
+
+Probe    (20278-20339): "Okay they're going through the groin and that's when you left"
+
+Factor   (22079-22118): "with the heart is I know when it’s time"
+
+Factor   (22245-22320): "And I know if I been you know when it get to the point where it's not right"
+
+CarePlan (23787-24068): "You know on the one hand he knows his body well and he's saying that you know he's okay now. On the other hand the problem is sometimes you know you can get a sudden blood clot in a narrow vessel and that can be deadly, like with no warning and we don't want that to happen to you"
+
+CarePlan (24117-24387): "Well yeah kind of like an embolism or it could be just, an embolism or it could be just a piece of um tissue inside the artery basically just breaks away and can cause a blockage and that can happen in people with heart disease which is why sometimes people die suddenly"
+
+CarePlan (24467-24549): "It can and uh so I want to talk to the cardiologist today before and get his input"

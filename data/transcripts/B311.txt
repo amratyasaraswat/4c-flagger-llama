@@ -1,0 +1,651 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR B311
+PATIENT?
+ 
+PATIENT B311
+Okay.
+
+DOCTOR B311
+Come on back.  How are you sir?
+
+PATIENT B311
+Oh I guess I'll make it.  Yeah.
+
+DOCTOR B311
+Hi.
+
+PATIENT B311
+Hello.
+
+DOCTOR B311
+How's @@@?
+
+PATIENT B311
+What is your name?
+
+DOCTOR B311
+DOCTOR.
+
+PATIENT B311
+DOCTOR.  Nice to meet you doctor.
+
+DOCTOR B311
+Nice to meet you. All right.
+
+PATIENT B311
+Yeah.
+
+DOCTOR B311
+You haven't been since June?
+
+PATIENT B311
+Oh yeah, it's been a since June since the last time.  It's been a pretty good while.
+
+DOCTOR B311
+Alright.  
+
+PATIENT B311
+Uh-huh.
+
+DOCTOR B311
+So you have diabetes.
+
+PATIENT B311
+Yeah that's what I ask you about today.
+
+DOCTOR B311
+Yeah.
+
+PATIENT B311
+I want know if this diabetes pill that I take, it just make me kind of uh dizzy or something and I don't know what kind of pill it is.
+
+DOCTOR B311
+Uh-huh.
+
+PATIENT B311
+But if the still makes, I'm gonna say, make you tired or something like that.  I can’t do anything @@@ get up when I walk I'm dizzy.
+
+DOCTOR B311
+@@@.
+
+PATIENT B311
+Uh-huh but anyway I went away and I forgot to take my, I took blood pressure pill, I had that with me but the diabetes pill I been taking, I forgot to take it with me.  I went down to Tennessee to a funeral.  A first cousin of mine passed away.
+
+DOCTOR B311
+Oh.
+
+PATIENT B311
+But anyway.  I was gone for about six days and I didn't take any medicine at all that I had, the test, it's the, what is it?  
+
+DOCTOR B311
+@@@.
+
+PATIENT B311
+Anyhow the reading was 91, 101, 91, 92.
+
+DOCTOR B311
+Without taking any meds.
+
+PATIENT B311
+@@@ I can’t understand.
+
+DOCTOR B311
+Yeah.
+
+PATIENT B311
+So I try @@@ place I live, next door @@@ her thing. The same thing, you know low I mean so I believe I'm on the borderline or something.  I'm gonna be, @@@ I mean, do I have?
+
+DOCTOR B311
+But do you have diabetes?
+
+PATIENT B311
+When I took that pill one time that pill put my reading down to 49.
+
+DOCTOR B311
+Oh really.
+
+PATIENT B311
+And I took it.
+
+DOCTOR B311
+Okay, don't take it anymore.
+
+PATIENT B311
+For like two or three days.
+
+DOCTOR B311
+@@@.
+
+PATIENT B311
+But no I didn't take it today cause I stayed @@@ all night anyway cause @@@.  So I be getting back when I leave @@@. 
+
+DOCTOR B311
+Okay, so, hold on, you have not been taking your medicine?
+
+PATIENT B311
+Well like I be telling, I got the pills the day before yesterday.
+
+DOCTOR B311
+Okay.  So you haven't been taking it, hold on, you're taking the medicine on and off?
+
+PATIENT B311
+Just that diabetes medicine.
+
+DOCTOR B311
+Right.
+
+PATIENT B311
+Now that I got the pills, now I take two pills a day.
+
+DOCTOR B311
+Right.  So you're taking that on and off.
+
+PATIENT B311
+On and off, yeah.
+
+DOCTOR B311
+Okay.  You took one pill two days ago.
+
+PATIENT B311
+That's right.
+
+DOCTOR B311
+And some days you have not taken the medicine.
+
+PATIENT B311
+@@@ I had @@@ in the car.  Uh my sugar was 93.
+
+DOCTOR B311
+Without taking the medicine.
+
+PATIENT B311
+Yeah without taking it.  That's why I don't understand like I don't get myself taking @@@ it came down @@@.
+
+DOCTOR B311
+And then when you do take the medicine you checked your sugar and it was in the 40s?
+
+PATIENT B311
+Well it be 49.
+
+DOCTOR B311
+Well don't take it then.
+
+PATIENT B311
+I @@@ leave it alone.  I really @@@ that pills @@@
+
+DOCTOR B311
+Don't take it then.
+
+PATIENT B311
+That pill.
+
+DOCTOR B311
+Don't take it then.
+
+PATIENT B311
+I believe that little pill makes you, makes you feel tired.  I got some dizziness, @@@ dizzy now.
+
+DOCTOR B311
+Okay don't take it, don't take it.
+
+PATIENT B311
+Alright.  Yeah cause as long as my sugars staying down I'd just keep them.  As long as my sugars stay down cause I try not to eat any starchy food and uh.
+
+DOCTOR B311
+Don't take it.
+
+PATIENT B311
+@@@.
+
+DOCTOR B311
+Don't take that, don't take the medicine.  What do you do when your sugar's in the 40s?  Do you take sugar?
+
+PATIENT B311
+Well no I don't take nothing.  I believe if my sugar's that low, drink some orange juice.
+
+DOCTOR B311
+Uh-huh.
+
+PATIENT B311
+That's what I do.  @@@ low sugars don't take it.
+
+DOCTOR B311
+Okay.  We're gonna recheck all of your labs but don't take any diabetes medicine.
+
+PATIENT B311
+Alright cause.
+
+DOCTOR B311
+Do you have high blood pressure?
+
+PATIENT B311
+Yes I do yeah.
+
+DOCTOR B311
+What do you take for it?  
+
+PATIENT B311
+Uh.
+
+DOCTOR B311
+The hydrochlorothiazide half tablet?
+
+PATIENT B311
+Uh yeah, I take two halves.
+
+DOCTOR B311
+Oh you have been taking it?
+
+PATIENT B311
+Uh yeah, I take my water; I take my blood pressure pill every morning right about 6:30.
+
+DOCTOR B311
+Okay do you have refills on it?
+
+PATIENT B311
+Huh.
+
+DOCTOR B311
+You have refills.
+
+PATIENT B311
+I have.
+
+DOCTOR B311
+Have you been getting the medicine?
+
+PATIENT B311
+Yeah, I got the medicine.
+
+DOCTOR B311
+Okay.
+
+PATIENT B311
+Uh-huh.
+
+DOCTOR B311
+Are you taking lisinopril?
+
+PATIENT B311
+What's that?
+
+DOCTOR B311
+Uh do you take two blood pressure meds or one blood pressure med?
+
+PATIENT B311
+Three.  I take that big old round pill, 90 mg.
+
+DOCTOR B311
+Yeah 90 mg.
+
+PATIENT B311
+Yeah that color yeah, look it's down here what all I just said I don't know what it is but it messes my love life.
+
+DOCTOR B311
+It affects your love life?
+
+PATIENT B311
+That's what I feel, @@@ my nature cause I have, look I'm 86 years old, you probably know.  Well I got a girlfriend and she's @@@ she’s @@@ Cook County. And I don't have any @@@.  
+
+DOCTOR B311
+You don't have any what?
+
+PATIENT B311
+Nature, cause I mean @@@.  You know love life.  I mean, yeah excuse me for @@@.
+
+DOCTOR B311
+Uh-huh.
+
+PATIENT B311
+But I feel that that blood pressure pill causes.
+
+DOCTOR B311
+Uh-huh.
+
+PATIENT B311
+Cause she probably said, my girlfriend probably said it's the big pill, the 90 mg, can I get the Viagra, I want to get the Viagra but before I could take it cause @@@.  Could I get some of that?  @@@.
+
+DOCTOR B311
+You do have some of that actually.
+
+PATIENT B311
+Oh.
+
+DOCTOR B311
+That you could take um but it's not the blood pressure.
+
+PATIENT B311
+So it's not the pill on that.  Well I can make it come up but it don't stay too long I mean, it's messing up cause we're not married.  I mean a couple of weeks ago I had the troubles.
+
+DOCTOR B311
+Hmm.
+
+PATIENT B311
+I wish you was a man, I can’t talk to you like that.
+
+DOCTOR B311
+Oh no, don't worry about it.
+
+PATIENT B311
+Oh that's right well you're a doctor but I don't want to embarrass you cause @@@.  I'm gonna lose the friendship.
+
+DOCTOR B311
+Okay.  Now.
+
+PATIENT B311
+(Laughter)
+
+DOCTOR B311
+Now have you always had this mole on your head?
+
+PATIENT B311
+This right here?
+
+DOCTOR B311
+Yeah.
+
+PATIENT B311
+I had this @@@.
+
+DOCTOR B311
+Has it always been there?
+
+PATIENT B311
+This all the time, @@@.
+
+DOCTOR B311
+You had the mole.
+
+PATIENT B311
+What's that?
+
+DOCTOR B311
+It's a black mole.
+
+PATIENT B311
+Oh, I did not have that until uh yeah I was born with this I'm sure cause I had this @@@.
+
+DOCTOR B311
+Okay.
+
+PATIENT B311
+But it's been that color absolutely that long.  @@@.
+
+DOCTOR B311
+Uh-huh.
+
+PATIENT B311
+@@@.
+
+DOCTOR B311
+@@@.
+
+PATIENT B311
+All of my life, I'm sure I was born with that thing.  I didn't know I had it.
+
+DOCTOR B311
+Are you sure you were born with it?
+
+PATIENT B311
+I'm pretty sure cause @@@.
+
+DOCTOR B311
+Yeah.  It hasn't changed in size or color?
+
+PATIENT B311
+I don't know, I didn't know I had it until I @@@.
+
+DOCTOR B311
+Okay, let me listen to you.  No chest pain right?
+
+PATIENT B311
+No, I don't have any.
+
+DOCTOR B311
+Shortness of breath?
+
+PATIENT B311
+None of that.
+
+DOCTOR B311
+Do you smoke?
+
+PATIENT B311
+No, @@@ no.  I @@@ about 15 years ago.
+
+DOCTOR B311
+Well good.  Um any other problems?
+
+PATIENT B311
+No @@@.
+
+DOCTOR B311
+Okay.  Let me listen to you.
+
+PATIENT B311
+Want me to take my jacket off?
+
+DOCTOR B311
+No, it’s okay, I can hear it.  Deep breaths.  Actually, do take the jacket off and put it right here.
+
+PATIENT B311
+If I can just sit straight up.  I knew it was gonna be cold you know.
+
+DOCTOR B311
+Deep breath, out again, again, out.
+
+PATIENT B311
+I got a cold for one thing.  I been buying some Vicks cough syrup and stuff from the drug store.
+
+DOCTOR B311
+Oh.
+
+PATIENT B311
+For a cold uh-huh.  Cause you all gave me a flu shot back here, I don't know I took it a while ago.
+
+DOCTOR B311
+How long have you had the cold?
+
+PATIENT B311
+Well @@@, November sometime I imagine.
+
+DOCTOR B311
+Any problems with your eyes or anything?
+
+PATIENT B311
+No my eyes @@@ for cataracts and I wear contact lens.
+
+DOCTOR B311
+Uh-huh.
+
+PATIENT B311
+And I have an appointment to go to see them on the 7th of February to the Eye Clinic.  They checks me out about once or twice a year to see what my eyes are doing.  Both my eyes been operated on.  
+
+DOCTOR B311
+Okay.  I'll be back.
+
+PATIENT B311
+Alright doc.
+
+DOCTOR B311
+Okay.  I'm going to put your meds in here.
+
+PATIENT B311
+I'll put my coat back on I guess.
+
+DOCTOR B311
+Sure.
+
+(DOCTOR OUT:  26:25    DOCTOR IN:  41:47)
+
+DOCTOR B311
+Alright.
+
+PATIENT B311
+Huh.
+
+DOCTOR B311
+Okay.  One question.  How is your vision?
+
+PATIENT B311
+Huh?
+
+DOCTOR B311
+How is your eyesight?
+
+PATIENT B311
+Okay.
+
+DOCTOR B311
+You’re going to see the eye doctor soon?
+
+PATIENT B311
+I see the eye doctor on the 7th.  I mean, yeah the 7th of February.
+
+DOCTOR B311
+Do you need to go see a dentist?
+
+PATIENT B311
+No the eye doctor.
+
+DOCTOR B311
+Okay, but do you need to go to the dentist?
+
+PATIENT B311
+Dentist, yeah I could have one tooth here.  No I don't see nobody now because if I don’t have a tooth here, I won’t be able to eat hardly.
+
+DOCTOR B311
+Well what about having dentures?
+
+PATIENT B311
+Uh.
+
+DOCTOR B311
+Go see them.  Go to see the dentist because you could probably wear dentures and be able to eat the food.
+
+PATIENT B311
+Oh yeah but.
+
+DOCTOR B311
+The way that your teeth are right now how can you eat anything?
+
+PATIENT B311
+Well I do eat.  I know, cause I got a few left here, I got some in the back on both sides on the bottom.
+
+DOCTOR B311
+Okay.
+
+PATIENT B311
+But.
+
+DOCTOR B311
+Well which dentist do you normally see?
+
+PATIENT B311
+I don't have a regular dentist you see because I, in fact to be totally straight with you, I'm afraid of dentists cause I don't want to get my teeth pulled.
+
+DOCTOR B311
+Uh-huh.
+
+PATIENT B311
+But maybe that's,@@@ , at the same time, I might pull my teeth out myself cause it got loser and I took my finger back one morning when I woke up.
+
+DOCTOR B311
+I don't think you should do that but um you should probably go to a dentist.  Um how's your hearing?
+
+PATIENT B311
+Okay.
+
+DOCTOR B311
+It's okay.
+
+PATIENT B311
+Yeah I'm not having any trouble hearing at all.
+
+DOCTOR B311
+Oh okay.
+
+PATIENT B311
+@@@.
+
+DOCTOR B311
+So don't take the metformin, I renewed all your meds um and you can go pick them up.  You can go pick them up in the Pharmacy.  But don't take the diabetes med., the metformin.
+
+PATIENT B311
+But I'm glad to hear that cause I been afraid of that cause I'm @@@.
+
+DOCTOR B311
+Yeah.  Don't take that.  I'll let you know if you need to come back and see us, they'll send you a letter.
+
+PATIENT B311
+Alright, uh-huh.
+
+DOCTOR B311
+Okay.
+
+PATIENT B311
+Okay.
+
+DOCTOR B311
+Um and everything else is fine.
+
+PATIENT B311
+But now I go to the Pharmacy now?
+
+DOCTOR B311
+Yeah and get all your labs checked right now.
+
+PATIENT B311
+Oh.
+
+DOCTOR B311
+Go to the Lab and go to the Pharmacy.
+
+PATIENT B311
+Oh I got to go to the Lab huh?  Okay.
+
+DOCTOR B311
+Okay.
+
+PATIENT B311
+Then go to the Pharmacy okay then doctor.
+
+DOCTOR B311
+Alright.
+
+PATIENT B311
+You be good now.
+
+DOCTOR B311
+You too.
+
+PATIENT B311
+Thank you doctor and I really appreciate it.
+
+DOCTOR B311
+No problem.
+
+PATIENT B311
+About that diabetes cause @@@.
+
+DOCTOR B311
+@@@.
+
+PATIENT B311
+Cause instead of staying down and I got that old big white pill I'm taking now but no sex.  That just @@@ on top of it alright doc.
+
+DOCTOR B311
+Alright.
+
+PATIENT B311
+Okay and @@@ doc.  Okay.
+
+PATIENT LEAVES:  44:27.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286108
+TRANSACTION # 578-10-2-316-0103

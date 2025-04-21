@@ -1,0 +1,17 @@
+Red Flag (2504-2550): "So have you ever been on it at any in the past"
+
+Red Flag (2566-2626): "Yeah like maybe ten years ago I was on it for a little while"
+
+Probe    (2641-2664): "Okay. Why did you stop"
+
+Red Flag (2680-2715): "I just didn't refill the medication"
+
+Red Flag (6448-6499): "Okay. Um any luck finding work since the last time"
+
+Red Flag (6539-6580): "Any luck finding work since the last time"
+
+Red Flag (6596-6598): "No"
+
+Red Flag (11055-11155): "Yeah. Do you want to try some medication for it? We could do two weeks and see if it calms it down"
+
+Red Flag (11171-11173): "No"

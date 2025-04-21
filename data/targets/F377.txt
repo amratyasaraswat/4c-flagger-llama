@@ -1,0 +1,25 @@
+Red Flag (561-613): "And then I think she placed a consult for Cardiology"
+
+Red Flag (659-681): "Have you seen them yet"
+
+Red Flag (697-699): "No"
+
+Probe    (725-732): "Why not"
+
+Red Flag (2106-2112): "sugars"
+
+Red Flag (2175-2216): "every now and then you know they are high"
+
+Red Flag (2512-2560): "Ah a few times, you know, it has been high right"
+
+Red Flag (2594-2627): "It’s normally high in the morning"
+
+Red Flag (2713-2734): "Where you get too low"
+
+Red Flag (2750-2753): "Yes"
+
+Red Flag (2864-2903): "maybe, maybe two or three times a month"
+
+Red Flag (3970-3998): "Do you see Podiatry normally"
+
+Red Flag (4014-4016): "No"

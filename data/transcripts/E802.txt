@@ -1,0 +1,539 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@  
+
+DOCTOR E802
+PATIENT?
+
+PATIENT E802
+@@@.
+
+DOCTOR E802
+How you been?
+
+PATIENT E802
+@@@.  Just relaying @@@.
+
+DOCTOR E802
+@@@ sir.
+
+PATIENT E802
+Yes.
+
+DOCTOR E802
+They couldn’t find you.  What happened?
+
+PATIENT E802
+Oh, in the washroom @@@.
+
+DOCTOR E802
+Oh, okay.  We couldn’t find you.
+
+PATIENT E802
+I, you know, should have asked.
+
+DOCTOR E802
+Okay.  How are you doing otherwise?
+
+PATIENT E802
+Okay.  @@@.
+
+DOCTOR E802
+@@@.  Did you @@@ appointment at Hines already or not yet?
+
+PATIENT E802
+Not yet.  
+
+DOCTOR E802
+Okay.  @@@.
+PATIENT E802
+@@@ right.  @@@.  
+
+DOCTOR E802
+You have been going to Neurology.
+
+PATIENT E802
+Neurology, yes.
+
+DOCTOR E802
+@@@.  
+
+PATIENT E802
+The Eye Clinic.  
+
+DOCTOR E802
+Hm hmm.
+
+PATIENT E802
+I haven’t gotten any appointment, I haven’t been up there yet.
+
+DOCTOR E802
+@@@.
+
+PATIENT E802
+Yes.  
+
+DOCTOR E802
+Okay.  @@@ sugars been?
+
+PATIENT E802
+@@@ a little high. 
+
+DOCTOR E802
+A little high?
+
+PATIENT E802
+Hm hmm.
+
+DOCTOR E802
+Okay.  Do you have your log?
+
+PATIENT E802
+I usually bring it.  
+
+DOCTOR E802
+@@@.  
+
+PATIENT E802
+Blood pressure seems to be staying okay. It’s just the sugars.  
+
+DOCTOR E802
+@@@.  Do you follow up with the pharmacist?
+
+PATIENT E802
+Yes, I’m back with the pharmacist.
+
+DOCTOR E802
+Okay.  Tell me what’s going on with your sugars. @@@ your sugars are uncontrolled @@@.
+
+PATIENT E802
+Mostly, uh, eating and that’s about .
+
+DOCTOR E802
+Eating?
+
+PATIENT E802
+Yea.  @@@ but I am not eating on a regular basis @@@.  I was with the dietician and she told me not to skip breakfast.  I usually don’t eat breakfast.  
+
+DOCTOR E802
+@@@.  What do you take for diabetes?
+
+PATIENT E802
+Okay I am on insulin.
+
+DOCTOR E802
+Taking regular insulin?
+
+PATIENT E802
+NPH.
+
+DOCTOR E802
+How much?
+
+PATIENT E802
+Um, 55 and 52.  One 55 in the morning and 52 in the evening.
+
+DOCTOR E802
+You take any other medications?
+
+PATIENT E802
+Um, diabetes?  No.  
+
+DOCTOR E802
+@@@.  
+
+PATIENT E802
+Just the insulin.
+
+DOCTOR E802
+Okay.  Your blood pressure, looking on the lower side.
+
+PATIENT E802
+Hm hmm.
+
+DOCTOR E802
+Do you feel dizzy at all?
+
+PATIENT E802
+Sometimes.
+
+DOCTOR E802
+What happens?
+
+PATIENT E802
+I just sit down and relax a few minutes until it goes away.
+
+DOCTOR E802
+Okay.  What do you think @@@?
+
+PATIENT E802
+I am not sure.  Um, you think it is too low?
+
+DOCTOR E802
+It is on the low side.
+
+PATIENT E802
+@@@.  I take the hydrochlorothiazide and lisinopril.
+
+DOCTOR E802
+Hm hmm.   And are you taking the nifedipine as well?
+
+PATIENT E802
+Yeah, nifedipine, yes.
+
+DOCTOR E802
+Okay.  How much nifedipine are you taking?
+
+PATIENT E802
+One a day.
+
+DOCTOR E802
+One a day?  What’s the strength?
+
+PATIENT E802
+@@@.  I am not sure.
+
+DOCTOR E802
+Do you get any @@@ this @@@ or @@@?
+
+PATIENT E802
+Uh, I have been taking the same ones that I was given.
+
+DOCTOR E802
+Oh, okay.  @@@ pharmacy looks like in the end of April.
+
+PATIENT E802
+April, right.
+
+DOCTOR E802
+@@@ had changed the dose.
+
+PATIENT E802
+The dose, yea.
+
+DOCTOR E802
+Alright, so which one are you taking?
+
+PATIENT E802
+That’s the one I am taking.
+
+DOCTOR E802
+The new one.  You picked that one up on.
+
+PATIENT E802
+Yea the 20th, 20th of April I think.
+
+DOCTOR E802
+The 21st of April.  So that is the one you are taking?
+
+PATIENT E802
+Yes.  Uh huh.
+
+DOCTOR E802
+@@@ a little bit on the lower side.  @@@.
+
+PATIENT E802
+Okay.
+
+DOCTOR E802
+So we are going to just back off it a little bit more.  Are you losing weight?
+
+PATIENT E802
+Yes.
+
+DOCTOR E802
+Are you trying to lose weight?
+
+PATIENT E802
+Ah, yes and no.
+
+DOCTOR E802
+@@@.
+
+PATIENT E802
+So I really never paid it any attention.  
+
+DOCTOR E802
+You lost some weight since September.  It is the lowest it has been a year @@@.
+
+PATIENT E802
+@@@.
+
+DOCTOR E802
+@@@ good.  You can lose weight @@@ if you have some @@@ couple @@@.  So maybe you can try to eat @@@ descrease.
+
+PATIENT E802
+Okay, thank you.
+
+DOCTOR E802
+Um, you follow with the psychiatrist?
+
+PATIENT E802
+Yes, I do.
+
+DOCTOR E802
+Okay.
+
+PATIENT E802
+DOCTOR.
+
+DOCTOR E802
+Okay and what do they give you?
+
+PATIENT E802
+Ah, the quetiapine, the nortriptyline, and @@@.  
+
+DOCTOR E802
+Okay.
+
+PATIENT E802
+@@@ take that twice a day and now that I take @@@ bedtime.
+
+DOCTOR E802
+Is that helping?
+
+PATIENT E802
+Yes, it is helping.  
+
+DOCTOR E802
+Okay.  Alright so the main thing that we are going to work on are the diabetes control.
+
+PATIENT E802
+Yes, yes.  That’s the main thing.
+
+DOCTOR E802
+Yea, so I will see have to see what the number comes up as today and then we will go from there. 
+
+PATIENT E802
+Yes.
+
+DOCTOR E802
+Now your blood pressure, I am going to decrease your medications and you are going to follow up with Hines @@@ the time @@@.
+
+PATIENT E802
+Yes, yes.  
+
+DOCTOR E802
+When was the last time you changed your diabetes medications?
+
+PATIENT E802
+It has been a while, um, I was with the pharmacist and, and I was taking 55 and @@@.  So she told me to stay with that.
+
+DOCTOR E802
+The @@@.
+
+PATIENT E802
+Hm hmm.  
+
+DOCTOR E802
+Anything else @@@, any problems, @@@?
+
+PATIENT E802
+Just like you said, the dizzyness.
+
+DOCTOR E802
+@@@.
+
+PATIENT E802
+No, no.
+
+DOCTOR E802
+@@@.
+
+PATIENT E802
+Yea, I did @@@ now, no.
+
+DOCTOR E802
+Okay.
+
+PATIENT E802
+I know my limitations.  Stay out of the heat when I get overheated, I go somewhere and get cool or sit down and. 
+
+DOCTOR E802
+Can I have you up here?
+
+PATIENT E802
+@@@.  That was a big scare to me.
+
+DOCTOR E802
+Yeah.  
+
+PATIENT E802
+I go back on the 7th @@@ I’m not going as much as I should.
+
+DOCTOR E802
+Okay.  Deep breath.  Deep breath.  Okay.  Okay, open your mouth.
+
+PATIENT E802
+@@@.
+
+DOCTOR E802
+Alright.  @@@.  Okay.  Hard as you can.  @@@.  Okay.  @@@.  Now push to me.  Relax.  @@@.  Can you @@@ up?  @@@.  Lift up.  Some weakness there huh?
+
+PATIENT E802
+Yes.  
+
+DOCTOR E802
+Okay, have a seat.  Let me go talk to DOCTOR.
+
+PATIENT E802
+Okay.  
+
+DOCTOR E802
+Did you see the foot doctor yet, you said already?
+
+PATIENT E802
+No, I haven’t.  No. @@@.
+
+DOCTOR E802
+What about the eye doctor.
+
+PATIENT E802
+Eye doctor, yes, once a year.
+
+DOCTOR E802
+Okay, when was the last time you saw them?
+
+PATIENT E802
+Um, it had to be February.
+
+DOCTOR E802
+@@@ anything @@@ diabetes in your eye.
+
+PATIENT E802
+Not other than @@@ the cataracts.
+
+DOCTOR E802
+Oh, okay.  
+
+PATIENT E802
+@@@.  
+
+DOCTOR E802
+Okay, they said that you had mild diabetes changes.
+
+PATIENT E802
+Yes.
+
+DOCTOR E802
+Um, @@@ the foot doctor, you said you were going to do that.
+
+PATIENT E802
+Yes.
+
+DOCTOR E802
+Do you know how to do that?
+
+PATIENT E802
+No I don’t.
+
+DOCTOR E802
+@@@ Podiatry Consult in June so that is okay.
+
+PATIENT E802
+Okay.  It is coming up soon.  
+
+DOCTOR E802
+Okay.  I will be back.
+
+(DOCTOR OUT:  87:25  DOCTOR IN:
+
+DOCTOR E802
+@@@.  Um, this one, I have had a @@@ 64 @@@, happened at that time, do you know?
+
+PATIENT E802
+No I don’t.  No, I just, that is the lowest I have ever had.
+
+DOCTOR E802
+Okay.  Then there was a 41 one  right here.
+
+PATIENT E802
+Right. No, that’s a “hi.”  
+
+DOCTOR E802
+Oh, okay, it is “hi.”  Okay.  Alright.  So the 64, do you remember if you ate that day or?
+
+PATIENT E802
+Hm, no I don’t.  
+
+DOCTOR E802
+Okay do you know what happens when your sugar low?
+
+PATIENT E802
+@@@.
+
+DOCTOR E802
+How you feel when you sugar gets low?
+
+PATIENT E802
+No.  I used to, like I said, if I get a little dizzy or something, I sit down.  So I am not sure @@@.
+
+DOCTOR E802
+Okay.  Here is what we are going to do.  We are going to stop the nifedipine, the blood pressure medication, and then @@@,  another kind of insulin, to your regimen.
+
+PATIENT E802
+Okay. 
+
+DOCTOR E802
+Um, it is called @@@.  So you take NPH right now and then you are going to take @@@.
+
+PATIENT E802
+@@@.  Okay.
+
+DOCTOR E802
+Five units that we are going to add.
+
+PATIENT E802
+Okay.
+
+DOCTOR E802
+The @@@ sugar @@@ for about eight hours.  @@@.
+
+PATIENT E802
+Okay.
+
+DOCTOR E802
+And the way to do it is you draw up the 5 units of the @@@ insulin and then you draw up the rest of the NPH and inject.
+
+PATIENT E802
+Oh okay.  In one.
+
+DOCTOR E802
+One shot.  @@@.
+
+PATIENT E802
+Okay.  
+
+DOCTOR E802
+@@@ show you how to do it @@@.  @@@ you’re going to see the nurse @@@.
+
+PATIENT E802
+Okay.  
+
+DOCTOR E802
+And you need to keep checking your sugars. If you drop again @@@ We need @@@ don’t do that. Okay?
+
+PATIENT E802
+Okay.
+
+DOCTOR E802
+And then, stop your nifedipine because of the dizziness and because of the @@@ blood pressure, that will get better.  Okay?
+
+PATIENT E802
+Okay.
+
+DOCTOR E802
+Any questions @@@?
+
+PATIENT E802
+No.
+
+DOCTOR E802
+Okay, let me just @@@ and I will put the medicines in.  
+
+PATIENT LEAVES:  99:20
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800515/JOB#  1300329
+TRANSACTION # 578-10-2-316-0103

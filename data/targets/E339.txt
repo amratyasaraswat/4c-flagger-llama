@@ -1,0 +1,15 @@
+Red Flag (740-793): "Your blood pressure is a little bit on the lower side"
+
+Red Flag (908-946): "How's the Parkinson's medication going"
+
+Red Flag (972-1030): "I don't know how, what it's supposed to do for me you know"
+
+Factor   (990-1030): "what it's supposed to do for me you know"
+
+Probe    (1289-1317): "Who said you had Parkinson's"
+
+CarePlan (7471-7643): "Yeah you have a little bit of cog, and then you also have this thing called, maybe you do, a little bit, not that bad. You also have this thing called cogwheeling rigidity"
+
+CarePlan (7679-7745): "So it's in people who have pretty bad Parkinson's and @@@ rigidity"
+
+CarePlan (7783-7860): "Which I don't think you have but you're on medication so maybe you did before"

@@ -1,0 +1,21 @@
+Red Flag (2734-2740): "sugars"
+
+Red Flag (2772-2803): "They've been rising and falling"
+
+Probe    (3981-4114): "So let me ask you a question, be honest with me, you know cause it helps me take care of you, how good are you at taking this regimen"
+
+Factor   (4132-4248): "Uh for the most part uh when I was working and my schedule being erratic I wasn't taking the insulin on a time basis"
+
+Red Flag (4454-4494): "Um and I'm looking at your A1c right now"
+
+Red Flag (4553-4560): "It's 12"
+
+Red Flag (4718-4754): "Your blood pressure is a little high"
+
+Probe    (6091-6150): "So are you taking your blood pressure medications regularly"
+
+Red Flag (6986-7032): "No I don't have a machine, oh I need a machine"
+
+Probe    (7051-7100): "How have you been checking them without a machine"
+
+Red Flag (9212-9375): "Now this is your A1c and you can date it back to 1989 12, 10, 11, 11, 12, 11, almost 12, 12. So going back 10 years basically your sugars have not been controlled"

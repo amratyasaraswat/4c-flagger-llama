@@ -1,0 +1,477 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@@.  
+
+DOCTOR F232
+PATIENT.
+
+PATIENT F232
+Yeah.  How you doing?
+
+DOCTOR F232
+How's everything going?
+
+PATIENT F232
+Oh not too bad.
+
+DOCTOR F232
+Oh not too bad okay.  So you know I was reading up on some of your follow-up appointments um, I think I saw you in May and you saw Neurology um after that.  They seemed to be okay with the medications you were on for seizures.  Have you had any seizure issues or no?
+
+PATIENT F232
+No.
+
+DOCTOR F232
+Good.  When was the last time?
+
+PATIENT F232
+I'm not sure.
+
+DOCTOR F232
+Okay.
+
+PATIENT F232
+Probably November.
+
+DOCTOR F232
+Uh when you were incarcerated it was happening there pretty frequently though right?
+
+PATIENT F232
+Right.
+
+DOCTOR F232
+Um would you say a couple of months, six months?
+
+PATIENT F232
+Maybe like four months.
+
+DOCTOR F232
+Okay.  Just to get an idea.  Okay um and then the other thing was um you know I think we went up on some of your medications.  Did you start taking the higher dose of insulin?  Yeah okay and then the higher dose of blood pressure medication too?
+
+PATIENT F232
+Yeah.
+
+DOCTOR F232
+Okay.
+
+PATIENT F232
+Now I'm currently almost out of some medications.
+
+DOCTOR F232
+Through?  Okay try to refill it.
+
+PATIENT F232
+Even though I was gonna talk to the.
+
+DOCTOR F232
+Pharmacist?
+
+PATIENT F232
+When I seen the pharmacist, there’s some that she didn't send it out.
+
+DOCTOR F232
+Okay.  Do you remember what it was specifically?
+
+PATIENT F232
+She sent me the syringes for...
+
+DOCTOR F232
+The insulin?
+
+PATIENT F232
+No, no @@@.  The one that I have to take every month?
+
+DOCTOR F232
+Uh the B12.
+
+PATIENT F232
+Right.  She didn't send the B12.
+
+DOCTOR F232
+Okay.  It might be um.
+
+PATIENT F232
+And she didn't.
+
+DOCTOR F232
+Yeah, yeah. I see that.
+
+PATIENT F232
+And she didn't send me the @@@.  
+
+DOCTOR F232
+Okay.  Are you out of those?
+
+PATIENT F232
+Yes.
+
+DOCTOR F232
+Okay.
+
+PATIENT F232
+@@@ all the medications.  That's the @@@ one and uh.
+
+DOCTOR F232
+Okay.  Well let's go ahead and refill that.  B12 looked okay.  Uh so you know sometimes we stop the B12 so I think that for the next whole month you know your last level was in May and before then you had been on the low side so we're pretty good so we can talk about refilling that.  I'll need to talk to the attending about that okay.  But definitely the lamotrigine.  And any other ones that you need?
+
+PATIENT F232
+Yeah mostly all of them.
+
+DOCTOR F232
+Yeah.
+
+PATIENT F232
+Cause I've been.
+
+DOCTOR F232
+You’ve been @@@ couple months.
+
+PATIENT F232
+And I was out of Tylenol also.
+
+DOCTOR F232
+Yeah um okay.  In terms of and do you get it mailed to you or um?  Yeah cause you have refills on all these guys.  So what you do is you can call it in.
+
+PATIENT F232
+Well I didn't want to call it in cause I wasn't there.
+
+DOCTOR F232
+Okay.
+
+PATIENT F232
+Sometimes they just leave it on the porch.
+
+DOCTOR F232
+I see what you're saying okay, okay.  So you know if you're not home if you just want to pick it up in the future okay.
+
+PATIENT F232
+No I can pick it up today.
+
+DOCTOR F232
+Yeah no everything is pretty much good to go.  I'll make sure that um if we need to do B12 we will but yeah I mean lamotrigine um there for you to pick up.  I guess they mailed it on June 1st, I don’t know if you got that um.  But when you go there you can talk about yeah hey I would like all my medications to be um for me to pick up okay.
+
+PATIENT F232
+So it's just for today.  I'll be.
+
+DOCTOR F232
+In the future do you want them mailed to you?
+
+PATIENT F232
+Yeah.
+
+DOCTOR F232
+Yeah they can mail them.
+
+PATIENT F232
+Now the insulin I had like one and a half full.
+
+DOCTOR F232
+Okay.  So you should probably, so you have refills on the, we'll make sure you've got whatever is necessary for another month's supply okay.  There's 1 1/2 of those uh @@@ right?  How much you know, how many injections can you get off of that?
+
+PATIENT F232
+Uh I'm not sure but it's almost a month, maybe a little more than that.
+
+DOCTOR F232
+Okay one vial okay alright.  We'll make sure that you have enough to last.  What have your blood sugars been running since you went up on the insulin?
+
+PATIENT F232
+Well it's okay but then I've also been eating.  I don't know what's getting me so hungry but.
+
+DOCTOR F232
+Yeah.  What's the, what is the blood sugar like?
+
+PATIENT F232
+It's 150-160.  And I get up during the night and I'm just so hungry I just have something to eat.
+
+DOCTOR F232
+Okay.  Do you think it's because of the insulin?  You didn't notice this yeah.  I'm pretty sure it's not the insulin okay.  Does your blood sugar ever drop really low like 40s, 30s, anything like that?
+
+PATIENT F232
+No.
+
+DOCTOR F232
+Okay.  And you know for the first time, you know when you wake up what are your blood sugars then?
+
+PATIENT F232
+It's rather high because I woke up during the night and I've eaten.
+
+DOCTOR F232
+Yeah if you've eaten yeah sure.
+
+PATIENT F232
+I don't know is there something I can do to maybe when that happens I can get?
+
+DOCTOR F232
+Yeah we can.
+
+PATIENT F232
+Like a snack or something I can have uh.
+
+DOCTOR F232
+Um during the night you mean?  We can to sort of talk about that I mean you know I don't know if it's related to your insulin and then if that's the case you know whether there needs to be a modification um and it's always at night or just during the day you're hungry too?
+
+PATIENT F232
+Well it's during the day also.
+
+DOCTOR F232
+And always or you know just sort of randomly goes, it'll come?
+
+PATIENT F232
+Hmm it's sort of random but then it's also, I've been noticing my weight.
+
+DOCTOR F232
+Yeah.
+
+PATIENT F232
+I've been gaining weight.
+
+DOCTOR F232
+@@@ .  Yeah I mean at one point you were down to 182 last year.  For the most part 190s.  You're a little higher than you were the past couple visits but its stable you know.  It looks like your baseline has been 190 plus or minus you know 5 but um then again how many months has it been like this?
+
+PATIENT F232
+About three.
+
+DOCTOR F232
+Three months okay.
+
+PATIENT F232
+But I am getting a @@@.
+
+DOCTOR F232
+You feel like you're gaining a little weight okay.  No weight loss or anything like that okay.  Um so we'll talk about what we can do with that.  Any other issues bothering you?
+
+PATIENT F232
+Uh uh.
+
+DOCTOR F232
+Uh so the one thing, I think I tried to call um your home to do one of the last test I worked on, the hepatitis panel and I think it was done by the pharmacist but what came positive, which was hepatitis C but not like active infection.  Meaning that you may have had it in the past okay.  Um the.
+
+PATIENT F232
+How far back can it go?
+
+DOCTOR F232
+It can be whenever.  All we know is that you have an antibody against it and there's no vaccine so that means you know sometimes, you know the vaccine that can cause your antibody to be positive meaning that you were exposed to it.  Um but this is unclear.  We did another test to see if there's any active hepatitis.  That was negative okay.  Um so it's something for us to monitor you know uh at this point we put a consult in to the liver doctors and they didn't act like anything needed to be done you know but let me talk to the attending doctor too about any concerns you know that we have.  Now in the past have you had any tattoos you know you have this one um any other tattoos or anything like that?
+
+PATIENT F232
+No.  This I did when I was 14.
+
+DOCTOR F232
+Was it with a needle though or?
+
+PATIENT F232
+Yeah.
+
+DOCTOR F232
+I mean so.
+
+PATIENT F232
+But that was quite a while ago.
+
+DOCTOR F232
+Yeah but I mean hepatitis um again it can be an exposure and then you're done with it you know.  I'm not saying it's that necessarily.  Um you know blood transfusion, unsafe sex, IV drug use, any of those things could be a potential source okay.  But in any case you don't have anything active right now okay.  It's just something to be aware of.  At one point you were exposed to it okay.
+
+PATIENT F232
+Yeah.
+
+DOCTOR F232
+Do you have any questions or concerns about that?  And your liver function test was okay.  I don't think there are any issues that we're worried about you know causing disease right now.  Yeah any @@@ everything so.  And I'll talk to the attending about it too and see if we need to do anything else but really you know it was one test was positive and so that reflects maybe an infection in the past okay.  Alright if you have a seat I'll just take a quick look at you, can you have a seat?  Now you weren't taking the insulin in the prison right?
+
+PATIENT F232
+Huh?
+
+DOCTOR F232
+When you were incarcerated were you taking the insulin then or were they not giving it to you?
+
+PATIENT F232
+They were just giving the metformin.
+
+DOCTOR F232
+Metformin.
+
+PATIENT F232
+And then the glyburide.
+
+DOCTOR F232
+Yeah how high were your sugars going then?  Do you know?
+
+PATIENT F232
+No they were really low.
+
+DOCTOR F232
+They were low, even though you were on, you didn't have the insulin it was still low?  Hmm interesting.  You're still taking the 5 units?
+
+PATIENT F232
+That was, the thing was that they didn't give me very much to eat.
+
+DOCTOR F232
+Yeah, almost like a @@@ yeah.
+
+PATIENT F232
+And dinner would be like at 5:30 and the blood test would be like 5:30 in the morning.
+
+DOCTOR F232
+Oh so that's all, okay.  Okay alright.  Either way you know I think the dosage of insulin that we have you on are reasonable, you know if you have episodes of dizziness or lightheadedness just go back to your old doses okay.  I think it was 15 and 10.  Correct me if I’m wrong.
+
+PATIENT F232
+No, that’s right.
+
+DOCTOR F232
+Uh let me take a listen to you okay.  Deep breath and out, again and out, again and out, deep breath.  I'll listen to your chest.  Any vision changes, vision blurriness or anything like that?  Okay.  And when was the last time you saw the eye doctor?
+
+PATIENT F232
+Uh not too long ago.  It was the end of June.
+
+DOCTOR F232
+End of June okay.  Was it here?
+
+PATIENT F232
+No I got Pearle Vision I get it.
+
+DOCTOR F232
+Okay you got just a for.
+
+PATIENT F232
+No I got a new pair of glasses.
+
+DOCTOR F232
+Okay.  We would probably also, when was the last time that you saw an ophthalmology doctor?  Did you ever see uh you know an exam they'd be looking at the back of your eye?
+
+PATIENT F232
+I don't know if I have one coming up or I missed it.
+
+DOCTOR F232
+Let me double check on that one and then foot doctor do you normally see him?
+
+PATIENT F232
+Uh yes.
+
+DOCTOR F232
+Okay.  Any numbness, tingling or anything like that?
+
+PATIENT F232
+No.  Should I take off my shoes?
+
+DOCTOR F232
+Yeah.
+
+PATIENT F232
+Okay.  They gave me some stuff for the, my toenail pain uh.
+
+DOCTOR F232
+The discoloration?  Is that helping at all? 
+
+PATIENT F232
+Yeah.
+
+DOCTOR F232
+I think you saw Dermatology right for the infection there?
+
+PATIENT F232
+@@@.
+
+DOCTOR F232
+Okay.
+
+PATIENT F232
+It was this toe that has it.
+
+DOCTOR F232
+So it was this toe.  Do you feel like your toes are getting blacker or about the same?
+
+PATIENT F232
+They're about the same.
+
+DOCTOR F232
+Are you feeling that? Same all over the place?
+
+PATIENT F232
+Yeah.
+
+DOCTOR F232
+Okay how about there, here, here, here, no?  Okay good, okay good.  Here let me take a look.  Let me see what the plan was for that specifically.  Okay so you have a Podiatry appointment on the 13th okay.  So in terms of you know anti-fungals or anything they can talk about it there too so that's in three days um and then if you need to reschedule you can always schedule with the clerk.  Uh we'll talk about it in a second.  Let me see if you're due for anything.  Okay.  Um so one other thing just vaccination-wise.  One of the vaccines that you could use um I think your tetanus was up-to-date but there's one called TDAP and it's a tetanus so it makes you up-to-date for that for ten years and then whooping cough.  Since whooping cough affects you know people as they get older.  It used to be just kids but once your immunity wears off, it does you know when you get older as well.  So you get it once and then you're pretty much good for life.  It's something that we can give and you know record it in the VA System so we know that you have it.  Um is that something you want to get from this visit?
+
+PATIENT F232
+@@@.
+
+DOCTOR F232
+Okay.  Okay sounds good.  Okay I'll come back.
+
+DOCTOR OUT:  39:39  DOCTOR IN:  53:35
+
+DOCTOR F232
+Sorry for the wait.  So we talked about a couple of things.  Uh one thing I just want to uh make sure was in terms of the insulin when you take it, the bedtime one or the nighttime um are you taking it before dinner or after dinner?
+
+PATIENT F232
+Uh before dinner.
+
+DOCTOR F232
+Okay so before dinner um and never at nighttime right?  As far as taking it for you know back ending it closer to when you sleep will cause your blood sugars to sort of elevate up you know right after and then kick back up so you know it could be part of the reason why you're having elevated sugars in the morning.  Um with the increased hunger I don't have a great explanation for it to be honest.  Um insulin itself shouldn't cause it and neither should any of the medications that you're really on.  Um what'd I say is you know it's better to be on the safe side than not the safe side so you know I don't want your sugar to be 40-50.  You know if you start feeling hungry just eat and then we'll try to sort of you know maintain a baseline insulin.  What you can do though is instead of eating carbohydrates like a bagel, rice so anything like that when it happens you know try to go you know with protein or fiber um so add proteins bars, Ensure, things like that okay.  Um and that just sort of you know can cause you to have your hunger decrease and improve um but then also um you know not elevate your blood sugar as much as well.  Does that make sense?
+
+PATIENT F232 
+Yeah.
+
+DOCTOR F232
+So we will sort of use that strategy um but the thing is did they put you on vitamin D at all?
+
+PATIENT F232
+Yeah.
+
+DOCTOR F232
+They did.  Do you know what the dose was?
+
+PATIENT F232
+I'm not sure that's every week.
+
+DOCTOR F232
+Yeah but, okay so you do have that, okay great.  I'll find the dose so we'll continue that as is okay.  I'm sure I can find it here.  Um we're just going to do your blood sugar log and blood pressure log um just given your recent pressures would be.  Do you have a blood pressure monitor at home?
+
+PATIENT F232
+No.
+
+DOCTOR F232
+Okay I'm gonna uh put in an order in it for Prosthetics okay and you can pick it up there.
+
+PATIENT F232
+Today or?
+
+DOCTOR F232
+Um it should be available today.  So you should be able to check on it.  You know you can go to the Pharmacy for the refills okay.  And again everything should already be in there.  If you're having any troubles check and make sure you don't and you know you can tell them this time I want to pick it up but in the future you know I would like to get it mailed to me.  You know however you want it okay.  Um I just want you to come to the nurse in maybe 3-4 weeks just to check how your blood pressure is doing on the current medications okay and then we'll also schedule you with me and you know we'll say 4-6 months and then earlier if you're having issues okay.  And really I think that's about it.  Um I don't need to get any labs so uh you can get the vaccine first and you don't even need to checkout.  You can just get the vaccine, get the blood pressure machine at Prosthetics.  Do you know where that is?
+
+PATIENT F232
+Uh uh.
+
+DOCTOR F232
+We'll see about directions for you.  Oh here's the sheet for refills information okay.
+
+PATIENT F232
+Alright.
+
+DOCTOR F232
+You need to order it ahead of time.  The sheet gives you what you need.  Um what I would say for the blood pressure machine, just ask the clerk after you get the vaccine um where Prosthetics is. And you and you can either pick that up or pick your medications up first rather than vice versa.  Okay.
+
+PATIENT F232
+Okay.
+
+DOCTOR F232
+Just cause they might close by 5 so I'd want you to get your medications and you know you can pull the number, try to go to Prosthetics and then come back to get your medications okay.
+
+PATIENT F232
+Okay.
+
+DOCTOR F232
+Alright.  Um let me put the order in for the vaccine and you should be good to go.
+
+PATIENT F232
+Now where do I get that at?
+
+DOCTOR F232
+Um I'll show you.  Okay when you're out there I just want you to make an eye exam as well okay.  Basically I would go to the clerk um after you get the vaccine and just schedule an eye appointment okay and then they can give you an updated list of what you need in terms of appointments you know, Podiatry again coming in three days.  Sound good?
+
+PATIENT F232
+Okay.
+
+DOCTOR F232
+Okay.  So I'll see you in 4-5 months and sooner if you need to okay.  
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38309
+TRANSACTION # 578-10-2-316-0103

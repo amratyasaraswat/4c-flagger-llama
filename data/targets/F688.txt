@@ -1,0 +1,7 @@
+Red Flag (1008-1066): "Let's see you, you're listed as a DOCTOR as your attending"
+
+Red Flag (1355-1383): "Oh that's not me, I'm DOCTOR"
+
+Probe    (1416-1491): "So maybe you were used to seeing DOCTOR. Is that who your normal doctor is"
+
+Probe    (1562-1609): "So you're just here for an acute visit probably"

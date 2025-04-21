@@ -1,0 +1,15 @@
+Red Flag (5558-5589): "You're still on uh NPH 17 units"
+
+Red Flag (5605-5620): "Uh I make it 18"
+
+Factor   (5622-5667): "cause it's easier to hit in the in the needle"
+
+Red Flag (5921-5992): "Oh, it's usually blood pressure runs anywhere from the 130s to the 150s"
+
+Probe    (9323-9370): "Did you take your blood pressure medicine today"
+
+Red Flag (9408-9441): "Okay, your blood pressure is high"
+
+Factor   (13974-14148): "I have trouble there because I gotta a nice neighbor, an Italian widow and she and my wife were like this. Now that my wife's gone, she feels that she has to take care of me"
+
+Factor   (14187-14277): "So I get bowls of pasta and Italian, what do they call those sticks that they make Italian"

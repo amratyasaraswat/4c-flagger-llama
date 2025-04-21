@@ -1,0 +1,602 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@ 
+
+DOCTOR A227
+PATIENT.  Hi nice to meet you.  How are you?
+
+PATIENT A227
+I'm pretty good.
+
+DOCTOR A227
+You got a note?
+
+PATIENT A227
+Yes.
+
+DOCTOR A227
+It's kind of wet, come on back.  @@@.  How are feeling today?
+
+PATIENT A227
+I am, I'm feeling good.
+
+DOCTOR A227
+Oh yeah.
+
+PATIENT A227
+Feeling good.
+
+DOCTOR A227
+Good, alright.  It's been a while since we've seen you by the way.
+
+PATIENT A227
+@@@ came in here not long ago I was having um breathing problems the last time.
+
+DOCTOR A227
+That's right in late October right.
+
+PATIENT A227
+Right.
+
+DOCTOR A227
+Um how has that been for you?
+
+PATIENT A227
+It's been going really good.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+I haven't had no problems.
+
+DOCTOR A227
+No more breathing problems now.
+
+PATIENT A227
+No.
+
+DOCTOR A227
+Okay, I'm going to pull up your chart for a moment.  Alright.  Okay when you were driving one time, you felt real lightheaded?
+
+PATIENT A227
+Light yes.
+
+DOCTOR A227
+So a couple of things um, looks like your pressure's a little bit high.
+
+PATIENT A227
+Yeah that might be from, you know I woke up this morning with the intentions of doing other things.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+And then it dawned on me that I had a doctor's appointment like around 7:30.
+
+DOCTOR A227
+Uh-huh okay.
+
+PATIENT A227
+Then I had to drop everything.
+
+DOCTOR A227
+Oh sure.
+
+PATIENT A227
+That I had planned to do this morning.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+And try to come out here to you know be on time at 8:30.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+So I really have been rushing.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+Since I got up this morning and that may have contributed to my, you know blood pressure being so high.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+I hope that's it.
+
+DOCTOR A227
+I want to see, I'm just trying to take a quick look and see you don’t have any other trouble with high blood pressure in the past.  Um well um @@@ a couple of things um, did you get the flu shot yet this year, a regular flu shot?
+ 
+PATIENT A227
+No I didn't.
+
+DOCTOR A227
+Okay would you like one today?
+
+PATIENT A227
+Uh not today.
+
+DOCTOR A227
+Today okay.  Will you come back for one?
+
+PATIENT A227
+Yes.
+
+DOCTOR A227
+Okay.  Your blood pressure has been high in the past, though, these last couple of times. I’ll check it again, we’ll have you sit up there.  Do you have any trouble.
+
+PATIENT A227
+Say um you know if it does seen a little high, I would like to get a chance to bring it down myself.
+
+DOCTOR A227
+Oh yeah.
+
+PATIENT A227
+Okay.  
+
+DOCTOR A227
+Cause it doesn't look like you've had high blood pressures before this last time when you were having trouble breathing.@@@
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+Any pains anywhere, any stiffness?
+
+PATIENT A227
+No, I'm feeling great.
+
+DOCTOR A227
+You're feeling good alright, alright.
+
+PATIENT A227
+Feeling great.
+
+DOCTOR A227
+Alright.
+
+PATIENT A227
+No I had a hip replacement and I think I got a follow-up on that on the 30th.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+And uh like I was telling the receptionist out there I've got to, I got two appointments on the 30th but I need to cancel one of them out.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+So he said I can call in.
+
+DOCTOR A227
+Yeah.
+
+PATIENT A227
+And set another date for one of them.
+
+DOCTOR A227
+Hmm, let's see okay.  And @@@ anything else for you.  @@@ I just want to make sure you have all your medicine, @@@.  It looks like your cholesterol is a little high.
+
+PATIENT A227
+Uh-huh.
+
+DOCTOR A227
+Back in July.
+
+PATIENT A227
+Right.
+
+DOCTOR A227
+Okay.  So are you on any medication for that or?
+
+PATIENT A227
+None at all, none at all.  I try to stay active, doing things.  Trying to keep from @@@ going on medications.
+
+DOCTOR A227
+Oh definitely, um I think the only thing that we need @@@.
+
+PATIENT A227
+Uh DOCTOR mentioned that.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+At one point uh it might be time for me to go get a colonoscopy again.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+But that was because I think what like three years ago I went through it and I had polyps then and I guess I kind of wasn't rushing to go through it again.
+
+DOCTOR A227
+I know.  It's not the most pleasant kind of thing to do.
+
+PATIENT A227
+Well, um somewhere toward the you know first of next year.
+
+DOCTOR A227
+We can do that.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+We can get that you know um started on you know.  I can go ahead and just put the order in the system.  They're not going to schedule you until after the first of the year.
+
+PATIENT A227
+Right.
+
+DOCTOR A227
+So what we can do is get it set up and get the ball rolling on on that. I can get you into the class again, kind of um like back in @@@ when you had it and um @@@ have you go to the class again, get the medicines.  So @@@ a few months.
+
+PATIENT A227
+Oh okay.
+
+DOCTOR A227
+Yeah.  So that's why we mention it to you know so we can get that started.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+How's this?
+
+PATIENT A227
+Yeah.
+
+DOCTOR A227
+Any chest pain, trouble getting around?
+
+PATIENT A227
+No.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+No, no.
+
+DOCTOR A227
+Alright.  Hop on there, relax your arm and I'm going to take your blood pressure again.  Just give me your arm.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+You guys talked about the MRI right?  Of your brain where they found old strokes?
+
+PATIENT A227
+Right, right.  DOCTOR mentioned that to me.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+When we went through it before and then he said something about how he was going to recheck and I was gonna get a phone call and then he recommended I go through a follow-up to make sure that everything's still.
+
+DOCTOR A227
+@@@ a couple of things that um can cause the strokes and things like that.  High blood pressure and high cholesterol um so point where they actually found your strokes suggests that it could actually be a blood pressure thing more than the cholesterol.  The location of them, typically more @@@ with um high blood pressure.  So give me one second. Relax your arm. It's not as high as it was before.  @@@.  So it's coming down but it's still high um.  I'd like to check with DOCTOR cause one of the things is having the history of strokes that they found on the MRI we'd like to – our recommendation would be to keep it – the blood pressure a little lower. Just because that’s the way to prevent future occurrences.  Um some of the things that um can help in terms of uh you know things you can to help keep your blood pressure under control is to try to avoid as much salt as you can.  Unfortunately a lot of the canned food and um things that come in packages have a lot of salt um, things that people get a restaurant often have a lot of salt because that’s what makes it taste good.
+
+PATIENT A227
+Right, right.
+
+DOCTOR A227
+You know um but if you're going to buy – I don’t know who does the cooking in the house.
+
+PATIENT A227
+Um.
+
+DOCTOR A227
+Who does you?
+
+PATIENT A227
+Mostly.
+
+DOCTOR A227
+You mostly do it?
+
+PATIENT A227
+Yeah.
+
+DOCTOR A227
+So getting @@@ sodium content um.  Try to use a little bit less, or when you’re cooking, don’t use as much salt but @@@.  I know it’s not going to taste as great when you're doing that but it can definitely help in terms of um lowering your blood pressure.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+Un give me some nice deep breaths.  Excellent.  @@@ Breathe normal.
+
+PATIENT A227
+Oh, normal.
+
+DOCTOR A227
+@@@.  And you're walking around no problems?
+
+PATIENT A227
+No.  I think one of the things that caused this sleeping problem the last time.
+
+DOCTOR A227
+Yeah.
+
+PATIENT A227
+I had taken a lot of vitamin pills cause I was coming down with a cold.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+And @@@ take a five vitamin pills.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+The first time you take them you take four, the next time three, the next time you know two.
+
+DOCTOR A227
+Uh-huh.
+
+PATIENT A227
+And then you come down to taking one.
+
+DOCTOR A227
+That's interesting.  I don't know maybe.
+
+PATIENT A227
+If that you know.
+
+DOCTOR A227
+I actually haven't heard of that um but you know it's hard cause we don't really have a good idea of what with the cold and stuff what do to.  Um sometimes one of the things that some people say that helps and has actually been studied is zinc, you know like over the counter zinc.
+
+PATIENT A227
+Zinc.
+
+DOCTOR A227
+So uh-huh, so it's some people if you take it early, like when you first feel a sore throat coming on within 24 hours or something like that, sometimes it kind of shortens the duration of the cold.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+That's the only thing that's been actually like scientifically studied to really really help.  Mostly other things in terms they just kind of help the symptoms, the runny noses you know and the cough syrup and things like that.
+
+PATIENT A227
+Yeah.
+
+DOCTOR A227
+Ultimately its our immune systems.
+
+PATIENT A227
+It just has to wear itself off.
+
+DOCTOR A227
+Yeah, yeah.  But sometimes @@@ there is a study that says that zinc you know like will shorten the duration if you get it early enough.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+That's what they say.  That's the only thing I know.
+
+PATIENT A227
+Yeah.
+
+DOCTOR A227
+So um.
+
+PATIENT A227
+Okay, @@@ something.
+
+DOCTOR A227
+Oh okay well.
+
+PATIENT A227
+That's uh; don't have no kind of degree behind their name or anything like that.
+
+DOCTOR A227
+That's okay, it's you know.
+
+PATIENT A227
+You people seem to say different stuff like that.
+
+DOCTOR A227
+Whatever you know whatever works for you, I'm glad you're not coughing anymore.  Um yeah.  I think and you saw the eye doctors.  So if you know the concern that I have is you may and I know you don't want to take any medicines and you know you want to work on the blood pressure yourself.  Um I'd like to.
+
+PATIENT A227
+I’m going to say,you know I have an idea why my blood pressure is high today.
+
+DOCTOR A227
+Uh-huh okay.
+
+PATIENT A227
+Because I got one of those little monitors at home.
+
+DOCTOR A227
+Oh you do good.
+
+PATIENT A227
+Yeah so that's I take it from time to time and I just haven’t, I haven't used it in the past.
+
+DOCTOR A227
+That okay.
+
+PATIENT A227
+About a week.
+
+DOCTOR A227
+Sure um why don't we do this, if you have a monitor at home which is like perfect, exactly kind of what I was going for, let's and you come back when again?
+
+PATIENT A227
+@@@.
+
+DOCTOR A227
+Just you have another appointment?
+
+PATIENT A227
+Probably about another week.
+
+DOCTOR A227
+Another week okay, let's do this, let me see if we can get you scheduled for the pharmacist, to see the pharmacist which is a little bit easier to get in to to see them.  I want you to take your blood pressure @@@ every day in the morning at the same time or whatever and for a week until you see the pharmacist and then you can make a log of what your blood pressure's have been doing and then if they're still running high then maybe consider starting a medication, at a really low dose that’s a once a day thing.  But only if it's high but if your logs shows you know that everything's okay and you know its low and all that stuff then you won't need anything to help it.  Does that sound like a good plan?
+
+PATIENT A227
+Sounds good.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+That's good.  That's good.  Um I'm going to schedule an appointment to see the orthopedist. 
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+I am scheduled for the 30th and I have a court appearance on the 30ths as well.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+Same time, 9:30.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+And I'm going to call them up.
+
+DOCTOR A227
+Reschedule.
+
+PATIENT A227
+And reschedule to see them and if I could work it out where I could come out.
+
+DOCTOR A227
+The same day to see the pharmacist
+
+PATIENT A227
+Yeah.
+
+DOCTOR A227
+@@@ yep that's fine.  We'll try to get that taken care of.  Give me one second.
+
+PATIENT A227
+Oh.
+
+DOCTOR A227
+Let me just talk to DOCTOR real quick.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+Alright and I'll be right back.
+
+(DOCTOR OUT:  42:49  DOCTOR IN:  48:25)
+
+DOCTOR A227
+Okie doke.  Uh DOCTOR agreed we'll have you try the home monitoring for a little while and so you know bring in the sheet and then see the pharmacist and at that time if we do need to start the medicines then we will recommend it. 
+
+PATIENT A227
+Right.
+
+DOCTOR A227
+Yeah and the only reason we're doing that is because you have had a the old strokes that we saw on the head scan and we just want to make sure that that doesn’t happen again, okay.  So does that sound like a plan?
+
+PATIENT A227
+Yeah.
+
+DOCTOR A227
+Cause otherwise you know we'll just let it be but the problem with high blood pressure is it can do damage to other parts.  Okay.  That's it.  You can go give this to the receptionist.
+
+PATIENT A227
+Oh okay.  Okay.
+
+DOCTOR A227
+And so and then they'll mail you a letter about the colonoscopy screening and all of that, like they did last time.
+
+PATIENT A227
+Oh okay.  Okay.
+
+DOCTOR A227
+And I'm going to give you a form, let me see.
+
+PATIENT A227
+I just got to work on trying to quit salt to bring it down.
+
+DOCTOR A227
+Low salt.
+
+PATIENT A227
+Low salt.
+
+DOCTOR A227
+Low salt.
+
+PATIENT A227
+Okay.  @@@, that's a problem.
+
+DOCTOR A227
+Yep we don't want you to have a stroke cause that happened to one of my patients just two months ago and it was kind of sad because now he has to walk with a cane and I don't you know so.
+
+PATIENT A227
+Oh no.
+
+DOCTOR A227
+Yeah exactly especially with your history of hip replacement and all those things you know.
+
+PATIENT A227
+Yeah.
+
+DOCTOR A227
+We can't replace some of those, @@@ brain.
+
+PATIENT A227
+Exactly.  So I'll call up, I'm going to call the Ortho and reschedule.
+
+DOCTOR A227
+They may be able to do this, actually do it right at the front.  You can have them see if there's another time @@@ pharmacist in two weeks @@@ same day as pharma.
+
+PATIENT A227
+Uh-huh.
+
+DOCTOR A227
+Here's the form.  Okay and I'll see you in three to four months @@@.  Okay and then @@@.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+Okay.
+
+PATIENT A227
+Okay thank you so much.
+
+DOCTOR A227
+Okay.  Take care PATIENT.
+
+PATIENT A227
+Okay.
+
+DOCTOR A227
+@@@.
+
+PATIENT A227
+Okay.
+
+PATIENT LEAVES:  51:11
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/JOB#  1255149
+TRANSACTION # 578-10-2-316-0103

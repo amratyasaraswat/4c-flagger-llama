@@ -1,0 +1,1174 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+ 
+DOCTOR F688  
+One second. 
+
+PATIENT F688
+Yes sir.
+
+DOCTOR F688
+PATIENT right?
+
+PATIENT F688
+Yes sir.
+
+DOCTOR F688
+You want to come with me?  How you doing?
+
+PATIENT F688
+I'm a little irritable today.
+
+DOCTOR F688
+Oh what's the problem?  We all get a little frustrated right?
+
+PATIENT F688
+Yeah.
+
+DOCTOR F688
+Now we've met before right.  I've seen you one time.
+
+PATIENT F688
+Yes.
+
+DOCTOR F688
+Okay.  Just take a seat here.
+
+PATIENT F688
+No it's been a while though.
+
+DOCTOR F688
+How long has it been?
+
+PATIENT F688
+Uh I can't recall this second, pull it up let's see.
+
+DOCTOR F688
+Having one of those days huh?
+
+PATIENT F688
+One of those days, I got a skin problem and it's really.
+
+DOCTOR F688
+A skin problem?
+
+PATIENT F688
+Oh my goodness.
+
+DOCTOR F688
+Okay.
+
+PATIENT F688
+Um you know burning and it's itching real bad.  I can't even sleep, it's terrible.
+
+DOCTOR F688
+Okay.  Um when did I, or have I ever seen you?
+
+PATIENT F688
+Yes.
+
+DOCTOR F688
+Let's see you, you're listed as a DOCTOR as your attending.
+
+PATIENT F688
+Yeah I saw you one time.  I seen DOCTOR.
+
+DOCTOR F688
+Was it in the Outpatient?
+
+PATIENT F688
+Yes.
+
+DOCTOR F688
+Or did I just see you like when you were in the hospital?
+
+PATIENT F688
+I don't remember.
+
+DOCTOR F688
+Did you see DOCTOR maybe?
+
+PATIENT F688
+Yes.
+
+DOCTOR F688
+Oh that's not me, I'm DOCTOR.
+
+PATIENT F688
+Oh.
+
+DOCTOR F688
+So maybe you were used to seeing DOCTOR.  Is that who your normal doctor is?
+
+PATIENT F688
+No DOCTOR is my regular doctor.
+
+DOCTOR F688
+Oh okay.  So you're just here for an acute visit probably.
+
+PATIENT F688
+Yes. 
+
+DOCTOR F688
+Okay.  Now where's that, what's going on, what's been bothering you?
+
+PATIENT F688
+Oh I have to show you.  I broke out.  I've been breaking out with rashes and I got this so irritated.
+
+DOCTOR F688
+That looks like zoster.  Is it only on one spot?
+
+PATIENT F688
+No, all over my body.  I broke out and it's on my neck and my shoulders.
+
+DOCTOR F688
+Have a seat real quick.
+
+PATIENT F688
+It's on my legs, it's in my scalp.
+
+DOCTOR F688
+Oh really.
+
+PATIENT F688
+Yes it's up in my arm pit.
+
+DOCTOR F688
+What's new?
+
+PATIENT F688
+All of it. 
+
+DOCTOR F688
+No I mean what have, has there been anything new that you've been, new medication or?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+No okay.  Have you ever had this before?
+
+PATIENT F688
+No.  This right here came on, it just happened in one week.  This back, everything just came on one week.  That came on one week the arm pits.
+
+DOCTOR F688
+A week ago?
+
+PATIENT F688
+I mean all.
+
+DOCTOR F688
+Is it getting worse or better?
+
+PATIENT F688
+It's getting worse.  The skin is burning.  I'm having heat flashes.
+
+DOCTOR F688
+You had an abdominal rash in August.
+
+PATIENT F688
+This right here.
+
+DOCTOR F688
+You have a history of fungal infections?
+
+PATIENT F688
+Uh no, this never happened before.  This came out and this won't go away.
+
+DOCTOR F688
+Okay.
+
+PATIENT F688
+It just won't go away and now the whole body, in the warm spots in my body is getting worse.
+
+DOCTOR F688
+Now did you actually end up trying the statin powder?
+
+PATIENT F688
+Yes.  @@@ easing it, this right here.  It's helping the burns on the stomach but now this half is easing up.
+
+DOCTOR F688
+Right.
+
+PATIENT F688
+Everything else is just whoo.
+
+DOCTOR F688
+Now what do you do for hygiene?
+
+PATIENT F688
+Uh I take showers.
+
+DOCTOR F688
+Okay.  Do you use, are you using a new soap or?
+
+PATIENT F688
+I use soap.
+
+DOCTOR F688
+But no changes with what you've been using in them?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+So when did the abdominal rash start?
+
+PATIENT F688
+It started about last Wednesday to be exact.  Uh I started to notice it.  I woke up with itching in the neck and a bump started and then I noticed in the back, it started with a few bumps and it just flamed up. And uh . . .
+
+DOCTOR F688
+No fevers or chills right?
+
+PATIENT F688
+Yes fevers and I get.
+
+DOCTOR F688
+Did you measure it yourself?
+
+PATIENT F688
+Huh?
+
+DOCTOR F688
+Did you actually measure it?
+
+PATIENT F688
+Measure the fever?
+
+DOCTOR F688
+Uh-huh.
+
+PATIENT F688
+No I just, I keep getting these hot flashes then it and ever day I get very hot.  My skin just gets very hot, very extremely hot.
+
+DOCTOR F688
+Uh-huh.  So you haven't started any new medicines huh?
+
+PATIENT F688
+Um no I can't think of none no.
+
+DOCTOR F688
+Nothing was recently started?  Do you use the hydrocortisone cream at all?
+
+PATIENT F688
+Yeah but I been using it before this skin problem.
+
+DOCTOR F688
+What about this terbinafine cream?
+
+PATIENT F688
+I been using that before too.
+
+DOCTOR F688
+Does that work?
+
+PATIENT F688
+Uh I use it, yeah it works sometimes.
+
+DOCTOR F688
+Uh-huh.  Have you seen Dermatology before?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+And you were also in the Emergency Room for it says back pain and then you also saw them for this panniculitis that they gave you @@@.  Have you been taking the Nystatin powder?
+
+PATIENT F688
+This right here?
+
+DOCTOR F688
+What does that say on it?  Yeah Nystatin powder, is that helping?
+
+PATIENT F688
+Oh it helps right here.  I haven't tried it on uh the rest of my body yet.  I just haven't been putting anything on here because it just itches, burns so bad.
+
+DOCTOR F688
+You haven't been putting it anywhere?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+Well your abdomen, do you put it on your belly?
+
+PATIENT F688
+Yes.
+
+DOCTOR F688
+Has it been helping?
+
+PATIENT F688
+A little bit, just a little bit.  All it does is keeps it dry but it's, it leaks so much fluid I don't know what to do about it.  I try to keep something on it but it just leaks so much fluid.  I don't know what to do about it though.  I'm just breaking out everywhere from feet to head.
+
+DOCTOR F688
+What else are you using on your skin?
+
+PATIENT F688
+Nothing now.
+
+DOCTOR F688
+Oh so you're not using the hydrocortisone?
+
+PATIENT F688
+I put it on there but it's not doing any good.
+
+DOCTOR F688
+Okay.
+
+PATIENT F688
+I'm just itching beyond itching and burning and it just seems like every hour I just get this hot feeling and I just get hot, just completely hot and then I just itch all day.
+
+DOCTOR F688
+Uh-huh.
+
+PATIENT F688
+I just wish I could get something to stop me from itching.  It's just all day.
+
+DOCTOR F688
+Have you tried Benadryl?
+
+PATIENT F688
+No.  I haven't had any.
+
+DOCTOR F688
+So you've never tried Benadryl?
+
+PATIENT F688
+I've tried it before.
+
+DOCTOR F688
+Did it not help?
+
+PATIENT F688
+Yes but I never thought of that until right now.
+
+DOCTOR F688
+Uh-huh.
+
+PATIENT F688
+I'd like to have some if I can get it.
+
+DOCTOR F688
+I'll have you come over there.
+
+PATIENT F688
+Oh my God this itches so bad.  I mean this itching, the bumps are everywhere.  From top to bottom.
+
+DOCTOR F688
+Well stop itching it for right now, let me take a look.
+
+PATIENT F688
+Ooh.
+
+DOCTOR F688
+Where do you live?
+
+PATIENT F688
+I live on 68th and Woods.
+
+DOCTOR F688
+In an apartment?
+
+PATIENT F688
+Uh a house.
+
+DOCTOR F688
+Who do you live with?
+
+PATIENT F688
+My aunt.
+
+DOCTOR F688
+And you've never had any issues with skin before in the past?
+
+PATIENT F688
+It's been a long time.
+
+DOCTOR F688
+Did you ever, were you ever told you had psoriasis?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+The one on your back, have you been scratching it?
+
+PATIENT F688
+Yes, just a little bit.  I've been trying to avoid it.  You know these dark spots.
+
+DOCTOR F688
+Yeah I may just going to talk alook.  You haven't seen any bed bugs have you?
+
+PATIENT F688
+Huh?
+
+DOCTOR F688
+You haven't seen any bed bugs have you?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+Who do you live with?
+
+PATIENT F688
+My aunt.
+
+DOCTOR F688
+Does she have a rash too?
+
+PATIENT F688
+No.  The woman has just a daughter and two grandkids.  My armpits are real terrible too.
+
+DOCTOR F688
+Now what’s up with your abdomen?  Lay down.  Pull down your pants a little bit, no where else, none in your groin?
+
+PATIENT F688
+Huh?
+
+DOCTOR F688
+Not in your groin?
+
+PATIENT F688
+It itches in my groin.
+
+DOCTOR F688
+I mean, it could very well could be, it could be all fungal.  Although I don't know what your risk factors are really.  Do you have any on your legs?
+
+PATIENT F688
+Uh yes, I'm itching on my legs.
+
+DOCTOR F688
+Lay down.  Do you have rash on your legs though?
+
+PATIENT F688
+Yes.
+
+DOCTOR F688
+Okay you can pull your pants up.  Where do you have them on your legs?  Actually take off your, you can keep your boxers on but pull.
+
+PATIENT F688
+Okay.  It feels like it's in my knees, yeah it is.
+
+DOCTOR F688
+Yeah I think this is all fungal cause it's mainly in the areas that are wet.  Let’s look at the other one.  You haven't @@@ hepatitis see you?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+Or HIV?
+
+PATIENT F688
+No.
+
+DOCTOR F688
+Put your arms up.  Lift up the other one.  So this is in your arm pits too?
+
+PATIENT F688
+Yes.
+
+DOCTOR F688
+Okay.  Hmm.  I don't know why you have the um, you're so easily getting fungal rashes.  Alright give me a little time okay.
+
+PATIENT F688
+Okay.
+
+DOCTOR F688
+Be right back.  Stay right there.
+
+PATIENT F688
+Yes sir.
+
+DOCTOR F688
+No keep your shirt off though cause I may have somebody come look.
+
+PATIENT F688
+Okay.
+
+DOCTOR F688
+Okay.
+
+(DOCTOR OUT:  47:40  DOCTOR IN:  57:15
+
+PATIENT F688
+(Knock on the door)  Yes.
+
+SECOND DOCTOR F688
+Hey.
+
+PATIENT F688
+Hello.
+
+SECOND DOCTOR F688
+Do you receive @@@ health care?
+
+PATIENT F688
+Yes.
+
+SECOND DOCTOR F688
+You saw DOCTOR and had an appointment today?
+
+PATIENT F688
+Yes.
+
+SECOND DOCTOR F688
+He told me it was painful.
+
+PATIENT F688
+Yes it is.
+
+SECOND DOCTOR F688
+He told me it was itchy.
+
+PATIENT F688
+It's itchy.  Actually it's burning and painful.
+
+SECOND DOCTOR F688
+It's burning and painful.
+
+PATIENT F688
+Yes.
+
+FIRST DOCTOR F688
+The back is the area that looks similar to the stomach.
+
+SECOND DOCTOR F688
+It's not shingles.
+
+FIRST DOCTOR F688
+But even if they've healed, like they’ve.
+
+SECOND DOCTOR F688
+Have you tried um hydrocortisone cream on the back here?
+
+FIRST DOCTOR F688
+The main one is the neck and these ones don’t hurt you as much as the neck ones right?
+
+PATIENT F688
+They all burn.
+
+SECOND DOCTOR F688
+Let me see @@@.  Oh boy.
+
+FIRST DOCTOR F688
+Yeah.  @@@.
+
+SECOND DOCTOR F688
+Have you seen the dermatologist?
+
+PATIENT F688
+No.
+
+FIRST DOCTOR F688
+You've been really scratching here?
+
+PATIENT F688
+Yeah @@@.  Itches and burns so bad.
+
+FIRST DOCTOR F688
+Yeah.
+
+PATIENT F688
+Ooh.
+
+FIRST DOCTOR F688
+How much, have you been scratching constantly at the stomach?
+
+SECOND DOCTOR F688
+Does it look red do you think?
+
+FIRST DOCTOR F688
+It looks red here.  Cause it looks like he's scratching right here.  We're going to put your legs up, hold up.
+
+SECOND DOCTOR F688
+How long has it been here?
+
+PATIENT F688
+About for three weeks.
+
+FIRST DOCTOR F688
+You're more tender now?
+
+PATIENT F688
+Yeah.
+
+FIRST DOCTOR F688
+Wasn’t as tender.
+
+SECOND DOCTOR F688
+Let me see here.  Do you put hydrocortisone on this area?  You don't put hydrocortisone anywhere?  Where do you put the hydrocortisone?
+
+PATIENT F688
+I put it on my belly.
+
+FIRST DOCTOR F688
+Here right?
+
+PATIENT F688
+Yeah.
+
+FIRST DOCTOR F688
+This is where you're putting Nystatin on.
+
+PATIENT F688
+Yes.  Try to keep it dry.
+
+(Doctors are talking between themselves)
+
+SECOND DOCTOR F688
+So you put clotrimazole on here and Nystatin on here and it did not work?
+
+FIRST DOCTOR F688
+Or just the Nystatin.
+
+PATIENT F688
+I just put the powder on here.
+
+SECOND DOCTOR F688
+Did you put the clotrimazole?
+
+FIRST DOCTOR F688
+Yes historically he has @@@.
+
+SECOND DOCTOR F688
+Oh for the same thing or something for different?
+
+PATIENT F688
+I just put the powder on this keeps going through.
+
+SECOND DOCTOR F688
+But the clotrimazole, where did you put that?
+
+FIRST DOCTOR F688
+Historically.  You've had two medications.
+
+PATIENT F688
+Yeah.
+
+FIRST DOCTOR F688
+One the Nystatin historically but then you also had another one that was a cream.
+
+PATIENT F688
+Yeah the cream.
+
+FIRST DOCTOR F688
+That DOCTOR had given you.
+
+PATIENT F688
+Yeah I stopped putting the cream.
+
+SECOND DOCTOR F688
+Why?
+
+PATIENT F688
+It kept it too moist and it kept it itchy.
+
+SECOND DOCTOR F688
+Did it make it better?
+
+PATIENT F688
+No.
+
+SECOND DOCTOR F688
+No.  I don't think this is fungal. @@@I think we should try a little topical steroid and get him in to see Dermatology because they may need to biopsy this.
+
+FIRST DOCTOR F688
+@@@ for dermatitis from just.
+
+SECOND DOCTOR F688
+Yes.
+
+FIRST DOCTOR F688
+This kind of treat him like that.
+
+PATIENT F688
+And there's just a lot of fluid that's been coming out of it.
+
+SECOND DOCTOR F688
+So what I would do is I would give him like @@@ cream 1%.
+
+FIRST DOCTOR F688
+@@@.
+
+SECOND DOCTOR F688
+Apply that twice a day and right in the small of your back, is it itchy?
+
+PATIENT F688
+It's burning and itchy.
+
+SECOND DOCTOR F688
+Burning and itchy.
+
+PATIENT F688
+Oh burning yeah.
+
+SECOND DOCTOR F688
+Burning.  It's been right at his belt line right?
+
+PATIENT F688
+Yes.
+
+FIRST DOCTOR F688
+Yeah.
+
+SECOND DOCTOR F688
+Oh.
+
+FIRST DOCTOR F688
+@@@ that's where it is. @@@ in his pants line too and a little bit higher.
+
+SECOND DOCTOR F688
+So let's, what so, even if it's diffuse if you're putting the medicine on it, I think it should have gotten better.
+
+FIRST DOCTOR F688
+Yeah.
+
+SECOND DOCTOR F688
+So I'm want to, or at least a little bit. We should have seen something. So, if you've only been putting the steroids @@@ and does your back get better with the steroids @@@?
+
+PATIENT F688
+Just a little bit.
+
+SECOND DOCTOR F688
+Okay, let's put, I'm going to give you some different steroids for here and on your back twice a day.  I want to get you into Dermatology.
+
+PATIENT F688
+Okay.
+
+SECOND DOCTOR F688
+And ask them.  Now the problem that I see is that if it becomes infected.  Now see some of these lesions that are open and weeping and what happens is that bacteria comes in and causes infection.  Do you know what that feels like?  It will be stinky, fevers, chills.
+
+PATIENT F688
+That's what I'm getting, fevers.
+
+SECOND DOCTOR F688
+You're getting fevers, how high?
+
+FIRST DOCTOR F688
+Well he's not; he says he feels like his skin feels hot.
+
+PATIENT F688
+I just get very hot and it's like I get hot all over.
+
+FIRST DOCTOR F688
+Yeah hot all over.
+
+SECOND DOCTOR F688
+Let's um, yeah let's just try.  Looks like you're allergic to something.  I don't know what it is.
+
+PATIENT F688
+I don't know either.
+
+FIRST DOCTOR F688
+You're not; you said you're just using Dove soap which is not new.
+
+PATIENT F688
+No.
+
+FIRST DOCTOR F688
+You didn't add and you don't have any new detergents you said in your household either, nothing new that's come in contact with you.
+
+PATIENT F688
+Not that I could think of.
+
+SECOND DOCTOR F688
+Okay.
+
+FIRST DOCTOR F688
+And you didn't switch homes; you didn't switch beds, nothing that corresponds to the timing of this?
+
+PATIENT F688
+Uh I switched from the front room to the basement.
+
+FIRST DOCTOR F688
+Is there anything different with is used, the bedding, the sheets that corresponds to the change?
+
+PATIENT F688
+I'm using different sheets, I mean different blankets.
+
+FIRST DOCTOR F688
+You wouldn’t it would just be here with blankets, it would be all over.
+
+SECOND DOCTOR F688
+Yeah.  Okay.
+
+PATIENT F688
+I'm going to investigate to see if something is different down there.
+
+FIRST DOCTOR F688
+Do you think it you moved down there at the same time that this popped up?
+
+PATIENT F688
+No.
+
+FIRST DOCTOR F688
+Okay let me uh help you up.  Just 1%.
+
+PATIENT F688
+Ooh.
+
+SECOND DOCTOR F688
+@@@ 1%.
+
+PATIENT F688
+So this is not concerning that it keeps burning all over?  It just don't look like it but its burning.
+
+FIRST DOCTOR F688
+Yeah.
+
+PATIENT F688
+It doesn't look like the rest of them but it burns just as worse.
+
+SECOND DOCTOR F688
+Yeah get him to dermatology.  How long has it been going on, three weeks?
+
+PATIENT F688
+No this was going on for three weeks and this just happened, it just come along and the rest has been about a week.  It doesn't look as bad but my scalp seems to be itching too and it's just a little bit at a time this comes along.
+
+FIRST DOCTOR F688
+@@@ medicine, over-the-counter.
+
+SECOND DOCTOR F688
+No fevers or chills?
+
+PATIENT F688
+Uh it seems like a fever, I been getting fevers.  And it's coming up along my ears to my scalp it seems like.  
+
+SECOND DOCTOR F688
+@@@
+
+FIRST DOCTOR F688
+I mean it looks like maybe he has been scratching but we can get some medicine for that right here.  Alright a little bit then, let me see right there.
+
+SECOND DOCTOR F688
+And what did they look like when they were first on your back; did they look like a pustule?
+
+FIRST DOCTOR F688
+To me it looked like you have old areas on your skin on your arms.  These look old.
+
+PATIENT F688
+Well they come and seem like they just came and disappeared and over here they seem like they new.
+
+SECOND DOCTOR F688
+Oh.  Is this something different?  Was this a different rash?
+
+PATIENT F688
+This one.
+
+FIRST DOCTOR F688
+This almost looks more like a dermatome right here.
+
+SECOND DOCTOR F688
+Yeah.
+
+FIRST DOCTOR F688
+But then.
+
+SECOND DOCTOR F688
+But then it goes, kind of yeah.
+
+PATIENT F688
+These is the little ones that started coming right here.
+
+SECOND DOCTOR F688
+What's his other medical history?
+
+FIRST DOCTOR F688
+He's also got.
+
+PATIENT F688
+These just started coming right here.  These are new.  You see those little bumps, these are just coming right here.
+
+FIRST DOCTOR F688
+He has a history of yeah.
+
+PATIENT F688
+These are little so these are just, this started right here like these.
+
+FIRST DOCTOR F688
+Yeah.  Now it says you were homeless at one point, well you're not homeless any more.
+
+PATIENT F688
+No.
+
+SECOND DOCTOR F688
+You don't have a history of HIV?
+
+PATIENT F688
+No.
+
+SECOND DOCTOR F688
+@@@ hepatitis C, have you been tested for all of that?
+
+PATIENT F688
+Yes.
+
+SECOND DOCTOR F688
+Do you do IV drugs at all?
+
+PATIENT F688
+No.
+
+FIRST DOCTOR F688
+He has a history of alcohol but not IV drug use.
+
+PATIENT F688
+No never.
+
+SECOND DOCTOR F688
+So this is what it looks like when it starts?  These little.
+
+PATIENT F688
+Huh?
+
+SECOND DOCTOR F688
+Is that a fresh one?
+
+PATIENT F688
+Yes.
+
+SECOND DOCTOR F688
+That looks fresh.
+
+PATIENT F688
+Yeah these are.  They start off like little bitty bumps.
+
+FIRST DOCTOR F688
+But they've never done an HIV test on you.
+
+PATIENT F688
+Yes I did a long time I had an HIV test done.
+
+SECOND DOCTOR F688
+Where?
+
+FIRST DOCTOR F688
+Well not here recently.  I can't pull it up on the computer.
+
+PATIENT F688
+Hmm.  I remember having one.
+
+SECOND DOCTOR F688
+It doesn't look like shingles, shingles really @@@.
+
+FIRST DOCTOR F688
+You know when I originally first just saw.
+
+SECOND DOCTOR F688
+Let's look at the fresh ones here okay.
+
+FIRST DOCTOR F688
+Yeah.
+
+SECOND DOCTOR F688
+That looks to be a chemical dermatitis.
+
+FIRST DOCTOR F688
+Yeah.
+
+PATIENT F688
+There's some over here too.
+
+FIRST DOCTOR F688
+You had a syphilis test done this year, that was negative.
+
+SECOND DOCTOR F688
+He could have hepatitis.  Are you sexually active now?
+
+PATIENT F688
+Off and on, but not regular.
+
+SECOND DOCTOR F688
+Do you use protection?
+
+PATIENT F688
+Yes.
+
+SECOND DOCTOR F688
+All the time?
+
+PATIENT F688
+All the time.
+
+SECOND DOCTOR F688
+Condoms?
+
+PATIENT F688
+Yes.
+
+SECOND DOCTOR F688
+Every single time?
+
+PATIENT F688
+Every single time, always.
+
+SECOND DOCTOR F688
+Always alright. I think the steroid and the derm consult.
+
+FIRST DOCTOR F688
+Derm consult.
+
+SECOND DOCTOR F688
+Derm consult and if he's already having @@@.
+
+PATIENT F688
+I need to get something to stop this itching?
+
+SECOND DOCTOR F688
+So he's on an H2 blocker.
+
+FIRST DOCTOR F688
+Yeah right here, okay.  
+
+PATIENT F688
+If you get some Benadryl for me, I need something to stop the itching.
+
+FIRST DOCTOR F688
+We'll give you, what's called @@@ to help with the itching @@@, that's what we're adding.
+
+PATIENT F688
+What?
+
+SECOND DOCTOR F688
+It'll help you with the itching.
+
+FIRST DOCTOR F688
+It'll help you with the itching.
+
+PATIENT F688
+Right.
+
+FIRST DOCTOR F688
+Yeah.
+
+SECOND DOCTOR F688
+Would you look and see if he @@@ Emergency Room.
+
+FIRST DOCTOR F688
+He got, he didn't get the flu.
+
+SECOND DOCTOR F688
+@@@.
+
+PATIENT F688
+And something for pain please.
+
+FIRST DOCTOR F688
+He was here July 28th but that was before.  He saw DOCTOR.
+
+SECOND DOCTOR F688
+Have you started any new medications recently?
+
+FIRST DOCTOR F688
+He said no.  He saw him in August, he said before when he went to the ED he didn't get one.  He got them in July so that was pretty recent.
+
+SECOND DOCTOR F688
+@@@.
+
+FIRST DOCTOR F688
+So here's @@@ 3.8%  So really um.  
+
+PATIENT F688
+I  haven’t been @@@, so.
+
+SECOND DOCTOR F688
+You already have Norco?
+
+PATIENT F688
+Huh?
+
+SECOND DOCTOR F688
+@@@.  Give him something like ibuprofen or Naproxen and uh Benadryl and @@@ and this one right here.
+
+FIRST DOCTOR F688
+Okay sounds good.
+
+SECOND DOCTOR F688
+Alright dear, I hope this works for you okay.
+
+PATIENT F688
+Okay.
+
+SECOND DOCTOR F688
+Alright @@@.
+
+FIRST DOCTOR F688
+Okay so what we're going to do is give you a medicine for the itching okay.
+
+PATIENT F688
+And something for the pain please.
+
+FIRST DOCTOR F688
+Yep.
+
+PATIENT F688
+Oh goodness.  How long with this pain, itching.
+
+FIRST DOCTOR F688
+You can put your shirt back on.
+
+PATIENT F688
+How long with this itchy stuff, how long will it take to start working.
+
+FIRST DOCTOR F688
+Hopefully real soon.
+
+PATIENT F688
+Ooh wee.
+
+FIRST DOCTOR F688
+I'll give you Benadryl but it’s just oral Benadryl okay.
+
+PATIENT F688
+Okay.  @@@.
+
+FIRST DOCTOR F688
+Well antihistamines, we're going to give you loratadine, one or the other, it kind of goes @@@  
+
+PATIENT F688
+What's the other stuff you going to give me to put on the rashes?
+
+FIRST DOCTOR F688
+A medication to help with the itching.
+
+PATIENT F688
+A topical?
+
+FIRST DOCTOR F688
+Uh-huh.  So take this four times @@@.  You'll pick it up at the window.
+
+PATIENT F688
+Okay.
+
+FIRST DOCTOR F688
+And I am going to give you triamcinolone.  Try not to, I know it's itchy but not to, the more you itch it the worse it's going to get alright, so try to avoid it.  Okay and let me put in an order for a consult for Dermatology okay.
+
+PATIENT F688
+Okay.
+
+FIRST DOCTOR F688
+Okay come with me, do you have everything?
+
+PATIENT F688
+Yes.
+
+FIRST DOCTOR F688
+Okay and you'll go pick everything up at the window okay.
+
+PATIENT F688
+Okay.
+
+FIRST DOCTOR F688
+Come on over here.  @@@ they'll give you the medicine okay.  Have a good one.
+
+PATIENT F688
+Thank you.
+
+Time is 1:45
+
+DD: @@/@@/@@
+DT:@@/@@/@@   
+INFOPRO/800511/JOB#  1238126
+TRANSACTION # 578-10-2-316-0103

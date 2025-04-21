@@ -1,0 +1,59 @@
+Red Flag (1489-1497): "inhalers"
+
+Red Flag (1533-1561): "Yes I, I take them as needed"
+
+Red Flag (1576-1624): "Well those we want you to be taking all the time"
+
+Factor   (2059-2167): "Symbicort, the one that I take once a day seems to be more effective than the one I used to take twice a day"
+
+CarePlan (2286-2397): "So even though one may make you feel better right away, it's good in the long term to keep using them like that"
+
+CarePlan (2286-2397): "So even though one may make you feel better right away, it's good in the long term to keep using them like that"
+
+CarePlan (2434-2470): "They're different types of medicines"
+
+CarePlan (2434-2470): "They're different types of medicines"
+
+Red Flag (2573-2596): "I'm only taking one now"
+
+Probe    (2767-2816): "Is there a reason you're not taking the other one"
+
+Factor   (2832-2908): "Well it just didn't seem to be very effective and uh so I finally gave it up"
+
+Red Flag (4028-4133): "It looks like you ran out of your cholesterol pill and all this stuff you haven't been taking for a while"
+
+Factor   (4222-4337): "Medication if it won't fit in the mailbox I have to drive the ten miles round trip to pick it up at the post office"
+
+Red Flag (4357-4462): "Your cholesterol pill and your prostate pill, looks like you're not taking those anymore is that right or"
+
+Red Flag (4545-4583): "You haven't picked those up since June"
+
+Red Flag (5210-5266): "Are you still using that treadmill or anything like that"
+
+Red Flag (5282-5321): "No I've got to get back to that I think"
+
+Probe    (5388-5478): "you told you used to use the treadmill but you got bored with it after a couple of minutes"
+
+Factor   (5501-5563): "I had it rigged up to a TV I could watch but that doesn't work"
+
+Red Flag (6335-6341): "eating"
+
+Red Flag (6365-6390): "I need to improve on that"
+
+Probe    (6412-6493): "You used to get that Meals on Wheels right but you didn't feel like you needed it"
+
+Probe    (6947-6994): "You're eating a couple meals a day though still"
+
+Probe    (7111-7200): "Uh and you're still paying all your own bills, getting your own groceries, all that stuff"
+
+CarePlan (9619-9720): "I think even though you don't feel like it helps you I think it will in the long term help your lungs"
+
+Factor   (9803-9854): "Sometimes I think quite often you hear it on the TV"
+
+Factor   (9891-9955): "If the medication makes them, causes them to think about suicide"
+
+Factor   (9990-10176): "Cause most people, I don't think, think about suicide, they start taking some of this medications they prescribe and then it causes them to think about committing suicide for some reason"
+
+Red Flag (10211-10301): "So with medication for psychology and psychiatric problems I don't believe in it very much"
+
+Factor   (10590-10701): "It kind of shocked me the one right if it causes you to think about suicide then they say call us without delay"

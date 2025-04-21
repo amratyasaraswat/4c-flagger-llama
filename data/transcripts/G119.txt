@@ -1,0 +1,674 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR G119
+PATIENT?  How you doing today?  How's life treating you?
+
+PATIENT G119
+Oh pretty good.
+
+DOCTOR G119
+You look pretty good.
+
+PATIENT G119
+Since the last time I see you, been a while.
+
+DOCTOR G119
+Yeah.
+
+PATIENT G119
+This time I brought all my medicines.
+
+DOCTOR G119
+Good.
+
+PATIENT G119
+Some of them are out and some of them aren't.
+
+DOCTOR G119
+Okay, so you need a couple refills?
+
+PATIENT G119
+Yes.
+
+DOCTOR G119
+Your blood pressure's a little bit high.
+
+PATIENT G119
+That's because some of them are out.  Some of my blood pressure medicines.
+
+DOCTOR G119
+Which ones are they?
+
+PATIENT G119
+I don't know that's, I don't know the names of them that's why I just brought them.
+
+DOCTOR G119
+Okay.  Okay.  Sounds good, let's see.  How are your sugars doing?
+
+PATIENT G119
+Here you go.  I haven't been poking my fingers cause I get.  I know I'm feeling pretty good cause my vision's not blurry and I don't have any headaches.
+
+DOCTOR G119
+How long, often you checking your blood sugar?
+
+PATIENT G119
+My blood sugar?
+
+DOCTOR G119
+Uh-huh.
+
+PATIENT G119
+Probably once a week.
+
+DOCTOR G119
+Okay and the last time you checked what was it?
+
+PATIENT G119
+130.
+
+DOCTOR G119
+Okay.  Uh morning when you woke up or during the day?
+
+PATIENT G119
+That was during the day.
+
+DOCTOR G119
+Okay.
+
+PATIENT G119
+When I'm sitting in the easy chair and I look at this thing laying over on the stand I said well hell if I check it.
+
+DOCTOR G119
+Fever, chills, cough, chest pain, difficulty breathing?
+
+PATIENT G119
+None of that.
+
+DOCTOR G119
+Swelling anywhere?
+
+PATIENT G119
+No.
+
+DOCTOR G119
+No vomiting.
+
+PATIENT G119
+No.
+
+DOCTOR G119
+Blood in the stool, blood in urine.
+
+PATIENT G119
+No.
+
+DOCTOR G119
+Pain when you urinate?
+
+PATIENT G119
+No.
+
+DOCTOR G119
+Okay, so that's good.  You had an urine infection in June?
+
+PATIENT G119
+In June?
+
+DOCTOR G119
+No.
+
+PATIENT G119
+Oh they gave me medicine and we cleared all that up.
+
+DOCTOR G119
+Okay.  So you had an infection though.
+
+PATIENT G119
+Yeah, yeah.
+
+DOCTOR G119
+You were treated for it okay.  Um let's see.  Were you in the hospital or this was all from the clinic?
+
+PATIENT G119
+It's been a while since I've been in the hospital.  I was in the hospital here but that was.
+
+DOCTOR G119
+Over here?
+
+PATIENT G119
+@@@.  With @@@ weather outside uh it's not quite a year.  No yeah, it's been over a year.  I was in the hospital when I bought, bought that new car.  I did.  I bought a new car and the next day I went in the hospital.
+
+DOCTOR G119
+So, so no problem like urinating too much or drinking too much water or anything like that?  Your vision is okay?
+
+PATIENT G119
+Uh-huh.
+
+DOCTOR G119
+Have you been on iron supplements?
+
+PATIENT G119
+Yeah.
+
+DOCTOR G119
+Okay.  How's your diet?
+
+PATIENT G119
+Great.  I eat three times a day.
+
+DOCTOR G119
+Fatty foods under control?
+
+PATIENT G119
+I eat a lot of vegetables, fruits.
+
+DOCTOR G119
+Good.
+
+PATIENT G119
+Of course I'm like everybody else, I eat fast food too.
+
+DOCTOR G119
+Do you smoke?
+
+PATIENT G119
+No.
+
+DOCTOR G119
+Did you ever smoke?
+
+PATIENT G119
+Uh back when I was working for Phillip Morris.
+
+DOCTOR G119
+How long have you quit?
+
+PATIENT G119
+That was back uh, I went to work at Phillip Morris in 1972 and I worked for them until 1979.
+
+DOCTOR G119
+So about like @@@ years?
+
+PATIENT G119
+Then I went to work for Budweiser selling beer so I must have stopped smoking probably about 1988 I stopped smoking.
+
+DOCTOR G119
+88, so about 20 years.  So you know what I'm gonna talk to you about right?
+
+PATIENT G119
+Hmm?
+
+DOCTOR G119
+Colonoscopy.
+
+PATIENT G119
+Oh what @@@?
+
+DOCTOR G119
+I know but I have to talk to you about it though.
+
+PATIENT G119
+Someday I got to go through this.
+
+DOCTOR G119
+You are due either way for the sigmoid or the colon.  If you do a colonoscopy and its fine then you're clear for 10 years.  With the sigmoid if you do that one, it's shorter but if it’s fine you still have to do it in five years.
+
+PATIENT G119
+Five years doesn’t sound bad.
+
+DOCTOR G119
+Instead of 10 years?
+
+PATIENT G119
+When am I gonna be scheduled to do it?
+
+DOCTOR G119
+And you know I'll put in a consult and they'll let you know.  It’s not like it’s going to happen tomorrow.
+
+PATIENT G119
+Okay, alright.
+
+DOCTOR G119
+You're probably not gonna get it tomorrow.
+
+PATIENT G119
+Alright okay, okay, okay.
+
+DOCTOR G119
+Ideally @@@.
+
+PATIENT G119
+Okay, okay.
+
+DOCTOR G119
+Okay and then how's your reflux doing?
+
+PATIENT G119
+I'm out of that.
+
+DOCTOR G119
+Okay.  So.
+
+PATIENT G119
+That's the heartburn medicine.
+
+DOCTOR G119
+Um.
+
+PATIENT G119
+That's what I call it.
+
+DOCTOR G119
+Eye doctor?
+
+PATIENT G119
+I just left them yesterday.
+
+DOCTOR G119
+Okay and they did the dilating?
+
+PATIENT G119
+No I drove down there by myself so they couldn't dilate me cause I couldn't get back home.
+
+DOCTOR G119
+Well they're.
+
+PATIENT G119
+They're gonna dilate me uh I think its December 13th.
+
+DOCTOR G119
+Okay, okay. Perfect. Um podiatrist, did you see a podiatrist?
+
+PATIENT G119
+Podiatrist, that's the foot doctor?
+
+DOCTOR G119
+Yes.
+
+PATIENT G119
+I had a corn on my toe and I bought that medicine and it took it off.
+
+DOCTOR G119
+So you haven't seen them?
+
+PATIENT G119
+No.
+
+DOCTOR G119
+Okay.  The last time in December.  Okay.  How long have you been taking the vitamin D?  Did you come check the level or no?
+
+PATIENT G119
+Some of them are rattling because they are almost empty.
+
+DOCTOR G119
+It looks like I don't see you're running low for your medication though so, why was your blood pressure high?
+
+PATIENT G119
+I don't know.  I'll be honest, I won't lie, I been taking my medicine, the blood pressure probably every other night.
+
+DOCTOR G119
+Why?
+
+PATIENT G119
+Because some nights I just forget.
+
+DOCTOR G119
+You forget?
+
+PATIENT G119
+Yeah and I like taking it at night rather than getting up and taking it in the morning, you know since I @@@ well I got to take my medicines at night and then you fall asleep and don't take it.
+
+DOCTOR G119
+But like this one, do you take the one for your stomach in the morning?
+
+PATIENT G119
+For my stomach, let's see.  I have so many pills.
+
+DOCTOR G119
+The omeprazole the one for your reflux.
+
+PATIENT G119
+Is that a little white pill?
+
+DOCTOR G119
+Uh-huh.
+
+PATIENT G119
+I take it at night.
+
+DOCTOR G119
+What are you doing taking it at night cause you're not eating it isn't doing any good?  It works better to take them during the day.
+
+PATIENT G119
+I could switch it around and take them all in the day.  I want to be able to take them all at the same time.
+
+DOCTOR G119
+Um let's see.  I guess the only one, I mean you just want to make sure you don't forget and your blood pressure right now, I don't know if it's because you're not taking it or if it's not working.
+
+PATIENT G119
+No it's working cause the last.
+
+DOCTOR G119
+The last one was a good one.
+
+PATIENT G119
+Right, the last time I been here they said it was super good.
+
+DOCTOR G119
+That it was good.
+
+PATIENT G119
+Right.
+
+DOCTOR G119
+Okay.
+
+PATIENT G119
+It's working, it's just I got to get back on my, get on my horse and my schedule to take it.
+
+DOCTOR G119
+Okay.
+
+PATIENT G119
+I need some more of that heartburn medicine.
+
+DOCTOR G119
+Uh-huh I'll give you all of them.
+
+PATIENT G119
+Mail them cause I need to get to the cashier before 4 o'clock.
+
+DOCTOR G119
+Do you need insulin too?
+
+PATIENT G119
+Uh.
+
+DOCTOR G119
+Do you need everything refilled?
+
+PATIENT G119
+I remember about them telling me about the insulin that I was warned that it could pull, I been taking it and it would be too much for me.  
+
+DOCTOR G119
+What do you mean?
+
+PATIENT G119
+In other words insulin brings down your blood sugar correct?
+
+DOCTOR G119
+Uh-huh.
+
+PATIENT G119
+Okay.  You were concerned if I would be taking the insulin bringing it down too low.
+
+DOCTOR G119
+Um well the last time we did the hemoglobin test it was really good to the point where maybe it’s too good.
+
+PATIENT G119
+It's too good?  Alright I cut back on the insulin like every other day.
+
+DOCTOR G119
+What are you using right now?
+
+PATIENT G119
+30 units Humulin N.
+
+DOCTOR G119
+Oh and how long were you doing this?
+
+PATIENT G119
+If I go back to shooting myself every day you better order me another bottle because I went back to taking it every other day.
+
+DOCTOR G119
+So what are you doing right now?
+
+PATIENT G119
+Every other day.  I'm going to go back to taking it.
+
+DOCTOR G119
+Once a day?
+
+PATIENT G119
+Yeah.
+
+DOCTOR G119
+And that's it?
+
+PATIENT G119
+Right, that's what I'm going to go back to taking it once a day instead of every other day.
+
+DOCTOR G119
+How about this, give me your phone number, we'll check today to see what your sugar has been in the last three months.  If it's a lot worse then we'll go back to every day okay.  So keep doing what you're doing now.
+
+PATIENT G119
+Uh-huh.
+
+DOCTOR G119
+And then I'll call you and let you know what to do.
+
+PATIENT G119
+Okay you have my phone number don't you?
+
+DOCTOR G119
+Is it the same one?
+
+PATIENT G119
+Yeah it hasn't changed.
+
+DOCTOR G119
+Uh NUMBER.
+
+PATIENT G119
+No.
+
+DOCTOR G119
+NUMBER.
+
+PATIENT G119
+That's it, that's it.
+
+DOCTOR G119
+So fill this one and this one.  If you give yourself insulin though you really need to check your sugars every other day.  You can’t just give yourself insulin without making sure.
+
+PATIENT G119
+Yeah okay.
+
+DOCTOR G119
+Cause what if it's low.
+
+PATIENT G119
+Okay, okay.
+
+DOCTOR G119
+You could go into a coma.
+
+PATIENT G119
+Yeah but you know when it goes low you, I mean you'll know it.  You know you'll feel weak, tired.
+
+DOCTOR G119
+Yeah but.
+
+PATIENT G119
+For you I will take it every other day.
+
+DOCTOR G119
+Are you going to pick them up?
+
+PATIENT G119
+No mail everything.  I got to get to the cashier before 4 o'clock so I have child expenses to pay back home.
+
+DOCTOR G119
+Okay.
+
+PATIENT G119
+Cause they don't stay open when you got 3 o'clock appointments, they close at 4 sharp.  Is it normal for me to be tired when I wake up in the morning cause by 11 o'clock then I'm ready to go?  You know I have energy.
+
+DOCTOR G119
+Are you sleeping okay?
+
+PATIENT G119
+Uh I usually have to get up twice during the night to go to the washroom.
+
+DOCTOR G119
+Hmm.  Are you more constipated than usual?
+
+PATIENT G119
+No.
+
+DOCTOR G119
+Hair loss?
+
+PATIENT G119
+Uh.
+
+DOCTOR G119
+Feeling more cold than everyone else around you?
+
+PATIENT G119
+No.
+
+DOCTOR G119
+Gaining weight even though you're not eating that much?
+
+PATIENT G119
+I eating a lot and I ain't gaining a lot of weight.  I was gaining weight cause I was weighing 183, 84, now I'm down to 176.
+
+DOCTOR G119
+Do you take aspirin?
+
+PATIENT G119
+I had been taking them but last night when I ran out I stopped taking them.
+
+DOCTOR G119
+Okay.  
+
+PATIENT G119
+That's for the heart.  I never thought I had any heart problems.
+
+DOCTOR G119
+And you’re diabetic so it's kind of like having heart problems even though you don't.
+
+PATIENT G119
+Oh right, I'll go back to taking the aspirin.
+
+DOCTOR G119
+Do you want to get it here; do you want me to order it?
+
+PATIENT G119
+Uh yeah you can put it on there, they can mail it.  That'll save me from going to the drug store.
+
+DOCTOR G119
+Um did you have your tetanus shot?
+
+PATIENT G119
+Which one?
+
+DOCTOR G119
+Tetanus.
+
+PATIENT G119
+Tetanus.  I don't know I think I had the flu shot.  Does it say when I got that two shots, that flu shot thing?  I don't know, if it's not on the record I don't know.  Maybe I haven't had it I don't know.
+
+DOCTOR G119
+Let's check.  ‘05 um.  Be right back okay.
+
+PATIENT G119
+You gotta go find DOCTOR?
+
+DOCTOR G119
+Yep.
+
+PATIENT G119
+I can't keep track.
+
+DOCTOR G119
+@@@.
+
+PATIENT G119
+I think he's walking around.
+
+(DOCTOR OUT:  42:03  DOCTOR IN:  44:27)
+
+DOCTOR G119
+Okay.  So we'll do that.  Well let me put this in.  Um I know you have to go today um do you promise to come back this week and get your lab done.
+
+PATIENT G119
+Yeah.
+
+DOCTOR G119
+Because we need to see what your sugar is doing.
+
+PATIENT G119
+Okay um, today is what Wednesday?
+
+DOCTOR G119
+Wednesday.
+
+PATIENT G119
+Um.
+
+DOCTOR G119
+When can you come back in then?
+
+PATIENT G119
+Tomorrow.  But I can come any time right?
+
+DOCTOR G119
+Any time.
+
+PATIENT G119
+Morning or evening okay.  Tomorrow.
+
+DOCTOR G119
+But come when the Lab is open.
+
+PATIENT G119
+Okay.
+
+DOCTOR G119
+Um, I want to check your vitamin B level cause I know it was low in the past so we'll what.
+
+PATIENT G119
+See what it is now since I took the vitamin B pills.
+
+DOCTOR G119
+Yeah and then if it's still low then we'll give you some more.  Um.  Questions?
+
+PATIENT G119
+Is that it?
+
+DOCTOR G119
+That's it.  And I'll see you in three months.
+
+PATIENT G119
+I'll be here tomorrow and when are you going to see me again?
+
+DOCTOR G119
+In three months.
+
+PATIENT G119
+Okay send me a notice.
+
+DOCTOR G119
+They will.  Questions?  So I refilled everything.  Actually how much of the, just a second, I wanted to see if I refilled the aspirin.  Okay.
+
+PATIENT G119
+Okay.
+
+DOCTOR G119
+That's it.
+
+PATIENT G119
+Alright thank you.
+
+DOCTOR G119
+Take care.
+
+PATIENT LEAVES:  47:07.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275425
+TRANSACTION # 578-10-2-316-0103

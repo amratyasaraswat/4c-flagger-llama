@@ -1,0 +1,839 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR M637 
+Will you come with me?  Just have a seat right here.  Alright well I'm DOCTOR.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+One of the residents working in DOCTOR's clinic here.  I'll be seeing you from now on probably so.
+
+PATIENT M637
+Oh.
+
+DOCTOR M637
+So how you doing?  Pain still?
+
+PATIENT M637
+Yeah I got pain in that knee.
+
+DOCTOR M637
+Right here?
+
+PATIENT M637
+It'd be pain and maybe 24 hours a day.
+
+DOCTOR M637
+Right, that same place in the knee?
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Same thing.
+
+PATIENT M637
+Not a lot.  I seen the uh.
+
+DOCTOR M637
+Surgeon right?
+
+PATIENT M637
+Yeah, well I seen those guys and basically that's the only thing that will do any good.
+
+DOCTOR M637
+A knee replacement?
+
+PATIENT M637
+Yeah they got to do that.  Uh I had a @@@ and all that.  I'm on pain pills man and they don't help no more.
+
+DOCTOR M637
+Has it changed in character or it's the same thing right?  Same location, same place?
+
+PATIENT M637
+Yeah.  Same, same location, and the only difference was pain just getting worse.  I had to talk to the Rheumatology I mean they do @@@ about a month ago and they didn’t do anything you know so I always see Orthopedic myself and they say.  I only see those guys you know time and time and I'm constantly telling them and they doing nothing.
+
+DOCTOR M637
+Yeah.
+
+PATIENT M637
+I go to see the Orthopedics and they say hey you know, that's the only thing going on.  They're gonna ease the pain.  They didn't give me any painkiller either.  They don’t help.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+I uh, you know I had this pain in the lung you know, uh so they supposed to do a biopsy uh then they cancelled it, this is the second time they cancelled it.  I was supposed to go on the 16th and they didn't do it now.
+
+DOCTOR M637
+A biopsy of what?
+
+PATIENT M637
+Yeah uh now they tell me on the 23rd.
+
+DOCTOR M637
+Okay, what do they want, what are they doing a biopsy on?
+
+PATIENT M637
+For the lung, uh @@@.
+
+DOCTOR M637
+Oh for the nodule in there right?
+
+PATIENT M637
+Yeah only on the right @@@.
+
+DOCTOR M637
+Did they find this on the CT?  They were going to biopsy it, really?
+
+PATIENT M637
+Yeah, well they was supposed to, well that's what they told me and they cancelled uh twice and they said they didn't have room so now they set it for the 23rd.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+I still got that pain in there though.
+
+DOCTOR M637
+It hurts with breathing?
+
+PATIENT M637
+Yeah when I cough you know.
+
+DOCTOR M637
+And that hasn't changed at all either?
+
+PATIENT M637
+No it ain't changed you know it’s, I just, I can hold off on coughing.  If I have to cough it pains me.  And in Rheumatology he ordered it long ago, I mean when they got it in the pulmonary @@@ ordered it and they said they didn't have room or whatever yeah.
+
+DOCTOR M637
+So you're supposed to go this month again?
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+On the 16th.
+
+PATIENT M637
+I was supposed to go the 16th.
+
+DOCTOR M637
+Yeah.
+
+PATIENT M637
+Uh when he cancelled it he said they didn't have room so now they move it to the 23rd.
+
+DOCTOR M637
+Okay.  Yeah that's probably something they're gonna take care of for you just ahead but they've got to figure out what that is.
+
+PATIENT M637
+Yeah well if they say I need it, I mean the doctor @@@ he don't know what to do until he get this biopsy and this is the second time he cancelled it.  So I'm gonna see him on the 18th so I could tell him what happened.  They didn't do it.
+
+DOCTOR M637
+Sorry I'm putting in some notes here.  So you're gonna see the lung doctors on the 18th?
+
+PATIENT M637
+Huh?
+
+DOCTOR M637
+You see the lung doctor on the 18th and then the radiologist who's supposed to do the biopsy?
+
+PATIENT M637
+Yeah, right, right.  I was supposed to do it on the 16th, now they called me and said they only, you know, they're filled up so they moved to the 23rd but I see this doctor on the 18th.  So better check it.
+
+DOCTOR M637
+I think you're gonna have the biopsy that day.  So you'll have to follow it up I guess.
+
+PATIENT M637
+Yeah well he said he don't know what's going on, when he get that.
+
+DOCTOR M637
+Yeah cause they may want to look at the tissue and see.
+
+PATIENT M637
+Right, right.
+
+DOCTOR M637
+Because it’s guessing otherwise.
+
+PATIENT M637
+Yeah right.
+
+DOCTOR M637
+So, what do you taking for your pain?
+
+PATIENT M637
+Uh they gave me this, I got Tylenol 3 codeine and it don't help.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+But I'll tell you.
+
+DOCTOR M637
+I mean we can, we can do other stuff too, or you can go higher than that. That’s not the strongest that we got.  The question is have you ever had a bad reaction with like Vicodin or anything like that?
+
+PATIENT M637
+Well I had some Vicodin, but I had it and it didn't do anything.
+
+DOCTOR M637
+Didn't do anything.
+
+PATIENT M637
+No it didn't do anything uh this Tylenol 3, I want to say it helps a little bit.  But I had the Vicodin in its place and it didn't do nothing.  The doctor over there tell me that the only thing gonna ease the pain, you know the @@@.
+
+DOCTOR M637
+Is the hip replacement?
+
+PATIENT M637
+Yeah I mean we definitely @@@.
+
+DOCTOR M637
+And we can't do that until we figure out what's going on with the lung.
+
+PATIENT M637
+Right so this lung problem is a whole other thing.
+
+DOCTOR M637
+@@@ sorry.  Give me one second, I'll be right back.
+
+PATIENT M637
+So this problem is holding up everything.
+
+DOCTOR M637
+Uh-huh. 
+
+PATIENT M637
+See all of this, they always inform me when the appointment is, I mean they are and they said they didn't do it so this is the second time that they moved it up.
+
+DOCTOR M637
+Yeah.
+
+PATIENT M637
+Now I thought, when I see him on the 18th and he still want @@@ what I mean.
+
+DOCTOR M637
+Let me call and ask about that. The radiology.  They still have you listed for the 16th.
+
+PATIENT M637
+I know but well they cancelled it doctor.
+
+DOCTOR M637
+Yeah you know I would call them and ask them why.
+
+PATIENT M637
+Yes.  Why.
+
+DOCTOR M637
+And maybe they can just switch you back.  Um.
+
+PATIENT M637
+Yeah because.
+
+DOCTOR M637
+I’m just going to call.
+
+PATIENT M637
+Well I need to get this here.
+
+DOCTOR M637
+Yeah I know.  That's holding everything up so.
+
+PATIENT M637
+That holding up.
+
+DOCTOR M637
+See what we can do here.
+
+PATIENT M637
+Well I'm telling you they called me and said the 23rd which is next Monday instead of this Monday.
+
+DOCTOR M637
+Oh September 23rd or August 23rd, just an extra couple weeks.
+
+PATIENT M637
+Yeah, August the 23rd.
+
+DOCTOR M637
+But they still moved you so okay.  See what's holding it up.
+
+(Doctor calls Radiology)
+
+DOCTOR M637
+Alright so the scanner.
+
+PATIENT M637
+Now this uh.
+
+DOCTOR M637
+You need a refill?
+
+PATIENT M637
+No uh well I just got this but uh, I'm having all kinds of problems with this uh it really, every time I come here well my blood pressure's up and I @@@ senior citizens and it still up.  Now I tell you doctor uh, like at the @@@ they be on me for years.
+
+DOCTOR M637
+Uh-huh.
+
+PATIENT M637
+So they discontinued and then they come up with this drug and then well I had one before this and it didn't do anything at all so now when it has this, it ain't doing anything, it ain't been helping a lot.
+
+DOCTOR M637
+Do you feel bad when you're taking it?
+
+PATIENT M637
+Yeah, yeah.
+
+DOCTOR M637
+Your blood pressure's great.
+
+PATIENT M637
+I was talking to the um, the Pharmacy in Walgreens and he said he never heard of it.
+
+DOCTOR M637
+What?  That's the most common drug for hypertension.
+
+PATIENT M637
+Yeah I don't know.
+
+DOCTOR M637
+But your blood pressure's really good okay.
+
+PATIENT M637
+Well I had just a little @@@ for a year on that, I've never had any problem and uh they @@@ so everybody trying to figure out what I need just so, but they need to come up with some stuff, I'm telling you this is something that really don't work at all.
+
+DOCTOR M637
+Okay.  Alright um any fevers or chills?
+
+PATIENT M637
+No.
+
+DOCTOR M637
+Okay.  No chest pain or shortness of breath?  Just pain and cough right?
+
+PATIENT M637
+Yeah just.
+
+DOCTOR M637
+The same thing you've been having?
+
+PATIENT M637
+Yeah, yeah I mean.  I mean you know I'm, nothing new.
+
+DOCTOR M637
+Nothing new.  It's all just about the same alright.
+
+PATIENT M637
+It's all the same.  The only thing wrong is getting worse.
+
+DOCTOR M637
+Yeah it's getting worse.  I talked to Radiology and the problem is they have to fix the CT scanner on that day or that week so there's actually no way you can get it done that week.  I know it's a pain in the ass but they should be ready, you got the appointment for the 23rd.
+
+PATIENT M637
+Yeah, yeah.
+
+DOCTOR M637
+Did you get the time?
+
+PATIENT M637
+Yeah I have it on the 23rd.
+
+DOCTOR M637
+You've got to make sure you just make that appointment.  So the Pulmonary people, call them and explain to them what's going on, tell them what you told me.  The thing is this issue is holding up everything it's all pain you're having in your hip and you can't have surgery until they figure out what's going on there okay.  (Doctor spoke with someone who came to the door)  I'm sorry.
+ 
+PATIENT M637
+So yeah I mean earlier, I mean earlier, other than that doctor I mean and anyway @@@ in years.
+
+DOCTOR M637
+Okay and your knees okay?
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+Uh this, this biopsy will be holding up, the hip, really holding up everything.
+
+DOCTOR M637
+Yeah.
+
+PATIENT M637
+And everything.
+
+DOCTOR M637
+@@@ chain there so.  No blood, no black stuff in the bowel movements?  No okay.  And you're urinating okay?
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Who do you live with, do you live by yourself?
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+You doing okay at home?  Okay you're getting to the grocery store and getting your errands done and everything?  And you're vision's okay, no problems no falling or anything like that or anything?
+
+PATIENT M637
+No, I mean there is no new problem; the old one is getting worse.
+
+DOCTOR M637
+Just the old ones are getting worse.  If you can hop up here and I'll do a quick exam.
+
+PATIENT M637
+Yeah it all about that, the older one just getting worse.
+
+DOCTOR M637
+Yeah.
+
+PATIENT M637
+@@@.  I keep telling them, I telling my granddaughter there is no cure for old age anyway, just @@@.
+
+DOCTOR M637
+But we can try to get you @@@.
+
+PATIENT M637
+@@@, you ain't gonna stop me @@@.
+
+DOCTOR M637
+Take a look at my nose right here.  Open your mouth, say ah.
+
+PATIENT M637
+Ah.
+
+DOCTOR M637
+Follow my finger here.  Good, good okay.  Take a deep breath.  Deep breath, just breathe normally.  No swelling in the legs or anything like that?
+
+PATIENT M637
+No, pretty good.
+
+DOCTOR M637
+No pain in the belly right now?
+
+PATIENT M637
+No, no pain.
+
+DOCTOR M637
+Alright you can have a seat we're done with this.  We've got to figure out something to at least get better with your pain while you're waiting getting everything done here.  You've tried tramadol right?
+
+PATIENT M637
+Yeah it didn't do nothing.
+
+DOCTOR M637
+Didn't do anything.
+
+PATIENT M637
+So now, now I mean uh now they gave me uh codeine, Tylenol 3 and it helps a little bit but.
+
+DOCTOR M637
+And you tried Vicodin and that didn't do anything?
+
+PATIENT M637
+Huh?
+
+DOCTOR M637
+Vicodin didn't do anything right?
+
+PATIENT M637
+No Vicodin, so that's why they gave me the codeine, the Tylenol 3.
+
+DOCTOR M637
+Okay.  Have you tried Norco?
+
+PATIENT M637
+Huh?
+
+DOCTOR M637
+Did they give you something called Norco ever?
+
+PATIENT M637
+Yeah I think I had that and you know.
+
+DOCTOR M637
+Did it do anything?
+
+PATIENT M637
+No, no nothing did any good.
+
+DOCTOR M637
+Alright.
+
+PATIENT M637
+This Tylenol 3 it helps a little bit, I don't know.
+
+DOCTOR M637
+It takes the edge off.
+
+PATIENT M637
+Yeah well you can help me; I mean it helped it some but that other stuff it don't help at all.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+So I got the Tylenol 3 and I been using that so I take that.
+
+DOCTOR M637
+Alright uh.  Let's see.  I mean the only other thing we could go to is we could go to like morphine but I don't know if I want to do that though.
+
+PATIENT M637
+No.
+
+DOCTOR M637
+Will you be able to bear it out at least for a little longer if we give you more of your Tylenol 3, if we make sure you have enough of a constant supply of Tylenol 3?
+
+PATIENT M637
+Yes, uh-huh, so I'll stick with the Tylenol 3 for the time being right now.
+
+DOCTOR M637
+And you're still seeing Rheumatology correct?
+
+PATIENT M637
+Right yeah I mean and I got to see him.
+
+DOCTOR M637
+You're seeing him @@@ I think.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Yeah.  Oh yeah you've seen them this month and then you're seeing the lung doctors, you have no shortness of breath though, nothing like that?  You're taking the inhalers and you're doing okay with that?
+
+PATIENT M637
+Yeah oh yeah I always take it with me.
+
+DOCTOR M637
+Okay and you're using those, the other ones you're using every day though right?
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+There's a couple, there’s two here you're using them every day?
+
+PATIENT M637
+Well I use them just a little bit every day.  Of course I have to be um.
+
+DOCTOR M637
+Okay, yeah you use this one just every day.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+You don't have to use it when your short of breath, you just use it every day?
+
+PATIENT M637
+Yeah I mean but I use it every day whether I @@@ or not.
+
+DOCTOR M637
+Yeah that one you should use every day, the albuterol.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Albuterol you actually should carry it with you cause that's like just like whenever you need it.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Don't use that every day but.
+
+PATIENT M637
+And I have the other one, you know.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+The red one, what what do you call it?
+
+DOCTOR M637
+Uh mometasone.  It's like an inhaled steroid.
+
+PATIENT M637
+Yeah I mean but I got the machine you know.
+
+DOCTOR M637
+Oh yeah you get a nebulizer.
+
+PATIENT M637
+Yeah I got the nebulizer.
+
+DOCTOR M637
+Okay, got it, got it okay.  Alright.
+
+PATIENT M637
+So I use that maybe once a day you know.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+In fact, well I use it once a day you know for long time.  Uh the only time I have any trouble breathing you know is when I take a long trip.  I mean the longer I'm sitting there you know the long @@@.
+
+DOCTOR M637
+You got where you can walk a bunch and then you're okay.
+
+PATIENT M637
+Yeah.  When I walk a whole block then I end up but I mean, but I always keep this with me, I keep it with me at all times in case I need it.
+
+DOCTOR M637
+Yeah I gotcha, I gotcha.  Alright.  Well let me go run this by DOCTOR but I mean I'll make that all of your medications are refilled and make sure you've got Tylenol 3s.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+I mean you're doing good, @@@ but the only is there's nothing we can do about it until we get this dealt with.
+
+PATIENT M637
+Well that's.
+
+DOCTOR M637
+I can't make things go any faster.
+
+PATIENT M637
+Well that's holding up everything.
+
+DOCTOR M637
+Yeah.
+
+PATIENT M637
+Alright.  It's supposed to be did three, four weeks ago.
+
+DOCTOR M637
+@@@.  I'm really sorry about that, that it happened.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+System problems.  Give me a minute; you can just have a seat.  Give me a minute to go talk to DOCTOR and I'll be right back.
+
+PATIENT M637
+Alright.
+
+(DOCTOR OUT:  73:08  DOCTOR IN:  78:57)
+
+DOCTOR M637
+Alright, so we kind of agreed I mean, we'll keep you going.  I'm going to give you something better for coughs just to.
+
+PATIENT M637
+Yeah, yeah.
+
+DOCTOR M637
+You have the pain with the cough right?
+
+PATIENT M637
+Huh?
+
+DOCTOR M637
+We'll see, I'm gonna give you another cough medicine to see if that'll help your cough down and keep the pain down a little bit in the chest here.
+
+PATIENT M637
+Yeah, yeah.
+
+DOCTOR M637
+And then we'll make sure you get enough Tylenol 3s.
+
+PATIENT M637
+Or you can, you can have them mail me some, mail it.
+
+DOCTOR M637
+Okay.  Now you're.
+
+PATIENT M637
+Uh mail it to me.
+
+DOCTOR M637
+Okay you get them in the mail?
+
+PATIENT M637
+Yes I have, I been due for it; I just picked up everything else I need.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+So you can mail me the cough and the Tylenol 3.
+
+DOCTOR M637
+Got it, got it.
+
+PATIENT M637
+But I got everything else here already.
+
+DOCTOR M637
+So for the cough medicine, when it starts to get worse, just take it as needed, for the cough.
+
+PATIENT M637
+Yeah the one I take is in the evening.
+
+DOCTOR M637
+Okay.
+
+PATIENT M637
+If I don't cough then I don't.
+
+DOCTOR M637
+Yeah you don't need to take it.
+
+PATIENT M637
+Right then just.
+
+DOCTOR M637
+So.
+
+PATIENT M637
+I mostly cough at night you know.
+
+DOCTOR M637
+Yeah so what you're gonna do is just take it maybe a half an hour or an hour before bed.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+So you can take it before you go to bed.
+
+PATIENT M637
+Yeah I know, that's what I do, so I don't have any problem in the day but at night.
+
+DOCTOR M637
+Just at night.
+
+PATIENT M637
+At night.
+
+DOCTOR M637
+Okay.  And then I want to see you back in three months because I want to make sure everything's going along.
+
+PATIENT M637
+Yeah I.
+
+DOCTOR M637
+If something's stalled I want to see if we can help out and push it along.
+
+PATIENT M637
+Yeah well I, uh.
+
+DOCTOR M637
+So.
+
+PATIENT M637
+Uh, uh well they'll probably call when they get the stuff, once I get.
+
+DOCTOR M637
+Yeah we'll keep following up if anything comes up that I notice then I'll.
+
+PATIENT M637
+Well they said uh you know once I had this biopsy and all then I go back and I supposed to go back and see them.
+
+DOCTOR M637
+Oh the hip surgeons right, yeah, yeah.  So you need to get the biopsy and you'll need to wait for the Pulmonary guys and the pathologist to look at it and see what they think it is and see if anything needs to be done @@@.
+
+PATIENT M637
+Now this thing is holding up.
+
+DOCTOR M637
+Everything.
+
+PATIENT M637
+Holding up @@@.
+
+DOCTOR M637
+Got it, got it, but yeah as soon as you get it, as soon as you get a call that you might be okayed for surgery you can call the Orthopedic guys and set up another appointment.  Cause we'll do the work-up, we'll get the EKG and everything and do the work-up to make sure you're ready.
+
+PATIENT M637
+Yeah, yeah I mean once I report to them, then they'll give you a call, they gonna call you anyway.
+
+DOCTOR M637
+Okay @@@.
+
+PATIENT M637
+Yeah I mean they can do that I mean to see if you okayed it or what else so.  But they told me that's the only thing I know.  You know like I was @@@ I have a few years left and I don’t need to have pain.
+
+DOCTOR M637
+Yeah just to live long just to have pain I mean its.  I understand.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Just be, as long as you ask them to explain it to you, cause you want to get the, this may take a while and the hip surgery is going to be long recovery too.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+So just as long as you're awareI mean you have to do a lot of rehab and everything to get back to.
+
+PATIENT M637
+Yeah.
+
+DOCTOR M637
+Moving around.
+
+PATIENT M637
+Well I ain't got nothing to do.
+
+DOCTOR M637
+Okay well good.  You know a lot of it is just get through the pain and once you get it done.
+
+PATIENT M637
+Yeah I been living with this pain, that's what.
+
+DOCTOR M637
+Got it, got it, okay.
+
+PATIENT M637
+Cause that's what killing me.
+
+DOCTOR M637
+Okay.  Well the orders are in; the medications will be mailed to you.
+
+PATIENT M637
+Alright.
+
+DOCTOR M637
+Um.  I got nothing else for you today okay.
+
+PATIENT M637
+Alright doc, thank you.
+
+DOCTOR M637
+Alright.  It was nice meeting you; we'll see you in three months.
+
+PATIENT M637
+Okay.
+
+DOCTOR M637
+Or sooner if you need to.  @@@.  You can head out through here, you're good for me.
+
+PATIENT M637
+Alright.  So I'm so, so I can go?
+
+DOCTOR M637
+Yes, you're good.
+
+PATIENT M637
+Alright thank you.  So I'll hop on out.
+
+PATIENT LEAVES:  82:41
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1275421
+TRANSACTION # 578-10-2-316-0103

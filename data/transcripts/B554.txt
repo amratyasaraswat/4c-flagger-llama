@@ -1,0 +1,1004 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR B554
+PATIENT.  How have you been doing?
+
+PATIENT B554
+Well I've been doing pretty good.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+Up until now.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+I've uh, the reason I'm here, I can't urinate.  I've uh been, it's been uh kind of a progressive problem for the last month maybe.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+But these last few days I'm up half the night trying to urinate and I can't.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+And now, just these last couple days, it's almost a continuous urge to but I go and there's nothing there.
+
+DOCTOR B554
+Do you think that there is something that is obstructing your?
+
+PATIENT B554
+It feels like, sure it feels like it.
+
+DOCTOR B554
+Feels like that okay.  Uh have you found that you actually wet your underpants or or?
+
+PATIENT B554
+No, no.  Not more than a drop or two.
+
+DOCTOR B554
+Not more than a drop or two okay.  Do you feel any pain when you try to @@@?
+
+PATIENT B554
+Yeah, yeah.
+
+DOCTOR B554
+Have you noticed any blood coming out of it?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+No okay.  Uh, I don't see any record of yours in the computer, is it for the first time that you are here?
+
+PATIENT B554
+My very first visit here yes.
+
+DOCTOR B554
+Okay.  Because this is the only time you've seen a physician, only you were calling earlier?
+
+PATIENT B554
+No I hadn't got a primary care physician.  Whatever problems I had in the past were always Emergency Room situations.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+And uh it was uh, uh, one was a bleeding ulcer 20 years ago.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+And then uh a uh hip replacement shortly after that and uh then I had a uh cellulitis infection in my leg uh since then but that's been maybe ten years ago so its.
+
+DOCTOR B554
+So you mentioned that you were bleeding from the ulcer?
+
+PATIENT B554
+Uh yeah I was taking medication for arthritis in my hip.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+And that caused my ulcer.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+And I started uh.
+
+DOCTOR B554
+So what you were actually vomiting blood or?
+
+PATIENT B554
+Passing it.
+
+DOCTOR B554
+You were passing blood okay.  So what did they do at that time?
+
+PATIENT B554
+Uh they uh, it actually healed itself but uh.
+
+DOCTOR B554
+You didn't require any kind of endoscopy or @@@.
+
+PATIENT B554
+They did, they went in and looked at it.
+
+DOCTOR B554
+They did an endoscopy?
+
+PATIENT B554
+They went in and looked at it.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+But just medication was all, there was no surgery.
+
+DOCTOR B554
+They did no surgery.  That was in which hospital?
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+That was in which hospital?
+
+PATIENT B554
+LaGrange Community.
+
+DOCTOR B554
+LaGrange Community okay and then you mentioned that you had a 
+hip replacement.
+
+PATIENT B554
+Loyola.
+
+DOCTOR B554
+Uh how many years was that?
+
+PATIENT B554
+That was in uh 2000, no no, it was before that, it was uh in '90.  Yeah it's been 18 years.
+
+DOCTOR B554
+1990.
+
+PATIENT B554
+Yeah uh-huh.
+
+DOCTOR B554
+Okay and which hip was done?
+
+PATIENT B554
+Left.
+
+DOCTOR B554
+The left one, okay.  And it was because you had arthritis there?
+
+PATIENT B554
+Yeah it was, I saw four different doctors and uh they looked at the x-ray and uh, you got a bad hip, wait as long as you can, let me know when you're ready.
+
+DOCTOR B554
+Okay and you never injured your hip right?
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+You never injured your hip or something.  You never had an accident or something?
+
+PATIENT B554
+No, no.  The amazing thing.
+
+DOCTOR B554
+What's an amazing thing?
+
+PATIENT B554
+The amazing thing of that.
+
+DOCTOR B554
+(Doctor gets a phone call) Okay sorry for the interruption.
+
+PATIENT B554
+DOCTOR was a surgeon over at Loyola.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+And uh he did the surgery on a Thursday and I was back at work on Monday and uh I went back to see him for one check-up and uh then he died after that.  Couldn't go back and see him anymore and I hadn't had any check-up at all since then.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+Been 18 years since then.
+
+DOCTOR B554
+But does it bother you any?
+
+PATIENT B554
+Not at all.
+
+DOCTOR B554
+@@@.
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+@@@ implants okay.
+
+PATIENT B554
+@@@ hip yeah.
+
+DOCTOR B554
+If there was copies @@@.
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+There is another thing you @@@.
+
+PATIENT B554
+Oh the cellulitis.
+
+DOCTOR B554
+Oh cellulitis when was that?
+
+PATIENT B554
+I don't know exactly but it was.
+
+DOCTOR B554
+Just take a guess.
+
+PATIENT B554
+It's maybe ten years.
+
+DOCTOR B554
+What exactly happened? 
+
+PATIENT B554
+Uh my lower left leg swelled up.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+To a point of where it was inflamed.
+
+DOCTOR B554
+@@@.
+
+PATIENT B554
+Well I got an ulcer.  I've had a leg ulcer that's been there for a long long time.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+And uh, and uh that was there, actually that was there before the hip replacement so.
+
+DOCTOR B554
+Okay since then you have had it, okay.
+
+PATIENT B554
+But this is, it was probably worse, gets better and then it gets worse.  It's not even worth having anything.
+
+DOCTOR B554
+But the cellulitis @@@ that was much worse than what you @@@.
+
+PATIENT B554
+Oh the whole leg was swelled and inflamed.
+
+DOCTOR B554
+How did you get it treated?
+
+PATIENT B554
+It was antibiotic I think.
+
+DOCTOR B554
+Was it an IV antibiotic?
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+IV.
+
+PATIENT B554
+Uh-huh.
+
+DOCTOR B554
+So were you in the hospital for that?
+
+PATIENT B554
+I was in the hospital for that for uh and that was in LaGrange Community for probably I don't four or five days I think.
+
+DOCTOR B554
+Okay.  Any other problem that you have, any other medical or physical problems, uh I see you are having a hearing aid.
+
+PATIENT B554
+Yeah a hearing aid.
+
+DOCTOR B554
+Since when have you had that?
+
+PATIENT B554
+Yeah I've had those for probably ten years.
+
+DOCTOR B554
+For 10 years.
+
+PATIENT B554
+This is the second set now.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+The first ones quit on me and I had to buy another one.
+
+DOCTOR B554
+And you think @@@.
+
+PATIENT B554
+What?
+
+DOCTOR B554
+Do you think that it is working that fine for you?
+
+PATIENT B554
+It's uh, the right one isn't working as good as it had.  The left one is really, really good @@@ I think.
+
+DOCTOR B554
+Apart from the @@@ do you have any other physical, any other medical issues?
+
+PATIENT B554
+Not, well it's been, like I said the leg ulcer.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+I had a small hernia.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+In my belly button.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+And uh that's, but other than that, that's the only thing I can think of that's uh that's a problem.
+
+DOCTOR B554
+Uh-huh.  Uh, you never had hypertension, high blood pressure or diabetes, asthma, do you smoke?
+
+PATIENT B554
+Never did.
+
+DOCTOR B554
+Okay.  Uh, drink alcohol?
+
+PATIENT B554
+Uh quit 40 years ago.
+
+DOCTOR B554
+4 or 40?
+
+PATIENT B554
+40.
+
+DOCTOR B554
+40 and before that how much alcohol did you drink?
+
+PATIENT B554
+Just social.
+
+DOCTOR B554
+Just socially.  Uh any illicit drug issues @@@ no okay.  
+
+PATIENT B554
+The only think I take now is uh a multivitamin and an aspirin a day.
+
+DOCTOR B554
+Multivitamin and an aspirin.  Who told you to take aspirin?
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+Who told you to take aspirin?
+
+PATIENT B554
+That was when I was in with that uh, I was in the hospital with that uh uh uh cellulitis.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+And I've got an irregular heartbeat.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+It's an irregular heartbeat and they uh, he wanted to put me on Coumadin and I said doc you know I'd really rather not get involved in that.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+And how about an aspirin a day and he very reluctantly said well maybe just as well.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+And so uh I've been taking an aspirin a day since then, that's been maybe ten years.
+
+DOCTOR B554
+Uh-huh.  How much aspirin do you take 81 mg or the 325?
+
+PATIENT B554
+I take regular aspirin.
+
+DOCTOR B554
+The 325?
+
+PATIENT B554
+Yeah 225 year.
+
+DOCTOR B554
+The 325 okay.  Uh other than that, anything else, no okay.  You didn't call when you are mentioning this for something that has been happening for the last one month?
+
+PATIENT B554
+I noticed some indication prior to that but it became more, more of a problem just this last month and it became a real problem this week so.
+
+DOCTOR B554
+When was the time you were absolutely fine with this?  Year, the month?
+
+PATIENT B554
+When I what?
+
+DOCTOR B554
+When you were actually @@@ was a problem when was that?
+
+PATIENT B554
+Uh.
+
+DOCTOR B554
+Just tell me how long that this was a problem, when was that?
+
+PATIENT B554
+Uh.
+
+DOCTOR B554
+Just tell me how you @@@ problem.
+
+PATIENT B554
+The the urination problem?
+
+DOCTOR B554
+The urination problem yeah.
+
+PATIENT B554
+Um three months ago.
+
+DOCTOR B554
+Three months.
+
+PATIENT B554
+Yeah three months.
+
+DOCTOR B554
+Not years then.
+
+PATIENT B554
+No.
+
+DOCTOR B554
+Not years and years.
+
+PATIENT B554
+A year yeah, a year ago I was fine.  Two months ago I was fine and then.
+
+DOCTOR B554
+Okay.  Uh any back pain?
+
+PATIENT B554
+When I work too hard.
+
+DOCTOR B554
+But nothing down, when you are lying down, when you are relaxing?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+Okay.  Any chest pain?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+Uh shortness of breath?
+
+PATIENT B554
+I'm getting older.  It seems like I can't do anything anymore.
+
+DOCTOR B554
+What happens.
+
+PATIENT B554
+Well any kind of, any time I get in a physical situation where I have to move, move boxes or things.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+I get tired faster and it takes me longer to recover but.
+
+DOCTOR B554
+Are you able to walk how much steps can you walk without getting short of breath?
+
+PATIENT B554
+Uh I walk all day really and uh.
+
+DOCTOR B554
+@@@.
+
+PATIENT B554
+Yeah I don't uh; I develop probably sore legs before I run short on breath with just normal walking.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+I'll go, I like to fly, I like airplanes and I uh go to Oshkosh.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+I drive to Oshkosh, spend all day there walking around.
+
+DOCTOR B554
+How far can you walk?  Can you walk a block or two without getting short of breath?
+
+PATIENT B554
+Oh yeah.
+
+DOCTOR B554
+You can?
+
+PATIENT B554
+Sure.
+
+DOCTOR B554
+Okay.  Uh okay but no chest pain right?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+@@@.
+
+PATIENT B554
+No.
+
+DOCTOR B554
+No.  Any dizziness, any falls?
+
+PATIENT B554
+When I was passing all that blood I couldn't stay vertical.
+
+DOCTOR B554
+Okay, but not for the last few years?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+Okay.  Do you get up at night sometime @@@.
+
+PATIENT B554
+@@@.
+
+DOCTOR B554
+No sweating.
+
+PATIENT B554
+No, no.
+
+DOCTOR B554
+But how many pillows do you use at night?  How many pillows do you use at night?
+
+PATIENT B554
+Just one.
+
+DOCTOR B554
+Just one.
+
+PATIENT B554
+Just one yeah.
+
+DOCTOR B554
+Has there been any time in the night when you woke up getting short of breath and then you needed to move around before you can go back to bed again?  Okay.  Okay.  Are you allergic to any medications?
+
+PATIENT B554
+Not that I know of.
+
+DOCTOR B554
+Uh any family history of heart disease or diabetes?
+
+PATIENT B554
+My uh niece is diabetic, insulin-dependent.  Our son is insulin-dependent and uh.
+
+DOCTOR B554
+Who.
+
+PATIENT B554
+Huh.
+
+DOCTOR B554
+Your own son?
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+He, yeah he's 35 and he was diagnosed at 21 and my niece is 45 and she was diagnosed at 10.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+And uh that's the only that I know of.  My dad died of a heart attack just before his 80th birthday and my mom passed on of a cerebral hemorrhage at 54 so.  She didn't live long enough to figure out if she had heart trouble.
+
+DOCTOR B554
+Uh-huh.  At 54 you mean.
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+But your father and your mother both were not diabetic right?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+And then the medications you take are the multivitamin and the aspirin that's it?  Yeah.  @@@ so I can examine you, can you get comfortable?  Recently have you feel as if you are getting more forgetful?
+
+PATIENT B554
+Uh not, not as much as my wife is.  My wife is very very forgetful.  She's got really, really bad and uh it almost seems like my memory has been improving since I've been working Sudoku puzzles.  
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+So the Sudoku it seems to be helping me um.
+
+DOCTOR B554
+In your house currently the members are you and your wife?
+
+PATIENT B554
+Yes sir.
+
+DOCTOR B554
+Just you and your wife.
+
+PATIENT B554
+Just the two of us yeah.
+
+DOCTOR B554
+Okay.  You do some kind of work these days?
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+You do some kind of work these days?
+
+PATIENT B554
+Yeah I drive sick people to rehab actually and uh I do have another question.  This is a medical exam they want me to fill out for that driving job.
+
+DOCTOR B554
+Okay, for the driving?  What kind wagon you drive?
+
+PATIENT B554
+What kind of uh?
+
+DOCTOR B554
+What kind of wagon you drive, is it an ambulance?
+
+PATIENT B554
+No it's a minivan.
+
+DOCTOR B554
+It's a minivan okay.
+
+PATIENT B554
+And I have patients with uh wheelchairs and walkers.
+
+DOCTOR B554
+Are you in some kind rapid transportation or just?
+
+PATIENT B554
+No just it's a regular.
+
+DOCTOR B554
+Just regular transfer.
+
+PATIENT B554
+Regular transfer, in and out.  Take a load of @@@ to rehab, take them back.
+
+DOCTOR B554
+Do you have stairs at home?
+
+PATIENT B554
+Now what?
+
+DOCTOR B554
+Do you have stairs at home?
+
+PATIENT B554
+Yes.
+
+DOCTOR B554
+You do.  You are able to climb those up without a problem?
+
+PATIENT B554
+12 up and 12 down.
+
+DOCTOR B554
+12 up, 12 down.  No problems with those okay.
+
+PATIENT B554
+If I get in.
+
+DOCTOR B554
+Open your mouth, deep breath in and out.  Again, okay, breathe out, in and out okay, good.  I want to lie down over here and put your feet on this.  That's good.  So you have not seen a regular doctor in years and.
+
+PATIENT B554
+Since that infection in my leg.
+
+DOCTOR B554
+Uh-huh.
+
+PATIENT B554
+That's been probably ten years.
+
+DOCTOR B554
+Take a deep breath and hold it for a second okay breathe, okay once more, okay.  Any problems with bowel movements.
+
+PATIENT B554
+Well this last week.
+
+DOCTOR B554
+@@@.
+
+PATIENT B554
+Up till a week ago I had normal daily bowel movements but this urination problem it's affected that.  I've probably gone to four or five a day instead of the one a day.
+
+DOCTOR B554
+Any pain when I press here?
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+Any pain when I press.
+
+PATIENT B554
+No, it's just makes me feel I have to urinate worse.
+
+DOCTOR B554
+Okay.  Can you take this off for a second?  Okay, this is the hernia you were talking about.
+
+PATIENT B554
+Uh-huh.
+
+DOCTOR B554
+I'll be taking your socks off okay?
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+I'll be taking your socks off.
+
+PATIENT B554
+Okay.
+
+DOCTOR B554
+The present state of legs is it bad for you or does it get even better than this?
+
+PATIENT B554
+Is what?  What was that?
+
+DOCTOR B554
+This ulcer which you were talking about.
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+Are these the best these usually get or these get even better?
+
+PATIENT B554
+This is probably as bad as they ever get.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+They get much better than this at times yeah.
+
+DOCTOR B554
+Do you get pain over here sometimes when you walk?
+
+PATIENT B554
+No not really.
+
+DOCTOR B554
+And you never get leg strains right?
+
+PATIENT B554
+No, no.
+
+DOCTOR B554
+Did you ever have something called varicose veins?
+
+PATIENT B554
+Yeah I've got varicose veins.
+
+DOCTOR B554
+Did you get treatment for that?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+No.  Okay sit up for me.  @@@.  This definitely does not look good.
+
+PATIENT B554
+Pardon me?
+
+DOCTOR B554
+You definitely don't look good.
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+You don't get fevers right?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+No okay.
+
+PATIENT B554
+This leg has got a plate and six screws in here where a compound fracture, 50 years ago.
+
+DOCTOR B554
+50 years ago.
+
+PATIENT B554
+50 years ago.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+Yeah there's a plate and six screws in that one.
+
+DOCTOR B554
+You were having this kind of ulcers, since when you are having these types of ulcers.  How many years have you had them?
+
+PATIENT B554
+This one?
+
+DOCTOR B554
+Yes.
+
+PATIENT B554
+Um five, six years.
+
+DOCTOR B554
+Five, six years.
+
+PATIENT B554
+Yeah.  It started with just a bump on the leg and just never healed up.
+
+DOCTOR B554
+But this was something that just happened on its own right?
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+The last thing for me to do, I need to do a rectal exam, to see how large is your prostate okay.  You know what a rectal exam is?
+
+PATIENT B554
+Yeah.
+
+DOCTOR B554
+You know what, now that is a @@@ to do.
+
+PATIENT B554
+Yeah I had a.
+
+DOCTOR B554
+You've had a rectal exam.
+
+PATIENT B554
+Yeah once before yeah.
+
+DOCTOR B554
+Okay.  Okay, I would like to @@@.  It will be very quick, just a minute, you will be done okay.
+
+PATIENT B554
+Okay.
+
+DOCTOR B554
+Uh I want you to get you off the pants so I can do the exam.  It will be very quick.  Okay.  (Someone knocked on the door, doctor spoke briefly with them)  Please lean on the @@@ okay.  Do you feel any pain when I checked you?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+No pain there?
+
+PATIENT B554
+No.
+
+DOCTOR B554
+No okay.  Good.  Thank you very much sir.  You have got a big prostate.
+
+PATIENT B554
+Big prostate.
+
+DOCTOR B554
+Yeah.
+
+PATIENT B554
+Okay.
+
+DOCTOR B554
+Okay, @@@ out of the room for a few minutes, we have to check everything with our supervisors and other doctors to kind of plan @@@ right and then @@@ and come up with a plan okay now in the meantime you can have your coat and get dressed.  Hang on for a few minutes okay and then we'll talk about the causes.  I think this is all related with your @@@ right?
+
+PATIENT B554
+Yeah that's a report that they want for the driving, it's for the Rehab Institute in Chicago.
+
+DOCTOR B554
+Okay.  That's for the @@@.
+
+PATIENT B554
+Yeah.  That's a normal report so it doesn't have to be complete, it's.
+
+DOCTOR B554
+Okay.
+
+PATIENT B554
+They just want to make sure that there's nothing currently.
+
+DOCTOR B554
+I'll get you some okay.
+
+PATIENT B554
+Appreciate it.
+
+DOCTOR B554
+I'll be back soon.
+
+(DOCTOR OUT 28:21  DICTATION STOPS HERE)
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235333
+TRANSACTION # 578-10-2-316-0103

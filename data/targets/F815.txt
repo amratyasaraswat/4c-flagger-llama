@@ -1,0 +1,45 @@
+Red Flag (588-632): "But this morning I forgot to take my insulin"
+
+Factor   (605-613): "I forgot"
+
+Red Flag (2545-2557): "hearing aids"
+
+Red Flag (2630-2648): "I have a hard time"
+
+Factor   (2731-2750): "getting it in right"
+
+Red Flag (3111-3122): "eye doctors"
+
+Red Flag (3149-3195): "Do you have an appointment coming up with them"
+
+Red Flag (3273-3285): "I don't know"
+
+Probe    (3300-3356): "Oh you don't know but your appointment's kind of pending"
+
+Factor   (3372-3455): "I don't know when but I just uh went out to the VA, to the Hines Hospital yesterday"
+
+Factor   (3492-3559): "And they gave me some magnifying things to read the paper and stuff"
+
+CarePlan (3574-3614): "Oh I mean the eye exam for your diabetes"
+
+Probe    (3678-3717): "Do you see an outside vision eye doctor"
+
+Red Flag (3830-3878): "it doesn’t look like an appointment is coming up"
+
+Probe    (3830-3845): "it doesn’t look"
+
+CarePlan (3830-3878): "it doesn’t look like an appointment is coming up"
+
+Factor   (3846-3878): "like an appointment is coming up"
+
+CarePlan (3966-4006): "Yeah then I'll make one for you and then"
+
+Red Flag (7459-7515): "No I got some here that they sent me and I don't need it"
+
+Red Flag (7651-7693): "You know I get a lot of stuff I don't need"
+
+Red Flag (8194-8233): "I don't need N, I've got 10, 12 bottles"
+
+Red Flag (11920-11951): "No NPH, I got enough for a year"
+
+CarePlan (15676-15748): "And um just make a follow-up appointment with Ophthalmology at the front"

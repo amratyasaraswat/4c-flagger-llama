@@ -1,0 +1,1403 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR E016
+PATIENT.
+
+PATIENT E016
+Yes sir.  @@@.
+
+DOCTOR E016
+@@@.  Come on back here now.  How you doing?
+
+PATIENT E016
+I've seen better days in years past.
+
+DOCTOR E016
+Alright. 
+
+PATIENT E016
+All because I need to slow down.  Actually it's getting worse.  It's really getting worse.
+
+DOCTOR E016
+Okay.  I noticed, go ahead and pop in there, I'll get you.
+
+PATIENT E016
+Thank you.
+
+DOCTOR E016
+I noticed that they you haven't seen Rheumatology yet, what's going on?
+
+PATIENT E016
+Um I’m waiting on I think a consult has been put in but I haven't gotten a date yet.
+
+DOCTOR E016
+Well you've seen them before correct?
+
+PATIENT E016
+Yes.
+
+DOCTOR E016
+Yeah, so you should be able to just make an appointment with them.
+
+PATIENT E016
+Oh really?
+
+DOCTOR E016
+Yeah.
+
+PATIENT E016
+Okay.  I didn't know I had to do that.
+
+DOCTOR E016
+Because, not since you've already seen them before.  You're an established patient in their clinic.
+
+PATIENT E016
+Oh I didn't know that.
+
+DOCTOR E016
+Yeah.  So.
+
+PATIENT E016
+I didn't know that that was supposed to be done.
+
+DOCTOR E016
+Yeah.  So I will um and I think we actually set it up for you last time.  What I'll do today is, you need to see them for the fibromyalgia.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Okay.  Because it's obviously not controlled and I think we talked about the last time you know the limits, you know the limits as to what I can provide you.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Right so we need to actually have a, we need to have a plan of action kind of with everybody.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Alright including them so.  That's I mean you're telling me that you're actually getting a little bit worse.
+
+PATIENT E016
+A little bit.
+
+DOCTOR E016
+A lot worse and you were kind of bad off last time.
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+So we need to get you all, kind of squared away and we need to get you to see them pretty quick.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Okay um how is everything else?
+
+PATIENT E016
+Well uh my throat's getting worse.  Of course I expect that and um my Achilles heel.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+Um I'm seeing a doctor at Hines and he said that there is a possibility that they're gonna shoot, have to shoot steroids in it.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+Well what can they do in the meantime?  It's killing me.
+
+DOCTOR E016
+Yeah, it's probably Achilles tendinitis, is that what it is?
+
+PATIENT E016
+I guess.
+
+DOCTOR E016
+Alright well let's take a look at it.  Uh who's the doctor you saw at Hines?
+
+PATIENT E016
+I don't even remember his name.
+
+DOCTOR E016
+Okay.  Um so you don't remember his last name.
+
+PATIENT E016
+I just know that it keeps swelling up.  They both seem to swelling up and going down, swelling up, going down, swelling up.  
+
+DOCTOR E016
+Okay.  
+
+PATIENT E016
+What do you got it?
+
+DOCTOR E016
+I'm actually seeing if I can bring up; see what we can bring up.
+
+PATIENT E016
+The notes.
+
+DOCTOR E016
+Yes sir.  @@@.
+
+PATIENT E016
+Oh and could you please give me something for the uh what is it the skin disorder thing?
+
+DOCTOR E016
+The eczema?
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+Sure. Okay.  @@@.  When was it that you saw somebody?
+
+PATIENT E016
+This was the 9th I think it was.
+
+DOCTOR E016
+Okay, the General Medicine Clinic.
+
+PATIENT E016
+Yes.
+
+DOCTOR E016
+Yeah.  So what kind of clinic was it that you went to, was it just a general health clinic or?
+
+PATIENT E016
+Uh-huh.  That’s what it was, a general outpatient health patient health clinic.
+
+DOCTOR E016
+Okay.  So where do you see, where do you, you see your primary care is generally here is that correct?
+
+PATIENT E016
+No it's generally there.
+
+DOCTOR E016
+Okay, so what brought you here?  I mean you now; you've got a couple different primary care doctors.
+
+PATIENT E016
+Actually I was here because when I first came back.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+I was at Hines but then I came here because my mother was really, really ill and I needed someplace to go where I could get back quicker.
+
+DOCTOR E016
+Uh-huh.
+
+PATIENT E016
+And it was taking literally the entire day to go all the way out there and then try to get back.
+
+DOCTOR E016
+A little bit more convenient here.
+
+PATIENT E016
+Yeah it was convenient then.
+
+DOCTOR E016
+Okay, alright.  So um I'll take a look, so yeah they did state that you had maybe some Achilles tendinitis that was going on.  There’s a couple different things.  Now they recommended continuing the NSAID, the anti-inflammatories and ice it looks like, correct?
+
+PATIENT E016
+And it's not working at all.
+
+DOCTOR E016
+Okay.  Uh so they did mention a steroid injection I guess to you.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Uh if that is indeed necessary.
+
+PATIENT E016
+Rheumatology.
+
+DOCTOR E016
+Rheumatology can do that, Orthopedics can do it.  Uh do you use any insoles or any inserts in your shoes?
+
+PATIENT E016
+Yes.
+
+DOCTOR E016
+Okay.  What kind of insoles or inserts do you use?
+
+PATIENT E016
+The ones I got from the store.
+
+DOCTOR E016
+Okay.  Do you have them in?
+
+PATIENT E016
+Uh I something in there, I think there's something in there.
+
+DOCTOR E016
+Let's take a look.
+
+PATIENT E016
+@@@ different insoles it.
+
+DOCTOR E016
+Yeah just that.  It doesn't look like it's a therapeutic one.
+
+PATIENT E016
+No I don't have any therapeutic ones.
+
+DOCTOR E016
+Okay.  Well another thing we can do and I'll ask you to take a seat so I can examine you up here, the one thing you can do is there are heel cups.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Called heel cups.
+
+PATIENT E016
+Well I don't know um.
+
+DOCTOR E016
+So this is your Achilles heel.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Your Achilles tendon.
+
+PATIENT E016
+I got it, uh-huh.
+
+DOCTOR E016
+So if you hyperextend your leg like that you can put stress on the Achilles.  If you put a little bit of uh what we call flexion in the foot with a heel cup, put on a little bit of a ramp.
+
+PATIENT E016
+Incline.
+
+DOCTOR E016
+Right you decrease the tension on the Achilles heel.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Okay so you're using, you're taking a lot of the anti-inflammatories and you are using ice okay but it may be that you just need to offload it on a daily basis.  So what I would do or what I recommend is Walgreen’s has them pretty cheap.  They're just the Mr. Scholl's gel insert.
+
+PATIENT E016
+I don't have the money for them.
+
+DOCTOR E016
+Okay.  Well we can see if we have them.
+
+PATIENT E016
+I don't have any income, waiting on that too.
+
+DOCTOR E016
+Okay.  Well I'll see if we have some here okay.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+But it might be something we should check into.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Uh but let me take a look at your feet.
+
+PATIENT E016
+Oh I'm tired of them swelling up.
+
+DOCTOR E016
+How's your asthma doing?
+
+PATIENT E016
+Oh, my asthma has its ups and downs.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+As it gets colder, more downs than ups.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+I can tell you now we're probably going to have an early winter.
+
+DOCTOR E016
+Alright.  You can tell that huh.
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+That's pretty good.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Um alright, I don't want to hear that, that's kind of bad news if you ask me.
+
+PATIENT E016
+Yeah it is.  Oh do you need my socks off too?
+
+DOCTOR E016
+Yeah please.  Blood pressure is really good.
+
+PATIENT E016
+Oh yes, swole @@@ oh yes.  Can you tell any difference from the other leg?
+
+DOCTOR E016
+Yeah let me look.
+
+PATIENT E016
+There's no difference.
+
+DOCTOR E016
+Let me have you @@@ for me.
+
+PATIENT E016
+Usually  you can see @@@ right now.  I'll tell you one thing @@@ the foot are, the feet and the eczema.
+
+DOCTOR E016
+Hop on up here.
+
+PATIENT E016
+Oh Lord.  And why is the bottom of my feet be burning so much?
+
+DOCTOR E016
+Good question.  It could be because of your fibromyalgia.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Okay.  Could be.  So is it tender when I press in here?
+
+PATIENT E016
+Not, this one is not as tender, it's tender but it's not as tender as this one.
+
+DOCTOR E016
+So when I do that does that bother you at all?
+
+PATIENT E016
+Yes.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+Mostly uh, but this one is worse.
+
+DOCTOR E016
+How about just when I flex like that, that bother you?
+
+PATIENT E016
+Well I mean up in here yeah.
+
+DOCTOR E016
+Okay and then.
+
+PATIENT E016
+Well you know the @@@.
+
+DOCTOR E016
+That does hurt.
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+Okay.  Let’s do this one.  And when I press here does that bother you?
+
+PATIENT E016
+Hmm.
+
+DOCTOR E016
+Most people would, so that's a yes huh.
+
+PATIENT E016
+Ooh.
+
+DOCTOR E016
+Okay.  Alright.  Can you lift your toe up towards my finger?  All the way up okay, relax it and all the way up and relax, good.  You been doing any exercises with it?
+
+PATIENT E016
+Hmm.  Ooh.
+
+DOCTOR E016
+Well this has been there @@@ a while huh?
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+Like I say it's like, uh this has been going on for a while but it's getting worse with the fibromyalgia getting worse and almost.
+
+DOCTOR E016
+Sure I mean it's the kind of deal where.
+
+PATIENT E016
+It's real, real difficult to walk.
+
+DOCTOR E016
+Hmm.  Let me take a listen to your heart and lungs.  Where's the eczema that you're talking about?  What's the.
+
+PATIENT E016
+Uh it's on my legs.  With the oil I got on it you can't really see it cause this is where I been scratching and I been getting the sores and what have you.
+
+DOCTOR E016
+Okay, do you have any on the other leg?
+
+PATIENT E016
+Uh well yeah but I mean it's not as prevalent as it is on this one.
+
+DOCTOR E016
+What are they using?
+
+PATIENT E016
+@@@.
+
+DOCTOR E016
+But you say you're putting some lotion on it right?
+
+PATIENT E016
+Oh yes, baby oil, you know petroleum jelly.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+But I mean it's like.
+
+DOCTOR E016
+Do you ever use any Eucerin cream or any of that stuff?
+
+PATIENT E016
+No I don't even know what that is.
+
+DOCTOR E016
+Okay.  Eucerin cream is just kind of a heavy duty, what we call emollient or moisturizer.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+We have some here that we use it's kind of like its called Hydroxy cream.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Okay.  Uh it's a non-steroid cream but it is a pretty heavy-duty moisturizer that might help you out.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Do you have anywhere else?
+
+PATIENT E016
+Well it's like I'm getting like little patches you know just going up my leg I think.
+
+DOCTOR E016
+Is anything here like on your elbows or?
+
+PATIENT E016
+I haven't noticed.
+
+DOCTOR E016
+Okay.  No patches anywhere else, mostly here on your legs correct?
+
+PATIENT E016
+Yeah, yeah, well mainly on my legs.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+My usually, what I been doing is the.
+
+DOCTOR E016
+Does the cream usually help when you um, the baby oil does it help for a little bit?
+
+PATIENT E016
+It helps for, yes it does, like long enough for me to get out of the shower.
+
+DOCTOR E016
+Yes.
+
+PATIENT E016
+And dry it off you know and then I don't have to keep scratching as much as when I, as soon as I get out the shower.
+
+DOCTOR E016
+Yes.
+
+PATIENT E016
+Because the oil and I try to let the oil seep in you know.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+While I'm taking a shower so that I won't cause I'm tired of scratching all night.
+
+DOCTOR E016
+Sure.  Let's do this, let's um after you shower okay.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+So really hot showers might be exacerbating it a little bit.
+
+PATIENT E016
+Oh okay.
+
+DOCTOR E016
+Can make it actually itch a little bit more.
+
+PATIENT E016
+I can't win because a hot shower @@@
+
+DOCTOR E016
+I the good thing is.
+
+PATIENT E016
+@@@.
+
+DOCTOR E016
+You can't, that's just fine.
+
+PATIENT E016
+@@@.
+
+DOCTOR E016
+If you get the fibromyalgia under control, do the hot showers right dry off.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Okay and then after you're dry put on the moisturizing cream.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Don't do the oil in the shower.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Alright and we'll do the hydroxy cream alright.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Um so that's for the itching.  We'll see if we have the heel cups for the um Achilles tendon.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+With the fibromyalgia we'll write down for you to see the Rheumatology Clinic.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Probably within the next four weeks.
+
+PATIENT E016
+And one more thing.
+
+DOCTOR E016
+Alright.
+
+PATIENT E016
+If you really can't see all that much, I don't know if you can or can't but the skin peeling off my feet is so bad to the point, I mean if I didn't have oil on it you would see literally a lot of that.
+
+DOCTOR E016
+@@@.
+
+PATIENT E016
+But uh it's.
+
+DOCTOR E016
+Like is it itching in here too?
+
+PATIENT E016
+It itches on the bottom and on the sides yeah.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+But um.
+
+DOCTOR E016
+How about in between your toes?
+
+PATIENT E016
+Always.
+
+DOCTOR E016
+In between your toes always?
+
+PATIENT E016
+Always.
+
+DOCTOR E016
+Okay.  Do you ever use any, I mean do you ever use any anti-fungals in between your toes?
+
+PATIENT E016
+When I can buy some yes.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+But I can't afford any now.
+
+DOCTOR E016
+I'll get you a topical anti-fungal to rub on your feet.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Cause if you're getting a lot of scaling and itching.
+
+PATIENT E016
+And what I'm saying is.
+
+DOCTOR E016
+Cause we tend to see that here.
+
+PATIENT E016
+Yeah it's to the point now if I didn't have oil on it, it's to the point now when I'm pulling the skin off it's starting to bleed.
+
+DOCTOR E016
+Okay well don't do the oil on your feet.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Use this cream I'm gonna give you.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Okay and I'd almost recommend if you use it at night okay before you go to bed and in the morning when you wake up.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Before you put your shoes on during the day it should help.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+It's a fluconazole cream.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+But it's a topical anti-fungal.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+If at night you don't want it getting on your sheets you can put some socks on.
+
+PATIENT E016
+I sleep with socks anyway.
+
+DOCTOR E016
+Great then that will help.
+
+PATIENT E016
+I don't know I hate walking barefooted.
+
+DOCTOR E016
+Okay, alright.
+
+PATIENT E016
+I just can't do it.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+Is that weird.  I don't like @@@ wood on my feet.
+
+DOCTOR E016
+That's fine.  I hate going to be with @@@ on my feet @@@.
+
+PATIENT E016
+Okay.  
+
+DOCTOR E016
+@@@ for your feet. @@@.
+
+PATIENT E016
+Anti-fungal.
+
+DOCTOR E016
+Right.
+
+PATIENT E016
+And some kind of cream for the eczema.
+
+DOCTOR E016
+For the leg.
+
+PATIENT E016
+@@@.
+
+DOCTOR E016
+And then for the uh fibro we'll get the follow-up with Rheumatology, with the Rheumatology.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+In four weeks okay.  Now if they say you go out there and they'll set the appointment up with them alright.
+
+PATIENT E016
+So the last time I did, they said they couldn't.
+
+DOCTOR E016
+Why not?
+
+PATIENT E016
+I don't know.  They said anything that's more than a month in advance I think, a week or a month in advance, they can't set it up.
+
+DOCTOR E016
+Yeah but Rheumatology, if I say Rheumatology in four weeks they should be able to send you over there.  Cause your last appointment with them was – do you remember when?
+
+PATIENT E016
+It was cold outside I think wasn't it?  Rheumatology?
+
+DOCTOR E016
+Yeah let's see.
+
+PATIENT E016
+I think that was like back in February or March or something like that.
+
+DOCTOR E016
+There was a Rheumatology Note in October.
+
+PATIENT E016
+Like I said it was cold.
+
+DOCTOR E016
+Alright yeah and they wanted to see you back in a couple of months.
+
+PATIENT E016
+What do you give for @@@ pain in the knee?  That's what gets me and I'm like I'm stuck in this @@@.  I mean don't get me wrong, the Vicodins they're working but uh I think what it is is I told her that even the pharmacist said you might need to be on the Norco Vicodin because it doesn't have as much Tylenol in it because Tylenol does nothing for me, never has.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+And believe it or not that's the only little relief that I've been getting.  I'm ready for that.
+
+DOCTOR E016
+Alright cause the Rheumatology appointment you can make okay.
+
+PATIENT E016
+Yes.
+
+DOCTOR E016
+Alright.  The note, the clinic with me I'll see you in three months.  Now you have to call and make an appointment alright.
+
+PATIENT E016
+Okay I have to call in.
+
+DOCTOR E016
+Yes.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+But they should be able to make the Rheumatology appointment at the front.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Okay.  Um let's see.  Uh what were the two other issues that you were talking about?
+
+PATIENT E016
+Um what the feet?
+
+DOCTOR E016
+Feet and then there was oh the um Achilles.
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+So we need the heel cups okay and I think that was it.
+
+PATIENT E016
+And would you want to look at my throat?  Ever since I got my tonsils out I always have trouble with my throat when the weather changes.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+I don't know why.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+But it's @@@.
+
+DOCTOR E016
+Let me put these orders in real quick.
+
+PATIENT E016
+And you're only here once a month or once every two months?
+
+DOCTOR E016
+No I'm here every Monday.
+
+PATIENT E016
+Oh okay.
+
+DOCTOR E016
+But you may have tried to make an appointment when I was on vacation a couple weeks ago.
+
+PATIENT E016
+Oh okay.  I was like ain't he there, he need to be here more often.
+
+DOCTOR E016
+Did uh um okay.  
+
+PATIENT E016
+So what I'm, I mean I just keep suffering until I see Rheumatology?
+
+DOCTOR E016
+Oh we're not going to have you suffering.
+
+PATIENT E016
+Trust me I am, right now my back feel like uh.
+
+DOCTOR E016
+It's tough.
+
+PATIENT E016
+It's like somebody in a bull pit and I got to walk over there.
+
+DOCTOR E016
+Well let's do this I mean let's have you; we can see if we can get you in as soon as possible, hopefully in the next couple weeks.  It may be the Achilles tendinitis is really kind of helping set off the fibromyalgia and maybe getting that controlled actually helps calm things down.
+
+PATIENT E016
+Okay.  I want to figure that one out.  So even when I'm not walking on it there's pain.
+
+DOCTOR E016
+Maybe you need to go up to um the Prosthetics.
+
+PATIENT E016
+Where is that?
+
+DOCTOR E016
+Um I think it's up on the fourth floor here.
+
+PATIENT E016
+Taylor or Damon?
+
+DOCTOR E016
+Taylor Building.
+
+PATIENT E016
+Okay.  I hope you know I’m not trying to be a difficult patient, I’m just tired of being in pain.
+
+DOCTOR E016
+I know, you said the same thing last time.
+
+PATIENT E016
+Yeah.  And the only difference is its gotten worse and I wish people would stop asking me the stupidest question in the world.
+
+DOCTOR E016
+What's that?
+
+PATIENT E016
+“Why don't you act like you're in pain?”
+
+DOCTOR E016
+Well I think you can tell pretty much that you’re in pain.
+
+PATIENT E016
+I mean how do you act when you're in pain @@@.  Now I don't think that the Achilles Heel has a lot to do with me being in pain most of the time.
+
+DOCTOR E016
+Could be yeah I mean that's tough to tell I mean you're also a big guy right.
+
+PATIENT E016
+That's what people keep telling me.  I don't feel big.
+
+DOCTOR E016
+Yeah I mean you carry, you carry, I mean you're.
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+You're a heavier guy, you’re a big guy um so the fibromyalgia is putting a little bit of pressure, keeping on your knees.  If you watch some of your weight, maybe see if you could come down a few pounds.
+
+PATIENT E016
+I have!
+
+DOCTOR E016
+Alright we'll keep going.  That would take a little bit of pressure off your uh.
+
+PATIENT E016
+I weigh what 236, they said I'm down @@@ so I ain't doing too bad.
+
+DOCTOR E016
+Okay good.  So I put in the order for the cream right for the feet.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Alright and then the uh topical cream so I put in the order for the heel cups and then we got to see Rheumatology okay.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+And they'll set this up front.
+
+PATIENT E016
+And what about my throat?  @@@.
+
+DOCTOR E016
+What are you doing right now for your throat?
+
+PATIENT E016
+I'm just gargling with salt water.
+
+DOCTOR E016
+Okay.  @@@ hope up @@@ Does the salt water @@@ help?
+
+PATIENT E016
+Uh well it's keeping it from uh.
+
+DOCTOR E016
+When did you have your, how long ago did you have your tonsils out?
+
+PATIENT E016
+In Germany 1980 maybe, 83 or 84 one of those.
+
+DOCTOR E016
+Do you have any drip in your nose?
+
+PATIENT E016
+Huh?
+
+DOCTOR E016
+Say ah.
+
+PATIENT E016
+Ah.
+
+DOCTOR E016
+And can you yawn for me with your mouth open, yeah that's good.  Alright.  Do you have any dripping from the back of your nose; do you get a stuffy nose?  Do you have seasonal allergies?
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Okay um when in the summertime.
+
+PATIENT E016
+I've already @@@ stuff.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+The what?
+
+DOCTOR E016
+Do you use anything for it?  Do you use um.
+
+PATIENT E016
+Nasal sprays yes.
+
+DOCTOR E016
+You use nasal sprays?
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Does that help?
+
+PATIENT E016
+Temporarily.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+Alright.
+
+PATIENT E016
+But um it’s like I said, I been going through this for years now.
+
+DOCTOR E016
+Yeah and it's not like, like you had your tonsils out.
+
+PATIENT E016
+Ever since I got my tonsils out I been going through this.
+
+DOCTOR E016
+Okay, alright.  So yeah, you probably can't see your tonsils, I don't see any infection.  You may have a little bit of irritation in the back of your throat.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Do you use the nasal sprays every day?
+
+PATIENT E016
+No.
+
+DOCTOR E016
+No.
+
+PATIENT E016
+Uh uh.
+
+DOCTOR E016
+Um what kind of nasal spray is it?
+
+PATIENT E016
+Uh, @@@ they gave it to me here.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+Uh it's in a long bottle @@@.  It's got a green safety cap on it to keep you from spraying it.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+I don't remember the name of it.
+
+DOCTOR E016
+Yeah.
+
+PATIENT E016
+My memory ain't quite as good as it used to be.
+
+DOCTOR E016
+Yeah maybe they got the steroids, yeah postnasal drip.
+
+PATIENT E016
+Well when I wake up in the morning doc, it's like uh what is the thing that hangs at the back of your throat?
+
+DOCTOR E016
+Yeah the uvula.
+
+PATIENT E016
+It's swollen.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+And I mean it's swollen to the point to where I have to keep swallowing just to get it to come down.  I don't know why that is or what can be done about it.
+
+DOCTOR E016
+Well we can try some of the nasal spray alright to see if it keeps some of this junk from going down in the back and irritating your throat.  Usually sore throats that are worse in the morning, alright with yours it sounds like it is, it's usually due to drip from the back of the nose from seasonal allergies and stuff.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+But supposedly I don't have any allergies, but they gave me an allergy pills so I got some kind of allergies.
+
+DOCTOR E016
+Do you get a stuffy nose?
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+Okay, okay.  Um and you said you do get junk in the back of your nose right?
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Okay.  So it could be not the seasonal allergies but allergies to dust mites, dander, stuff like that.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Which is very common.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Alright so maybe using this spray will help clear up your nasal passages and stop the dripping in the back.
+
+PATIENT E016
+What the one that I already have?
+
+DOCTOR E016
+That I'll give you right now, steroid nasal spray.
+
+PATIENT E016
+Okay.  What kind is it; it's not that uh Bausch & Lomb stuff is it?
+
+DOCTOR E016
+I don't think so.
+
+PATIENT E016
+Oh well you said a steroid nasal spray so maybe it's something that'll work but that Bausch & Lomb stuff sprays.
+
+DOCTOR E016
+It's supposed to be @@@.
+
+PATIENT E016
+Oh Flonase.
+
+DOCTOR E016
+Yeah there you go.
+
+PATIENT E016
+Flonase is great.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+They gave me Flonase.
+
+DOCTOR E016
+Yeah.
+
+PATIENT E016
+But they always want to substitute it with that other crap.
+
+DOCTOR E016
+Oh okay.  Well usually it just kind of depends on what we have on Formulary.
+
+PATIENT E016
+Yeah I mean well I won't do that Bausch & Lomb cause it burns my nose.  Feel like I'm spraying fire in my nose.
+
+DOCTOR E016
+Alright I mean I'm not sure.
+
+PATIENT E016
+I'm hoping its Flonase.  Flonase is great.  Isn't that what they're giving me already?
+
+DOCTOR E016
+I didn't actually see it listed.
+
+PATIENT E016
+Oh.
+
+DOCTOR E016
+So Flonase is fluticasone.
+
+PATIENT E016
+That works.
+
+DOCTOR E016
+It doesn't look like that's what we have on the Formulary, let's see.  We can ask for it, yeah we just have to put it down. I'm not sure if it's the Bausch & Lomb.
+
+PATIENT E016
+Alright, okay.  If it is they can keep it.
+
+DOCTOR E016
+I can give you a prescription for it and you can see.
+
+PATIENT E016
+Okay.  A prescription to go where?
+
+DOCTOR E016
+You can pick it up at the um at the Pharmacy.  I'm gonna be right back okay.
+
+(DOCTOR OUT:  107:3  DOCTOR IN: 117:05) 
+
+DOCTOR E016
+Alright.
+
+PATIENT E016
+Yeah doc.  You said I'm not supposed to see you for three months right?
+
+DOCTOR E016
+Yeah do you want to see me earlier?
+
+PATIENT E016
+Yeah cause I'm just thinking it's going to be fall by then and I don't want them looking in the @@@.  Oh @@@ I had that problem before.
+
+DOCTOR E016
+Okay.  So when do you want to see me?
+
+PATIENT E016
+Um this is August how about like September, October?
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+I got a feeling that I'm gonna get the run around again with this Rheumatology like I did the last time.  You remember I told you.
+
+DOCTOR E016
+Yeah.
+
+PATIENT E016
+I went to them and nothing got done, nothing.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+But you want me to go through them again so that's the only reason I'm doing it.  Purposefully, I don't see the purpose that they serve.
+
+DOCTOR E016
+Alright.
+
+PATIENT E016
+So do you want me to do the nasal spray I got on a regular basis or the one that you're giving me?
+
+DOCTOR E016
+The one I'm giving you.  The one you have right now is bothering you correct?
+
+PATIENT E016
+Yeah.
+
+DOCTOR E016
+You don't like it.
+
+PATIENT E016
+No.
+
+DOCTOR E016
+It's the mometasone nasal spray I believe.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+Right we'll give you the one that we've got.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Alright and see if it makes you feel a little bit better.
+
+PATIENT E016
+Alright.
+
+DOCTOR E016
+Alright.  Um the heel cups.  I talked to DOCTOR about it.  DOCTOR would be hesitate to use them on older patients because sometimes you know you can shorten the Achilles tendon, some of the older people can actually become less short over time.  So only use it alright until the pain goes away alright.
+
+PATIENT E016
+Uh-huh.
+
+DOCTOR E016
+And then we can start back up again.
+
+PATIENT E016
+Okay so.
+
+DOCTOR E016
+Okay.
+
+PATIENT E016
+When the pain go away take them out.
+
+DOCTOR E016
+Yeah, exactly.
+
+PATIENT E016
+@@@.
+
+DOCTOR E016
+What we want to do is just decrease the inflammation with the, give the Achilles some time to rest a while.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Alright.
+
+PATIENT E016
+Okay.
+
+DOCTOR E016
+Alright.
+
+PATIENT E016
+No problem.
+
+DOCTOR E016
+So we're gonna deal with the problem.
+
+PATIENT E016
+Thank you.  Have a great rest of the summer.
+
+DOCTOR E016
+Alright you too.
+
+PATIENT E016
+It's shorter than it's gonna be.
+
+DOCTOR E016
+Yeah, see ya.
+
+PATIENT LEAVES:  119:20
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1275422
+TRANSACTION # 578-10-2-316-0103

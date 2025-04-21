@@ -1,0 +1,69 @@
+Red Flag (2070-2172): "But uh, as far as the uh exercise uh, my wife and I used to do a lot of walking in the Forest Reserves"
+
+Factor   (2173-2201): "until the weather got crappy"
+
+Probe    (2464-2577): "So you usually walk with your wife during the summer months but in the winter and fall you don't exercise as much"
+
+CarePlan (2802-2924): "Um you now uh the YMCA or even just walking outside for you know a half an hour to an hour every day would be a good thing"
+
+CarePlan (3407-3465): "Do they have like a track or like a treadmill or something"
+
+Factor   (3667-3722): "They said they needed a letter from a doctor, my doctor"
+
+CarePlan (3812-3852): "Oh clearance. You need a letter from me"
+
+CarePlan (3887-3896): "Sure okay"
+
+Red Flag (5726-5757): "My diet. My problem doctor, is"
+
+Red Flag (5791-5809): "I'm a potato eater"
+
+Factor   (5867-5973): "Yes. My mother and father were from Belgium and they went through the First World War and German invasion"
+
+Factor   (6010-6070): "Where they ate a lot of potatoes because that's all they had"
+
+Factor   (6165-6205): "Yeah and it kind of carried down into us"
+
+CarePlan (6915-6995): "So we have a program here called the MOVE Program, have you heard of that before"
+
+Red Flag (7134-7261): "Would you be interested in maybe doing something like that? At least to assess you and just see ways we could help lose weight"
+
+Red Flag (7277-7352): "Um how often does it, I mean that probably requires coming in to the clinic"
+
+Factor   (7299-7352): "I mean that probably requires coming in to the clinic"
+
+Red Flag (8375-8527): "You were 7.5 last November, this time last year. In May you were 8.8, so you were up more than a point. So you were poorly controlled on your diabetes"
+
+Red Flag (9357-9455): "You should check them in the morning and you should check them at night to give us an idea of what"
+
+Red Flag (9478-9519): "There is another problems with doing that"
+
+Probe    (9534-9545): "What's that"
+
+Factor   (9561-9666): "Is the Pharmacy, their directions are that I check it every other day and if I run out of the test strips"
+
+CarePlan (9681-9761): "I can order some more. I can always order you more test strips and I will today"
+
+Red Flag (11226-11317): "the next step is to do insulin, giving yourself shots. I know you're not thrilled about it"
+
+Factor   (11333-11406): "I hate needles. I've had so damn many needles stuck in me over the years"
+
+Factor   (11441-11461): "And I just hate them"
+
+Red Flag (15768-15794): "Do you take any medication"
+
+Red Flag (15810-15823): "But I'm cheap"
+
+Factor   (15838-15850): "Pretty cheap"
+
+Red Flag (15853-15898): "Do you take any Tylenol or anything like that"
+
+Red Flag (15914-15927): "Uh no I don't"
+
+Factor   (15930-16029): "Like I say because I feel I take so damn much medications to begin with, I don't need anything more"
+
+Red Flag (25233-25279): "I mean I don't check them as often as I should"
+
+CarePlan (26325-26439): "I asked my attending about the MOVE class, you know the losing weight one and she said they meet once a month here"
+
+CarePlan (29480-29549): "If you run out of the test strips call me and I'll give you some more"

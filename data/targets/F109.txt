@@ -1,0 +1,23 @@
+Red Flag (437-575): "Um I went through your chart and it looks like you were supposed to have your cholesterol and your labs done but you haven't had them done"
+
+Red Flag (591-596): "Right"
+
+Probe    (611-656): "Um why didn't you go up to get your labs done"
+
+Factor   (672-715): "Nobody ever told me to go and get them done"
+
+CarePlan (730-826): "Um back in July when they saw you they asked you to come back in two days and get your labs done"
+
+Factor   (842-870): "I got them done back in July"
+
+Probe    (885-933): "Okay cause I looked at them and I didn't see any"
+
+CarePlan (1029-1112): "I saw the last one in June but not from July yeah. So they weren't done since June"
+
+Factor   (1128-1180): "Okay then that was, they only told me to go one time"
+
+Red Flag (8509-8540): "You're taking aspirin every day"
+
+Red Flag (8556-8558): "No"
+
+Probe    (8608-8615): "Why not"

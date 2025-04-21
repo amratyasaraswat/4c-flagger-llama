@@ -1,0 +1,11 @@
+Red Flag (6983-7010): "Uh today it was 141/75 yeah"
+
+Red Flag (8839-8908): "If anything over the past year your diabetic control has gotten worse"
+
+Probe    (8989-9056): "But then again were you taking metformin when you left the hospital"
+
+Probe    (9237-9268): "So you weren't taking it before"
+
+Red Flag (13614-13637): "blood pressure medicine"
+
+Red Flag (13719-13732): "it's too high"

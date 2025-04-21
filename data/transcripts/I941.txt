@@ -1,0 +1,1577 @@
+Date of Encounter:  @@/@@/@@ 		  
+Time of Encounter:  @@@@ 
+
+DOCTOR I941
+PATIENT?
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+Hi how are you?
+
+PATIENT I941
+Good.  How you doing?
+
+DOCTOR I941
+How are you?
+
+PATIENT I941
+I'm doing good.
+
+DOCTOR I941
+They @@@.
+
+PATIENT I941
+Yeah my blood pressure down to 135.
+
+DOCTOR I941
+Yeah you taking that medication right.
+
+PATIENT I941
+I did.
+
+DOCTOR I941
+@@@.
+
+PATIENT I941
+Wait they gave me uh, a @@@ woman gave me something about @@@.
+
+DOCTOR I941
+@@@.  
+
+PATIENT I941
+That may be what it is.
+
+DOCTOR I941
+That's okay, you can leave that out.  You weren't supposed to tell me.
+
+PATIENT I941
+What's that?
+
+DOCTOR I941
+@@@.
+
+PATIENT I941
+That's the part I don't.  I supposed to be a secret agency or something?
+
+DOCTOR I941
+Right.  
+
+PATIENT I941
+I @@@ my doctor.  Hey doc, @@@.
+
+Knock on the door.
+
+DOCTOR I941
+@@@ tape record.  Yeah so if you want you could sit here.  
+
+SECOND PERSON I941
+Okay.
+
+DOCTOR I941
+This is NAME.
+
+SECOND PERSON I941
+Hi PATIENT.
+
+PATIENT I941
+How you doing?
+
+SECOND PERSON I941
+I'm doing good.  I'm NAME.
+
+DOCTOR I941
+I just want to talk to you for five minutes to kind of get an idea what questions to ask.  I just told her a little bit about what me and you talked about last time so that I can come back in about five minutes @@@.
+
+The medical student conducts an interview
+
+
+(SECOND PERSON LEAVES:  70:10  DOCTOR IN:  77:00)
+
+Knock on the door.
+
+PATIENT I941
+Yes.  
+
+DOCTOR I941
+Hey PATIENT.
+
+PATIENT I941
+How you doing?
+
+DOCTOR I941
+Thanks for waiting on me.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+How are you?
+
+PATIENT I941
+So is everything over with?
+
+DOCTOR I941
+Yeah did you turn it on?
+
+PATIENT I941
+I don't know how to turn it on.
+
+DOCTOR I941
+Well let's go ahead and turn it on.  The @@@.  What do you want; I'll take care of this.
+
+PATIENT I941
+You take care of @@@.
+
+DOCTOR I941
+@@@?
+
+PATIENT I941
+Yes sir.  You gave me a bottle of @@@ here it's the 29th.
+
+DOCTOR I941
+Uh-huh.
+
+PATIENT I941
+That's the day, I'm getting @@@.  Can you do this today?
+
+DOCTOR I941
+The Pharmacy?
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+Uh no.
+
+PATIENT I941
+Gotta come back?  I come back tomorrow?
+
+DOCTOR I941
+Just because the pharmacist is a totally different lady.  She's gonna come and help us to make sure that your medications are all straight.  If you want we can reschedule it.  We can have you come back in two weeks from now and schedule with the pharmacist.
+
+PATIENT I941
+Can you do that, would it be alright?
+
+DOCTOR I941
+Yeah, I'll show how to do that.  Let's start with, how'd the surgery go?
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+Did you have any problems?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+Went okay.
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+Um you didn't have any bleeding, complications, anything like that did you?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+How's the wound?
+
+PATIENT I941
+Do you want to see it?
+
+DOCTOR I941
+Sure.  I know the surgeon just took a look at it but.
+
+PATIENT I941
+It ain't went down completely but it continues to go down, two months.
+
+DOCTOR I941
+Two months.
+
+PATIENT I941
+Two months.
+
+DOCTOR I941
+No it looks good.
+
+PATIENT I941
+My blood pressure was down.
+
+DOCTOR I941
+So how are you taking your medications?  
+
+PATIENT I941
+Every day.
+
+DOCTOR I941
+When during the day?
+
+PATIENT I941
+Before I go to bed.
+
+DOCTOR I941
+Okay so this is mesh here and they said you're gonna feel the mesh there for a while.
+
+PATIENT I941
+Right.
+
+DOCTOR I941
+And then it'll come down on its own.
+
+PATIENT I941
+So it's alright?
+
+DOCTOR I941
+Does it feel better to you?
+
+PATIENT I941
+Uh it feels like it going down.
+
+DOCTOR I941
+Okay good.  Is the pain better?
+
+PATIENT I941
+Right, I ain't got no pain.
+
+DOCTOR I941
+Good.  Let me wash here.  Uh so you're taking the blood pressure medication.  How many times a day?
+
+PATIENT I941
+I take it uh once a day.
+
+DOCTOR I941
+@@@.
+
+PATIENT I941
+One of them I take two a day.
+
+DOCTOR I941
+Yeah they did.
+
+PATIENT I941
+And the rest of it take one a day.
+
+DOCTOR I941
+Right.  Which one do you take twice a day?
+
+PATIENT I941
+I don't know.
+
+DOCTOR I941
+If I show you the list can you point it out to me?
+
+PATIENT I941
+No.  No.  But I tend @@@, as prescribed.
+
+DOCTOR I941
+As prescribed.
+
+PATIENT I941
+Right.  I take it as prescribed.
+
+DOCTOR I941
+Let me show you these.  Does that look familiar?  @@@.
+
+PATIENT I941
+All of them look the same but I can't pronounce none of them.  I know lisinopril.  I know that one.
+
+DOCTOR I941
+Okay you take that one once a day.
+
+PATIENT I941
+Right.
+
+DOCTOR I941
+What about this one?
+
+PATIENT I941
+Yeah, yeah that one.  That the @@@.
+
+DOCTOR I941
+How many times a day do you take that one?
+
+PATIENT I941
+Uh I take it once no I take it twice a day.
+
+DOCTOR I941
+Are you sure?
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+I told you to have these memorized by the time you came back.
+
+PATIENT I941
+You told me to have that.
+
+DOCTOR I941
+Yeah.  But it's okay, have a seat.  
+
+PATIENT I941
+You had it.
+
+DOCTOR I941
+Oh no it's okay.
+
+PATIENT I941
+@@@ now friend.  @@@.
+
+DOCTOR I941
+I want to listen to it and see.  Remember the last time you were here we talked about how this was the first time coming to the doctor it was kind of a new thing for you.
+
+PATIENT I941
+Right.
+
+DOCTOR I941
+So it kind of takes some time to get used to all of the medications and how to take them and all that stuff.
+
+PATIENT I941
+Uh-huh.
+
+DOCTOR I941
+But what I want you to remember is you don't feel sick but you have a very sick heart and you have a sick body and you need to take the medications seriously, so as long as you understand that you need to make sure you review your medication list and you take them as it's written.  Are you taking the medication called Plavix?  The one they told you to stop because of the foot surgery?
+
+PATIENT I941
+Hmm.  I think it's called Plavix or another name for it.
+
+DOCTOR I941
+Clopidogrel?
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+Yeah did you stop that one like you were supposed to?
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+Okay are you taking your aspirin yeah?
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+You restarted the.
+
+PATIENT I941
+Started taking it again.
+
+DOCTOR I941
+Okay good but no Plavix, no clopidogrel.
+
+PATIENT I941
+You told me to stop taking that.
+
+DOCTOR I941
+Good.  Are you having any problems with your medications or do you have any questions about them?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+Now the medications were the main thing I was worried about last time and again what's the most important thing in terms of how your health is doing?  Do you remember what we talked about?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+You don't remember?
+
+PATIENT I941
+And I'm not drinking anymore.
+
+DOCTOR I941
+That was one of the big ones was the drinking.
+
+PATIENT I941
+Yeah I stopped drinking.
+
+DOCTOR I941
+And then other big one was uh your heart.
+
+PATIENT I941
+My heart.
+
+DOCTOR I941
+So you understand it right.
+
+PATIENT I941
+Right I can't do no more exercising, no @@@ stuff like that?
+
+DOCTOR I941
+So you still do that?
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+Okay.
+
+PATIENT I941
+My blood pressure is back to, what was it 135 is what it was.
+
+DOCTOR I941
+Yeah and for you.
+
+PATIENT I941
+It was 180 at one time, I remember that.
+
+DOCTOR I941
+Do you know what your goal blood pressure should be?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+So because you have heart disease, now when I say heart disease I was talking about the blockages in your heart.
+
+PATIENT I941
+Right.
+
+DOCTOR I941
+Because you had that, your goal blood pressure should be 120 on the top and 80 on the bottom and you're about that right now.
+
+PATIENT I941
+135 yeah.  I thought, I asked the lady and she said that's normal.
+
+DOCTOR I941
+She didn't know you had all these other, it's normal for somebody who doesn't have heart disease.
+
+PATIENT I941
+Normal for normal people.
+
+DOCTOR I941
+Yeah but you're not normal anymore.
+
+PATIENT I941
+I ain't normal man.
+
+DOCTOR I941
+So we don't mean it in a bad way we mean it in just the, that way we identify you as somebody we need to take close care of.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+So your heart doesn't get you.
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+Does that make sense?
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+I'm not saying your abnormal to make you feel bad.  We just say that you don't have a normal heart anymore; you have blockages in the arteries and that.
+
+PATIENT I941
+What causing it?  The food I eat?
+
+DOCTOR I941
+The food you eat, the cholesterol you have, high blood pressure, all those things combined.
+
+PATIENT I941
+Blocks the heart.
+
+DOCTOR I941
+Yeah.  So.
+
+PATIENT I941
+Exercise don't help?
+
+DOCTOR I941
+It does help but it doesn't take away all the other problems.
+
+PATIENT I941
+Hmm.  Okay.
+
+DOCTOR I941
+It builds up over time.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+So you've stopped drinking all together?
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+Wow, that's very good.
+
+PATIENT I941
+Well I'd say coming from me that is good.
+
+DOCTOR I941
+When was your last drink?
+
+PATIENT I941
+About two months ago.
+
+DOCTOR I941
+You didn't have any problems trying to go back to the bottle or wanting to drink more?
+
+PATIENT I941
+Hmm.  I tell you what, I don't want any more, cause I quit drinking before.
+
+DOCTOR I941
+Good, good.
+
+PATIENT I941
+@@@.
+
+DOCTOR I941
+Cause the liver, it's gonna cause you a lot of trouble.
+
+PATIENT I941
+Cause that's @@@ when I worked.
+
+DOCTOR I941
+Okay and you're not working?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+Okay.  How about smoking are you smoking?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+Are you exercising still?
+
+PATIENT I941
+Hmm.  It normal, nothing more.
+
+DOCTOR I941
+You walk up and down flights of stairs?
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+How many stairs do you go up at night?
+
+PATIENT I941
+I go up two flights.
+
+DOCTOR I941
+Do you have any problems with chest pain?
+
+PATIENT I941
+Sometimes shortness of breath, sometimes pain you know, it stops me, I get dizzy, lightheaded.
+
+DOCTOR I941
+@@@
+
+PATIENT I941
+I think that my blood pressure.  Do you get dizzy.
+
+DOCTOR I941
+Uh this also could be from the heart.
+
+PATIENT I941
+Oh yeah.
+
+DOCTOR I941
+The blood pressure has to be really low to give you those symptoms.
+
+PATIENT I941
+To make you dizzy?
+
+DOCTOR I941
+Yeah.
+
+PATIENT I941
+My blood pressure is high.
+
+DOCTOR I941
+Exactly, I don't know if that's it.
+
+PATIENT I941
+Yeah.  But if I exercise or over exercise I get dizzy.
+
+DOCTOR I941
+Okay.
+
+PATIENT I941
+And I get dizzy and I stop.
+
+DOCTOR I941
+Do you have it every time you go up the stairs?
+
+PATIENT I941
+Not all the time, just if I overdo it you know.
+
+DOCTOR I941
+Now since they put that stent in your heart, has it become less frequent?  Do you notice you're doing better since then or is it the same?
+
+PATIENT I941
+The same. The same. I did notice I get the dizziness sometimes after @@@ short winded.  
+
+DOCTOR I941
+Alright.  What other questions do you have for me today, sir?
+
+PATIENT I941
+None.
+
+DOCTOR I941
+None.  Do you remember um the last time you were here you also told me you were having some problems with peeing at night and um you know you were going to the bathroom pretty frequently and we talked about it.
+
+PATIENT I941
+No that stopped.
+
+DOCTOR I941
+That stopped?
+
+PATIENT I941
+Yeah I don't have to go to the bathroom frequently.
+
+DOCTOR I941
+Oh when did that happen?
+
+PATIENT I941
+No, I don't know I don't know what to say, I just don't go.  I don't think @@@ I sleep good.
+
+DOCTOR I941
+You do.
+
+PATIENT I941
+Sleep real good. Knocked out. It's like dreaming or something.
+
+DOCTOR I941
+Who are you living with now?
+
+PATIENT I941
+@@@, he called me @@@.
+
+DOCTOR I941
+Okay.  @@@
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+And how are you getting money right now since you're not working?
+
+PATIENT I941
+He take care of me, the one I live with, @@@ anyway and @@@ I live on income, he has income.
+
+DOCTOR I941
+Oh, your linked in.
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+Okay.
+
+PATIENT I941
+I want to work if I can go back to work but I'm usually doing labor.
+
+DOCTOR I941
+Well you could probably try to get pension or disability.
+
+PATIENT I941
+That's what I'm trying to do.
+
+DOCTOR I941
+Do you need to pick up the forms for that?
+
+PATIENT I941
+I went to Social Security @@@ to try and get that.
+
+DOCTOR I941
+What did they say?
+
+PATIENT I941
+I got to get records from here.
+
+DOCTOR I941
+So if you go to the Business Medical Office they give you all your records I think it's the Regional Office just across the street.
+
+PATIENT I941
+Right, building 402?
+
+DOCTOR I941
+Right and they can give you all the stuff to take to Social Security.  Okay.  And if you have questions you can always come back and ask me how I can help.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+That's @@@.  You remember NAME?
+
+SECOND PERSON I941
+Yeah we chatted for a long time.
+
+DOCTOR I941
+Good.  Did you get some good information?
+
+SECOND PERSON I941
+Um I think so.
+
+DOCTOR I941
+Did you get all the secrets out of him?
+
+SECOND PERSON I941
+Yeah I got everything.  Yeah I did, alright.
+
+PATIENT I941
+About how long I got to live doc?
+
+DOCTOR I941
+Uh we didn't say anything new or different uh since I came back too.  We were touching base on how things were going after the surgery.  He was telling me how he quit drinking um.
+
+SECOND PERSON I941
+Uh-huh.
+
+DOCTOR I941
+Since the surgery he's been doing well.  Um he still has some.
+
+PATIENT I941
+I miss my beer.
+
+DOCTOR I941
+Yeah but.
+
+PATIENT I941
+It’ not good.  I love beer.
+
+DOCTOR I941
+I know but.
+
+PATIENT I941
+@@@.
+
+DOCTOR I941
+Remember you were the one who told me you had no interest in going back to drinking if you think about @@@.
+
+PATIENT I941
+@@@ football too.
+
+DOCTOR I941
+Watch all the football you want.
+
+PATIENT I941
+That's why I want to drink beer well you know.
+
+DOCTOR I941
+Oh.  Have some apple juice or something.
+
+SECOND PERSON I941
+Okay.
+
+DOCTOR I941
+Alright listen.  I'll explain it to you like this; you can watch these football games while you have beers.
+
+PATIENT I941
+I ain't worried about that.
+
+DOCTOR I941
+But you'll probably watch football games for a couple more years.
+
+PATIENT I941
+Oh okay.
+
+DOCTOR I941
+Alright. 
+
+PATIENT I941
+I'm not gonna get too worried.
+
+DOCTOR I941
+Or you can watch 20 years of football games without the beer.
+
+PATIENT I941
+Without a beer okay.
+
+SECOND PERSON I941
+(Laughter).
+
+DOCTOR I941
+Just want to do that.
+
+PATIENT I941
+That's simple.
+
+DOCTOR I941
+Alright. The Bears are looking good this season.
+
+PATIENT I941
+I ain't gonna go back to that, you got to trust me about that.
+
+DOCTOR I941
+That's number one and that's @@@.
+
+PATIENT I941
+@@@ grand champ Indianapolis man.
+
+DOCTOR I941
+Indianapolis looks @@@.
+
+PATIENT I941
+@@@.
+
+SECOND PERSON I941
+You're very confident when we were talking about NFL @@@.  I don't know if that's changed here.
+
+DOCTOR I941
+It goes with @@@.
+
+SECOND PERSON I941
+Yeah I guess.
+
+PATIENT I941
+Right I mean.
+
+DOCTOR I941
+Alright you were telling me you're gonna look into getting disability and Social Security. Yh so @@@ good and then we talked last time what is your combat history?  
+
+PATIENT I941
+Artillery, artillery.
+
+DOCTOR I941
+Where were you at?
+
+PATIENT I941
+Vietnam, Germany.  Do you to know exactly @@@?
+
+DOCTOR I941
+No that's fine.
+
+PATIENT I941
+Munich, Dachau, the whole of Germany.
+
+DOCTOR I941
+And you were in Vietnam.
+
+PATIENT I941
+Oh man @@@ I saw @@@
+
+SECOND PERSON I941
+@@@.
+
+PATIENT I941
+I @@@ we were digging holes laying in the ground.
+
+SECOND PERSON I941
+Wow.
+
+PATIENT I941
+@@@.
+
+DOCTOR I941
+The reason why I was asking you was I was wanting to know if any of that stuff with you wanting to drink and stuff like that.  Do you ever have flashbacks?
+
+PATIENT I941
+Oh plenty of them yeah, plenty of them.
+
+DOCTOR I941
+@@@.
+
+PATIENT I941
+@@@ about that.  All that stuff in Vietnam.
+
+DOCTOR I941
+What do you think about your old days of partying and the fact that now you're 59 and you have blockages in your heart and a bad liver.
+
+PATIENT I941
+I have to slow down the party you know.
+
+DOCTOR I941
+That’s all I want to hear.
+
+PATIENT I941
+Slow down that party.
+
+DOCTOR I941
+You understand that right?
+
+PATIENT I941
+@@@.  Yeah I still going around peaking at parties you know and what's been going on, man I'm giving it a little break, that's the end of the conversation.  That's @@@ alright.  I'm not drinking right now.
+
+DOCTOR I941
+Did you get your colonoscopy yet?
+
+PATIENT I941
+Is that where they put you in the MRI @@@.
+
+DOCTOR I941
+Uh MRI.
+
+PATIENT I941
+MRI.
+
+DOCTOR I941
+No the colonoscopy is the one where.
+
+PATIENT I941
+You get to drink all this stuff.
+
+DOCTOR I941
+Yeah.
+
+PATIENT I941
+Yeah I did that yeah.
+
+DOCTOR I941
+But they said they were going to schedule it but I don't think they did it did they?
+
+PATIENT I941
+Yeah they did it.
+
+DOCTOR I941
+When?
+
+PATIENT I941
+I think it was a colonoscopy?  They put me in a MRI and.
+
+DOCTOR I941
+No.
+
+PATIENT I941
+I drank a lot of stuff.
+
+DOCTOR I941
+Oh that's something different yeah.
+
+PATIENT I941
+PET, @@@ on the first floor.
+
+DOCTOR I941
+No that's another one, that's something different.  The colonoscopy is they make a drink a prep overnight that makes you poop all night long cleans out your entire bowels and then they put you to sleep while they put a camera in your rectum and they look for cancers in your intestines.  You have not had that.  I think people remember that.
+
+PATIENT I941
+Yeah.
+
+DOCTOR I941
+@@@.  I think they talked to you about it in the GI and explained to you that the reason why they want to do it is uh everyone is supposed to have one at the age of 50 okay.  It's a screening for colon cancer.
+
+PATIENT I941
+Right.
+
+DOCTOR I941
+And the reason why we do it is because colon cancer is one of the few cancers that if you catch it, while it's still like a little small couple of cells that are growing in your intestines we can see we cut it out and its gone and we just have to do a follow-up test later.  If we don't look for it, we don't catch it and it becomes a cancer and grows into the stomach, goes through the walls of the colon, just through the walls of the colon and then it goes to other places.  Once it spreads past the colon.
+
+PATIENT I941
+What does the colon do anyhow?
+
+DOCTOR I941
+The colon is the large intestines, that's all it is.
+
+PATIENT I941
+Hmm.
+
+DOCTOR I941
+The large intestines.
+
+PATIENT I941
+Pancreas.
+
+DOCTOR I941
+Pancreas is different.  That helps you digest food.  The colon helps you pass the food out and makes stool but that's the second highest form of cancer Americans get.
+
+PATIENT I941
+Hmm.
+
+DOCTOR I941
+Okay.  The only thing more than that is lung cancer.  
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+But the colon cancer is the only one we can actually look at, cut out and stop it before it becomes a cancer.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+So they wanted to do it but then they got worried that you were on that blood thinner.
+
+PATIENT I941
+Right, right, right.
+
+DOCTOR I941
+So now that you've stopped it, I think we should probably have you go back and get that done, what do you think?
+
+PATIENT I941
+Yes.
+
+DOCTOR I941
+You'll go for it?
+
+PATIENT I941
+Yes.  In order to get a lot of years.  I love my Sci Fi.  @@@.  Comic books, science fiction.
+
+DOCTOR I941
+What kind of comic books?
+
+SECOND PERSON I941
+@@@.
+
+PATIENT I941
+@@@.  Flash Gordon, @@@.  Doctor Who.
+
+DOCTOR I941
+@@@.  Um your blood pressure's better um but we need to get it even lower by you know the next time you come.
+
+PATIENT I941
+Will I still be breathing?
+
+DOCTOR I941
+Well do you have a blood pressure monitor at home?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+Do you want to pick up one today so that we can actually have you check your blood pressures at home?
+
+PATIENT I941
+I can check my own blood pressure?
+
+DOCTOR I941
+Yeah you just put a cuff on your arm, press the button and the machine reads it up to you.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+And that way, actually bring it when you come in.
+
+PATIENT I941
+So what happens if it's too high or too low?
+
+DOCTOR I941
+I want you to write it down.
+
+PATIENT I941
+Call 911.
+
+DOCTOR I941
+No.  I want you to write them down and the next time you come see me bring in the sheet of the blood pressures you wrote down.
+
+PATIENT I941
+I take the blood every day?
+
+DOCTOR I941
+One in the morning and one in the evening.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+Do it for like two weeks and then write them down and bring them in.  Cause if something like you know if your blood pressure's like 140/90 that's not good enough but you're like but here it shows every day I'm 120/80 at home, maybe I just don't like you and that's why my blood pressure goes up.  We'll leave it at that and we won't change your medications.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+But if you’re continuously high then we need to change it.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+The same thing, when you come to see, we'll reschedule the Pharmacy visit.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+When you come in to see the pharmacist uh.
+
+PATIENT I941
+You going to reschedule that for me?
+
+DOCTOR I941
+Yeah, so when you come in to see her, she can actually even look at the blood pressure medications, blood pressures and decide what we need to give you.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+And she'll just put it under my name.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+So why don't we pick up a blood pressure cuff today.
+
+PATIENT I941
+I can get that today.
+
+DOCTOR I941
+Yeah and then once we get that going, for the next two weeks write down your blood pressures and we'll move your Pharmacy visit back two weeks.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+Sound okay.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+Um now let me try to remember where you get your blood pressure.
+
+PATIENT I941
+What about my cholesterol?  We didn't say anything about that, the results of the blood test.  I took about 100 gallon of blood for a while.
+
+DOCTOR I941
+@@@ vampires.
+
+PATIENT I941
+Hey.
+
+DOCTOR I941
+@@@.
+
+PATIENT I941
+What's going on.  I thought @@@.
+
+DOCTOR I941
+So you could get your blood pressure cuff today, yeah we'll get that.
+
+PATIENT I941
+Hmm.
+
+DOCTOR I941
+@@@ take off your jacket, how am I supposed to @@@.
+
+PATIENT I941
+It’s Chicago, man?
+
+SECOND PERSON I941
+You must be warm out there.  How many more layers do you put on when you're cold?
+
+PATIENT I941
+Because I'm working, when I'm working I don't do all that stuff.
+
+DOCTOR I941
+You want to know about.
+
+PATIENT I941
+This is Chicago.
+
+DOCTOR I941
+You know you got to.
+
+PATIENT I941
+@@@ wait five minutes.
+
+DOCTOR I941
+Alright let me tell you something too about this.
+
+PATIENT I941
+Alright.
+
+DOCTOR I941
+Your hepatitis.
+
+PATIENT I941
+Yeah what about it.
+
+DOCTOR I941
+They were going to talk to you about whether to talk about treatment and whether or not to treat you for your hepatitis C.
+
+PATIENT I941
+I need my liver out.
+
+DOCTOR I941
+No we're not taking your liver out.
+
+SECOND PERSON I941
+That wouldn't work too well I don't think.
+
+PATIENT I941
+They deliver, @@@.
+
+DOCTOR I941
+Okay.
+
+PATIENT I941
+Like this one too?
+
+DOCTOR I941
+Your cholesterol is actually good.  You have a very good cholesterol number so that was in September so don’t have to change it.  That's the one thing you did right, I don't know.  Probably the alcohol but.
+
+PATIENT I941
+I'm going back to drinking.
+
+DOCTOR I941
+No, no, you can't drink.
+
+PATIENT I941
+I stopped drinking.
+
+DOCTOR I941
+Yeah.  Alright.  Let me grab my stethoscope um but @@@ you got me all disoriented.
+
+PATIENT I941
+Have we got a tape recorder somewhere?
+
+DOCTOR I941
+No you may have turned it on you may have turned it off.
+
+PATIENT I941
+I don't know what I did, she probably, the lady turned it on.
+
+DOCTOR I941
+@@@. How long has this cough been going on?
+
+PATIENT I941
+Oh about three, four days.
+
+DOCTOR I941
+Three, four days.  Do you have any fevers or chills?
+
+PATIENT I941
+No.
+
+DOCTOR I941
+Have you had any trouble breathing worse than usual?
+
+PATIENT I941
+No.  Still got a lot of green stuff.
+
+DOCTOR I941
+Are you having blockage up in your nose?
+
+PATIENT I941
+I blow my nose sometimes.
+
+DOCTOR I941
+Yeah okay.
+
+PATIENT I941
+I'm not dying.
+
+DOCTOR I941
+No it sounds more like you know just the affects of this cold weather.
+
+PATIENT I941
+I've seen dying and I ain't dying.
+
+DOCTOR I941
+Okay.  I'll take you on a stroll through the hospital if you think you're dying.
+
+PATIENT I941
+No I seen enough of death.  Look everything I see @@@.
+
+DOCTOR I941
+You can breathe normally.  Deep breath, good.  One more for me, deep breath.  Lungs are good.  How long did you smoke for?
+
+PATIENT I941
+All my life.
+
+DOCTOR I941
+And we talked about how we need to get some breathing tests last time.
+
+PATIENT I941
+I stopped smoking @@@.
+
+DOCTOR I941
+I know but just to see if you need any treatment with like an inhaler or anything to help your breathing.
+
+PATIENT I941
+Hmm.
+
+DOCTOR I941
+We should probably get some what's called pulmonary tests its lung function testing.
+
+SECOND PERSON I941
+Didn't you tell me you only smoked for a year?
+
+PATIENT I941
+@@@.
+
+DOCTOR I941
+Can you open your mouth?  
+
+PATIENT I941
+Ah.
+
+DOCTOR I941
+Are those partials?
+
+PATIENT I941
+Dentures.
+
+DOCTOR I941
+Dentures okay.  Let me see your legs.
+
+PATIENT I941
+Yeah that's right.
+
+DOCTOR I941
+Sixteen layers.
+
+PATIENT I941
+@@@.
+
+DOCTOR I941
+I'm gonna cancel all your appointments until summer.
+
+PATIENT I941
+He ain't from Chicago.
+
+DOCTOR I941
+No, Kentucky. We have normal weather.
+
+PATIENT I941
+I been here four times, I do my basic.  We talked about it before.  Right.
+
+DOCTOR I941
+You ever go to the east side of the state?
+
+PATIENT I941
+I don’t know where – I been all over @@@ especially on the weekends.
+
+DOCTOR I941
+Oh boy. 
+
+PATIENT I941
+@@@ isn't that a dry county.
+
+SECOND PERSON I941
+I don't know.
+
+PATIENT I941
+You know where @@@ is?
+
+DOCTOR I941
+Yeah.
+
+PATIENT I941
+@@@, Danville.
+
+DOCTOR I941
+Yeah.
+
+PATIENT I941
+Danville.
+
+DOCTOR I941
+Yeah.
+
+PATIENT I941
+Danville @@@.
+
+DOCTOR I941
+Yeah either @@@ or Danville yeah.
+
+PATIENT I941
+@@@.
+
+DOCTOR I941
+@@@ is where I went to school.
+
+PATIENT I941
+@@@.
+
+DOCTOR I941
+Hawkinsville I got some friends from there.
+
+PATIENT I941
+It's not too big.
+
+DOCTOR I941
+What 75,000, small city.
+
+PATIENT I941
+That's big.
+
+DOCTOR I941
+Uh let me tell my boss how you're doing um.  Do you have any questions before I leave?
+
+PATIENT I941
+Yeah I need something for this cough.
+
+DOCTOR I941
+Yes, what we can do.  So we're gonna look into your breathing but we'll decide if you need anything.
+
+PATIENT I941
+When do I take this.
+
+DOCTOR I941
+The breathing test?
+
+PATIENT I941
+No I mean the colonoscopy?
+
+DOCTOR I941
+They're gonna sent that to you in the mail because they have to schedule it through the clinic.
+
+PATIENT I941
+Okay, that'll be here.
+
+DOCTOR I941
+Yes here at Jesse Brown.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+Um do you have any other questions?  We'll give you a medication to kind of put down your cough, like a cough suppressant but I think this should pass.
+
+PATIENT I941
+I need some cough drops.
+
+DOCTOR I941
+Yeah that's what I was talking about like some cough drops.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+But you've had this recently or has this been going on for years?
+
+PATIENT I941
+Yeah.  Just when the weather changes.
+
+DOCTOR I941
+Okay.  Um.
+
+PATIENT I941
+@@@ get used to it.
+
+DOCTOR I941
+Yeah we'll just do some cough drops for now see how you do but if it gets worse you can always come back and either come to the Acute Care Clinic if you can't wait till Monday to come see me or you can always just pop in on a Monday and say you have to DOCTOR okay.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+Alright.  I'll be right back.
+
+SECOND PERSON I941
+Alright.
+
+(DOCTOR OUT:  98:44  DOCTOR IN:  105:20)
+
+DOCTOR I941
+Okay give this to the lady up front who checked you in.
+
+PATIENT I941
+Uh-huh.
+
+DOCTOR I941
+And over here, we're going to reschedule your Pharmacy appointment.
+
+PATIENT I941
+Hmm.
+
+DOCTOR I941
+And then I also wrote for them to get you a GI Clinic appointment.
+
+PATIENT I941
+What’s that?
+
+DOCTOR I941
+That's the colonoscopy people.
+
+PATIENT I941
+Okay then.
+
+DOCTOR I941
+So we'll take care of those two things.
+
+PATIENT I941
+Okay thank you doc.
+
+DOCTOR I941
+Yeah no I'll put the cough drops in the Pharmacy.
+
+PATIENT I941
+Uh-huh.
+
+DOCTOR I941
+But I also want you to pick up your blood pressure cuff okay.
+
+PATIENT I941
+So do I do that today?
+
+DOCTOR I941
+Yeah.  So the blood pressure cuff is in the office called Prosthetics.  You can ask the clerk where to where they're at.
+
+PATIENT I941
+Take this.
+
+DOCTOR I941
+Take this to the lady that checked you in.
+
+PATIENT I941
+Right here.
+
+DOCTOR I941
+She'll make you two new appointments.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+And then ask where the Prosthetics are to pick up the blood pressure cuff.
+
+PATIENT I941
+Okay.
+
+DOCTOR I941
+She'll give you directions on where to go.
+
+PATIENT I941
+Prosthetics okay.  Okay thank you doc.
+
+DOCTOR I941
+Great seeing you again.
+
+PATIENT I941
+Alright good seeing you always.
+
+DOCTOR I941
+Alright we'll see you back in like three months okay.
+
+PATIENT I941
+Okay then.  So I'm doing alright so far?
+
+DOCTOR I941
+Yeah you're gonna make it.
+
+PATIENT I941
+I'm doing better, I'm gonna make it.  No more @@@.  Now I like to party, we're starting a party in here.
+
+DOCTOR I941
+No party for now.
+
+PATIENT I941
+Okay doc see you later.
+
+DOCTOR I941
+Alright take care.
+
+PATIENT I941
+Okay.
+
+PATIENT LEAVES:  106:2
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/JOB#  1286093
+TRANSACTION # 578-10-2-316-0103

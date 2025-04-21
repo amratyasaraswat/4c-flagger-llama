@@ -1,0 +1,23 @@
+Red Flag (995-1031): "he has not been taking his Synthroid"
+
+Red Flag (3845-3875): "he wasn't taking the Synthroid"
+
+Red Flag (4517-4552): "he hadn't been taking the Synthroid"
+
+Red Flag (6700-6711): "the hips to"
+
+Red Flag (6797-6896): "I don't think those were ever done correct? Yeah @@@ we talked about but I saw those were not done"
+
+Red Flag (11456-11572): "So going back to kind of cause you know now knowing that you know there were issues with the medications in the past"
+
+Probe    (11584-11628): "how can we prevent that from happening again"
+
+Factor   (11736-11797): "Most likely it'd be not taking cause I got plenty of medicine"
+
+Factor   (11736-11797): "Most likely it'd be not taking cause I got plenty of medicine"
+
+Probe    (12171-12204): "And taking the medicine every day"
+
+Red Flag (15363-15431): "they wrote on here did not take blood pressure medicine this morning"
+
+Probe    (15432-15444): "is that true"

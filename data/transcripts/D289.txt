@@ -1,0 +1,614 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@ 
+
+DOCTOR D289
+Hi.  How are you today?
+
+PATIENT D289
+Okay I'll follow you.
+
+DOCTOR D289
+@@@. 
+
+PATIENT D289
+Okay.  DOCTOR.  
+
+DOCTOR D289
+Yeah. Yeah.
+
+PATIENT D289
+Nice to meet you.
+
+DOCTOR D289
+This is it.  How are you PATIENT?  Looks like you were here a couple weeks ago right?
+
+PATIENT D289
+Yes.  Where's the, oh here?
+
+DOCTOR D289
+Oh you're okay like that and they found an infection in your epididymis right?
+
+PATIENT D289
+Whatever that is, yeah.
+
+DOCTOR D289
+And they gave you some antibiotics.  How are things now? Better?
+
+PATIENT D289
+Good.
+
+DOCTOR D289
+Good.  @@@.  Okay.  Who's your primary care doctor?
+
+PATIENT D289
+My primary care was at Chicago Heights but I don't live there anymore so.
+
+DOCTOR D289
+Oh okay.
+
+PATIENT D289
+I'm just, just establishing things here.
+
+DOCTOR D289
+Oh, so you don't have, let me see.  Oh we don't have, oh wow, we don't have, @@@ okay perfect.  So you're brand new to us.
+
+PATIENT D289
+Yes.
+
+DOCTOR D289
+Okay great.  Um did you know what medical problems you have?
+
+PATIENT D289
+Uh blood pressure and I've been diagnosed with diabetes but I haven't had a problem with that.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+Uh blood sugars have been good and um that's it.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+And old age.
+
+DOCTOR D289
+And old age?
+
+PATIENT D289
+But I'm going to reverse that too.
+
+DOCTOR D289
+Oh are you?
+
+PATIENT D289
+I'm gonna live to be 130 @@@.
+
+DOCTOR D289
+You're gonna figure that out?
+
+PATIENT D289
+Yeah.
+
+DOCTOR D289
+That's uh, tell me the secret.  I'm gonna need to know that too.
+
+PATIENT D289
+No you could be you're gonna be one @@@.
+
+DOCTOR D289
+(Doctor on phone call)  Sorry everybody wants a piece of you at the same time it seems like.  Okay so you've got high blood pressure and diabetes.
+ 
+PATIENT D289
+Uh-huh.
+
+DOCTOR D289
+Um, we're gonna get you your tetanus shot today.  No flu shot.  Do you know if you've had a colonoscopy?
+
+PATIENT D289
+No.  I was scheduled for one.  I got all the stuff I need to do it.
+
+DOCTOR D289
+Oh you're scheduled for one?
+
+PATIENT D289
+I was scheduled for one but uh I had planned to be out of town uh so we had to reschedule it.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+And I needed to call and reschedule it but I'm out of the area now so.
+
+DOCTOR D289
+Not a problem.  Um, just want to see are they still taking these medications that you're on, the blood pressure stuff?  It's the hydrochlorothiazide and the Losartan?
+
+PATIENT D289
+Yeah.  I was until I got the instruction to stop but I'm restarting it now.
+
+DOCTOR D289
+Okay and Vicodin for pain?
+
+PATIENT D289
+I don't take that anymore.
+
+DOCTOR D289
+Okay.  Metformin for diabetes?
+
+PATIENT D289
+Yes.
+
+DOCTOR D289
+And tamsulosin for, um your prostate.
+
+PATIENT D289
+Yes I'm taking that.
+
+DOCTOR D289
+Taking that okay.  So.
+
+PATIENT D289
+The only two that I haven't been taking are the ones for blood pressure and the one for.
+
+DOCTOR D289
+Pain?
+
+PATIENT D289
+Diabetes.
+
+DOCTOR D289
+Oh okay.
+
+PATIENT D289
+Those two.
+
+DOCTOR D289
+Oh okay.  Okay so it looks like you had a mini stroke in 2003 and you had some right-sided weakness of your face that got a little bit better.
+
+PATIENT D289
+No it's better, it's all gone.
+
+DOCTOR D289
+And you had a CPAP, you had that um you said a mask.
+
+PATIENT D289
+Yeah.
+
+DOCTOR D289
+No more.   And you had your appendix out in 1973, your gallbladder in 1990 um.  When was the last time you used alcohol?
+
+PATIENT D289
+Uh it's been a while.  I usually, when they gave me, the last time they gave me a shot.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+@@@.  When was the last time I drank alcohol?
+
+DOCTOR D289
+Yes.
+
+PATIENT D289
+A long time ago, I don't know what to tell you, 15, 20 years.
+
+DOCTOR D289
+Okay.  Um and uh drugs?
+
+PATIENT D289
+No, never.
+
+DOCTOR D289
+Alright and tobacco?
+
+PATIENT D289
+84, oh not 84, I'm sorry 2004.
+
+DOCTOR D289
+Good and um do you have a place to stay or are you still looking?
+
+PATIENT D289
+I'm still looking.
+
+DOCTOR D289
+Are they helping you out in the Social Work Office?
+
+PATIENT D289
+Yes.
+
+DOCTOR D289
+Do they have any place?
+
+PATIENT D289
+Uh yeah I have temporary, @@@.
+
+DOCTOR D289
+@@@?
+
+PATIENT D289
+@@@.
+
+DOCTOR D289
+Okay.  Is that a shelter or?
+
+PATIENT D289
+Yep it's a shelter.
+
+DOCTOR D289
+Okay and they're finding you someplace a little bit more permanent?
+
+PATIENT D289
+Right.
+
+DOCTOR D289
+Okay.  Good. Um.
+
+PATIENT D289
+What country?
+
+DOCTOR D289
+Oh I was born here.
+
+PATIENT D289
+You were?
+
+DOCTOR D289
+Yeah but my parents were from Pakistan.
+
+PATIENT D289
+Okay.
+
+DOCTOR D289
+So across the way um, let's see.  So have we every checked your prostate labs.
+
+PATIENT D289
+Did they put that in?
+
+DOCTOR D289
+Oh because of @@@.
+
+PATIENT D289
+Because of right.  Plus, I got a biopsy. I don’t think it’s been two years. A little more, a year ago.
+
+DOCTOR D289
+Oh biopsy.  Alright um and you were smoking a pack a day roughly before 2004.  Okay and how are you feeling now?
+
+PATIENT D289
+Hmm, just a little sleepy.
+
+DOCTOR D289
+Sleepy okay.  But um any chest pain, shortness of breath, um feeling like your heart's racing, fevers, chills, losing weight, waking up drenched in sweat, vomiting, diarrhea, nausea, constipation, swelling of your legs?
+
+PATIENT D289
+No.
+
+DOCTOR D289
+Numbness, tingling, double vision.
+
+PATIENT D289
+Insomnia, you said sleeplessness, which is probably from the CPAP.
+
+DOCTOR D289
+Okay.  Do you need a mask or do you feel like.
+
+PATIENT D289
+I don't, I've been doing okay.  Sometimes I get sleepy during when driving and sleeping when I settle down.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+As long as I'm busy I'm alright.
+
+DOCTOR D289
+But you, sometimes you do feel like when you're driving you get a little tired.
+
+PATIENT D289
+Right.  Well I mean, ever since I can remember,  I sleep when I’m driving.
+
+DOCTOR D289
+Okay.  Anything run in your family?
+
+PATIENT D289
+Anything what?
+
+DOCTOR D289
+Any illnesses run in your family that you know of?
+
+PATIENT D289
+No.
+
+DOCTOR D289
+And any allergies to medications?
+
+PATIENT D289
+Uh just narcotics.
+
+DOCTOR D289
+What happens when you take those?
+
+PATIENT D289
+Uh I can't be still.
+
+DOCTOR D289
+Oh okay.
+
+PATIENT D289
+It's like it sends my system into shock or something.
+
+DOCTOR D289
+Sure.  Okay um.
+
+PATIENT D289
+Which I think is good.  With everyone having problems with drugs, I've known better than to even try it though.  It's, I guess that's been a good thing.
+
+DOCTOR D289
+I think it is.  You finished your antibiotics um.  Your diabetes numbers actually look okay.  Kidneys look, your kidney numbers look a little high.  Were you not eating or drinking so well?  You know when you first had gone to the Emergency Room?
+
+PATIENT D289
+I probably wasn't drinking that much.
+
+DOCTOR D289
+Yeah.  Yeah.  (Doctor answers a page) Sorry, last time, um so it looks like your cholesterol's a little high.  I think uh you know we could try to control that with diet and exercise but um.
+
+PATIENT D289
+I've been eating too much @@@.
+
+DOCTOR D289
+But you know it's uh, it's something to you know think about if um you know, get you started with some medication, once daily that you would take at nighttime that would help bring your cholesterol down.  You don't have any liver disease which is good.  Um and I think let's see, these are your last numbers looked good alright and you had an eye exam right in January.
+
+PATIENT D289
+Uh-huh, I got glasses.
+
+DOCTOR D289
+Let me take a quick listen to you.  Take a deep breath.  Take one more time. Very good. Breathe normally, just regular breathing.  And this isn’t painful at all?
+
+PATIENT D289
+No.
+
+DOCTOR D289
+Okay, alright.  Okay.  You haven't noticed a bunch of swelling in your legs?
+
+PATIENT D289
+No.  @@@.
+
+DOCTOR D289
+Yeah.  Take off your glasses for one second and look straight ahead at me.  Say ah.
+
+PATIENT D289
+Ah.
+
+DOCTOR D289
+Good.  Now do you have a tooth that's been hurting?
+
+PATIENT D289
+Yeah.  I’ve got one, it was uh, it had a ceramic filling.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+And it came out.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+But I'm scheduled for; I think it's June 2nd.
+
+DOCTOR D289
+Dental appointment okay.  Um we should maybe give you like a topical or something that would help the pain.  You know like an Orajel like a cream or something.
+
+PATIENT D289
+Good.
+
+DOCTOR D289
+That might help.
+
+PATIENT D289
+Good.
+
+DOCTOR D289
+Swallow, no lumps or bumps anywhere?
+
+PATIENT D289
+No.
+
+DOCTOR D289
+Alright.  Um I'm gonna run this by DOCTOR who is my attending and we'll see what we can do for you.  But um, when do you think the last time you took your blood pressure medicine was?
+
+PATIENT D289
+Uh probably, that was on the 8th, about the 4th.
+
+DOCTOR D289
+The 4th okay.
+
+PATIENT D289
+Uh-huh.
+
+DOCTOR D289
+@@@ okay and your diabetes @@@.
+
+PATIENT D289
+Yeah.
+
+DOCTOR D289
+Okay.
+
+PATIENT D289
+Yeah.
+
+(DOCTOR OUT:  21:32  DOCTOR IN:  27:10)
+
+DOCTOR D289
+Alright sir, okay.  So um okay um a couple of things we're gonna do.  We're gonna start you back on your home meds okay on the diabetes stuff and for the blood pressure.
+
+PATIENT D289
+Those, I’ve already got.
+
+DOCTOR D289
+Right.  So go ahead and start taking them because your blood pressure is still too high so we need you to come in two weeks for your blood pressure check.  You don't have to see me, you can just see the nurse and they can check it really quick and uh you know uh let us know.  At that time, you know if we want to then change your medications but there's sort of no point if you haven't taken it for a while. 
+
+PATIENT D289
+Right.
+
+DOCTOR D289
+We don't even know if what you're taking is working.  Um there are a couple other things, let's see, okay.  So we're doing this, we need your blood pressure; we'll get you a tetanus shot.  That's just the one that when you like brush up against metal or something like that, like rusty metal you can get tetanus from that so it's a shot you get once every ten years, it's uh and yeah that is not bad.
+
+PATIENT D289
+No side effects?
+
+DOCTOR D289
+No usually it's just the arm soreness.  And many times there's actually, you know they would prefer @@@.  Some people find that, I'm sure you've had other vaccinations in the past at some time but it usually doesn't @@@ them.  Um then um we're gonna get you an ultrasound of your abdomen.  I know they had done some pictures before but the think is that we’d like to see the part of your blood vessels where they go into your stomach because you have a history of using tobacco you're at increased risk of having what they call an aneurysm which mean that the blood vessel is big so for all men who are over 65 who have a smoking history, you know it's for pregnant women, it’s the same thing, they just put goop on your belly and it doesn't hurt.
+
+PATIENT D289
+Hmm.
+
+DOCTOR D289
+So, I signed you up for that.  Um so um @@@.  We'll get your tetanus shot.  For your tooth, I think I'm going to try some, it's a topical thing that we give, I think it's just the thing that you kind of put in your mouth and swish around like a mouthwash and you spit it out.  (Doctor makes phone call)  Okay we're gonna start you on a low dose cholesterol medication.  The fact that you're a diabetic and you have high blood pressure means you should be on a cholesterol medication and a baby aspirin.
+
+PATIENT D289
+Okay.
+
+DOCTOR D289
+So we can address that.
+
+PATIENT D289
+I've got I think its 8 grams or 8 mm.
+
+DOCTOR D289
+81.
+
+PATIENT D289
+Yeah, I've got that.
+
+DOCTOR D289
+Uh-huh.  And would like to pick up this medication here?  Well I guess we’ve never mailed it to you @@@, so you should pick it up here right?
+
+PATIENT D289
+Yeah.
+
+DOCTOR D289
+Good.
+
+PATIENT D289
+They could mail them; no they can mail it out.
+
+DOCTOR D289
+Oh does that work?
+
+PATIENT D289
+Uh-huh.
+
+DOCTOR D289
+Okay.  (Doctor continues phone call) What other reaction have you had?  It has listed an allergy that you have had a reaction to anesthetics, what happens?
+
+PATIENT D289
+Only, the only one that really bothers me has been @@@.
+
+DOCTOR D289
+(Doctor continues phone call) Okay I think we should be okay.
+
+PATIENT D289
+Yeah and the only thing that bothers me is.
+
+DOCTOR D289
+(Doctor continues phone call) So I think we'll just try that, it's like a mouthwash just kind of do that okay.  So um take your medications, come back in two weeks, you'll get your tetanus shot today um and then we'll @@@.
+
+PATIENT D289
+Okay great.
+
+DOCTOR D289
+Does that sound good?  And you'll see me back in like six months.
+
+PATIENT D289
+Okay.
+
+DOCTOR D289
+Sounds like a plan?  Um let's see.  Oh I have these to pick up here, do you want me to mail them to you or do you want to wait?
+
+PATIENT D289
+They can mail them.
+
+DOCTOR D289
+Okay.  So the shot you have to get here.
+
+PATIENT D289
+Okay.
+
+DOCTOR D289
+The shot unfortunately, we can’t mail to you.
+
+PATIENT D289
+Yeah.  The um.
+
+DOCTOR D289
+Right.  
+
+PATIENT D289
+Okay.  
+
+DOCTOR D289
+Cause.
+
+PATIENT D289
+The vaccination.  They'll do that today here?
+
+DOCTOR D289
+Uh-huh.
+
+PATIENT D289
+I can't remember that name of that local anesthesia they gave me.
+
+DOCTOR D289
+That's okay.  It should be alright.  Well you know I mean it's just a mouthwash.  Just try a little bit.  If you feel weird don't take it, you know.
+
+PATIENT D289
+No I'll be okay.
+
+DOCTOR D289
+And uh I will send you with this so.  Okay.
+
+PATIENT D289
+Okay good.
+
+DOCTOR D289
+And then.
+
+PATIENT D289
+Okay am I free to go teach.
+
+DOCTOR D289
+You're free to go teach um and um we'll schedule your colonoscopy, they'll call you for that.
+
+PATIENT D289
+Okay good.
+
+DOCTOR D289
+Let me just make sure I get those scheduled.  Alright.
+
+PATIENT D289
+Alright, thank you.
+
+DOCTOR D289
+Here you go sir.
+
+PATIENT D289
+Okay.
+
+DOCTOR D289
+And um I'm gonna walk out with you to make sure that they schedule you.
+
+PATIENT D289
+Okay.
+
+DOCTOR D289
+Alright.  You can go have a seat out there okay.
+ 
+PATIENT LEAVES:  35:42.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286144
+TRANSACTION # 578-10-2-316-0103

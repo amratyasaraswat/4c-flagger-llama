@@ -1,0 +1,851 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR F058
+PATIENT?
+
+PATIENT F058 
+Yep.
+
+DOCTOR F058
+Hi. @@@.
+
+PATIENT F058
+Good.
+
+DOCTOR F058
+How are things going?
+
+PATIENT F058
+Uh it's been a year or two when I've been to the office here.
+
+DOCTOR F058
+Okay.  @@@ right here.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+@@@.
+
+PATIENT F058
+Okay.  
+
+DOCTOR F058
+What's been going on?
+
+PATIENT F058
+Well, I've been pills @@@ you know.
+
+DOCTOR F058
+Yeah.
+
+PATIENT F058
+@@@.
+
+DOCTOR F058
+Alright I @@@.
+
+PATIENT F058
+So and another thing is uh some of my prescriptions one has expired.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+And some are about to expire so.
+
+DOCTOR F058
+Alright we'll get them refilled then.  
+
+PATIENT F058
+Other than that, @@@
+
+DOCTOR F058
+That's alright.  So @@@ everything else is good today.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+We checked a couple of things.  Did you go to the Lab yes?
+
+PATIENT F058
+I didn't go to the Lab.  I had been to the labs two weeks ago.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+I think I seen that, what's that other, pharmacy, Pharm D?
+
+DOCTOR F058
+Right, yeah right.
+
+PATIENT F058
+So it's only been two weeks @@@.
+
+DOCTOR F058
+Well okay.  Still @@@.  Okay, @@@.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+So that was back in December.
+
+PATIENT F058
+No it was back in March I think.
+
+DOCTOR F058
+Uh they don't have one for March.  They just have the renal function.
+
+PATIENT F058
+Oh okay.  
+
+DOCTOR F058
+So that's a different one. We'll probably have to get some labs today after this.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+Let me check a couple of things.
+
+PATIENT F058
+Alright.  
+
+DOCTOR F058
+Uh.  @@@. It says you’re on Lantus?
+
+PATIENT F058
+Is that the insulin?
+
+DOCTOR F058
+How much?
+
+PATIENT F058
+Well I'm taking, now I'm taking 33.  I lowered it from what it was from 33 works pretty good.
+
+DOCTOR F058
+Why, what are you getting in the morning?
+
+PATIENT F058
+Uh I get probably 115.
+
+DOCTOR F058
+Okay.  Maybe 100 to 115.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+Okay. When did you lower it to 33.
+
+PATIENT F058
+What was going on was uh, uh I would be working and stuff and my sugar would drop.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+Okay.  So they told me to lower it.
+
+DOCTOR F058
+That lowers that yeah.
+
+PATIENT F058
+So.  
+
+DOCTOR F058
+But no problems like problems with urination?  Frequently drinking water?
+
+PATIENT F058
+No, I go to the bathroom like twice every night.
+
+DOCTOR F058
+Okay.  Not a problem for you?
+
+PATIENT F058
+Not a problem.
+
+DOCTOR F058
+So you've had the erectile dysfunction?
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+That gets a reaction huh.  And you've uh, you've had that for a while?
+
+PATIENT F058
+Yeah, it uh just got worse.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+How's the sleep been?
+
+PATIENT F058
+The sleeping is pretty good you know.  I'm working a job and it's pretty physical and so I take, sometimes I take a pain pill, over-the-counter.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+And it helps me out relaxes you know.  
+
+DOCTOR F058
+You don't wake up at night, or snore a lot or anything like that?
+
+PATIENT F058
+I probably do, you know I wake up.
+
+DOCTOR F058
+Is it to urinate or?
+
+PATIENT F058
+Yes to urinate.
+
+DOCTOR F058
+Do you ever get short of breath?
+
+PATIENT F058
+No, no.
+
+DOCTOR F058
+Nothing – I’m trying to see if sleep apnea.
+
+PATIENT F058
+No.
+
+DOCTOR F058
+And changes in the testicles, getting smaller or nothing like that?
+
+PATIENT F058
+No, no.
+
+DOCTOR F058
+And the energy @@@.
+
+PATIENT F058
+@@@.
+
+DOCTOR F058
+So I'll just keep this on the medication list, sounds like nothing else is contributing.  Are you still smoking?
+
+PATIENT F058
+No I quit.
+
+DOCTOR F058
+Okay.  For how long?
+
+PATIENT F058
+Off and on I've been cheating and having a cigarette so.
+
+DOCTOR F058
+So like every week or so?
+
+PATIENT F058
+Yeah.  But the person I see for my @@@ patches and stuff.
+
+DOCTOR F058
+Good, good.  Alright um.  What are you working doing now?
+
+PATIENT F058
+Well kind of funny, all I'm doing is taking this particular part and putting into a soak, taking it out of a box and cleaning to a soap.
+
+DOCTOR F058
+That sounds pretty cool.
+
+PATIENT F058
+And they call it NTN.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+It's a shaft bearing.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+For @@@.
+
+DOCTOR F058
+Do you like it?
+
+PATIENT F058
+@@@ bank.
+
+DOCTOR F058
+I mean what the hell.  
+
+PATIENT F058
+So I take it as it comes.  I’m at the end of my career, not the beginning.
+
+DOCTOR F058
+Yeah that's alright.  Um we sent you to the cardiologist and you didn't want an ICD put in?
+
+PATIENT F058
+No I didn't want it put in.
+
+DOCTOR F058
+Okay.  Cause you've got risks @@@ I mean you don't have to have it put in, it's proven to help people survive longer and people @@@.
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+You know, think about until the next time we can talk about it again.
+
+PATIENT F058
+Yeah, yeah.
+
+DOCTOR F058
+So we are going to recheck cholesterol today too.  It was not where we wanted the last time but it was close.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+Um checked the kidney function again.  Um are you using the patches for the nicotine?
+
+PATIENT F058
+Yes.
+
+DOCTOR F058
+Okay.  @@@.  And how about that colonoscopy?
+
+PATIENT F058
+Yeah I had one four or five years ago.
+
+DOCTOR F058
+Yeah you had one in 2006 but you had something in there that was a little big.
+
+PATIENT F058
+Oh okay.
+
+DOCTOR F058
+A polyp.
+
+PATIENT F058
+@@@ okay.
+
+DOCTOR F058
+That's why so it's one of those things that we'd like to follow up because it could go into a cancer and I think after like three years you should probably have it checked.  @@@ if we checked it now and it's not there then you can go back and say okay we'll back off a little bit but I think it's one of @@@ young.
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+That make sense?
+
+PATIENT F058
+Can it wait for like uh, see what it is, is I'm working and I have to take the whole day off.
+
+DOCTOR F058
+Right.
+
+PATIENT F058
+I can go off and on with work and I don't know exactly what days I won’t be working.
+
+DOCTOR F058
+Can’t you schedule that ahead of time because you’ve already put it off for a while so I'm worried you know about how much time is passing.
+
+PATIENT F058
+Uh-huh.
+
+DOCTOR F058
+So I want to get it done soon.
+
+PATIENT F058
+Okay.  Uh like when?
+
+DOCTOR F058
+Next few months.
+
+PATIENT F058
+Next few months okay.  Uh let's see this is April, let's go for June.
+
+DOCTOR F058
+I'll write that in here.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+Get the labs today and make sure @@@.  
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+And I'll put a note in it.  So when they call you you just tell them to make it and I'll put that in.  There's no blood in your stool, nothing like that?
+
+PATIENT F058
+No.
+
+DOCTOR F058
+Abnormal bowel movements?
+
+PATIENT F058
+Yeah I they're normal.
+
+DOCTOR F058
+How's the weight doing?
+
+PATIENT F058
+Uh the weight, I'm trying to lose weight so uh it's been holding.
+
+DOCTOR F058
+And you said you can't do the MOVE Clinic because of the timing.
+
+PATIENT F058
+Yeah.  Uh one question I wanted to bring up.
+
+DOCTOR F058
+Yep.
+
+PATIENT F058
+My father had shingles.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+So is there like a vaccine I can take?
+
+DOCTOR F058
+Yeah there's actually a vaccine that um we have um that we can give to you.
+
+PATIENT F058
+Okay.  
+
+DOCTOR F058
+And if you want it I can give it to you today.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+That'll be fine, good.  It's a one time deal so you don't have to do it ever again, ever again.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+It says your on the pill, the glipizide pill?
+
+PATIENT F058
+Yes.
+
+DOCTOR F058
+Okay.  Along with the insulin?
+
+PATIENT F058
+Along with the insulin.  So I'm supposed to take two in the morning and two in the evening, sometimes I take one in the evening.
+
+DOCTOR F058
+We could almost stop and just use all insulin.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+@@@.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+If you want to stop those pills.
+
+PATIENT F058
+Yeah.  That means I would have to go to the fast-acting one?
+
+DOCTOR F058
+Oh no, all you have to do is the insulin @@@.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+You just do the insulin by itself.
+
+PATIENT F058
+Yeah that'd be fine.
+
+DOCTOR F058
+Okay.  Let's see, how about what we do is uh, 20 b.i.d. of the glipizide.  Let me see what the pharmacist said last time.  So let's keep it on and we'll talk with her and then um we'll titrate it down.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+I don’t want to, I would like to stop @@@ get off of it.  
+
+PATIENT F058
+Right, right.
+
+DOCTOR F058
+And you went to the eye doctor a year ago; you're due again in two months.
+
+PATIENT F058
+In two months okay.
+
+DOCTOR F058
+Yeah I'll just put that order in so you can schedule that.  That sounds good.  And @@@.
+
+PATIENT F058
+@@@ kidney.
+
+DOCTOR F058
+Yeah.
+
+PATIENT F058
+And as far as the erectile dysfunction, do you have Cialis?
+
+DOCTOR F058
+Uh right now we have Viagra.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+That'll work for you?
+
+PATIENT F058
+That'll work.  I haven't even used it, I've never used it.
+
+DOCTOR F058
+So basically what you do is um take it like um half an hour before you have the desire and you got to give it a little time.
+
+PATIENT F058
+Right, right.
+
+DOCTOR F058
+And let me know, as long as it's working.
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+Um @@@ if your blood pressure is low don't take it.
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+And then as long as you don't stay erect longer than four or six hours you should be fine.
+
+PATIENT F058
+@@@.
+
+DOCTOR F058
+@@@ give me a call.
+
+PATIENT F058
+Okay.  Got it.
+
+DOCTOR F058
+Shouldn't be a problem @@@.  I haven't anyone complain about that.
+
+PATIENT F058
+Okay. And then you get the opposite.
+
+DOCTOR F058
+Apparently so.
+
+PATIENT F058
+Yeah.  @@@.
+
+DOCTOR F058
+There you go.  Vaccine.  Viagra.
+
+PATIENT F058
+So can I pick it up today again?
+
+DOCTOR F058
+Yeah.
+
+PATIENT F058
+Okay.  Along with the carvedilol.
+
+DOCTOR F058
+Carvedilol?
+
+PATIENT F058
+Yeah, that expired and I need that reordered yeah and potassium  is about to expire too.
+
+DOCTOR F058
+Okay.
+
+PATIENT F058
+So.
+
+DOCTOR F058
+We'll order both those too.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+I'll give you two pills to start and just let me know if it works we'll refill it.
+
+PATIENT F058
+Okay.  I’ll just renew it then?
+
+DOCTOR F058
+Uh-huh.  Potassium and then what else.  Yeah I'll get all these and you can pick them up today.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+And @@@.  Okay.  We'll see if I have any @@@ reminders.  @@@.  I can't believe @@@.
+
+PATIENT F058
+What is that for?
+
+DOCTOR F058
+Uh test for HIV.
+
+PATIENT F058
+@@@.  Can I do it today?
+
+DOCTOR F058
+Yeah it's just a blood test.
+
+PATIENT F058
+Oh okay yeah, yeah.  @@@.
+
+DOCTOR F058
+@@@.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+Okay.  
+
+PATIENT F058
+I can get it all at once.
+
+DOCTOR F058
+Alright we're done with all the reminders.  Alright you want to hop up here.
+
+PATIENT F058
+Yep.
+
+DOCTOR F058
+@@@ alright good.  Deep breaths, again, good.  @@@.
+
+PATIENT F058
+No.
+
+DOCTOR F058
+@@@.  Good.  Now I am going to check out your feet.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+Can you take those off?  Sit over here? @@@.
+
+PATIENT F058
+Yeah.  You want me to take off my socks too?
+
+DOCTOR F058
+Uh yeah.  Oh you're also due for a tetanus.  Let me check the record.  Alright the tetanus was in 2004, you’re not due.
+
+PATIENT F058
+Is it due?
+
+DOCTOR F058
+No you're not due for that one.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+Not for a couple years, it should be alright.  Can you feel all this?
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+I'll do that one.  This cold?  Feel it in here?
+
+PATIENT F058
+Yes.
+
+DOCTOR F058
+It looks good.
+
+PATIENT F058
+Alright.
+
+DOCTOR F058
+Colonoscopy in June.  We'll get you the zoster vaccine today.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+I'll have you back in three months.
+
+PATIENT F058
+Okay.
+
+DOCTOR F058
+That's it.  Any questions?
+
+PATIENT F058
+No, no I.
+
+DOCTOR F058
+Make sure you pick up those meds.  Let me know if it works.
+
+PATIENT F058
+Right, right.  Who do I see for the shingles vaccine?
+
+DOCTOR F058
+The nurse, so after you go out there just let them know that you need the shot today.
+
+PATIENT F058
+Yeah okay.
+
+DOCTOR F058
+It's ordered so.
+
+PATIENT F058
+When I check out?
+
+DOCTOR F058
+Yeah.
+
+PATIENT F058
+Alright, okay.
+
+DOCTOR F058
+Six months, usually do that?
+
+PATIENT F058
+Yes.
+
+DOCTOR F058
+Everything's going well I think you know, one thing that will help everything is losing a little bit of weight.
+
+PATIENT F058
+That's what I've been trying.
+
+DOCTOR F058
+So what have you been trying to do for it?
+
+PATIENT F058
+Well I'm trying to cut out the bread and stuff.  So sometimes I eat fries I shouldn't be eating.  
+
+DOCTOR F058
+Um the big thing I think is um watching portions, how much are you eating.  Just cut it down.
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+Don't take everything away but don't eat as much of some of stuff.
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+And do you exercise at all?
+
+PATIENT F058
+I walk.
+
+DOCTOR F058
+Okay.  How far do you walk?
+
+PATIENT F058
+Oh half a mile.
+
+DOCTOR F058
+Oh that's pretty good.  Keep doing that.
+
+PATIENT F058
+Half mile, mile.
+
+DOCTOR F058
+Good.  When I see you next time, let's see what you're at right now, you are at 208 pounds.
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+You gained last time, you've been up a little higher and a little lower.
+
+PATIENT F058
+Right.
+
+DOCTOR F058
+You think you can come in at 200 at the next visit?
+
+PATIENT F058
+Yeah.
+
+DOCTOR F058
+Alright.  That's your goal.
+
+PATIENT F058
+That's my goal.
+
+DOCTOR F058
+And that'll help with the erectile dysfunction too.
+
+PATIENT F058
+Yeah.  I think it all has something to do with it.
+
+DOCTOR F058
+Hmm.  Alright.
+
+PATIENT F058
+Now do we do the blood tests first and then pick up the medicine?
+
+DOCTOR F058
+Yeah that'll give them a little time so get the shot.
+
+PATIENT F058
+Get the shot and then the blood tests and then the medicines okay.
+
+DOCTOR F058
+That's it.
+
+PATIENT F058
+Doc thanks.
+
+DOCTOR F058
+Alright.  Good to see you.
+
+PATIENT F058
+Yeah.  Take care now. Okay.
+
+DOCTOR F058
+Let me know when you have the colonoscopy.
+
+PATIENT F058
+Okay.  
+
+PATIENT LEAVES:  65:23.
+
+Time is 2:54 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255128
+TRANSACTION # 578-10-2-316-0103

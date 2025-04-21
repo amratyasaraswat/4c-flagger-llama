@@ -1,0 +1,1024 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR G040
+PATIENT?  
+
+PATIENT G040
+I get along, how are you today?
+
+DOCTOR G040
+Good.  You survived everything since the last time I saw you.
+
+PATIENT G040
+Well I have intermittently.
+
+DOCTOR G040
+Well I hope we were able to help you out there with everything that's happened.  Good.  I’m over this way.
+
+PATIENT G040
+I'm able to lie in bed and breathe more.
+
+DOCTOR G040
+Good.  Okay that's when it was happening at night.  @@@ maybe it's just heartburn but we should get it checked anyway.  
+
+PATIENT G040
+Oh my God, @@@ extended an area so @@@ and it works like a champ as I say.
+
+DOCTOR G040
+Good.  How are you with your activities?
+
+PATIENT G040
+Increasing.  Yeah, not earth-shaking now but.
+
+DOCTOR G040
+Good.
+
+PATIENT G040
+Um, timely enough about a month ago my car broke.  
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+And I can't afford to fix it yet.  I'll get it fixed next week, payday comes in next week and uh that doesn't mean I don't have a car.  I just do my running around in the evenings when my daughter's home or on the weekends.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+Or I put my two little flat things and I hoof it off because there's a large mall two blocks from our house.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+So if I had, I have not gone there, why?  There's no reason, nothing you need over there and uh the evil is every fast food place you could think of in the world is within a half mile of our house so I can go eat something grubby instead of eating good out of the refrigerator.  But uh overall I have some stuff I want to talk to you about today.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+Uh and number one I have, I don't know what it is but if I stretch my out and then pull on something I get sharp burning pains through the upper arm.  I don't know.  At one time I think I was told tendinitis, I don't know if that's what it is.
+
+DOCTOR G040
+How long has this been going on?
+
+PATIENT G040
+It's been bothering me now for about a month.  
+
+DOCTOR G040
+And that's when you, like this or like this?
+
+PATIENT G040
+Yeah, when I okay, I can go from straight up, up to there and it starts to get painful.
+
+DOCTOR G040
+And show me exactly where is the pain?
+
+PATIENT G040
+Right in here.
+
+DOCTOR G040
+Right here?
+
+PATIENT G040
+Primarily here but it will run down almost to the elbow.
+
+DOCTOR G040
+And it never goes past the elbow?
+
+PATIENT G040
+No not past the elbow.
+
+DOCTOR G040
+You can extend it down.  Does that hurt?
+
+PATIENT G040
+Uh, hurt no, uncomfortable yes.
+
+DOCTOR G040
+Okay I'm gonna push, resist me okay.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+How is that, okay?
+
+PATIENT G040
+Downward it doesn't bother it okay.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+That doesn't bother anyway.
+
+DOCTOR G040
+Okay it's not a rotator cuff so that's fine okay.
+
+PATIENT G040
+I'm not a jock; you got to be a jock to have that.
+
+DOCTOR G040
+Yeah you never know.
+
+PATIENT G040
+I don't know, when you get old, I found out today I had cataracts.
+
+DOCTOR G040
+You know everybody gets cataracts eventually.
+
+PATIENT G040
+I know.
+
+DOCTOR G040
+Are they going to operate?
+
+PATIENT G040
+Well, he says you have the beginnings.  Everybody tells you inside of the next four years that you need them fixed, tell them to stick it.
+
+DOCTOR G040
+Good.
+
+PATIENT G040
+So they're just.  The first time anybody's ever mentioned it.
+
+DOCTOR G040
+Eventually, when you, when they'll probably need to be fixed, you'll probably know it cause things will start looking yellow.
+
+PATIENT G040
+A little fuzzy.
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+My wife was an ophthalmic technician.
+
+DOCTOR G040
+Ah.
+
+PATIENT G040
+So when you get into the eyeball side of things we spent many years.  I used to be her prepper and quiz her for questions when she had to take a test.
+
+DOCTOR G040
+I know they ask you @@2@
+
+PATIENT G040
+And so me and the eyeball get together probably better than anything else other than maybe heart and the little bit because of my involvement with that.
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+That was complaint number one.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+Number two, it has been brought to my attention that I couldn't hear a board hit me up the side of the head according to my daughter.
+
+DOCTOR G040
+That you're deaf?
+
+PATIENT G040
+Huh?
+
+DOCTOR G040
+And she said it's not selective hearing is it?
+
+PATIENT G040
+Well I tried to explain that once to her but it worked as well as when my wife explained it, no, no, that's genetic, women get it, men don't.  Oh yes dear.
+
+DOCTOR G040
+Well I heard that usually @@@.
+
+PATIENT G040
+I know and you know how I, you know what are you married?
+
+DOCTOR G040
+Yes.
+
+PATIENT G040
+You try that on your wife and it doesn't work very well.
+
+DOCTOR G040
+You got blood drawn today, well let me check your hearing here in a second and then we'll review all your labs today too.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+Which actually look excellent.  Whatever you're doing, you're doing it all right okay.  Um.
+
+PATIENT G040
+What is this my chemical one?
+
+DOCTOR G040
+Yeah.  Your cholesterol perfect, its right where you need to be so you're going to significantly reduce and prevent your risk of any further events.
+
+PATIENT G040
+Good.  We have to talk about another subject than that subject too than that.
+
+DOCTOR G040
+Okay.  Let me check the hearing real quick.  Why don't you have a seat up here because I need to look inside.  
+
+PATIENT G040
+My father, in the second World War was in the Army artillery.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+Boom, boom, boom.
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+So I grew up as a teenager with dad being halfway close to stone deaf.  That meant the TV was turned way up and you had to yell to get his attention.
+
+DOCTOR G040
+Uh-huh.
+
+PATIENT G040
+Well then he went to retire in 1959 from the Army after 20 years and then I said well maybe your ears need to have a look and they had come up with an operation where they took all those little pieces matter.
+
+DOCTOR G040
+Sure.
+
+PATIENT G040
+And you of course know, you don't know @@@ stir up etc.  
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+You know about that long @@@ but they could push him back together.
+
+DOCTOR G040
+Uh-huh.
+
+PATIENT G040
+Well they did that and then they sent the old fart home.  And the first day he's home, I walked and said hey dad how you doing, you shout at me again and I'll break your legs.  Oh shit, does this mean I got to be quiet?
+
+DOCTOR G040
+It worked.
+
+PATIENT G040
+Yeah it worked like a champ but it took a long time.  I had three younger brothers, between the four of us, for us not to come storming in the house yelling.
+
+DOCTOR G040
+Cause you were conditioned.
+
+PATIENT G040
+Oh my God.
+
+DOCTOR G040
+Yeah.  You were trained already to try to.
+
+PATIENT G040
+I told my mother well you know we learned okay and she was an RN so.
+
+DOCTOR G040
+Uh-huh.
+
+PATIENT G040
+She understood that but dad didn't.
+
+DOCTOR G040
+You've never been exposed to loud noises have you?
+
+PATIENT G040
+Flying the jet airplanes in the Navy.
+
+DOCTOR G040
+You did okay.  Okay.  Okay.
+
+PATIENT G040
+Up yeah.
+
+DOCTOR G040
+So you've got a risk of this too.  Okay no wax in this one and do you think there's one here that's worse than the other?
+
+PATIENT G040
+If I were pick the right one is probably.  I take a Q-Tip and I don't go shoving it in there.  I'll just to this front level.
+
+DOCTOR G040
+That's perfect.
+
+PATIENT G040
+And take it around and around.  Every once in a while I come with a hunk of wax; sometimes I come out with absolutely nothing.
+
+DOCTOR G040
+There is zero wax in there right now, it looks good.  Never push it any further than where you push it now.
+
+PATIENT G040
+No, no.
+
+DOCTOR G040
+Good.
+
+PATIENT G040
+Those are inside parts, we mustn't mess with any of those.
+
+DOCTOR G040
+Close your eyes for me.  Do you hear noises?
+
+PATIENT G040
+Yes I hear a high-pitched squeal.  
+
+DOCTOR G040
+Really?
+
+PATIENT G040
+Oh you're thumping your finger over it but I saw it so that's not fair.
+
+DOCTOR G040
+Okay.  Did you not hear it?
+
+PATIENT G040
+Could not hear it before I opened my eyes no.  Now I can hear your right, your left, I could hear the right.
+
+DOCTOR G040
+But not the left huh.  You can open again.  I might as well finish examining you since you're here and I need to.
+
+PATIENT G040
+Alright.
+
+DOCTOR G040
+What else is on your mind?
+
+PATIENT G040
+When I first started getting this.  Five years ago I had this stuff and my daughter was gonna see a chiropractor.  Well I have Medicare so I get to go see him.  I get 24 adjustments off him.  @@@.  He didn't, just as bad now.  But he took x-rays as they do all around the spine.
+
+DOCTOR G040
+Uh-huh.
+
+PATIENT G040
+And he showed me the x-ray taken from the side in the abdominal area that had this little white tube in front above the spine.  He says you got calcification in your aorta.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+And I said okay and he said tell your doctor that.  Consider yourself told.
+
+DOCTOR G040
+Have you ever smoked?
+
+PATIENT G040
+Uh for a week in 1962.
+
+DOCTOR G040
+Okay.  Now how old are you?
+
+PATIENT G040
+No I'm 67 next month or in February.
+
+DOCTOR G040
+You don't look 67, you look good um.
+
+PATIENT G040
+Living with Italian women.  I'd recommend it highly now.
+
+DOCTOR G040
+Well one thing I was gonna say is that if you were 65 and you had smoked before all the studies show that you qualify for an abdominal ultrasound to look for an aneurysm.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+That's what we worry about when we hear about calcifications.
+
+PATIENT G040
+Yeah.  I've got a good heart, if it's gonna go pop well that's a different story.
+
+DOCTOR G040
+That's a different, yeah because if it's an aneurysm.
+
+PATIENT G040
+Yeah immediately internally, immediately fatal is what it is.
+
+DOCTOR G040
+So I mean it, technically you don't qualify for that study.  If you wanted one I can order it for you.
+
+PATIENT G040
+I think, well let me ask you this, am I in serious trouble?
+
+DOCTOR G040
+Let me close this door.  Sorry, I just thought.
+
+PATIENT G040
+If this is something that's gonna make me jump off the roof I don't want to know about it.
+
+DOCTOR G040
+I saw people walking out there out of the corner of my eye.
+
+PATIENT G040
+I know.
+
+DOCTOR G040
+Um.
+
+PATIENT G040
+If it's something, you kind of like we jumped on the stent and everything and knocked that out real quick.
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+Okay.  I'm due in another six months or thereabouts to see DOCTOR or.
+
+DOCTOR G040
+Yeah DOCTOR.
+
+PATIENT G040
+Again as a cardiologist.  Well to me that's the tube that goes out of the heart.
+
+DOCTOR G040
+That is the aorta uh-huh.
+
+PATIENT G040
+And I would bring it up to him if I'm not putting myself in a hazardous place by not doing anything about it right now.
+
+DOCTOR G040
+I don't think you are.  I think, I have to look this up real quick.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+Because I know that if you're a smoker, I would immediately counsel doing the screening but you're not.  But you know that you have a history of blocked arteries already.
+
+PATIENT G040
+Oh yeah.
+
+DOCTOR G040
+I'm almost inclined to just get the test and make sure.
+
+PATIENT G040
+The car comes out of the shop on Wednesday, in theory.
+
+DOCTOR G040
+Okay well they can't do it today anyway.
+
+PATIENT G040
+I know.
+
+DOCTOR G040
+What's gonna happen is I think you have to be fasting beforehand so that there's no food content that's blocking the aorta.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+Okay, so let's plan on getting that tested.
+
+PATIENT G040
+I will read my mail closely and look for it.
+
+DOCTOR G040
+Very good.  You don't get belly pain or anything like that, okay.  I'll check for a second.  Seldomly, you can actually hear these things with a stethoscope or you can palpate them.  But we'd be in trouble if we're able to do that.
+
+PATIENT G040
+That would be, when the aneurysm is about as big as my fist.
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+Which means I'm going to lay down very carefully here while you go get someone to bring a gurney in here.
+
+DOCTOR G040
+That's what would happen.
+
+PATIENT G040
+And we'd head downstairs.
+
+DOCTOR G040
+Good.  Deep breaths.  Okay now let's have you lay down flat.  Everything sounds good so far.  Can you pull your shirt up for me PATIENT?  Okay.  And remind me what's this scar from?
+
+PATIENT G040
+Huh?
+
+DOCTOR G040
+Remind me what's this scar from?
+
+PATIENT G040
+Oh I had a quad bypass.
+
+DOCTOR G040
+Okay that's right you had a big, okay so.
+
+PATIENT G040
+It was supposed to be a three-fer but I got this used car salesman kind of pitch while they had it opened, they went ahead and did the fourth one.  It was a Loyola job.
+
+DOCTOR G040
+Uh-huh.
+
+PATIENT G040
+I’m a stray - I told DOCTOR that and he's like really.
+
+DOCTOR G040
+You know we're all from Loyola actually, although I chose to stay at Hines for the next year completely actually.  I don't really hear or feel anything so I think we're okay.  Kind of a lot of layers to go through though before I get to hear the aorta.
+
+PATIENT G040
+Be nice.  Be nice.  We're working on it.
+
+DOCTOR G040
+You have a garden. Yes.  It's the summer people typically lose weight in the summer.  It's always a challenge in the wintertime to figure out.
+
+PATIENT G040
+I don't think I've put anything on since I came back.
+
+DOCTOR G040
+Well let's see, you look good.  You really do.  
+
+PATIENT G040
+But I went out for my hike the other day and I took my 9-year-old and a 10-year-old out because I was house-sitting – kid-sitting, grandson sitting and his buddy and it was a great hike, about a mile by the time we got there and back but we stopped at Pizza Hut while we were out so there went the good of the walk.
+
+DOCTOR G040
+That's what.
+
+PATIENT G040
+But I only had, I had two small slices of pizza.  They ate most of the rest of it.
+
+DOCTOR G040
+Good.
+
+PATIENT G040
+So that I ate the next day is lunch.
+
+DOCTOR G040
+You know you can eat that stuff, it's all within reason.
+
+PATIENT G040
+Exactly.
+
+DOCTOR G040
+It's not terrible to eat that once.
+
+PATIENT G040
+When I was next door.
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+I had this, well this black gentleman from the south.
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+He was my roommate.
+
+DOCTOR G040
+Yeah, yeah.
+
+PATIENT G040
+And I said you know there's a couple of things we got to work on to study because we had this dietician who was like if you drink one glass of whole milk you'll probably die before breakfast and I said yeah I'm one of these guys that believes in moderation and he said well you ought to be from the south and I said guess where my parents live.  They live in Bossier City, Louisiana and he says holy shit but long story short, we invented 95% fat free milk.  We were going to sell that and make a fortune.
+
+DOCTOR G040
+Really.
+
+PATIENT G040
+Yeah.  Do you know how many little old ladies my mother-in-law would have been alive?  She would have bought that stuff, 95% fat free? You can still but it for the same price as milk.  Cause you know what it is?  Just regular milk.  It's got 5% butterfat in it, that means that it's 95% fat free if my arithmetic's right.  I said we got about ten days to do this and then we gotta get out of the country.  And he told me I was dangerous and apparently made some smart-aleck comment to the nutritionist cause I got a long lecture the next time she came through.
+
+DOCTOR G040
+Oh no.  Well things are looking good okay.
+
+PATIENT G040
+Okay good.
+
+DOCTOR G040
+But I'm inclined to order that test for you.
+
+PATIENT G040
+Alright, let’s do that, when you get that set up can we do something about the hearing?
+
+DOCTOR G040
+And I'm going to order a Audiology consult for that also.
+
+PATIENT G040
+Super.
+
+DOCTOR G040
+So what they do is um they are going to do the, you do all this special hearing tests okay.
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+And then I suspect though we're probably going to have to get an MRI or a CAT scan of the brain just because whenever there's an asymmetric hearing loss.
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+People worry about the worst case scenario which would be a tumor um affecting the nerves there.  Affecting the nerve on that side okay.  
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+I always tell you about worst case scenarios.
+
+PATIENT G040
+Yeah, I'll throw myself in front of a car on the way home so.  I got nothing to lose.
+
+DOCTOR G040
+I mean.
+
+PATIENT G040
+I'm being facetious, you can see I'm having a good time with this thing today because I have, I feel good.
+
+DOCTOR G040
+I'm glad to see it yeah.
+
+PATIENT G040
+You know if you can't make me feel good because of this, that and whatever else then I worry about it and I'm sitting kind of, I know what it was.  One other thing.
+
+DOCTOR G040
+Yes.
+
+PATIENT G040
+Oh what do they call it?
+
+DOCTOR G040
+Oh and the shoulder also, um that.
+
+PATIENT G040
+That one I got to work on.
+
+DOCTOR G040
+That sounds like muscle and tendinitis.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+Um I think ibuprofen is good okay.
+
+PATIENT G040
+Uh ibuprofen and Keflex.
+
+DOCTOR G040
+Uh Keflex is an antibiotic.  Do you take it?
+
+PATIENT G040
+Then I'm not talking about Keflex then.  Plavix.
+
+DOCTOR G040
+Plavix.
+
+PATIENT G040
+Plavix yeah.
+
+DOCTOR G040
+There might, okay they worry about increased risks of bleeding, specifically in the GI tract.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+If you take your ibuprofen with food.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+And you don't take a lot of it, then it should be okay.  You know another option is Tylenol Arthritis that you can try too.  It's not as good as ibuprofen or Naproxen or meloxicam.
+
+PATIENT G040
+Well the big thing I was concerned was on my way out we were having a little chat about the do's and don'ts of being on Plavix and they said use the Tylenol or acetaminophen instead.
+
+DOCTOR G040
+Have you tried it for the pain for the shoulder?
+
+PATIENT G040
+Uh I got a bottle accidentally of Tylenol P.M.  It was about a week before my daughter said you know P.M. and I said @@@ you get P.M., its PMS you get and she says no look at it and I looked at it and said um I wondered why they were blue and grey pills but I.
+
+DOCTOR G040
+Yeah and that's not the color of Tylenol.
+
+PATIENT G040
+No uh yeah it helped at night sleeping cause that's when I and again when I.  
+
+DOCTOR G040
+Lift up.
+
+PATIENT G040
+How do I get @@@ pain in the butt line so I go outside and I open the car door, I get in and then I reach out and have to stretch to get the car door and then pull to pull it closed, oh man so.
+
+DOCTOR G040
+Let's try and you never injured yourself right?
+
+PATIENT G040
+I have not injured my shoulder no.
+
+DOCTOR G040
+All of a sudden this showed up right?  This is all of a sudden right?
+
+PATIENT G040
+Yeah it's just been maybe as I say a month that it came on.
+
+DOCTOR G040
+And you weren't doing something strenuous to bring it on?  I might get an x-ray too.  I don't think it's in the bone.  I'm pretty sure it's in the muscle or the tendon okay.  Um and then physical therapy is another option too, to go over exercises to stretch those muscles out.
+
+PATIENT G040
+Uh-huh.
+
+DOCTOR G040
+I can certainly order that for you, if you don't mind coming in here once the car is fixed.
+
+PATIENT G040
+Well how often do I need to come in here for that?  You see we live 100 mile round trip.
+
+DOCTOR G040
+I know you're over in @@@ right?
+
+PATIENT G040
+Yeah.  Uh let's just take the medicine and see if it helps a little bit.
+
+DOCTOR G040
+Okay.
+
+PATIENT G040
+I.
+
+DOCTOR G040
+You want, Tylenol you said helped it right?
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+Let's stick with the Tylenol.
+
+PATIENT G040
+I also take 325 mg of aspirin a day.
+
+DOCTOR G040
+That helps too.  That's an NSAID too that should help.  So let's do that.  If it's not getting better and there's an issue then we're going to do physical therapy okay.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+Then, I’m sure, by that time you're going to be more inclined to do something more aggressive then okay cause it was bothering you more.  Okay and then we need to order a couple other things and then I have to check in with my boss here in the clinic, my attending and I'll be right back okay.  Um but your labs look great.
+
+PATIENT G040
+Magnesium is it in line, is it a little low?
+
+DOCTOR G040
+It is perfect, yours was 1.8, but let me double check that.  Yeah 1.8.  They put you on pills right?
+
+PATIENT G040
+Yeah I take 400 mg a day.
+
+DOCTOR G040
+That should be fine; 1.8 is fine.  If you have like heart arrhythmia, I would probably want you above 2 but I'm quite happy with where it is now.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+Alright.  (Someone comes to the door and the doctor speaks with them)
+
+PATIENT G040
+I have one more question.
+
+DOCTOR G040
+Yeah, yeah.
+
+PATIENT G040
+Um probiotics, the little pill full.
+
+DOCTOR G040
+I know about the @@@.  I work with researchers on this one here at Hines actually so @@@.
+
+PATIENT G040
+My wife and my grandson or my daughter and my grandson are taking these things and I said no I can't hurt, I don't think.
+
+DOCTOR G040
+It doesn't hurt usually.
+
+PATIENT G040
+Okay.  Cause it did say there on the back if you're taking any other prescription meds check with your doctor so.
+
+DOCTOR G040
+No it won't hurt and if you're buying these like in yogurt and over-the-counter and stuff like that.
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+Unfortunately they're usually all the bugs they put in there are usually all dead.
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+Just to let you know.  There's very few that are actually truly regulating.
+
+PATIENT G040
+Uh-huh.
+
+DOCTOR G040
+And very few that actually truly help and usually people mostly take probiotics for C. diff infection, which you have absolutely nothing to worry about with that.
+
+PATIENT G040
+I'm not going to do it, believe any of that. 
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+They're on this diet and I'm the all American diet yeah.
+
+DOCTOR G040
+Yeah I don't think it adds anything to your heart either and if anything, honestly I think its expensive yogurt with dead bugs.
+
+PATIENT G040
+But we can wander down to Whole Foods which is in Stromberg and not that far from the house.
+
+DOCTOR G040
+If you want, I think Whole Food’s really expensive.
+
+PATIENT G040
+No it is but my daughter loves it and I just usually say great, when you go over there you're gonna end up picking up the tab and she'll say yeah let's go.
+
+DOCTOR G040
+Well if she's gonna pay for it.
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+I'll be gone just a second okay.
+
+PATIENT G040
+I'm here.  I'm here.
+
+DOCTOR G040
+I'll be five minutes okay.
+
+PATIENT G040
+Sure.
+
+(DOCTOR OUT:  79:35  DOCTOR IN:  85:25)
+
+DOCTOR G040
+Ok let me put in the order and right before you go.  We're gonna do everything like we discussed so okay.  So we'll get you an ultrasound.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+You're gonna go to the ear doctor.  We don't need any imaging for this unless it gets bad and then you give me a call.
+
+PATIENT G040
+I'll do that.
+
+DOCTOR G040
+Okay.  Um and then I think that's it right?
+
+PATIENT G040
+Blood sugar.
+
+DOCTOR G040
+The blood sugar was fine, you're not diabetic.  6.3 is the hemoglobin A1c that was checked today and it stayed there.  When it becomes 6.5.
+
+PATIENT G040
+I'm diabetic.  Well I'm going to have to come a little less weight and I got up about a week and a half ago in the night.  I get up at 6 in the morning and I go down and about every other day or every third day I take my blood sugar.  It was 104, where the hell that come from you know.  I had a piece of cake after supper last night, I was at 104 and it's been 104, 105, I get 120 and it went back down to 104 the next day, this last week cause I took every day this week.  But it's floating along at 105 and I know that's chemically induced but um I need to stay on the medication I'm on.
+
+DOCTOR G040
+Right.  But you're just on metformin.  If you were like on insulin we could titrate that stuff down but you're just on metformin.  If you get low blood sugar give me a call.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+That's like less than 80s and if you get episodes or you're symptomatic.
+
+PATIENT G040
+Metformin is the only drug I have that is for diabetes?
+
+DOCTOR G040
+Yeah.
+
+PATIENT G040
+That I just. @@@.
+
+DOCTOR G040
+Oh you're on glipizide too aren't you?
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+Okay um 104 is pretty good, that's first thing in the morning right?
+
+PATIENT G040
+Right.
+
+DOCTOR G040
+Fasting.
+
+PATIENT G040
+Yeah.
+
+DOCTOR G040
+That's pretty good.  If you're ever less than 80 give me a call and we're stopping glipizide and you’ll just be on metformin.
+
+PATIENT G040
+Okay.
+
+DOCTOR G040
+Okay.  So actually that's your goal, to come off of the glipizide.  But everything looks good.  If you lose weight this summer, I guarantee we'll stop the glipizide @@@.
+
+PATIENT G040
+Yeah I if I take it off then we'll dump this that and whatever else and get Lipitor on, whatever the long chemical name is for generic Lipitor.
+
+DOCTOR G040
+Simvastatin.
+
+PATIENT G040
+The uh, I'm sorry.
+
+DOCTOR G040
+It is simvastatin.
+
+PATIENT G040
+That's what I'm on right now.  Is that.
+
+DOCTOR G040
+I don't remember if that's Lipitor, I only go with generics, I actually don't remember.
+
+PATIENT G040
+Uh DOCTOR said he was looking at Crestor.
+
+DOCTOR G040
+He did mention that.
+
+PATIENT G040
+And then I never heard a word back on that uh you guys don't handle it here but that's alright because you don't handle Plavix here.  You hand blood @@@ or whatever it is.
+
+DOCTOR G040
+Clopidogrel. 
+
+PATIENT G040
+Huh?
+
+DOCTOR G040
+Clopidogrel.
+
+PATIENT G040
+Yeah.  Except that it comes in a bottle that says Plavix and when I asked the Walgreens pharmacist he says there is no generic out for Plavix, it came out and it was pulled off the market.  Well you guys apparently decided you're gonna do it so you're giving me Plavix, I said that here, I'll deny it if ever goes out there in a discussion because it's making me work and I like it.
+
+DOCTOR G040
+Yeah but hold on just a second real quick.
+
+PATIENT G040
+Sure.  I'll shut up too.
+
+DOCTOR G040
+Alright these things are sent and we'll see you in a couple months.  We'll check labs again just like today, alright?.  Here you go sir.
+
+PATIENT G040
+Is everything in order?
+
+DOCTOR G040
+Yep, nice to seeing you doing so well.
+
+PATIENT G040
+Great to feel the way I have today although I kind hoped I’d got rid of the giant pupils.
+
+DOCTOR G040
+Oh you're dilated.
+
+PATIENT G040
+Dilated, yeah.
+
+DOCTOR G040
+Take care okay.
+
+PATIENT G040
+Okay and I just go right over here.
+
+DOCTOR G040
+@@@ uh-huh.
+
+PATIENT LEAVES:  91:28
+
+Time is 3:23.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249447
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,808 @@
+sDate of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@   
+
+DOCTOR D107
+Come on back.
+
+PATIENT D107
+Okay.
+
+DOCTOR D107
+How you doing?  Good to see you.  What's new?  What's new?
+
+PATIENT D107
+What's new?  I got a sore throat.
+
+DOCTOR D107
+You got a sore throat huh?
+
+PATIENT D107
+Yeah overnight.  Something that and I got a back ache every morning.  I was here a month ago.
+
+DOCTOR D107
+Uh-huh.
+
+PATIENT D107
+And I had a different doctor, you weren't available I guess so.
+
+DOCTOR D107
+Okay.
+
+PATIENT D107
+Anyway uh, the hardest part is in the morning when I get up.
+
+DOCTOR D107
+Backache?
+
+PATIENT D107
+It's above the back and it goes from both sides.
+
+DOCTOR D107
+Okay.  What did they do when they saw you?
+
+PATIENT D107
+They took an x-ray.
+
+DOCTOR D107
+A what?
+
+PATIENT D107
+X-ray.
+
+DOCTOR D107
+Of what?
+
+PATIENT D107
+Of my hip and my back and uh at the time I told them I think that I had taken Advil but it was Aleve.
+
+DOCTOR D107
+Okay.
+
+PATIENT D107
+So he says to take one in the morning and one at night.  Well I stopped doing that after a while and the last three, four nights now I take one Aleve in the evening, you know at bedtime.
+
+DOCTOR D107
+Uh-huh.
+
+PATIENT D107
+Well.
+
+DOCTOR D107
+Does it help?
+
+PATIENT D107
+Uh well, it appears to be a little bit, but the hardest part.  During the day I can live with it.
+
+DOCTOR D107
+Bilateral.
+
+PATIENT D107
+It doesn't affect me during the day but the hardest part is getting up, when I get up in the morning, just out of bed.
+
+DOCTOR D107
+Um do you have any sort of aching, do you have aching in the morning?
+
+PATIENT D107
+It hurts.
+
+DOCTOR D107
+On the side, or in the middle.
+
+PATIENT D107
+It's the side and it's been on both sides.  It'll go from one side to the other.
+
+DOCTOR D107
+Now is this in the same place you have here because you had that surgery done about six years ago.
+
+PATIENT D107
+Yes.
+
+DOCTOR D107
+Is it in the same spot?
+
+PATIENT D107
+I don't think so, I thought that was on, this is more on like now, the last couple days it's on the right side and I did come in for the colonoscopy.
+
+DOCTOR D107
+Let's see we had little, well they checked your urine and that was fine.  You're having no problems urinating right?
+
+PATIENT D107
+Correct.
+
+DOCTOR D107
+And then no fever or chills?
+
+PATIENT D107
+Nope.
+
+DOCTOR D107
+Now, hold on one second.  So what you were just saying, you had your colonoscopy.
+
+PATIENT D107
+Yes I did.
+
+DOCTOR D107
+When was that done?
+
+PATIENT D107
+A month ago, well maybe a little more.  A month ago I was seen here for the back so, maybe two months.
+
+DOCTOR D107
+Two months.
+
+PATIENT D107
+I'm not positive but.
+
+DOCTOR D107
+Uh-huh. 
+
+PATIENT D107
+Shortly after you arranged for it.
+
+DOCTOR D107
+Now you said that the back issues, they started about a month ago?
+
+PATIENT D107
+It started in July really, 4th of July.
+
+DOCTOR D107
+So you get back pain on the side.  Point to me, show me where it is.
+
+PATIENT D107
+It's right in here.
+
+DOCTOR D107
+Okay.
+
+PATIENT D107
+It's not directly in the back.
+
+DOCTOR D107
+Did you recently, were you lifting things, were you doing anything like that, nothing new?
+
+PATIENT D107
+Nothing out of the ordinary.
+
+DOCTOR D107
+Worse in the morning but it goes away by the end of the day?
+
+PATIENT D107
+During the day I'm fine, it doesn't affect me.
+
+DOCTOR D107
+So when you wake up how long does it last for?
+
+PATIENT D107
+Uh till I get in gear.  I sit.
+
+DOCTOR D107
+So about an hour, two hours, how long?
+
+PATIENT D107
+Oh ten minutes, maybe even less.  But it's just the idea of getting up.
+
+DOCTOR D107
+Yeah.
+
+PATIENT D107
+Sitting up and then and trying to get up because it hurts just getting up into a sitting position.
+
+DOCTOR D107
+You have no problem specifically getting up?
+
+PATIENT D107
+No except for the pain of the back, inside the back or whatever you want to call it.  But it has seemed to alleviate a little bit.
+
+DOCTOR D107
+No numbness or tingling in your legs or your hands?
+
+PATIENT D107
+No.
+
+DOCTOR D107
+And then no loss of bowel or bladder?
+
+PATIENT D107
+Nope.
+
+DOCTOR D107
+No weight loss?
+
+PATIENT D107
+I don't believe so.  I may have lost two or three pounds.
+
+DOCTOR D107
+Nothing big.
+
+PATIENT D107
+Nothing.
+
+DOCTOR D107
+No night sweats?
+
+PATIENT D107
+No.
+
+DOCTOR D107
+You said no fever or chills.
+
+PATIENT D107
+Correct.
+
+DOCTOR D107
+No nausea, vomiting?
+
+PATIENT D107
+No sir.
+
+DOCTOR D107
+Okay and then um right now you would have no problems turning, walking?
+
+PATIENT D107
+No, no.  Uh the hips are beginning to have a little pain in them when I start walking, you know when I walk.  I mean I would walk without no problem and now my hips, both of them, are kind of sore.
+
+DOCTOR D107
+Um and then does the medication you're taking help?
+
+PATIENT D107
+It seems to have helped somewhat.  I was going to ask you, which would you recommend, Aleve, Advil, Tylenol or which?
+
+DOCTOR D107
+Now do you have any problems with your stomach?
+
+PATIENT D107
+No.
+
+DOCTOR D107
+Um typically if this is just for arthritis um, you know you have a history of lower back pain, osteoporosis, so this could just be degenerative.  But let me look at the films real quick.  If it's just that I would recommend probably anti-inflammatories like ibuprofen.  But you've never had any bleeds?
+
+PATIENT D107
+Bleeding?
+
+DOCTOR D107
+Uh-huh.
+
+PATIENT D107
+No.
+
+DOCTOR D107
+Um if you have then we can recommend another type.  But you've never had any stomach problems?
+
+PATIENT D107
+No.
+
+DOCTOR D107
+Or you don't have any heart problems or kidney problems right?
+
+PATIENT D107
+I hope not, not to my knowledge anyway.
+
+DOCTOR D107
+Yeah.  And you just have, you have hypertension and gout, uh high blood pressure.  Okay you don't seem to have any of the other ones.  You're just on the simvastatin, lisinopril, folic acid um vitamin B12, the alendronate and the aspirin and calcium right?
+
+PATIENT D107
+Uh-huh.
+
+DOCTOR D107
+Take a look at the imaging, spine and lumbar.  Worsening compression deformity, extensive degenerative changes with a lot of osteophytes.  Okay.  Well basically what that means is you have quite a bit of um, quite a bit of degenerative changes.  My guess is those degenerative changes, in which case the anti-inflammatory should work the best, for you so ibuprofen.  How much ibuprofen have you been taking?
+
+PATIENT D107
+I haven't.  This Aleve.
+
+DOCTOR D107
+Why not?  Oh you're taking Aleve?
+
+PATIENT D107
+Well I've taken it the last three to four days.  I've taken Aleve one at night.
+
+DOCTOR D107
+That's it?  Oh you can take.
+
+PATIENT D107
+Well.
+
+DOCTOR D107
+Uh take it in the morning when you wake up.  Cause when you go to sleep it's just going to wear off in a few hours and when you wake up, let's say if you're having problems in the morning then um.
+
+PATIENT D107
+But then during the day I don't have any problems.
+
+DOCTOR D107
+Then don't take any during the day.  You only take them when you have problems.  So I would say only take them when you notice that you have some problems there okay.  Does that make sense?
+
+PATIENT D107
+So the only problem I have is when I get up, like I say.
+
+DOCTOR D107
+Right, yeah I think, so what I would say is when you get up, maybe take them when you get up and then if you don't have any symptoms during the day then great.
+
+PATIENT D107
+I don't have it without the pill in the morning.  
+
+DOCTOR D107
+Uh-huh.
+
+PATIENT D107
+I only take it at night thinking that in the morning it might be better.
+
+DOCTOR D107
+Sure.  Well yeah, exactly.  In the morning um, when you have the pain that's when you take the medicine.
+
+PATIENT D107
+Okay.
+
+DOCTOR D107
+In other words take the medicine when you have pain.
+
+PATIENT D107
+Alright.
+
+DOCTOR D107
+Does that make sense?
+
+PATIENT D107
+Sure.
+
+DOCTOR D107
+Okay, let's see here.  Let's see the last time, so I actually saw you in June.
+
+PATIENT D107
+Well you told me you wanted to see me in three months.
+
+DOCTOR D107
+Yeah no I was just trying to remember when the last time was that I saw you.
+
+PATIENT D107
+And since then I came in for the colonoscopy and then I came in for.
+
+DOCTOR D107
+Oh great.
+
+PATIENT D107
+Because of my back pain problem.
+
+DOCTOR D107
+And what else and you had just recently been diagnosed with diabetes?
+
+PATIENT D107
+I have?
+
+DOCTOR D107
+No back then.
+
+PATIENT D107
+If I have, I haven't been told.
+
+DOCTOR D107
+What's that?  Well no we told you that you had recently high blood sugars right?
+
+PATIENT D107
+Well the last time I came here you asked for a blood test and a urine test.
+
+DOCTOR D107
+Correct.
+
+PATIENT D107
+That was the last; I'm not taking anything for diabetes.
+
+DOCTOR D107
+Right.  Well this one the idea is in your hemoglobin A1c was how we measure your potential diabetes.  Your hemoglobin A1c was 5.9 which is really good.  Let me look at the old one because let me just take a quick look at.  I think one of your labs was off and then we rechecked it and your hemoglobin A1c was 5.9, that's really good.  You're spilling some protein in your urine which was um, let's go over this.  So that was fine.  Your kidney function is doing okay.
+
+PATIENT D107
+And you know you had me here taking the eye test, I did that two or three times when I came in to that and they told me to come back in a year.
+
+DOCTOR D107
+And we checked your, let's see we checked your cholesterol in November of 09.  Your total was 177, your HDL was 75 and your LDL, yeah so your cholesterol looks really good.  See the sugars that we took were high but your hemoglobin A1c was okay, so I think we won't, basically we're just not going to start you on anything but you're kind of on the borderline of diabetes.
+
+PATIENT D107
+Okay.
+
+DOCTOR D107
+Okay.  Okay, okay and then um we talked about the colonoscopy and you ended up getting it.
+
+PATIENT D107
+Correct.
+
+DOCTOR D107
+And the good news is you don't need to get any more.
+
+PATIENT D107
+Wonderful.
+
+DOCTOR D107
+What's that?
+
+PATIENT D107
+Wonderful.
+
+DOCTOR D107
+Was it uh.
+
+PATIENT D107
+No it wasn't bad.  I mean the worst part is before.
+
+DOCTOR D107
+You had a little external hemorrhoids, that's about it, so diverticulosis, okay.  And let's looks at your immunizations.  You should probably be up on your immunizations.
+
+PATIENT D107
+Is the flu shot in already?
+
+DOCTOR D107
+Not yet unfortunately.  We’re still waiting for that darn flu shot.  Now do you want the zoster vaccine, remember we talked about it last time?
+
+PATIENT D107
+What is that one for?
+
+DOCTOR D107
+For when, or if you were to get the shingles.
+
+PATIENT D107
+I took that, I had that, I did get that shot.
+
+DOCTOR D107
+Oh you did?
+
+PATIENT D107
+Oh yeah.
+
+DOCTOR D107
+Oh it was the Pneumovax right.
+
+PATIENT D107
+Yeah that I got.
+
+DOCTOR D107
+Okay, oh no you need the zoster and you just got the pneumonia one.  You need the zoster one for the shingles.
+
+PATIENT D107
+I thought it was for the shingles.
+
+DOCTOR D107
+When was that?
+
+PATIENT D107
+I don't know, at least a year ago if not longer.
+
+DOCTOR D107
+I really don't have it in here.
+
+PATIENT D107
+Because.
+
+DOCTOR D107
+Okay.
+
+PATIENT D107
+Because I think.
+
+DOCTOR D107
+At least you think you got it.
+
+PATIENT D107
+You told me that uh if you do get it, it shouldn't be as severe as.
+
+DOCTOR D107
+Exactly and you think you've gotten it.
+
+PATIENT D107
+I have gotten it.
+
+DOCTOR D107
+Huh.  I wonder why it doesn't show it.
+
+PATIENT D107
+I had one done.
+
+DOCTOR D107
+You said you've already had one okay.  Well did you have some back pain right there?
+
+PATIENT D107
+Not really, it's just, that's the way I get up now.
+
+DOCTOR D107
+Why is that?
+
+PATIENT D107
+Oh well, old age I call it, I don't know.  But there have, in the past, like when I came here a month ago to see the other docs, I mean I had a hard time getting up.  It was really painful.
+
+DOCTOR D107
+You hadn't, you did do, no lifting.
+
+PATIENT D107
+No.
+
+DOCTOR D107
+Or nothing like that.
+
+PATIENT D107
+And it's, now like I said it has subsided considerably.
+
+DOCTOR D107
+But no weight loss?
+
+PATIENT D107
+Not to speak of.
+
+DOCTOR D107
+Okay and no night sweats and you're eating well?
+
+PATIENT D107
+Yes.  Maybe too much.
+
+DOCTOR D107
+You're eating well.  What's that?
+
+PATIENT D107
+Maybe too much.
+
+DOCTOR D107
+Maybe too much?
+
+PATIENT D107
+Right.  
+
+DOCTOR D107
+Okay, I'll take a listen to you.
+
+PATIENT D107
+You want the shirt off or?
+
+DOCTOR D107
+Um, no you’re good.
+
+PATIENT D107
+Okay.
+
+DOCTOR D107
+What do you do for uh, what did you do for a living?
+
+PATIENT D107
+I worked at the lumber yard.
+
+DOCTOR D107
+Oh that's right.
+
+PATIENT D107
+For 32 years.
+
+DOCTOR D107
+Right.
+
+PATIENT D107
+And then I was the equipment man at the high school @@@.
+
+DOCTOR D107
+Oh I forgot about that.  Good.  Your blood pressure was a little better when I checked it than when the nurse checked it.
+
+PATIENT D107
+Good for you.  I think next time I’ll go by you.
+
+DOCTOR D107
+What's that?
+
+PATIENT D107
+Next time I’ll go by you.
+
+DOCTOR D107
+Right.  Deep breaths.  In and out.  In and out.  In and out.  Good.  Where is the pain, point to me where the pain is?
+
+PATIENT D107
+It's right in here.
+
+DOCTOR D107
+If I push in does it hurt?
+
+PATIENT D107
+No.  It's more on the side, but it's above the belt line.
+
+DOCTOR D107
+Point to me where it is.
+
+PATIENT D107
+It's right in through here.
+
+DOCTOR D107
+Now does that hurt?
+
+PATIENT D107
+No.
+
+DOCTOR D107
+No.
+
+PATIENT D107
+No, like I said the only time it really hurts is.
+
+DOCTOR D107
+Give me your hand.
+
+PATIENT D107
+When I uh get up in the morning.
+
+DOCTOR D107
+You've never had any other signs of osteoarthritis?
+
+PATIENT D107
+Not that I'm aware of.
+
+DOCTOR D107
+Okay squeeze but not too hard, good.  Lift up, lift pull, good.  When was the last time you saw an eye doctor?
+
+PATIENT D107
+When I was here.
+
+DOCTOR D107
+How recently?
+
+PATIENT D107
+Uh it'd be four months ago now.
+
+DOCTOR D107
+Oh four months ago.  No ulcers on your feet?
+
+PATIENT D107
+No what?
+
+DOCTOR D107
+Ulcers on your feet?
+
+PATIENT D107
+No.
+
+DOCTOR D107
+Now did they do, they did something in 2002, but they did a colonoscopy in 2002?  Oh I see you had tubular adenoma that's why.  But did the colonoscopy in 2002 as well huh?
+
+PATIENT D107
+Yes.
+
+DOCTOR D107
+And 2010.
+
+PATIENT D107
+I had it three, this is the third time I had it done.
+
+DOCTOR D107
+Yeah did they not take any biopsies this time?
+
+PATIENT D107
+Uh evidently not.
+
+DOCTOR D107
+Okay.
+
+PATIENT D107
+If they did the, all I got is the letter stating that the colon is normal.
+
+DOCTOR D107
+Okay.
+
+PATIENT D107
+That's all I got and like you said the hemorrhoids were there.
+
+DOCTOR D107
+Yeah okay sir I'll be right back, give me a few minutes.
+
+PATIENT D107
+Can I put this back in?
+
+DOCTOR D107
+Yeah of course, yes.
+
+(DOCTOR OUT:  43:15  DOCTOR IN:  54:38)
+
+DOCTOR D107
+Alright.  Well the good news is you're doing great.
+
+PATIENT D107
+Thank you.
+
+DOCTOR D107
+Um I think really the only thing that we would need to do is obviously if you have worsening pain just let me know.  If you start having fevers, night sweats, chills, weight loss, worsening pain let me know.  I think this is all just degenerative changes in your spine.  You can take ibuprofen.
+
+PATIENT D107
+Any particular brand would be recommended?
+
+DOCTOR D107
+Aleve is fine.
+
+PATIENT D107
+Aleve isn’t ibuprofen.
+
+DOCTOR D107
+You can take that too, that's not important.
+
+PATIENT D107
+That's better than Advil or Tylenol?
+
+DOCTOR D107
+Yeah.
+
+PATIENT D107
+Same thing?
+
+DOCTOR D107
+Well the Tylenol is not the same thing.
+
+PATIENT D107
+Oh.
+
+DOCTOR D107
+But uh ibuprofen are.
+
+PATIENT D107
+Well I, personally I don't like to take anything.
+
+DOCTOR D107
+Right, well if it doesn't bother you very much then you don't have to.
+
+PATIENT D107
+Like I say.
+
+DOCTOR D107
+But if you have problems well then take it.
+
+PATIENT D107
+Okay.
+
+DOCTOR D107
+Um obviously if you have any worsening symptoms let us know.  Uh all your labs are pretty much up-to-date.  We really don't need to do any labs until probably six, seven months from now.
+
+PATIENT D107
+Great.
+
+DOCTOR D107
+Flu shot, as soon as they come in they'll give you a mass mailing and you can come in to get it.
+
+PATIENT D107
+Okay.
+
+DOCTOR D107
+And then I don't think you need to see me for six months unless something pops up, in which case you just call up and let me know and we'll see you earlier.  How does that sound?
+
+PATIENT D107
+Thank you very much.
+
+DOCTOR D107
+You're welcome.  That was an easy, easy solution.  
+
+PATIENT D107
+I hope so. Yeah.
+
+DOCTOR D107
+Nice to see you.  
+
+PATIENT D107
+Alright.
+
+DOCTOR D107
+Have a good evening.
+
+PATIENT D107
+Doc.
+
+DOCTOR D107
+Did you bring anything?
+
+PATIENT D107
+I didn't bring anything.
+
+DOCTOR D107
+Okay.  (Doctor talking with someone else)
+
+PATIENT D107
+I should get that sent to the house correct?
+
+DOCTOR D107
+Yeah absolutely.
+
+PATIENT D107
+Thank you sir.
+
+PATIENT LEAVES:  56:38
+
+Time is 2:20
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238127
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,899 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@  
+
+DOCTOR E953
+PATIENT.
+ 
+PATIENT E953
+Yeah, yeah.
+
+DOCTOR E953
+Hi PATIENT.  How are you?
+
+PATIENT E953
+Alright.  How are you?
+
+DOCTOR E953
+@@@ huh.  Come on back.
+
+PATIENT E953
+You're gonna be my permanent doctor right?
+
+DOCTOR E953
+I sure am.
+
+PATIENT E953
+Alright.
+
+DOCTOR E953
+How's that sound?
+
+PATIENT E953
+That sounds good to me.
+
+DOCTOR E953
+Okay.  I'm pleased to meet you, come on in.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Have a seat.
+
+PATIENT E953
+Alright.
+
+DOCTOR E953
+So how are you today?
+
+PATIENT E953
+I'm okay.
+
+DOCTOR E953
+Enjoying this, okay.
+
+PATIENT E953
+Yeah I enjoy the weather.
+
+DOCTOR E953
+What a beautiful day and unfortunately you had to come see me.
+
+PATIENT E953
+I enjoy much of it whatever.  My scheduled appointment, I am gonna accept it.
+
+DOCTOR E953
+I'm glad you came okay, one second.  Alright the last time we saw you is 2008.  Oh my God.
+
+PATIENT E953
+Ooh.
+
+DOCTOR E953
+What'd you doing to us?
+
+PATIENT E953
+I'm @@@.
+
+DOCTOR E953
+Yeah I know, right.
+
+PATIENT E953
+Yeah I came to see ya'll.  I'm like having shortness of breath, I don't know.
+
+DOCTOR E953
+Alright, let me.
+
+PATIENT E953
+Yeah.
+
+DOCTOR E953
+What medical problems do you have?
+
+PATIENT E953
+I been having shortness of breath.
+
+DOCTOR E953
+What medical problems do you have?
+
+PATIENT E953
+Ain’t that medical?
+
+DOCTOR E953
+No, I'll talk to you about that.  You have hepatitis, anything else.  Any other medical?
+
+PATIENT E953
+Hepatitis C um uh.  It ought to be on file actually.
+
+DOCTOR E953
+Okay, okay.  Tell me about the shortness of breath.
+
+PATIENT E953
+Shortness of breath.  That's you know, finding myself I can't do too much of anything.
+
+DOCTOR E953
+What makes you short of breath walking?
+
+PATIENT E953
+Walking.
+
+DOCTOR E953
+How much?
+
+PATIENT E953
+Not that far.
+
+DOCTOR E953
+How much?
+
+PATIENT E953
+Steps, not that much, but I don't know if it's my kidneys.
+
+DOCTOR E953
+Sure.
+
+PATIENT E953
+I got cysts on my kidneys; I know about that.  Then I've been having cramps in my legs.
+
+DOCTOR E953
+Well I got it, okay the shortness of breath.
+
+PATIENT E953
+Yes.
+
+DOCTOR E953
+When did it start?
+
+PATIENT E953
+Hmm, that's been going on, I just noticed it more lately, about the last five, six months you know.
+
+DOCTOR E953
+Five, six months.
+
+PATIENT E953
+Right.
+
+DOCTOR E953
+Okay.  Has it kind of stayed the same in the last six months or has it gotten worse?
+
+PATIENT E953
+Probably gotten worse.
+
+DOCTOR E953
+Do you smoke?
+
+PATIENT E953
+No I don't.
+
+DOCTOR E953
+Any heart problems?
+
+PATIENT E953
+I took an EKG, it came out alright.
+
+DOCTOR E953
+When?
+
+PATIENT E953
+Um I think the first part of May I took it.
+
+DOCTOR E953
+Why did you do an EKG?
+
+PATIENT E953
+Cause I wanted to check my heart and make sure I'm also.
+
+DOCTOR E953
+Okay.  Who did you see for this EKG?
+
+PATIENT E953
+Oh I went upstairs on the 2nd floor in the Taylor Building.
+
+DOCTOR E953
+Okay.
+
+PATIENT E953
+It's in this building it's on the EKG floor.
+
+DOCTOR E953
+Okay.  No chest pain?
+
+PATIENT E953
+No no chest pain.
+
+DOCTOR E953
+Okay any nausea, vomiting?
+
+PATIENT E953
+No.
+
+DOCTOR E953
+You've never smoked?
+
+PATIENT E953
+I smoked years ago.
+
+DOCTOR E953
+When did you quit?
+
+PATIENT E953
+27 years ago, @@@.
+
+DOCTOR E953
+Were you a heavy smoker at that time?
+
+PATIENT E953
+I might have been, @@@.
+
+DOCTOR E953
+Okay.  Any cough?
+
+PATIENT E953
+I cough pretty regularly, especially at night.
+
+DOCTOR E953
+You have a cough at night?
+
+PATIENT E953
+@@@.
+
+DOCTOR E953
+Okay kind of a dry cough when you lay down?
+
+PATIENT E953
+Kind of dry cough.
+
+DOCTOR E953
+How long has that been going on?
+
+PATIENT E953
+Hmm, that been going on for a long time.
+
+DOCTOR E953
+Same time?
+
+PATIENT E953
+Yeah it was about the same time.
+
+DOCTOR E953
+Hmm.  You've never been diagnosed with asthma or anything like that?
+
+PATIENT E953
+No.
+
+DOCTOR E953
+Well are you on any medicines?
+
+PATIENT E953
+No.
+
+DOCTOR E953
+Okay.  Do you get any swelling in your legs?
+
+PATIENT E953
+Yeah, swelling in the right leg but I had what do you call it, for the varicose veins.
+
+DOCTOR E953
+So you've always had swelling in your legs?
+
+PATIENT E953
+Hmm for the last uh year or two pretty much.
+
+DOCTOR E953
+Okay um.  How many pillows do you sleep on at night?
+
+PATIENT E953
+Two.
+
+DOCTOR E953
+Why?
+
+PATIENT E953
+One I prop up against the wall, the other one I lay on it.
+
+DOCTOR E953
+It’s not because of your breathing?
+
+PATIENT E953
+Not @@@.
+
+DOCTOR E953
+Um so walking just a block or several steps.
+
+PATIENT E953
+I would say more than a block, maybe about two, three.  I seen the foot doctor last week about that.
+
+DOCTOR E953
+Okay.  Um no history of COPD or anything?  Chronic bronchitis?  Okay.
+
+PATIENT E953
+No.
+
+DOCTOR E953
+Okay.  Have you ever had an ultrasound of your heart?
+
+PATIENT E953
+No.
+
+DOCTOR E953
+Have you ever had lung tests, lung function tests?
+
+PATIENT E953
+No, @@@.
+
+DOCTOR E953
+And you're also having cramps in your legs?
+
+PATIENT E953
+Yes @@@.
+
+DOCTOR E953
+Both legs?
+
+PATIENT E953
+Huh?
+
+DOCTOR E953
+Both legs?
+
+PATIENT E953
+Yes.
+
+DOCTOR E953
+When do you get them?
+
+PATIENT E953
+Uh when late the night, @@@.  
+
+DOCTOR E953
+So wait, wait, you’re mumbling.
+
+PATIENT E953
+I said later in the night.
+
+DOCTOR E953
+Okay.
+
+PATIENT E953
+You know when I get ready to go to bed I get them @@@.
+
+DOCTOR E953
+What about after you walk?
+
+PATIENT E953
+No, @@@.
+
+DOCTOR E953
+So have you always had cramps or just sometimes.
+
+PATIENT E953
+Sometimes.
+
+DOCTOR E953
+Daily or not?  How often?
+
+PATIENT E953
+Quite a bit, maybe @@@.
+
+DOCTOR E953
+And how long has that been going on?
+
+PATIENT E953
+It's been going on quite a while.
+
+DOCTOR E953
+What's quite a while?
+
+PATIENT E953
+Six, seven, @@@.
+
+DOCTOR E953
+Okay.  Um any fevers, chills anything like that?
+
+PATIENT E953
+@@@.
+
+DOCTOR E953
+Okay.  Let me examine you.  You know what you can pull your jeans up as much as you can.
+
+PATIENT E953
+And I think I have a weight problem.
+
+DOCTOR E953
+Well let's address your issues right now.
+
+PATIENT E953
+@@@.
+
+DOCTOR E953
+Well the shortness of breath is the most important one okay.  Shortness of breath is not something you should be having, okay.  Oh no I want you to sit up.  Do you snore at night that you know of?
+
+PATIENT E953
+Do I snore?
+
+DOCTOR E953
+Uh-huh.
+
+PATIENT E953
+I probably do.
+
+DOCTOR E953
+Okay do you, when you wake up in the morning do you feel refreshed?
+
+PATIENT E953
+Not really.
+
+DOCTOR E953
+No okay.  Have you gained weight?
+
+PATIENT E953
+Right here, yeah I been gaining weight.
+
+DOCTOR E953
+Okay.  Deep breaths.  Okay breathe normally.  Okay now can I have you lay down please?  I’m going to look at your legs, is that okay?
+
+PATIENT E953
+Yes.  Who do I see about the prostate?
+
+DOCTOR E953
+What about your prostate?
+
+PATIENT E953
+I thought it was swole or a different pain I don't know.
+
+DOCTOR E953
+Okay, we can address that as well.  We're gonna do that at our next visit.  You're gonna be seeing me a lot okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Unfortunately, I'm gonna make you come, I'm sorry mainly because I want to address your.  Now the fact that you’re having shortness of breath, I'm gonna tell you, it can be several different things.  It can be your heart.  It can be your lungs.  It can be your weight; a lot of things can do it okay.  So I want to make sure we look at everything.  You know a lot of people who are, what are these marks from?
+
+PATIENT E953
+Scratches.
+
+DOCTOR E953
+A lot of people who are anemic have low blood cells can get short of breath, you're not.
+
+PATIENT E953
+I'm not anemic.
+
+DOCTOR E953
+Uh uh.  Sit up for me.  You can have a seat over there.  I want to look at a couple things and then I'm gonna talk to DOCTOR and if you can, what I want to do is get a bunch of tests okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Um to make sure your breathing is not because of asthma, lung disease, get a chest x-ray and get an ultrasound of your heart.  Cause like I said even if you're not having chest pain you can have shortness of breath just from heart problems.  No family history of heart problems?
+
+PATIENT E953
+Well my father passed.
+
+DOCTOR E953
+From what?
+
+PATIENT E953
+He had a heart attack and my brother; I think he had congestive heart failure.
+
+DOCTOR E953
+Yeah congestive heart failure is the one I'm worried about.
+
+PATIENT E953
+Uh-huh.
+
+DOCTOR E953
+Has anyone ever uh, let's see now your EKG from the 19th, everything looks fine.  So that's good.  Um yeah we're gonna do all the prostate, the colon, all of those things.
+
+PATIENT E953
+Yeah okay.
+
+DOCTOR E953
+Cool, you're excited.
+
+PATIENT E953
+@@@ I’m excited to see what’s going on.  
+
+DOCTOR E953
+I agree.  We need to figure this out; it's been going on way too long.
+
+PATIENT E953
+Right cause I sure wish they could get to all that.
+
+DOCTOR E953
+Probably @@@.
+
+PATIENT E953
+Now.
+
+DOCTOR E953
+@@@.
+
+PATIENT E953
+Well I had never had that problem it but I'm just saying when I was coming in.
+
+DOCTOR E953
+@@@ six months.
+
+PATIENT E953
+I'm saying back in 2003 or whenever broke my foot and all that.
+
+DOCTOR E953
+Do you drink?
+
+PATIENT E953
+Yes I drink.
+
+DOCTOR E953
+How much?
+
+PATIENT E953
+I drink about a six-pack @@@ a day.
+
+DOCTOR E953
+Six-packs a day.
+
+PATIENT E953
+A six-pack not.
+
+DOCTOR E953
+That's a lot of alcohol.
+
+PATIENT E953
+Yeah it is.
+
+DOCTOR E953
+A lot.
+
+PATIENT E953
+A six-pack is?
+
+DOCTOR E953
+Yes.  @@@.
+
+PATIENT E953
+But I ain't been doing that for a year so it wasn't that long.
+
+DOCTOR E953
+How long have you been doing that?
+
+PATIENT E953
+About a year.
+
+DOCTOR E953
+Okay.  
+
+PATIENT E953
+Maybe I shouldn't have done it at all.  About a year, one year.
+
+DOCTOR E953
+Not good.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+But your.
+
+PATIENT E953
+I understand that, that probably @@@.
+
+DOCTOR E953
+Have you heard about our MOVE Program?  Would you be interested in our MOVE Program?
+
+PATIENT E953
+I don't know what it is.
+
+DOCTOR E953
+It's um a weight loss program.  We have an excellent nurse.
+
+PATIENT E953
+Uh-huh.
+
+DOCTOR E953
+Would you be interested in that?
+
+PATIENT E953
+How often they meet?
+
+DOCTOR E953
+You address that with her.  She will kind of go over that stuff with you.
+
+PATIENT E953
+Yeah, I'll probably check into it.
+
+DOCTOR E953
+Great.  Um I am gonna set you up for a colon cancer screening.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Okay.  Would you do that?  Have you ever had a colonoscopy?
+
+PATIENT E953
+No.
+
+DOCTOR E953
+Probably not okay.  Have you ever had your um uh prostate checked?
+
+PATIENT E953
+Not for a while.
+
+DOCTOR E953
+Do you have symptoms, any symptoms when you urinate or are you just worried about it because of your age?
+
+PATIENT E953
+Just worried about the blood draw.
+
+DOCTOR E953
+Huh?
+
+PATIENT E953
+I said I be worried about it, you know worried about urinating and all that kind of stuff.
+
+DOCTOR E953
+Are you urinating okay though right now?
+
+PATIENT E953
+Yeah I'm urinating now but it's colored you know it's not clear cause @@@ almost like a orange like.  You know what I'm saying?
+
+DOCTOR E953
+You're drinking enough water?
+
+PATIENT E953
+Maybe I'm not, I don't know, maybe not.
+
+DOCTOR E953
+You want to drink water okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Okay I will be right back okay.  So @@@ all those tests are what I’m planning.
+
+PATIENT E953
+Uh-huh.
+
+DOCTOR E953
+I'm gonna talk to my boss.
+
+PATIENT E953
+And see if he can get for any day but June 10th.
+
+DOCTOR E953
+For what?
+
+PATIENT E953
+Any one of them.
+
+DOCTOR E953
+Oh we'll schedule those okay.  We'll go out and talk to them and we'll schedule them okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Who did you see in April let's see.  They did a whole lot of tests on you.
+
+PATIENT E953
+In April?
+
+DOCTOR E953
+Uh-huh.
+
+PATIENT E953
+They did blood.  They did blood.
+
+DOCTOR E953
+@@@.  
+
+PATIENT E953
+I told them to do any tests they wanted to.
+
+DOCTOR E953
+Huh?
+
+PATIENT E953
+I gave them permission to do any tests @@@
+
+DOCTOR E953
+@@@ looks good. So I'll be right back okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Okay I'll be right back.
+
+(DOCTOR OUT:  23:16  DOCTOR IN:  42:35)
+
+DOCTOR E953
+Alright.
+
+PATIENT E953
+Uh-huh.
+
+DOCTOR E953
+@@@.  I'm sorry, here's your things.
+
+PATIENT E953
+That's okay.
+
+DOCTOR E953
+I'm gonna order, we're gonna start with two things.  The first step we’re going to schedule,  okay, let me I'll do it while I'm telling you, okay.  I want to do a stress test and an x-ray of your chest.
+
+PATIENT E953
+Okay, yeah.
+
+DOCTOR E953
+Okay um the x-ray you can get done today.  The stress test you'll have to schedule up front okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+How does that sound to you?
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+I think we will figure out what is going on and we will be able to help you okay.
+
+PATIENT E953
+Okay.  What about the kidneys.
+
+DOCTOR E953
+Your kidneys look fine.  Your kidneys look great.
+
+PATIENT E953
+Uh-huh.
+
+DOCTOR E953
+We got urine and we got your labs and the kidneys look beautiful.  Just that makes me feel good.
+
+PATIENT E953
+Uh-huh.
+
+DOCTOR E953
+Okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Do you have time to get that test done, the x-ray?
+
+PATIENT E953
+Yeah.
+
+DOCTOR E953
+Good.
+
+PATIENT E953
+Fourth floor?
+
+DOCTOR E953
+Actually the chest x-rays are on the first floor.
+
+PATIENT E953
+@@@.
+
+DOCTOR E953
+It’s right in the Damen Building. Okay? My suspicion is it's related to your heart.  Not saying we can't help you but once you know what the cause is you can treat it okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Alright um let's see.  I am gonna; I want to see you back soon so about a month because I want you to get these tests before you see me okay.  So please schedule stress test and then I'll give you the information for a colonoscopy.  You know it's not my first priority; the first priority is the stress test and the chest x-ray okay.
+
+PATIENT E953
+Yeah.
+
+DOCTOR E953
+So the colonoscopy yes I need you to get it.
+
+PATIENT E953
+Hmm.
+
+DOCTOR E953
+But it's not urgent okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Um.
+
+PATIENT E953
+The prostate when are you gonna do that?
+
+DOCTOR E953
+We're gonna do that on your lab tests, @@@ okay.  Um do you want to see the @@@ of the MOVE Program today or at the next visit?
+
+PATIENT E953
+Probably the next visit.
+
+DOCTOR E953
+Okay.
+
+PATIENT E953
+Cause it will be probably earlier right.
+
+DOCTOR E953
+Yeah try to ask them if you can get the 1 o'clock scheduled and you can come right away, if you get here about 12:45 you'll be the first patient I see.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+That's what I would do if I were you.  It's the best way to be seen right away.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Okay.
+
+PATIENT E953
+Okay.
+
+DOCTOR E953
+Bring this out to the front okay.
+
+PATIENT E953
+Uh-huh.
+
+DOCTOR E953
+And when you leave here I want you to go get your x-ray then you can go home.  If there's anything wrong let me make sure I have your number um NUMBER?
+
+PATIENT E953
+Right.
+
+DOCTOR E953
+Alright.
+
+PATIENT E953
+Or you can use cells, I got a cell phone.
+
+DOCTOR E953
+Huh?
+
+PATIENT E953
+I got a cell phone number too.
+
+DOCTOR E953
+Oh that ones perfect, I'll leave you a message okay.
+
+PATIENT E953
+Alright.
+
+DOCTOR E953
+You have a good day.
+
+PATIENT E953
+You too.
+
+DOCTOR E953
+It was nice to meet you.
+
+PATIENT E953
+Same here.  I'll be seeing you, since you're gonna be my primary @@@.
+
+DOCTOR E953
+Uh-huh you're stuck.
+
+PATIENT E953
+Well you have a good day.
+
+DOCTOR E953
+You too.
+
+PATIENT LEAVES:  46:20.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1286143
+TRANSACTION # 578-10-2-316-0103

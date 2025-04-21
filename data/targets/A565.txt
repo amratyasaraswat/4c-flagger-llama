@@ -1,0 +1,91 @@
+Red Flag (209-303): "Um my prescription has run out and I needed some medications to make it to my next appointment"
+
+Red Flag (500-576): "The Dulcolax is out completely that's why I need a new prescription for that"
+
+Probe    (675-713): "Now where are these prescriptions from"
+
+Factor   (878-919): "she hates to drive way to the Westside so"
+
+Factor   (978-1102): "But the thing was, at the beginning of the year January her whole hospital changed from HMO, Blue Cross Blue Shield to Aetna"
+
+Factor   (1137-1156): "And they dropped me"
+
+Factor   (2308-2422): "Uh the stent was put in two Tuesdays ago and the Pharmacy won't fill the prescription unless I see my doctor first"
+
+CarePlan (2403-2416): "see my doctor"
+
+Factor   (3041-3066): "she didn't want to travel"
+
+Factor   (3102-3141): "We live in Dalton a far south suburb so"
+
+Red Flag (6946-7042): "Right and the doctor there suggested that I go to dialysis across the street from St. Margaret's"
+
+Probe    (7255-7314): "Now, can you still do that without your wife's insurance or"
+
+Red Flag (7772-7820): "It's quite a drive to come from Dalton over here"
+
+Probe    (7835-7880): "Right. So you're able to with your insurance"
+
+Red Flag (9061-9177): "So you ran out of and uh in January, mid January they gave you all your medications so it was just for 30 days right"
+
+Factor   (9293-9346): "The only one that wasn't on the list was the Dulcolax"
+
+Probe    (9610-9653): "Yeah did you check with the Pharmacy though"
+
+CarePlan (9656-9700): "Um cause you have refills for a lot of these"
+
+Factor   (9716-9762): "Uh the Dulcolax I probably don't have a refill"
+
+Factor   (9798-9826): "Uh the Dulcolax is not on it"
+
+Factor   (9920-9979): "And they wouldn't replace until I got a prescription for it"
+
+CarePlan (9994-10038): "Yeah I can give you the Dulcolax or whatever"
+
+Red Flag (10908-10919): "flu vaccine"
+
+Red Flag (10945-10972): "I don't @@@ vaccines though"
+
+Red Flag (10994-11107): "What about Pneumovax for pneumonia? No. Tetanus shot, it's basically that one's pretty important if you get cut"
+
+Red Flag (11137-11139): "no"
+
+Probe    (13622-13727): "Were you getting your medications at the other hospitals or were you always getting your medications here"
+
+Red Flag (13798-13832): "because some of these were expired"
+
+Probe    (13836-13885): "I don't know if you were still taking them or not"
+
+Probe    (14257-14307): "Where did you get the metoprolol from, was it here"
+
+Red Flag (14323-14374): "No the last time I was out I had to go to Walgreens"
+
+Probe    (14446-14464): "@@@ prescribe that"
+
+Factor   (14518-14596): "I know I sound vague @@@ you know my wife handles a lot of this stuff you know"
+
+CarePlan (14719-14765): "it helps to have you getting them in one place"
+
+CarePlan (15001-15032): "So the metoprolol we'll do that"
+
+Red Flag (15296-15308): "atorvastatin"
+
+Probe    (15378-15440): "it looks like you got it recently, you got that on the 24th uh"
+
+Factor   (15456-15628): "I think what probably happened was the doctor prescribed it at 150 mg a day twice a day and I only got the 50 mg so I went right straight through it you know and that's why"
+
+Red Flag (15629-15643): "I'm almost out"
+
+CarePlan (15680-15718): "And I need enough to make 150 mg a day"
+
+CarePlan (15733-15737): "Okay"
+
+Red Flag (16640-16736): "Now you used to see the cancer doctors here. Do you have an appointment with them any time soon"
+
+Red Flag (16752-16754): "No"
+
+Factor   (16853-16932): "Every time I try to make an appointment they keep putting me back to like March"
+
+Factor   (18338-18429): "I'm trying to get in to see him but they keep telling me you know he's booked up till March"
+
+CarePlan (18457-18511): "Well either way you know still make those appointments"

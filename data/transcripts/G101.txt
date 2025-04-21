@@ -1,0 +1,1116 @@
+
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@ 
+
+DOCTOR G101 
+PATIENT?
+
+PATIENT G101
+Yes sir.  How you doing?
+
+DOCTOR G101
+Good.  How are you?  We're going right in here.
+
+PATIENT G101
+@@@.  It's on my.
+
+DOCTOR G101
+Good.
+
+PATIENT G101
+It's somewhere on these pages.
+
+DOCTOR G101
+You got your blood sugar readings offhand?
+
+PATIENT G101
+Yeah let me get that.
+
+DOCTOR G101
+@@@ let's see what you got.
+
+PATIENT G101
+It's in the bag.
+
+DOCTOR G101
+What's that?
+
+SECOND PERSON G101
+He  @@@ is out.
+
+DOCTOR G101
+Sure.
+
+PATIENT G101
+It says on the form, @@@ report.
+
+DOCTOR G101
+Yeah, yeah.
+
+PATIENT G101
+And uh I figured out last night. In the morning, my blood sugars we're high @@@.  
+
+DOCTOR G101
+They run where?
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+In the mornings when you wake up?
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Well why is that?
+
+PATIENT G101
+I don't know, it was @@@ this morning @@@.  That was it @@@.
+
+DOCTOR G101
+@@@.
+
+PATIENT G101
+@@@ and I been drinking uh.
+
+DOCTOR G101
+But you were doing a little bit better from what I remember.
+
+PATIENT G101
+Right, right.
+
+DOCTOR G101
+What do you think has happened?  Why are you not doing as well right now?
+
+PATIENT G101
+I don't know, I think it's uh, when I was doing good I was uh taking @@@ insulin.  @@@ 24 units, 24 twice a day @@@.
+
+DOCTOR G101
+So they were doing, alright so they were doing um, the last time I saw you was about a month ago.
+
+PATIENT G101
+Right uh-huh.
+
+DOCTOR G101
+And they switched you to Glargine 20 and Aspart 15 twice a day.
+
+PATIENT G101
+Right, uh-huh.
+
+DOCTOR G101
+And now what are you at?
+
+PATIENT G101
+I'm on Aspart 24 and Glargine is still at 20.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+But I'm still getting @@@.
+
+DOCTOR G101
+Hold on one second.  Okay, it looks like your last A1c was 05/24/10.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Okay.  
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+So repeat your insulin levels, your insulin regimen again.
+
+PATIENT G101
+I'm doing uh the uh Glargine is I think it's uh.
+
+DOCTOR G101
+Glargine 20?
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+And then how much are you having with your insulin, the Aspart the short-acting?
+
+PATIENT G101
+Uh she moved me to 24, I'm doing 24.
+
+DOCTOR G101
+24 of the Aspart, of the short-acting that you take with meals?
+
+PATIENT G101
+Uh-huh, right, uh-huh.
+
+DOCTOR G101
+Do you have a follow-up with her or him?
+
+PATIENT G101
+I don't know.
+
+DOCTOR G101
+Or just me?
+
+PATIENT G101
+Oh I have an appointment for @@@.
+
+DOCTOR G101
+Okay this is Pharmacy note says...  Okay when did they tell you to increase your.
+
+PATIENT G101
+The last I think @@@, the Pharmacy.
+
+DOCTOR G101
+Okay cause they didn’t write that in the notes and who was the pharmacist that you see?
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+NAME.  Okay oh and you have a Podiatry follow-up coming up tomorrow.
+
+PATIENT G101
+Right, right.
+
+DOCTOR G101
+Okay, alright.  So you were just switched on the 30th.  You said that the Glargine 20 and Aspart 24.
+
+PATIENT G101
+@@@ before that but it was increased from the 15 to the 24 on the 30th.
+
+DOCTOR G101
+15 and 24 on the 30th.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+Okay.  So then you take Glargine, what time during the day?
+
+PATIENT G101
+When I get up.
+
+DOCTOR G101
+When you get up in the morning, you take the long-acting insulin when you get up.
+
+PATIENT G101
+No @@@.
+
+DOCTOR G101
+Do know what the Glargine is?  When I say Glargine what do you think?  Is it long-acting or short-acting?
+
+PATIENT G101
+Uh I'm not sure.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+I just go by the bottles.
+
+DOCTOR G101
+What does your bottle say?  The long-acting?
+
+PATIENT G101
+Uh at bedtime.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+It says take 20 at bedtime and @@@ says 15 @@@ says 24 when I get up.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+And @@@.
+
+DOCTOR G101
+Okay.  Alright and when you get up in the morning you said your blood sugar is in the 200s.
+
+PATIENT G101
+Right.  @@@. I drink a lot of fruity water @@@.
+
+DOCTOR G101
+What do you mean fruity water?
+
+PATIENT G101
+Water that's made with fruit.
+
+DOCTOR G101
+Is it like Kool-Aid, did you buy it in the store?
+
+PATIENT G101
+Right you buy it in the store, its lemon flavored water.
+
+DOCTOR G101
+So you did the Glargine in the morning.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+What is your blood sugar after you take the, what is it, do you check it at lunch, do you check it at dinner?
+
+PATIENT G101
+Well @@@.
+
+DOCTOR G101
+What did you.
+
+PATIENT G101
+Well it goes down.
+
+DOCTOR G101
+What does it go down to?
+
+PATIENT G101
+@@@ 182, it was down to 130.
+
+DOCTOR G101
+130 before you eat lunch?
+
+PATIENT G101
+Yeah after.
+
+DOCTOR G101
+After you eat lunch?
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+What is it before you eat lunch?
+
+PATIENT G101
+It was like 180, @@@.
+
+DOCTOR G101
+And you don't take any insulin with lunch correct?
+
+PATIENT G101
+Right.  No I take it when I get up.
+
+DOCTOR G101
+You take the short-acting when you get up.
+
+PATIENT G101
+The regular one.
+
+DOCTOR G101
+When do you take the Glargine then?  When do you take the long-acting.
+
+PATIENT G101
+At bedtime.
+
+DOCTOR G101
+At bedtime okay.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+So you take the long-acting at bedtime.  You get up its like 284 and that's without eating.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+And then you take the 24 units now.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+In the morning before you eat.
+
+PATIENT G101
+Right, right.
+
+DOCTOR G101
+How long before you eat do you do it?
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Okay and then for lunch, you said you check it before lunch usually?
+
+PATIENT G101
+Before lunch, @@@ before lunch, when I get up.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+And then I haven’t been checking the regular you know right after but uh I do check it before doing it.
+
+DOCTOR G101
+Okay and what has it been running before dinner since they changed you to 24?
+
+PATIENT G101
+Right 200 right around what I said earlier.
+
+DOCTOR G101
+Right around 2.
+
+PATIENT G101
+Yes.
+
+DOCTOR G101
+How about after dinner?  After you @@@ then you take your insulin before dinner?
+
+PATIENT G101
+Right I take the regular, short-acting one at that time.
+
+DOCTOR G101
+Short-act okay.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+And then do you measure it ever after dinner, after you take your short-acting.
+
+PATIENT G101
+@@@ a couple times.
+
+DOCTOR G101
+Okay but you don't know what it is?
+
+PATIENT G101
+Right and I @@@ check it later.
+
+DOCTOR G101
+Okay.  You need to write it down for me.
+
+PATIENT G101
+Okay.  I got, I always write most of it down, I can bring it tomorrow.
+
+DOCTOR G101
+Okay.  They didn't check your blood sugar today did they?
+
+PATIENT G101
+No.
+
+DOCTOR G101
+I’m going to see if we can check your blood sugar real quick.
+
+PATIENT G101
+Okay @@@.
+
+DOCTOR G101
+I think we need to recheck your A1c as well.
+
+PATIENT G101
+Right uh-huh.  I’m sure it’s bad.
+
+DOCTOR G101
+Well I'm sure it is.  Okay you seem to know that.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+The question is can we increase your Glargine, the nighttime insulin a little bit.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Uh.
+
+PATIENT G101
+I know @@@.
+
+DOCTOR G101
+Oh.
+
+PATIENT G101
+An egg taste in my mouth.
+
+DOCTOR G101
+An egg taste in your mouth?
+
+PATIENT G101
+Yeah not regular @@@ rotten an egg.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Are you not taking it at all?
+
+PATIENT G101
+What?
+
+DOCTOR G101
+How many times a week do you miss your Glargine?
+
+PATIENT G101
+Uh I take it every day.
+
+DOCTOR G101
+Okay well how many times have you missed it?  I know you try.
+
+PATIENT G101
+@@@ I missed it maybe @@@ not at all.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+@@@ very concerned.
+
+DOCTOR G101
+Let's get you a glucose monitor.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Alright let me just check your blood sugar alright.  
+
+PATIENT G101
+Let me do that.
+
+DOCTOR G101
+You want to do it?
+
+PATIENT G101
+Yeah.  @@@.
+
+DOCTOR G101
+@@@ one of these.
+
+PATIENT G101
+@@@.  
+
+DOCTOR G101
+@@@ finger there.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+There you go.
+
+PATIENT G101
+Is that it?  That's @@@.
+
+DOCTOR G101
+Yeah, that's it.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Not bad.
+
+PATIENT G101
+@@@.  120 and under.
+
+DOCTOR G101
+That's good; I mean it should be when you wake up in the morning.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+That's what we, now if you take your Glargine at night when you wake up in the morning it needs to kind of 120 or under.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Now what did you eat today?
+
+PATIENT G101
+Uh well @@@.
+
+DOCTOR G101
+What have you eaten today?
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+What time?
+
+PATIENT G101
+Around 12 noon.
+
+DOCTOR G101
+Did you @@@ before that?
+
+PATIENT G101
+Yes.
+
+DOCTOR G101
+Okay.  So it's about 4 o'clock now.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+Okay so it's just four hours post prandially so it still might be a little bit high.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Um.  Maybe what we can do is we can check your A1c.  If your A1c is really high.
+
+PATIENT G101
+Yeah.
+
+DOCTOR G101
+Uh then maybe I could give you a call and I could tell you to just increase your Glargine.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Alright.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Um but if it's fine then we can keep it as is okay.  We just made a change recently so you said it's still high.  Your morning blood sugars are still high.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Right.
+
+PATIENT G101
+Well then before I had, I had one low.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+I had one low level @@@ 98.
+
+DOCTOR G101
+Those are great.
+
+PATIENT G101
+Right.  @@@ before, before they increased it.
+
+DOCTOR G101
+Before the change.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+You said since the change your sugars have been higher?
+
+PATIENT G101
+Right.  And I was thinking uh that the Glargine is the long-acting, 20 and then I was taking uh the 70/30.
+
+DOCTOR G101
+Yeah.
+
+PATIENT G101
+I was taking 80 and 80.
+
+DOCTOR G101
+Oh.
+
+PATIENT G101
+Of that.
+
+DOCTOR G101
+Right.
+
+PATIENT G101
+And uh @@@ cause it was lower @@@.
+
+DOCTOR G101
+My suspicion.. but the 70/30.  Before, you were taking your blood sugar, you thought your blood sugar was more controlled with the 70/30 and the Glargine?
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Okay.  So but what we just need to do is titrate up or increase what you're on now.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Right.  Uh it's a little bit of a better you know regimen.
+
+PATIENT G101
+Yeah, okay.
+
+DOCTOR G101
+So let me see.  I think we'll check the A1c today.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+And kind of see where it's at.  I think if you're taking the 24 with meals and you're taking 20 just at night before you go to bed.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+And your blood sugars in the morning are still high; they're still very high right?
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Um we should.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+You're doing a lot of pop.
+
+PATIENT G101
+Well not, no maybe one.
+
+DOCTOR G101
+Alright.  Do you want to quit that?
+
+PATIENT G101
+Yes I do.
+
+DOCTOR G101
+Alright.
+
+PATIENT G101
+Yes I do.
+
+DOCTOR G101
+Okay.  Um let's do that.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Well it's tough for me to really know what to change when I don't see the blood sugar records okay.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Let's take a look at your A1c; if it's still high then we'll consider increasing your Glargine dose.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Probably we'll probably do that.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+I need to know also what your blood sugars are a couple hours after you eat and when you take the insulin with it because we need to make sure that that insulin, okay is accurate.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+So again, bring in your blood glucose log in a month.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+Alright.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+We want to know what the morning is and we also want to know what it is two hours after you give yourself insulin in the evening.
+
+PATIENT G101
+Right, right.
+
+DOCTOR G101
+Those are important to know.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Right so we need to know if we need to increase the dose.
+
+PATIENT G101
+Right @@@ it's pretty accurate.
+
+DOCTOR G101
+Okay.  I'm going to be right back okay.
+
+PATIENT G101
+@@@ possible @@@.
+
+DOCTOR G101
+To what?
+
+PATIENT G101
+@@@ Secretary of State @@@.
+
+DOCTOR G101
+I don't know if I need to take a look at what else is going on.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+This is the part that's the problem okay.  And they're being a little bit more stringent with us.  Cannot walk 200 feet without stopping to rest does no longer qualify them for disability.
+
+PATIENT G101
+I see.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+So I don't think because you can walk okay.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Right?
+
+PATIENT G101
+Right.  @@@.
+
+DOCTOR G101
+Yeah but I don't think unless there is one of the following conditions okay.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Lung disease which I don't think you have.
+
+PATIENT G101
+No.
+
+DOCTOR G101
+Alright.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Right uh you don't have a heart condition.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Uh you walk on your own; you don't have an assistive device.  You don't have @@@ or orthopedic condition that's severe right.  So I don't know if you necessarily qualify.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Alright.  Let's hope you don't.
+
+PATIENT G101
+@@@.
+
+DOCTOR G101
+Alright, hold on one second okay.
+
+PATIENT G101
+Okay.
+
+(DOCTOR OUT:  46:35  DOCTOR IN:  63:47)
+
+DOCTOR G101
+Alright.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+Yeah so I think what we're gonna do, because your blood sugars are so high in the morning, in the 200s.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+We want to increase your nighttime insulin.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+So we're going to increase it from 20 to 25.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+You know what you need to do if you feel low blood sugars right?
+
+PATIENT G101
+Yes.
+
+DOCTOR G101
+I want you to then come down.  If you get low blood sugars in the morning.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+I want you to come down back to 20.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+Alright.  So you're gonna be taking Glargine 20.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+And then the long-acting.  At night, tell me what you're taking, tell me what you're gonna be taking.
+
+PATIENT G101
+@@@ 24.
+
+DOCTOR G101
+Yep.
+
+PATIENT G101
+And @@@ 24, then 25 at bedtime.
+
+DOCTOR G101
+Alright.
+
+PATIENT G101
+Yeah.
+
+DOCTOR G101
+Good.
+
+PATIENT G101
+Good.
+
+DOCTOR G101
+Today you're gonna go to the Lab.
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+You're gonna get a couple lab tests.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+And then I'm going to put in for the colonoscopy okay.
+
+PATIENT G101
+Okay.  When will I see you again?
+
+DOCTOR G101
+Uh you want to come back in a couple of months?  That sound okay?
+
+PATIENT G101
+Yeah.  @@@ pharmacy doctor.
+
+DOCTOR G101
+DOCTOR.  Uh it's just very helpful if I could have that.
+
+PATIENT G101
+Right exactly @@@.
+
+DOCTOR G101
+Okay.  Are you taking aspirin?
+
+PATIENT G101
+Yes.
+
+DOCTOR G101
+You are taking aspirin?
+
+PATIENT G101
+Uh-huh.
+
+DOCTOR G101
+Okay.  So you're not taking any other blood thinners?  No Coumadin, no Plavix right?
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+You don't have a prosthetic heart valve, no pacemaker?
+
+PATIENT G101
+No.
+
+DOCTOR G101
+No valve damage.  You don't have oxygen at home?
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+You've never had a heart attack?
+
+PATIENT G101
+No heart attack.
+
+DOCTOR G101
+Okay no liver disease, no heart failure and you do have some renal insufficiency.  Do you smoke now?
+
+PATIENT G101
+No.
+
+DOCTOR G101
+Are you using alcohol now?
+
+PATIENT G101
+Very little.
+
+DOCTOR G101
+Uh and you have used heroin right?
+
+PATIENT G101
+Yes.
+
+DOCTOR G101
+How about recently?
+
+PATIENT G101
+@@@ a little bit @@@ trying to @@@.
+
+DOCTOR G101
+Have you had surgery on the belly before?
+
+PATIENT G101
+No.
+
+DOCTOR G101
+And no radiation to your belly that you know of.
+
+PATIENT G101
+No.
+
+DOCTOR G101
+No problems with anesthesia or sedation in the past?
+
+PATIENT G101
+No.
+
+DOCTOR G101
+Are you, you are taking insulin, diabetic medication yeah.
+
+PATIENT G101
+(Patient answers phone call on his cell phone).
+
+DOCTOR G101
+Okay so that order was placed okay and then the Lab, you go straight over to the Lab okay.
+
+PATIENT G101
+Okay.
+
+DOCTOR G101
+You need any medications today?
+
+PATIENT G101
+No, I'm supposed to get some of that in the mail @@@.
+
+DOCTOR G101
+I can certainly get you; you said mail the test strips?
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Sure.  We should probably renew all of your @@@.  Alright so mail okay, you want them mailed?
+
+PATIENT G101
+Yes.
+
+DOCTOR G101
+Okay.  Um you're good to go.
+
+PATIENT G101
+Okay doctor.
+
+DOCTOR G101
+Take this up front okay.  See you back in eight weeks.
+
+PATIENT G101
+Alright.
+
+DOCTOR G101
+If you have any problems come back sooner.
+
+PATIENT G101
+Right.
+
+DOCTOR G101
+Okay.
+
+PATIENT G101
+Thank you doctor.
+
+DOCTOR G101
+Um that's it.  See you sir, alright, take care.
+
+PATIENT G101
+Thank you @@@.
+
+PATIENT LEAVES:  71:03.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275413
+TRANSACTION # 578-10-2-316-0103

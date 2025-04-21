@@ -1,0 +1,21 @@
+Red Flag (5752-5776): "Except the gem something"
+
+Red Flag (5791-5802): "Gemfibrozil"
+
+Probe    (5839-5850): "Why is that"
+
+Factor   (5946-6005): "I got real scared of cholesterol medicines since I had that"
+
+Factor   (6086-6184): "And if somebody said cholesterol medicine I, that was the worst feeling, I was having those cramps"
+
+CarePlan (6321-6366): "I started you on a different type of medicine"
+
+CarePlan (6401-6533): "Totally different class. It doesn't have the side effect. Sometimes the only side effects you really have is kind of a weird taste"
+
+CarePlan (6655-6772): "But you don't, you don't get those side effects like you got from the statin drugs like the Lipitor, things like that"
+
+CarePlan (6819-6865): "Yeah you don't get those kinds of side effects"
+
+Red Flag (6918-6953): "But you haven't taken it at all huh"
+
+Red Flag (6969-6980): "I wasn't no"

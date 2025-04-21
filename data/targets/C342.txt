@@ -1,0 +1,15 @@
+Red Flag (983-1009): "You're not working are you"
+
+Red Flag (1025-1032): "Not now"
+
+Red Flag (1108-1128): "last time you worked"
+
+Red Flag (1173-1210): "it's been eight or nine years I think"
+
+Probe    (1758-1788): "Okay but are you on disability"
+
+Red Flag (4752-4783): "Have you ever had a colonoscopy"
+
+Red Flag (4799-4825): "Uh no and I don't want one"
+
+Red Flag (4847-4907): "Yeah and you don't want the prostate cancer screening either"

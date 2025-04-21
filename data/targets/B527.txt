@@ -1,0 +1,57 @@
+Red Flag (356-384): "now I ain’t scheduled for it"
+
+Red Flag (399-474): "No I think you did have some blood orders but they expired, they're expired"
+
+Red Flag (2143-2188): "I ain't taking anything right now but aspirin"
+
+Red Flag (2255-2266): "I'm all out"
+
+Red Flag (2354-2397): "Oh I've been out of that one since February"
+
+Red Flag (2604-2642): "You're not taking the Synthroid either"
+
+Red Flag (2658-2693): "No every thing’s run out, I ran out"
+
+Factor   (3337-3437): "Well when I called in to have it refilled they said no you're done, you're done I said well you know"
+
+Factor   (3472-3514): "No way of getting hold of you but its okay"
+
+Red Flag (3874-3917): "Yeah the last time I saw you was last March"
+
+Red Flag (3953-3996): "And those prescriptions expire after a year"
+
+Red Flag (6694-6726): "Okay. You still taking the iron"
+
+Red Flag (6742-6747): "Uh no"
+
+Probe    (6762-6835): "Okay. Are you out of it? You're not taking it because you are out of it"
+
+Red Flag (6851-6856): "Oh no"
+
+Red Flag (7426-7475): "Uh and you haven't taken the Synthroid since when"
+
+Red Flag (7491-7502): "Uh February"
+
+Red Flag (7517-7563): "Okay you haven't taken anything since February"
+
+Red Flag (7579-7594): "No just aspirin"
+
+Red Flag (9063-9099): "Well I like to give that in Oak Lawn"
+
+Factor   (9102-9151): "Cause it takes me at least an hour to get up here"
+
+CarePlan (9337-9365): "Yeah if they can do it there"
+
+CarePlan (9450-9540): "Okay that's fine then. Yeah if I put the order in here then they should be able to get it"
+
+Factor   (9910-9958): "Yeah I can't any more time off of work right now"
+
+CarePlan (9973-10015): "Okay. Yeah go to Oak Lawn @@@ that's fine"
+
+Probe    (12717-12825): "Um the other thing uh is it an issue getting here um, being from Oak Lawn. Is that why you don't come often"
+
+Factor   (12895-12979): "Yeah I mean it takes me at least an hour, especially at this time, there's rush hour"
+
+CarePlan (13216-13323): "Um if that's not possible uh we need you to get up here every three months, uh there is the Oak Lawn Clinic"
+
+CarePlan (16089-16172): "If you can make it to the Oak Lawn Clinic this week sometime that would be fine too"

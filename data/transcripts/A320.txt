@@ -1,0 +1,1261 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@  
+
+DOCTOR A320  
+Hello PATIENT.
+
+PATIENT A320
+Hello.  
+
+DOCTOR A320
+How are things going?
+
+PATIENT A320
+Fine.
+
+DOCTOR A320
+Fine okay.  Well my name is DOCTOR.
+
+PATIENT A320
+Hi.
+
+DOCTOR A320
+Uh I'm going to be your primary care physician and I was just, I think I was expecting you in July but you didn't come.
+
+PATIENT A320
+Yeah I totally forgot the appointment.
+
+DOCTOR A320
+Yeah and then uh, it looks like you had @@@ scheduled @@@.
+
+PATIENT A320
+Oh, I have, an unpredictable schedule.
+
+DOCTOR A320
+Oh okay, alright so all I have here for PATIENT uh, it looks like the main issue right now is high cholesterol and you had a surgery of uh your ankle.
+
+PATIENT A320
+Yep.
+
+DOCTOR A320
+Left ankle and then I think that's about it of what we have in the chart so far.  You don't have much issues going on?  Okay and then you come here for yearly check-ups.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+How's your ankle doing?
+
+PATIENT A320
+It always hurts.
+
+DOCTOR A320
+Oh okay.
+
+PATIENT A320
+Uh there's nothing.
+
+DOCTOR A320
+Why did you get a surgery for it, do you know?
+
+PATIENT A320
+Yeah um I basically broke my ankle back in '88.
+
+DOCTOR A320
+Oh in 1988 and you had surgery for how many different times?
+
+PATIENT A320
+Seven.
+
+DOCTOR A320
+@@@ when was the last time?
+
+PATIENT A320
+January @@st in @@@@.
+
+DOCTOR A320
+Okay and uh and your feeling is it's not getting any better?
+
+PATIENT A320
+It’s always there.
+
+DOCTOR A320
+Uh do you take any pain medication for that?
+
+PATIENT A320
+Oh I was on Vicodin and I had, but it was only if I need it and I ran out.
+
+DOCTOR A320
+Okay.
+
+PATIENT A320
+And I just never came back for it.
+
+DOCTOR A320
+Okay.  Um but you're doing fine without that or do you want more?
+
+PATIENT A320
+There's some days I'd like to have.
+
+DOCTOR A320
+Like to have.  Vicodin is a little stronger, have you tried Norco?
+
+PATIENT A320
+That's all they gave me was.
+
+DOCTOR A320
+Okay.
+
+PATIENT A320
+Two 60 prescriptions of 30.
+
+DOCTOR A320
+Oh okay.  Oh lets try Norco then because you weren’t taking too much Vicodin alright?
+
+PATIENT A320
+Well just when I really.
+
+DOCTOR A320
+Just when you really need it.
+
+PATIENT A320
+When I really need it.
+
+DOCTOR A320
+Yeah.
+
+PATIENT A320
+I just take one or two for a day or so, because with me driving a truck I can't, you know I can't take one now and then go drive.
+
+DOCTOR A320
+Right.
+
+PATIENT A320
+Cause you know it puts you to sleep.
+
+DOCTOR A320
+Yeah have you tried Norco or no?
+
+PATIENT A320
+Oh I don’t even know what it is.
+
+DOCTOR A320
+Oh okay.  Maybe we can try that.  Uh and the Naproxen you take that pain medication too?
+
+PATIENT A320
+I'm out of that.
+
+DOCTOR A320
+Oh okay and then you take this two times a day?
+
+PATIENT A320
+Um pretty much.
+
+DOCTOR A320
+Or only when you need this?
+
+PATIENT A320
+I didn't even realize it was expired.
+
+DOCTOR A320
+Oh so you don't even use it then?
+
+PATIENT A320
+Well I use it but it's just as I need it.
+
+DOCTOR A320
+As you need it okay.  That's a good way to use, so you don't have to schedule this um, it's just use it like you're using right now because there's always risks in these medications and you know it makes you dizzy, the Vicodin makes you dizzy and Norco can hurt your kidneys so it's better if you don’t need it, don't take it okay um.
+
+PATIENT A320
+So what's the cholesterol at?
+
+DOCTOR A320
+Let's see cholesterol, you had it today right?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+I haven't looked at it yet.  I was going to see before I see you.
+
+PATIENT A320
+@@@.
+
+DOCTOR A320
+@@@ so let's see 136.
+
+PATIENT A320
+Is that high?
+
+DOCTOR A320
+So let's see, so what you have your age is, how old are you?
+
+PATIENT A320
+48.
+
+DOCTOR A320
+48 so you're young and um 136 for you.  You don't have hypertension right?
+
+PATIENT A320
+No.
+
+DOCTOR A320
+So 136 is good for, not too bad actually.  Um I think for your goal it should be um so you're 48 and uh, do you smoke?
+
+PATIENT A320
+No.
+
+DOCTOR A320
+Ever?
+
+PATIENT A320
+No.
+
+DOCTOR A320
+Okay.  So since you never smoked, your goal would be 160 for the LDL.
+
+PATIENT A320
+So I'm under.
+
+DOCTOR A320
+You're under yep so this will be fine for that.
+
+PATIENT A320
+So I just cut the breads out and starches and I’ll be alright.
+
+DOCTOR A320
+What?
+
+PATIENT A320
+So I just cut the potatoes out.
+
+DOCTOR A320
+Wait a minute, so it's your diet you're watching now right?
+
+PATIENT A320
+I'm trying.
+
+DOCTOR A320
+It's not the breads actually.
+
+PATIENT A320
+Oh.
+
+DOCTOR A320
+It's the um like uh red meat, uh cholesterol, what else do eat, hamburgers?
+
+PATIENT A320
+Yeah.  We eat red meat.
+
+DOCTOR A320
+If you eat meat, there's a lot of cholesterol um, what else, what else, cheese, butter that kind of stuff.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Those are high in cholesterol I'd say.  Um otherwise if you basically if you eat like a healthy diet and you take out the fats -  okay, fish, vegetables, fruits, that's kind of stuff.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Lower cholesterol so I want you to eat those kinds of stuff.  Um so you're watching your diet?
+
+PATIENT A320
+Yes.
+
+DOCTOR A320
+That's good and uh you're a exercising?
+
+PATIENT A320
+Not as much as I should but.
+
+DOCTOR A320
+Not as much as you should okay.
+
+PATIENT A320
+No.
+
+DOCTOR A320
+So you know it's hard when you have a job and all.  I can't exercise either so.
+
+PATIENT A320
+Well my job is just terrible you never know when you're gonna work so it's just like now.
+
+DOCTOR A320
+Uh-huh.
+
+PATIENT A320
+They could call me and I'd have to be at work in two hours.
+
+DOCTOR A320
+Oh really.
+
+PATIENT A320
+I don't have a set schedule.
+
+DOCTOR A320
+You're like on call all the time?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+That's tough.
+
+PATIENT A320
+It sucks.
+
+DOCTOR A320
+And do they call you at night too?
+
+PATIENT A320
+Yeah.  They call me any time of the day every half hour, @@@.
+
+DOCTOR A320
+How long do you have to work after that?
+
+PATIENT A320
+14.
+
+DOCTOR A320
+When you don't get a call do you work 14 hours?
+
+PATIENT A320
+Up to 14 hours and then we'll get 10 hours off and then they call you again.
+
+DOCTOR A320
+Oh so you don't, you can't predict when you're working the next time?
+
+PATIENT A320
+Nope.
+
+DOCTOR A320
+Wow, that's a tough job.
+
+PATIENT A320
+Then after we do six days we get 2 1/2 days off.
+
+DOCTOR A320
+Okay.  So that's on that cycle where you get six days and 2 1/2 days off.
+
+PATIENT A320
+Yeah.  Cause like right now, this week here, is where we got messed up because I got robbed on Sunday, I tried to replace all my cards, I went to work for one day and then I didn't want to miss this so I took a sick day so it'll be next weekend before I get off again.
+
+DOCTOR A320
+Oh so you took a sick day for this one?
+
+PATIENT A320
+Yeah just so I could make, so I could make it.
+
+DOCTOR A320
+Oh thank you so much for coming.
+
+PATIENT A320
+So.
+
+DOCTOR A320
+I see.  So you're, so you don't have like a protected weekend, it depends on the schedule?
+
+PATIENT A320
+It just depends on my schedule.  I try to get the weekend but a lot of times it's Friday, Saturday, Sunday, Monday, Thursday, Friday.
+
+DOCTOR A320
+Uh-huh.
+
+PATIENT A320
+You know.
+
+DOCTOR A320
+Okay and then you have, recently you had a sleep study done here.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+And then you have the CPAP and you're using that right now?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Do you sleep better with that?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Okay.  Okay.  Um so for today, so I didn't see any shots given to you uh in the computer.
+
+PATIENT A320
+No.
+
+DOCTOR A320
+So I was thinking you want to have like a flu shot today?
+
+PATIENT A320
+No I'm okay.
+
+DOCTOR A320
+Okay.  Why?
+
+PATIENT A320
+I don't get the flu.
+
+DOCTOR A320
+You never get the flu?
+
+PATIENT A320
+I never get the flu.
+
+DOCTOR A320
+Okay.
+
+PATIENT A320
+I'm the lucky one.
+
+DOCTOR A320
+Okay.  Any uh, you don't know, I mean nobody's diagnosed with flu, usually it's a cold and @@@ you'll be fine.
+
+PATIENT A320
+I don't know I just don't.
+
+DOCTOR A320
+Okay.  You don't think that it's worth it?
+
+PATIENT A320
+No.
+
+DOCTOR A320
+It's free.
+
+PATIENT A320
+I know I just you know.
+
+DOCTOR A320
+Okay.  I come from other country and in my country you have to pay $100 for.
+
+PATIENT A320
+Where?
+
+DOCTOR A320
+I come from Japan.
+
+PATIENT A320
+I lived in Okinawa and Hokkaido.
+
+DOCTOR A320
+Oh yeah.
+
+PATIENT A320
+I got lost in Tokyo for a day.
+
+DOCTOR A320
+Oh really.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Yeah then we have the American base there @@@.
+
+PATIENT A320
+Uh we did the walk up Fuji.
+
+DOCTOR A320
+Oh you did that, oh that's good, I want to go do that.
+
+PATIENT A320
+Did you do that?
+
+DOCTOR A320
+Oh no, no, no I can't do that.
+
+PATIENT A320
+I got my walking stick at home so.
+
+DOCTOR A320
+Did you go up into the @@@?
+
+PATIENT A320
+Yeah we were in the Marines, so they got a little base there.
+
+DOCTOR A320
+Oh.
+
+PATIENT A320
+@@@.
+
+DOCTOR A320
+So it's a part of your job?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Wow.
+
+PATIENT A320
+What part of Japan are you from?
+
+DOCTOR A320
+Uh I'm from uh a small place, Kyoto, do you know where Kyoto is?
+
+PATIENT A320
+@@@
+
+DOCTOR A320
+@@@.
+
+PATIENT A320
+@@@ parking garage where the cars go like this.
+
+DOCTOR A320
+Oh yeah, that's all the time, that's all the time.
+
+PATIENT A320
+Well it's the first you know.
+
+DOCTOR A320
+Because you know you have land here and we have very limited land so we have to yeah.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+And then the way we park, even if you don't have @@@ we have the cars like, our car you have to park like this you know so you have to, cause space is very limited so you can't park like this if the wall is here, you have to park like this all the time.
+
+PATIENT A320
+Oh I mean yeah, Okinawa when I was there, other than they didn't have no room to park.
+
+DOCTOR A320
+Right, right, so that's how it is okay.  So and the other uh shot I can give you is something called Tdap, this is something to prevent tetanus, pertussis, diphtheria.
+
+PATIENT A320
+I just had a tetanus shot.
+
+DOCTOR A320
+Yeah I know you had that in 2006.
+
+PATIENT A320
+No I had it in 2008, I stepped on a nail.
+
+DOCTOR A320
+You stepped on a nail okay.
+
+PATIENT A320
+Cause I couldn't remember if I had one.
+
+DOCTOR A320
+Uh so in 2008 I think you got a tetanus shot um because you stepped on a nail.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Um this one has tetanus, diphtheria and pertussis, which is whooping cough.  Um sometimes you know uh it's not so popular right now but once you get it it's you have to cough a lot, you're uncomfortable, so if you can prevent it with a shot, I think you can just get a shot, so everybody below 65 we kind of have to recommend that to you so if you're interested we can give it to you.
+
+PATIENT A320
+Oh I'll get it next time.
+
+DOCTOR A320
+Next time okay.
+
+PATIENT A320
+Yeah. So what's up with the @@@?  Because my friend's got kind of like a cough like all the time, he just coughs.
+
+DOCTOR A320
+Uh I mean that's very common so I can't really tell.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+A small cough, I would say it's probably just like asthma or it probably came from a.
+
+PATIENT A320
+She smokes too so.
+
+DOCTOR A320
+Yeah smoking obviously can cause that.
+
+PATIENT A320
+We watched the movie Secret Agent.
+
+DOCTOR A320
+Uh-huh.
+
+PATIENT A320
+Have you seen that yet?
+
+DOCTOR A320
+Invasion?
+
+PATIENT A320
+About the spread of a virus.
+
+DOCTOR A320
+Oh I haven't seen that yet.
+
+PATIENT A320
+Oh we watched it last night and then everybody in the movie who started to get sick had that little (cough, cough) and she's like oh my God I got a cold.
+
+DOCTOR A320
+Oh.
+
+PATIENT A320
+@@@.
+
+DOCTOR A320
+That's a bad influence.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Oh.
+
+PATIENT A320
+It's kind of just like, did you ever seen the movie Outbreak?
+
+DOCTOR A320
+Uh actually no, so yeah.
+
+PATIENT A320
+It's about the Ebola.
+
+DOCTOR A320
+Ebola oh I see.
+
+PATIENT A320
+You know how that spreads and everything and.
+
+DOCTOR A320
+Wow.  Okay I need to discuss about an Advanced Directive.
+
+PATIENT A320
+Who?
+
+DOCTOR A320
+Advanced Directives like um something like Power of Attorney.
+
+PATIENT A320
+I have that.
+
+DOCTOR A320
+You do have that?
+
+PATIENT A320
+Yeah at home yeah.
+
+DOCTOR A320
+Okay.
+
+PATIENT A320
+Well I have a no resuscitate.
+
+DOCTOR A320
+Oh you have no resuscitate, you want to do a Do Not Resuscitate?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+And why is that?
+
+PATIENT A320
+Uh I watched my mom and dad die and they kept trying and trying and trying and was nothing and.
+
+DOCTOR A320
+Oh okay.  Okay so if you can read this um and then you can call the number.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+And give the physical papers here so that everybody would know, they'll put it in your chart and uh.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Then everyone will know that.  So the last time uh you had a fall before?
+
+PATIENT A320
+Yeah it was from my left ankle.
+
+DOCTOR A320
+Oh okay.  Did you just get @@@ in there?
+
+PATIENT A320
+Well, just when I step on it the ankle comes up towards me.
+
+DOCTOR A320
+Okay.
+
+PATIENT A320
+And it gives out for a second and I just fall over.
+
+DOCTOR A320
+Oh okay.  Do you take any medication other than from the VA?
+
+PATIENT A320
+Aspirin.
+
+DOCTOR A320
+Aspirin, baby aspirin 81 mg or is it for the pain?
+
+PATIENT A320
+It's just uh.
+
+DOCTOR A320
+Do you know why you take aspirin?
+
+PATIENT A320
+Yeah it's just for the pain; I took it when I ran out of.
+
+DOCTOR A320
+Oh okay.
+
+PATIENT A320
+Either Advil or Tylenol.
+
+DOCTOR A320
+Advil, Tylenol, okay.  And you don't want @@@ right?
+
+PATIENT A320
+@@@, sleep last night.
+
+DOCTOR A320
+Okay.  So and your blood pressure looks okay.  Any symptoms going on?
+
+PATIENT A320
+No.
+
+DOCTOR A320
+Okay.  @@@ cold.  How's your weight?
+
+PATIENT A320
+I'm heavy.
+
+DOCTOR A320
+You're heavy.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Oh but you were losing weight the time before, last year it was 330 and now it's 310.  So that's good.
+
+PATIENT A320
+It could be better.
+
+DOCTOR A320
+It could be better.  So losing weight is always better with other things.  Because it can prevent a lot of things um, maybe you've heard about diabetes, um hypertension.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+And those things, once you start having it, progresses and uh it lasts @@@ taken to the hospital but those @@@ going to be miserable and the hypertension and diabetes progress so you know it's better to steer people away from that from the first step so that you know you don't have to worry about that later on your life.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+So now you're fairly young so you're not worrying too much about that but it's always good to keep your lifestyle in good shape as far as weight, diet, exercise, those things so I would recommend that.  Um and then uh so finally can I see your feet and listen to your heart?
+
+PATIENT A320
+Sure.  You want the shoes off or?
+
+DOCTOR A320
+Yeah can you take your shoes off?
+
+PATIENT A320
+Both or just one?
+
+DOCTOR A320
+Um just your shoes and socks would be fine @@@.  Do you want to pick up your medications today or?
+
+PATIENT A320
+No they can mail them.
+
+DOCTOR A320
+Can mail it okay.  So I'll give you something called Norco if you don't mind and uh every four hour tab with it @@@.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+And we @@@ do that one and 90 day supply of those.  Probably if you had 120 pills, it will last for 90 days right?
+
+PATIENT A320
+Yeah we should go longer probably.
+
+DOCTOR A320
+Longer yeah and @@@ here.
+
+PATIENT A320
+What it is like, is it like Vicodin or what?
+
+DOCTOR A320
+It's generally the same.  The same thing is in it um something called um, has a narcotic, low does of a narcotic and a combination of acetaminophen @@@.  It's a painkiller you usually take when you have pain or something.  It can help improve pain, so Vicodin is also a combination but the narcotics they're using is slightly different so Vicodin is a little stronger than the Norco.  But I was thinking it you've never tried Norco before right?
+
+PATIENT A320
+No, so it's a little less Vicodin but a little more aspirin kind of?
+
+DOCTOR A320
+Oh let's see so it's a little bit less Vicodin and aspirin @@@ pain okay.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Alright so I'll give you that.
+
+PATIENT A320
+It's always good when you have less.
+
+DOCTOR A320
+Okay, yeah.
+
+PATIENT A320
+You know.
+
+DOCTOR A320
+And uh we'll give you the Naproxen, how much are you taking?
+
+PATIENT A320
+Oh I don't remember.
+
+DOCTOR A320
+Uh 500 mg two times a day so I'll renew for one year as well.  So you take this only when you need it right?
+
+PATIENT A320
+That's all I take it yeah.
+
+DOCTOR A320
+So I think 120 pills will be okay and uh if you need a refill then let me know.  Okay so I'll examine you.  @@@ back?
+
+PATIENT A320
+Yes.
+
+DOCTOR A320
+Where's the pain?
+
+PATIENT A320
+Right in the @@@.
+
+DOCTOR A320
+Here?
+
+PATIENT A320
+Yeah.  Where it comes up, that's where it is.
+
+DOCTOR A320
+You  have pain here?
+
+PATIENT A320
+And up through there.
+
+DOCTOR A320
+You have a little bit of swelling here too.  Is it always like that?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Oh like you have some fluid there?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Okay.  @@@ okay you still want @@@?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Let me take a listen to your heart sir?  Deep breath for me please.  Take a deep breath, breathe out, once more, breathe out, once more.  Breathe out, once more, breathe out.  Good.  Open your eyes.  @@@.  Stick out your tongue ah.
+
+PATIENT A320
+Ah.
+
+DOCTOR A320
+Move your tongue, good.  Okay.  So I think that's about it.  So you're doing well generally.  The only recommendation from me is that you can lose a little more weight um and I know that you have very irregular hours.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+So those stressful things can cause your blood pressure to go high or get it to go high so sleep as much as possible and increase that and @@@.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+So that you'll feel refreshed.  I think it was good that you got the CPAP cause that will help you sleep better.
+
+PATIENT A320
+Oh yeah I notice a big difference using it.
+
+DOCTOR A320
+Oh okay.  So you're not interested in prostate now.
+
+PATIENT A320
+No.
+
+DOCTOR A320
+And other things you don't need cause you're still young so and I think that's it for this trip and that's all I have.
+
+PATIENT A320
+So how's the iron?
+
+DOCTOR A320
+How is the @@@?
+
+PATIENT A320
+No how was the INR cause a couple years ago I had a little high iron.
+
+DOCTOR A320
+High iron?
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Uh I haven't checked the iron.
+
+PATIENT A320
+Well @@@.
+
+DOCTOR A320
+Okay.
+
+PATIENT A320
+The VA they had me have an ultrasound and said I might have a fatty liver but.
+
+DOCTOR A320
+You had an iron study, you had fatty liver on the ultrasound?
+
+PATIENT A320
+Well that's what they said but that's been years ago.
+
+DOCTOR A320
+Okay so I don't see an iron study here.  We haven't done iron studies here okay.  So I can recheck that, I'll call the Lab and see if they can add on to the labs we did for you this morning uh and see if we can, if we can't add it maybe you want to check it again.
+
+PATIENT A320
+Yeah I'll come back and take it.
+
+DOCTOR A320
+Yeah whenever you come back we'll check it then. (Doctor called Lab)  Well they will have iron studies with the lab this morning so I'll check the results and let you know if there's anything going on.  I think they were worried about something called hemochromatosis @@@.
+
+PATIENT A320
+Why is that?
+
+DOCTOR A320
+I'm not sure, I'm not sure, I'm not sure so I think they checked an ultrasound and they were finding your iron might be a little high.
+
+PATIENT A320
+Right.
+
+DOCTOR A320
+And that is something called hemochromatosis which is a disease that causes the iron to get stored excessively, not good with getting it out so you have a high level of iron so the iron was @@@ usually goes into the liver, to the pancreas and it can change the color of the skin and people get diabetes.  It's called bronze diabetes.  So your skin gets a bronze color and then @@@ completely so you don't have that as much and uh if they didn't say anything further then I'm not too worried about it.
+
+PATIENT A320
+Yeah they never said.
+
+DOCTOR A320
+Yeah so I just wanted to check it to see if anything has progressed with that and uh if there is any abnormal results I'll let you know.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Okay.  Um so I need to talk to my supervisor and then I'll come back very soon okay.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Alright.
+
+(DOCTOR OUT:  66:28  DOCTOR IN:  71:21)
+
+DOCTOR A320
+Okay sir.  So the plan remains the same.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+Um I'll let you know as soon as I have the lab results.  Uh so when would you like to see me next time?
+
+PATIENT A320
+How long should I go I mean?
+
+DOCTOR A320
+Uh I think for you, everything is pretty stable, so a year should fine.  But if you wanted to see me earlier you an always schedule so it's up to you.
+
+PATIENT A320
+Oh yeah a year is fine.
+
+DOCTOR A320
+A year is fine okay.
+
+PATIENT A320
+So my cholesterol is 138?
+
+DOCTOR A320
+Uh yeah it's 136.
+
+PATIENT A320
+And the high side is?
+
+DOCTOR A320
+Your goal is 160.
+
+PATIENT A320
+Oh so I want to stay below 160?
+
+DOCTOR A320
+Uh-huh.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Below 160.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Uh so this is not the total cholesterol, this is the bad cholesterol.
+
+PATIENT A320
+It's the bad.
+
+DOCTOR A320
+Yeah.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+So in total cholesterol, good cholesterol and bad cholesterol are totally included so we did look at the bad cholesterol which is called LDL and that level is for you the goal is less than 160.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Okay.  So this goal is different in each person.
+
+PATIENT A320
+You go by age?
+
+DOCTOR A320
+Um we go by age and we go by other things that you have.  If you have like diabetes, you need more tighter control.
+
+PATIENT A320
+Oh.
+
+DOCTOR A320
+If you've ever had a heart attack, uh that takes more tighter control.
+
+PATIENT A320
+Right.
+
+DOCTOR A320
+So things like that.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+So if you develop some medical problems then your goal is becoming lower but for now your only risk factor right now is just age.  You're older than 45 and this is counted as more risk factor.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+And that's it.  You don't have hypertension and you don't have other factors.
+
+PATIENT A320
+Alright what is hypertension?
+
+DOCTOR A320
+Oh high blood pressure.
+
+PATIENT A320
+Oh okay.
+
+DOCTOR A320
+It's hypertension.
+
+PATIENT A320
+Oh I didn't know what it was.
+
+DOCTOR A320
+You know so.
+
+PATIENT A320
+Yeah cause I don't have it, it was all normal.
+
+DOCTOR A320
+Yeah, a good thing.  Okay sir, so I have nothing to offer you today.
+
+PATIENT A320
+Yeah that's fine.
+
+DOCTOR A320
+You're in good and I will just order the medication for you and they can mail it to you.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Okay have a good time sir.  Take care.
+
+PATIENT A320
+Okay.  Maybe it'll be warmer next time.
+
+DOCTOR A320
+Yes hopefully.
+
+PATIENT A320
+Well this is warm for us.
+
+DOCTOR A320
+Next time will be one year later so it will be about the same season.
+
+PATIENT A320
+Oh this is hot.  Uh last year at this time we had it was the fifth worst snowstorm ever.
+
+DOCTOR A320
+I heard that, I heard that.
+
+PATIENT A320
+That was like @@@.
+
+DOCTOR A320
+Wow.
+
+PATIENT A320
+Of course we had like 48 inches last year.
+
+DOCTOR A320
+Really.
+
+PATIENT A320
+We had a whole bunch.
+
+DOCTOR A320
+Wow.
+
+PATIENT A320
+Have you been on Lakeshore Drive?
+
+DOCTOR A320
+Uh-huh.
+
+PATIENT A320
+That was all closed.
+
+DOCTOR A320
+Oh really.
+
+PATIENT A320
+There were like 1600 cars stuck.
+
+DOCTOR A320
+Wow.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+@@@.
+
+PATIENT A320
+From one end all to the bottom, all the way up, you know just stuck there.
+
+DOCTOR A320
+Wow.
+
+PATIENT A320
+It was a bad winter cause I was sitting on my couch because of my foot here and my foot was @@@.
+
+DOCTOR A320
+Yeah that's great.
+
+PATIENT A320
+Yeah.
+
+DOCTOR A320
+The only thing with a car when it snows people.
+
+PATIENT A320
+Get out, go to the subway or go some other place.
+
+DOCTOR A320
+They just have to leave their car there?
+
+PATIENT A320
+Yes, the city towed them then they found out where their car went.
+
+DOCTOR A320
+Wow.
+
+PATIENT A320
+Yeah.  They @@@ just you know.
+
+DOCTOR A320
+The city just kind of move their car?
+
+PATIENT A320
+They put them in a lot you know.
+
+DOCTOR A320
+Wow.
+
+PATIENT A320
+I don't know how they did it, I mean they call you in a month, probably put it in a computer and show them where their car was so.
+
+DOCTOR A320
+@@@, not me, not me.
+
+PATIENT A320
+Now next year's going to be a whole different story.
+
+DOCTOR A320
+Oh yeah.
+
+PATIENT A320
+Could be colder.
+
+DOCTOR A320
+Do you how to check out sir?  You have to check out right here sir.
+
+PATIENT A320
+Okay.
+
+DOCTOR A320
+Yeah, just got to the window.
+
+PATIENT A320
+Okay thank you very much.
+
+DOCTOR A320
+Thank you so much sir.
+
+PATIENT LEAVES:  75:05
+
+Time is 4:25.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/255108
+TRANSACTION # 578-10-2-316-0103

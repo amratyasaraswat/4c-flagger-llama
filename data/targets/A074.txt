@@ -1,0 +1,15 @@
+Red Flag (264-295): "I ain't seen you in over a year"
+
+Red Flag (2086-2147): "Yeah well uh I stopped taking, I stopped taking the terazosin"
+
+Probe    (2162-2165): "Why"
+
+Factor   (2246-2408): "So when I stopped taking terazosin my urine got worse but I didn't take the terazosin because I thought the terazosin was causing me to get up three times a night"
+
+CarePlan (2423-2512): "It should be causing you to get up less and maybe letting you get up three instead of six"
+
+Probe    (15431-15480): "Did they tell you not to take the terazosin today"
+
+Probe    (15513-15557): "They didn't tell you not to take it did they"
+
+Probe    (16363-16421): "They told you don't take any prostate medicine for a month"

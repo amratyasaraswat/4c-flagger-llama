@@ -1,0 +1,428 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@ 
+
+DOCTOR F609
+My name is DOCTOR, pleased to meet you.  Um I'm one of the residents working with DOCTOR.  Um is there anything you want to discuss or address at this particular visit?
+
+PATIENT F609
+The main reason that I came in was so that the VA could recertify me for my homemaker @@@ my health has been deteriorating more. @@@ Last time I was here @@@ now this one is going I need to get cataract surgery.
+
+DOCTOR F609
+Cataract surgery? @@@
+
+PATIENT F609
+Multiple problems but cataracts is the first step.  
+
+DOCTOR F609
+And what do you mean by your health deteriorating @@@?
+
+PATIENT F609
+Since I’ve been on dialysis, it stabilized me, but...
+
+DOCTOR F609
+Are you still using the peritoneal dialysis?
+
+PATIENT F609
+No, @@@.
+
+DOCTOR F609
+What do you @@@?
+
+PATIENT F609
+@@@ Monday, Wednesday and Friday.
+
+DOCTOR F609
+Where?
+
+PATIENT F609
+At Greenwood, 37th and Greenwood.  
+
+DOCTOR F609
+And how long have you been on that @@@
+
+PATIENT F609
+@@@ this is the second year going to @@@.
+
+DOCTOR F609
+And @@@.
+
+PATIENT F609
+Well I been on, you know sometimes I've been on dialysis since 2006.  I’ve been on chemo for a year. And @@@ for a year and back on @@@ for a yeard
+
+DOCTOR F609
+And how often, so your health has been deteriorating in the past year because you were on dialysis @@@.
+
+PATIENT F609
+DOCTOR I mean @@@ in the meantime.
+
+DOCTOR F609
+What was that surgery for @@@.
+
+PATIENT F609
+There was blood in the eye @@@. And now there’s blood in this eye. Injected and that helps  But my other eye doctor, so yeah @@@.
+
+DOCTOR F609
+So how often, any other issues, nausea, vomiting, fevers, chills?
+
+PATIENT F609
+No @@@.
+
+DOCTOR F609
+Any chest pain, shortness of breath?
+
+PATIENT F609
+No, the only thing else I got is associated with the dialysis upset stomach, That's part of the dialysis.
+
+DOCTOR F609
+Does that happen before or after?
+
+PATIENT F609
+During.  @@@
+
+DOCTOR F609
+And um any belly pain?
+
+PATIENT F609
+Yes.
+
+DOCTOR F609
+Any diarrhea or constipation?
+
+PATIENT F609
+No.
+
+DOCTOR F609
+Are you @@@.
+
+PATIENT F609
+Yes.
+
+DOCTOR F609
+Any pain when you urinate?  
+
+PATIENT F609
+No.
+
+DOCTOR F609
+How often was the homemaker coming to your house?
+
+PATIENT F609
+Monday, Wednesday and Friday for three hours.
+
+DOCTOR F609
+Each time?
+
+PATIENT F609
+Yes.
+
+DOCTOR F609
+And what was she doing for you, or he?
+
+PATIENT F609
+The laundry. She washes the dishes, she washes the clothes.  Sometimes it's meal if I’m hungry @@@ breakfast @@@.
+
+DOCTOR F609
+Okay.  @@@.
+
+PATIENT F609
+@@@ of minoxidil, metoprolol.
+
+DOCTOR F609
+Where are you getting the medicines from?
+
+PATIENT F609
+Walgreens but I’m getting ready to change that because one of the pharmacists here @@@.
+
+DOCTOR F609
+How much minoxidil @@@ do you use?
+
+PATIENT F609
+@@@ mental health @@@.
+
+DOCTOR F609
+Sure, Minoxidil and metroprolol and
+
+PATIENT F609
+Metoprolol @@@ all of them, but the doctor yesterday told me to cut out some of them. @@@ foresemide @@@
+
+DOCTOR F609
+Okay.
+
+PATIENT F609
+Lisinopril, clonidine @@@.  And then DOCTOR gave me @@@.  I've got two @@@.
+
+DOCTOR F609
+Who has been giving you these medicines?
+
+PATIENT F609
+The doctor?  Generally it should be DOCTOR. The kidney doctor.
+
+DOCTOR F609
+At the dialysis center?
+
+PATIENT F609
+At the dialysis center.  
+
+DOCTOR F609
+@@@?
+
+PATIENT F609
+@@@, heart disease, diabetes, my mother has diabetes @@@ high blood pressure, my sister has M.S., my brother has high blood pressure.  
+
+DOCTOR F609
+Yeah.  Do you smoke?
+
+PATIENT F609
+No.
+
+DOCTOR F609
+Have you ever been a smoker?
+
+PATIENT F609
+Yeah, in high school for about a week @@@.
+
+DOCTOR F609
+@@@ Any drugs like heroine?
+
+PATIENT F609
+No.
+
+DOCTOR F609
+Do you live near Chicago?
+
+PATIENT F609
+Right now, yes.
+
+DOCTOR F609
+And who do you live with?
+
+PATIENT F609
+My 18-year-old son.
+
+DOCTOR F609
+And what’s a good phone number to contact you?
+
+PATIENT F609
+NUMBER
+
+DOCTOR F609
+And you’re blood pressures…
+
+PATIENT F609
+Huh?
+
+DOCTOR F609
+Your blood pressures are looking good.
+
+PATIENT F609
+Yeah I think we finally got it under control.
+
+DOCTOR F609
+@@@.
+
+PATIENT F609
+Yes.  Oh she told me to stop the furosemide and the uh the lisinopril.
+
+DOCTOR F609
+Why?
+
+PATIENT F609
+Because the pressure is so well controlled now.  It used to be like 200 over 100 and something.  And she took me off of some of the medications.
+
+DOCTOR F609
+And have you had um diabetes for how long now?
+
+PATIENT F609
+I don’t have diabetes anymore.
+
+DOCTOR F609
+Oh.
+
+PATIENT F609
+I had it, but not anymore. The dialysis @@@ been perfect for the last few years.
+
+DOCTOR F609
+What do you mean by perfect?
+
+PATIENT F609
+I can’t tell you the numbers right now, but the A1C and the others @@@ for diabetes right around 90, 89. It’s perfect and I don’t do anything to control it @@@ so, it’s hard for doctors to believe that diabetes can be healed.  
+
+DOCTOR F609
+And you have a history of heart attack in the past.  You have um congestive heart failure and then.
+
+PATIENT F609
+Now that’s what they thought, cause the last time I saw a cardiologist, about two years ago, a year and a half, he says my heart’s fine and I don’t need to come back and see him anytime.
+
+DOCTOR F609
+And we don’t have labs since 2006 @@@.
+
+PATIENT F609
+Yeah that was the last @@@.
+
+DOCTOR F609
+Okay.
+
+PATIENT F609
+I’d rather not get blood drawn if I can avoid it.  As a matter of fact, they are going to do labs tomorrow.
+
+DOCTOR F609
+I'm going check, my hands are kind of cole, okay.  
+
+PATIENT F609
+Ah! You live in Chicago right?
+
+DOCTOR F609
+Right exactly yeah.  Stick out your tongue for me.  @@@ for me.  @@@ Deep breath in and out. I’m going to push on your tummy.  
+
+PATIENT F609
+Yeah.
+
+DOCTOR F609
+@@@ this way.  A little bit.
+
+PATIENT F609
+@@@.
+
+DOCTOR F609
+I'm going to talk with my attending and I'll be right back okay.
+
+PATIENT F609
+Okay.  I’ll be here.
+
+DOCTOR F609
+Have you had a colonoscopy?
+
+PATIENT F609
+Uh that's like on the schedule as part of the kidney transplant work up. That’s one of the things I have to do.  I got three things left to do. Get them all done at Rush that’s where they’re going to do the transplant. 
+
+DOCTOR F609
+And what are the other two things? Colonoscopy and . . .
+
+PATIENT F609
+Dental check and then a psychiatric.
+
+DOCTOR F609
+I'll be right back okay.
+
+PATIENT F609
+@@@.
+
+(DOCTOR OUT:  61:46  DOCTOR IN:  68:38)
+
+DOCTOR F609
+@@@ I mean @@@ sorry.  We're going to send you to get some labs because we have nothing in our records and I understand that you’re going to get your labs done at dialysis but.
+
+PATIENT F609
+Could I just sign the sheet that allows you to get a copy from dialysis @@@.
+
+DOCTOR F609
+No because it’s since 2006.  Um how about this, how about you take your lab results from here and take them over there.
+
+PATIENT F609
+Yeah, that doesn’t work.
+
+DOCTOR F609
+Yeah because we don’t have anything and it looks like all they're doing is just giving you the homemaker referral @@@ and we're not following you here, that's the problem.  But all it is is just a blood test; you know you get a blood draw and then you.
+
+PATIENT F609
+@@@ three days a week. You can’t understand. This is the worst pain on the planet, getting a blood draw and it’s three days a week as it is.
+
+DOCTOR F609
+That's what I'm uh asking you to do is go give some blood and then um how often do you usually come in here?  Cause you don't have any, you don't have any follow up on your diabetes.  I can give you any reminders um cause I don't have any records at all of what your blood sugars have been, um cholesterol numbers or any of that stored and you need to ask for your records to be sent over here, they're not in the computer.  Can you go to the Lab today?
+
+PATIENT F609
+I guess I'm gonna have to, I don’t want to.
+
+DOCTOR F609
+And.
+
+PATIENT F609
+Everything that you all do here it costs me money. I got full insurance at the Dialysis Unit.
+
+DOCTOR F609
+It would be better if they provide you with the homemaker if that’s all you’re coming here for.
+
+PATIENT F609
+I don’t think they can.
+
+DOCTOR F609
+How come? If you have full insurance through the @@@.  And did you get the flu shot already or?
+
+PATIENT F609
+No.
+
+DOCTOR F609
+Do you think you’re going to get it or @@@?
+
+PATIENT F609
+No I don't want it.
+
+DOCTOR F609
+You don't want it?
+
+PATIENT F609
+No.
+
+DOCTOR F609
+No okay.  And then are you trying to lose weight.
+
+PATIENT F609
+Yeah @@@ enough medical stuff going on.
+
+DOCTOR F609
+Yeah.  And then what’s your phone number?
+
+PATIENT F609
+NUMBER
+
+DOCTOR F609
+Do you have a pension?
+
+PATIENT F609
+No.
+
+DOCTOR F609
+Or compensation? @@@
+
+PATIENT F609
+Uh Social Security.
+
+DOCTOR F609
+And do you need help with bathing @@@?
+
+PATIENT F609
+No I can do that now.
+
+DOCTOR F609
+You just need help with shopping?
+
+PATIENT F609
+Uh huh, and cleaning.
+
+DOCTOR F609
+@@@ 
+
+PATIENT F609
+@@@ blood pressure @@@ can’t bend over @@@.
+
+DOCTOR F609
+Please go get your labs done today and if there's anything the matter I'll give you a call and then um come back here in four months or so?  Sound okay, alright.  Thank you. And take these to the front desk okay.  Anything else?
+
+PATIENT F609
+@@@.
+
+DOCTOR F609
+@@@.
+
+PATIENT F609
+You have @@@.
+
+DOCTOR F609
+Yes you too, nice seeing you.
+
+PATIENT LEAVES:  74:58
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255178
+TRANSACTION # 578-10-2-316-0103

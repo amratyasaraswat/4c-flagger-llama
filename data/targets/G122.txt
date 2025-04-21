@@ -1,0 +1,21 @@
+Red Flag (202-248): "I missed a couple of appointments I had before"
+
+Probe    (2828-2857): "Are you taking that every day"
+
+Red Flag (3106-3139): "Are you interested in getting one"
+
+Red Flag (3155-3170): "Yeah not really"
+
+Red Flag (3222-3294): "You have some vitamin D deficiency which you get a shot once a month for"
+
+Red Flag (3310-3343): "I haven't gotten any of those yet"
+
+Factor   (3521-3553): "Right I haven't got any of those"
+
+Red Flag (5289-5348): "You know you're blood pressure is still a little high today"
+
+Red Flag (9397-9459): "I've got to figure out to see if I can afford it, $400 a month"
+
+Red Flag (10093-10136): "Have you seen a doctor at all for your eyes"
+
+Red Flag (10152-10165): "No not lately"

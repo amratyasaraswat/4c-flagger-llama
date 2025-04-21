@@ -1,0 +1,865 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR D164
+How you doing?  How are you doing today?
+
+PATIENT D164
+Okay.
+ 
+DOCTOR D164
+So how have you been?
+
+PATIENT D164
+Doing pretty good.
+
+DOCTOR D164
+Any um, do you have any pain?
+
+PATIENT D164
+Oh I kind of subsided a little bit.
+
+DOCTOR D164
+Still there though?
+
+PATIENT D164
+Off and on but mostly not.
+
+DOCTOR D164
+Um.  When do you get the pain now?
+
+PATIENT D164
+If it's there, it's during bowel movements.
+
+DOCTOR D164
+Okay.  Any blood in your stool?
+
+PATIENT D164
+No.
+
+DOCTOR D164
+On a scale of 1-10 how bad is the pain?
+
+PATIENT D164
+Uh when it comes it's not that bad, maybe 1 or 2.
+
+DOCTOR D164
+Okay um.  Well the CT scan that we got of your pelvis.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+And the abdomen um, it didn't show any infection or masses around your rectum.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+But it did show kind of a signal in your pancreas that we don't know what it would be.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+And so the radiologist wanted to repeat a dedicated CT of just the pancreas.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+Um so, I'd like to do that and also I think that we should send you for a colonoscopy um.  We tried, did you do four weeks of antibiotics or two weeks.
+
+PATIENT D164
+I'm sorry?
+
+DOCTOR D164
+Did you do antibiotics for four weeks or two weeks?
+
+PATIENT D164
+Um when you gave it to me I was on that so, it's been about four I would say.
+
+DOCTOR D164
+I think the last time we gave you; we gave you two weeks with one refill.  No we gave you four weeks worth.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+Okay.  Um okay.  We checked your cholesterol on the 25th of August.
+
+PATIENT D164
+Right.
+
+DOCTOR D164
+And that was high.
+
+PATIENT D164
+It was high?
+
+DOCTOR D164
+Yeah.  Your bad cholesterol was 162 and so um it should really be and you don't have any diabetes?
+
+PATIENT D164
+Uh uh.
+
+DOCTOR D164
+No history of heart attack or anything like that?
+
+PATIENT D164
+No.
+
+DOCTOR D164
+Um so it should really be under 130 and then your total cholesterol was 238 and that should be under 200.
+
+PATIENT D164
+Hmm.
+
+DOCTOR D164
+Um the reason I always get cholesterol levels is because they’ve found that there's an increased risk of heart attack and stroke with high cholesterol.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+And so for the long term the blended measure um, so there are medications that can decrease your cholesterol called statins, simvastatin and Lipitor.
+
+PATIENT D164
+Uh-huh, yeah I'm familiar with it.
+
+DOCTOR D164
+So have you ever been on it at any in the past?
+
+PATIENT D164
+Yeah like maybe ten years ago I was on it for a little while.
+
+DOCTOR D164
+Okay.  Why did you stop?
+
+PATIENT D164
+I just didn't refill the medication.
+
+DOCTOR D164
+Did you have any muscle cramps or pain?
+
+PATIENT D164
+No, I don't know if it was the result of the medications but sometimes I get cramps in my leg but you know maybe that's from running and stuff.
+
+DOCTOR D164
+Okay.  The biggest complaint people have is sometimes they get muscle pains.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+If that's the case then we just stop it and give you a different medication to try.  Um we also need to monitor your liver enzymes.  Sometimes people when they start the medications the liver, your liver processes the drug.
+
+PATIENT D164
+Right.
+
+DOCTOR D164
+Sometimes people's livers can respond by increasing the enzymes.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+And so if it increases too high then we have to stop the drug as well.
+
+PATIENT D164
+Hmm.
+
+DOCTOR D164
+So what we do is just test your liver enzymes now and then in six weeks or so again to see if they've gone up um while you're on the medications.  Most people are completely fine.  Sometimes people need to stop it and then there are other things um that don't work quite as well as the statins that's why we start with them first but um, yeah most people tolerate it really well.  Uh any fevers or chills or chest pains?
+
+PATIENT D164
+No.
+
+DOCTOR D164
+Your last colonoscopy was in 2000 okay.  You're due for another colonoscopy.
+
+PATIENT D164
+Now when I took the barium, that you sent me, what was that for?  Is that just a dye or something?  Cause they sent me something in the mail that I had to drink or something when I had a CT scan.
+
+DOCTOR D164
+Uh yeah that was for the um CT scan.
+
+PATIENT D164
+That's not a colonoscopy?
+
+DOCTOR D164
+No.  
+
+PATIENT D164
+Oh.
+
+DOCTOR D164
+The colonoscopy is a camera study with a camera on kind of like a hose.
+
+PATIENT D164
+Right.
+
+DOCTOR D164
+And that they, you know you had it before.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+But the, so the barium there was the contrast for the CT scan.
+
+PATIENT D164
+Oh.
+
+DOCTOR D164
+So you swallow it and it glows on the scan.
+
+PATIENT D164
+Oh okay, yeah you drink that terrible stuff.
+
+DOCTOR D164
+Yeah I'm sure it's terrible.  But the prep for the colonoscopy is not much better um.  I've never had one myself but I've heard it doesn't taste as bad as the barium but it cleans you out.  @@@.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+They want you to be clean um.  Yeah I'm trying to think of what other things could be causing the pain.  You know you could have like a small tear inside.  Sometimes in people if they're constipated or their stools are hard, some are actually hard enough to tear the lining.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+And that causes pain and that can be sort of heal slowly over months.  Sometimes it just tears and if that happens it needs a repair with a stitch @@@.  Um @@@ antibiotics to prevent infection @@@.
+
+PATIENT D164
+No like 90% there's no pain but when there is, I can feel it.
+
+DOCTOR D164
+It's possible that you did get a, like you did get a small tear or something um and it just heals slowly.  But given that you had polyps in the past.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+You’re due for a colonoscopy regardless.  Um and then because of the um pancreas, you know it could be absolutely nothing but it’s worth following up on just to rule it out.  Um you know it's an incidental finding but…
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+… it’s the kind of thing that if it were something that you haven't found it before, @@@
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+@@@.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+So more than likely it's nothing but um it's nothing but something that we would advise for right now.  Um, these are the only outstanding things from the last visit, how are things going otherwise?
+
+PATIENT D164
+Pretty good.
+
+DOCTOR D164
+Okay.  Um any luck finding work since the last time?
+
+PATIENT D164
+I'm sorry?
+
+DOCTOR D164
+Any luck finding work since the last time?
+
+PATIENT D164
+No.
+
+DOCTOR D164
+A lot of guys out of work this time.
+
+PATIENT D164
+We're unemployed.
+
+DOCTOR D164
+Yeah.
+
+PATIENT D164
+I'm looking so.
+
+DOCTOR D164
+Well that's good.  Um any difficulty sleeping at night?
+
+PATIENT D164
+Every once in a while I have trouble getting to sleep but normally I just get myself tired so I just.
+
+DOCTOR D164
+Yeah.  Okay good.  Um so we'll start the statin today and I'll put in the request for the colonoscopy.  For the colonoscopy they make you do some more blood work.  They test your electrolytes and that sort of thing.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+Um your iron studies and stuff like that.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+So you'll be getting blood drawn beforehand so.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+And then just doing the prep @@@.
+
+PATIENT D164
+And that is going to be sent to me again probably?
+
+DOCTOR D164
+I'll put in for it and they should call you with a date to make an appointment um.  You don't take aspirin.  You should probably be on a daily aspirin uh I wouldn't start it before the procedure.  
+
+PATIENT D164
+Uh uh.
+
+DOCTOR D164
+Okay so don't start it now.  They'll want you to stop it five days before the colonoscopy.
+
+PATIENT D164
+But I should be taking aspirin?
+
+DOCTOR D164
+Yeah I think so um.  Yeah they found that it's just for heart health it decreases the risks of stroke and heart attacks.
+
+PATIENT D164
+Hmm.
+
+DOCTOR D164
+So it's 81 mg daily, just the tiny baby size.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+Uh they think that it decreases the risk of forming blood clots and things like that and people seem to tolerate it pretty well.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+It looks like you're probably taking two extra pills, the statin.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+The aspirin and then the colonoscopy and CT scan.
+
+PATIENT D164
+Okay.  So I got to get another CT scan?
+
+DOCTOR D164
+Yeah just of the pancreas.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+The one we did was from here to here, kind of the broad, wide view.
+
+PATIENT D164
+Right.
+
+DOCTOR D164
+This one will be more narrow.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+With more details.  Alright can I get a quick listen to you?
+
+PATIENT D164
+Okay.  Should I sit over here?
+
+DOCTOR D164
+Yes, please. Um.
+
+PATIENT D164
+Do I have to uh pick up anything today or will it be mailed to me?
+
+DOCTOR D164
+We can have you pick up the Lipitor today, the simvastatin.  Otherwise we can mail it to you.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+Do you want us to mail it to you?
+
+PATIENT D164
+Yeah if you don't mind.
+
+DOCTOR D164
+Yeah sure.
+
+PATIENT D164
+@@@  How about blood work today, do I have to do it today?
+
+DOCTOR D164
+You don't have to do it today, just before you get the colonoscopy.  I put the order in the lab and you can go in and get it.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+It'll just be a standing order.
+
+PATIENT D164
+Alright.
+
+DOCTOR D164
+If they don't see the blood work when they get the consult.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+They'll reject it.
+
+PATIENT D164
+Oh okay.
+
+DOCTOR D164
+So get it sooner rather than later, can you come in Monday or Tuesday?
+
+PATIENT D164
+Of this week?
+
+DOCTOR D164
+This coming week yeah?
+
+PATIENT D164
+Oh.
+
+DOCTOR D164
+You know what we can do instead is I'll order the blood work.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+And then you get it whenever you want to and then I'll put in the order for the colonoscopy after we've received the blood work.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+Then they don't reject it.
+
+PATIENT D164
+Right, right.  That'd be better.
+
+DOCTOR D164
+Okay, I'll do that.  Take a couple of deep breaths.  @@@.  Okay.  Couple of deep breaths.  Okay.  You can breathe normally while I listen to your heart.  Okay.  Can you lie back for me please?  Any pain up here?  It hurts?
+
+PATIENT D164
+Oh it hurts right in here.
+
+DOCTOR D164
+Do you ever get heartburn or reflux-type symptoms?
+
+PATIENT D164
+Yeah I've had them before too.
+
+DOCTOR D164
+Just right in the middle?
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+Have you ever tried omeprazole or any other kind of heartburn medications?
+
+PATIENT D164
+Oh no not really.
+
+DOCTOR D164
+Okay.  Right here in the middle?  A little bit more?
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+A little more, here?
+
+PATIENT D164
+Right around in here so, you know.
+
+DOCTOR D164
+Okay.  How much alcohol do you drink?
+
+PATIENT D164
+Hmm hardly any.
+
+DOCTOR D164
+You can sit up.  Um alright.  So one of the things it could be is uh acid reflux um.  
+
+PATIENT D164
+I do have a history of that.
+
+DOCTOR D164
+Yeah.  Do you want to try some medication for it?  We could do two weeks and see if it calms it down.
+
+PATIENT D164
+No.
+
+DOCTOR D164
+Either that or try avoiding spicy foods and that kind of thing.
+
+PATIENT D164
+Yeah maybe I should just try avoiding foods.
+
+DOCTOR D164
+Okay.  Whichever you decide to do, if it's still bothering you next time then uh you we could always think about trying something.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+Do you get it lying down?
+
+PATIENT D164
+Sometimes I have it laying down yeah.
+
+DOCTOR D164
+Is it worse after meals?
+
+PATIENT D164
+Right after meals but then it goes away.
+
+DOCTOR D164
+Does it wake you up at night?
+
+PATIENT D164
+It used to.
+
+DOCTOR D164
+Okay.  But it's been okay recently?
+
+PATIENT D164
+Been okay recently.
+
+DOCTOR D164
+Alright.  We could take it slow um.  There's a couple of over-the-counter things that work pretty well.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+Um you know the Prevacid.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+Um that's the same medication we give here it's just a weaker dose, you can get like a two week course and sometimes when people get.
+
+PATIENT D164
+Yeah I used to get samples of those.
+
+DOCTOR D164
+Yeah.  Unfortunately, we don't have any samples at the VA um but uh we could get you @@@.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+Uh let me just run this stuff by my attending and uh I'll be right back okay.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+Any questions?
+
+PATIENT D164
+Um not at the moment.
+
+DOCTOR D164
+Okay.
+
+(DOCTOR OUT:  41:38  DOCTOR IN:  49:05
+
+PATIENT D164
+(Knock on door)  Hello.
+
+DOCTOR D164
+Okay so, we'll start the simvastatin um and then we'll get you a colonoscopy.  I think the last time you were here you got a urine test.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+To see if there were any white blood cells.  When you get your labs can you get another urine test to see we can catch anything now that you’re off antibiotics? Just to be on the safe side?
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+Okay so that's good.  We'll send you the medication called simvastatin.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+Um so we'll have you do the labs and you'll get a call about the colonoscopy.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+And the CT, I'll put in and they should call you @@@.
+
+PATIENT D164
+Okay.  And the phone number, do you have my home phone?  PHONE NUMBER.
+
+DOCTOR D164
+Yeah.
+
+PATIENT D164
+A better number is my cell phone.  I can give that to you.
+
+DOCTOR D164
+Okay.  Do you, I can't um edit this.
+
+PATIENT D164
+Oh okay.
+
+DOCTOR D164
+You can give it to them at the front desk and ask them to put it in for me when you sign out.
+
+PATIENT D164
+Oh yeah sure, I can do that.
+
+DOCTOR D164
+I'd like to see you back probably three months.  If there's anything pressing.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+I'll call you before that and we'll get you in sooner.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+But otherwise we'll see what the lab shows.  So you're doing the labs in the next week.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+And then we'll repeat your liver enzymes and check that.  
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+And repeat this to see if the so um.  I'm sure they'll call you on the CT scan and the colonoscopy.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+You can go to the lab any day to get your labs drawn.  Um sooner rather than later, if you can get them next week that'd be great then we can get the colonoscopy in a week or two and then recheck labs again.
+
+PATIENT D164
+Okay.  So some time next week I just come in for those?
+
+DOCTOR D164
+Yeah just go to the Lab downstairs, @@@.
+
+PATIENT D164
+Right.  So I don't have to have an appointment for that?
+
+DOCTOR D164
+Nope, just come in.
+
+PATIENT D164
+And they know what.
+
+DOCTOR D164
+Yeah it'll be in the computer so you give them your name and everything will pop up.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+So we've got labs um oh and uh @@@.  Should be one pill a day.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+So that's something they give it at night.  They actually found that the body makes more cholesterol while you sleep so take it before bed.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+@@@.
+
+PATIENT D164
+Hmm.  Okay.  So let's say I do it basically, just come in any time and get the blood work done.  Now when I get the CT test done they're going to do some more blood work right on the day or whatever.
+
+DOCTOR D164
+Uh.
+
+PATIENT D164
+Or do I have to.  I won't have to take any kind of dye for this time or?
+
+DOCTOR D164
+To do this contrasting again?
+
+PATIENT D164
+The CT.
+
+DOCTOR D164
+Yeah they probably have to.
+
+PATIENT D164
+Do they have to do the dye again?
+
+DOCTOR D164
+I don't think they use any dye for the bowel, you know the drinking dye.
+
+PATIENT D164
+Yeah.
+
+DOCTOR D164
+They'll probably give you the IV dye.
+
+PATIENT D164
+Oh yeah well that's no problem.  The other wasn't a problem either but.
+
+DOCTOR D164
+Yeah it depends.  If you're not looking directly at the uh intestines, it shouldn't have to be the oral dye.
+
+PATIENT D164
+Uh-huh.
+
+DOCTOR D164
+But I'm not 100% sure okay.  @@@.
+
+PATIENT D164
+And then the colonoscopy is something different.
+
+DOCTOR D164
+Yeah the whole clean out of the intestines.
+
+PATIENT D164
+Right.
+
+DOCTOR D164
+And so get the labs next week and then they should call to schedule the colonoscopy and the CT scan.
+
+PATIENT D164
+Okay.
+
+DOCTOR D164
+And show up and do your labs.
+
+PATIENT D164
+Alright.
+
+DOCTOR D164
+Okay.
+
+PATIENT D164
+So um I'll update the phone number because you might not be able to get through on the landline.
+
+DOCTOR D164
+Yeah give them your cell.
+
+PATIENT D164
+I'll tell them.
+
+DOCTOR D164
+You'll be here anyway; I said something in your note so.
+
+PATIENT D164
+Cause when you call me because.
+
+DOCTOR D164
+Yes.
+
+PATIENT D164
+Sometimes the phone just goes out and huh you might get a busy signal.
+
+DOCTOR D164
+Sure.
+
+PATIENT D164
+So my cell phone is PHONE NUMBER.
+
+DOCTOR D164
+Uh-huh.  Okay.
+
+PATIENT D164
+I'll be able to answer that.
+
+DOCTOR D164
+And then @@@ bowel cleanse.  Do you follow with Mental Health here?
+
+PATIENT D164
+Uh yes.
+
+DOCTOR D164
+Okay.  So do they do the.
+
+PATIENT D164
+I'm on medication with that too.
+
+DOCTOR D164
+Uh-huh.  Oh you've seen them recently.
+
+PATIENT D164
+Yeah I see them now.
+
+DOCTOR D164
+Okay good.  Alrighty.  If there's anything else um.
+
+PATIENT D164
+Yeah I'm in the middle of a @@@ with PTSD.
+
+DOCTOR D164
+Oh yeah.
+
+PATIENT D164
+And then I guess I'm seeing my psychologist, psychiatrist again pretty soon, the end of this month I think.  I got to look and actually see.
+
+DOCTOR D164
+Okay you're all set.
+
+PATIENT D164
+Okay thank you very much.
+
+DOCTOR D164
+Okay, take this to the front desk on the way out.
+
+PATIENT D164
+Okay.
+
+PATIENT LEAVES:  57:27
+
+Time is 2:50 p.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238129
+TRANSACTION # 578-10-2-316-0103

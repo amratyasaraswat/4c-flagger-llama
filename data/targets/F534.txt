@@ -1,0 +1,33 @@
+Red Flag (1008-1026): "medicine for sinus"
+
+Red Flag (1063-1095): "But they never did send it to me"
+
+Factor   (1072-1095): "never did send it to me"
+
+Red Flag (1132-1160): "You know they didn't send it"
+
+Factor   (1132-1160): "You know they didn't send it"
+
+Red Flag (1195-1241): "And they never did send and the cough medicine"
+
+Red Flag (5186-5233): "about it but they haven't been sending it to me"
+
+Factor   (5199-5233): "they haven't been sending it to me"
+
+Probe    (5254-5267): "I'll check it"
+
+CarePlan (5284-5319): "maybe you can pick it up here today"
+
+Factor   (6183-6251): "But the @@@ said they gonna mail it to me but they never did send it"
+
+Red Flag (8893-8948): "That's the one they didn't send me right? For allergies"
+
+Red Flag (10809-10893): "Well they asked you if you wanted to get treated but you decided you would just wait"
+
+Factor   (10915-10948): "I think he went on pills for that"
+
+CarePlan (10963-11081): "Well they gave him pills because it's enlarged and it obstructs the urinary flow but that doesn't cure the cancer okay"
+
+CarePlan (11118-11349): "But those are two different things. It might be enlarged because of the cancer but your prostate does get enlarged when you age and so it obstructs the flow of the urine and that's why they give you the medications to help you pee"
+
+Red Flag (21733-21924): "You can get that today; let's see the last time you got it. It's been a while. Cause sometimes the lisinopril, the last time you got it was August 29th so it's been a while since you got it"

@@ -1,0 +1,107 @@
+Red Flag (501-582): "The ones that I got, they were supposed to give me eye drops but I never got them"
+
+Factor   (566-582): "I never got them"
+
+Probe    (659-694): "Artificial tears they're right here"
+
+Probe    (763-793): "In January they delivered them"
+
+Factor   (809-826): "I didn't get them"
+
+Probe    (841-857): "They mailed them"
+
+Probe    (1078-1101): "And what's your address"
+
+Red Flag (1746-1783): "And did you see the eye doctor at all"
+
+Red Flag (1799-1801): "No"
+
+Factor   (1869-1921): "They're gonna give me an appointment, who knows when"
+
+CarePlan (2128-2265): "Yeah, so you're a patient of them. If I was you I'd go down there because once you're a patient you have to call and make an appointment"
+
+CarePlan (2300-2379): "So go down there, make an appointment, tell them my eyes have been bothering me"
+
+Red Flag (2662-2707): "Have you ever gotten the shingles vaccination"
+
+Red Flag (2723-2741): "Not that I know of"
+
+Probe    (2756-2775): "Have you refused it"
+
+Red Flag (4125-4168): "But they were supposed to send me eye drops"
+
+Factor   (4170-4186): "I never got them"
+
+Red Flag (4487-4512): "I never got the eye drops"
+
+Probe    (4527-4560): "Let me see. Did he even order it"
+
+Factor   (4583-4622): "he never ordered the eye drops actually"
+
+Probe    (4715-4782): "Did he say he wanted you to get the eye drops that were antibiotics"
+
+Probe    (5017-5066): "But do you get the artificial tears at your house"
+
+Probe    (5146-5177): "So you got the artificial tears"
+
+Factor   (5193-5236): "No. I got just the clean, to clean my eyes"
+
+Probe    (5569-5594): "Okay are you taking these"
+
+Factor   (5610-5656): "No. Cause I didn't get them, that's the tears"
+
+Red Flag (6138-6193): "But that, the lisinopril. I stopped taking one of them"
+
+Probe    (6208-6211): "Why"
+
+Probe    (6263-6280): "Who told you that"
+
+Factor   (6641-6710): "I don't know if it was lisinopril or listopril or something like that"
+
+CarePlan (6935-7006): "So we didn't stop the lisinopril but we stopped the hydrochlorothiazide"
+
+CarePlan (7142-7251): "Diabetes, previous Lantus, normotensive, on the ACE inhibitors which is lisinopril. He didn't say to stop it"
+
+Factor   (7344-7386): "I know one of them I didn't get it no more"
+
+CarePlan (7401-7425): "Yeah hydrochlorothiazide"
+
+CarePlan (7938-7967): "It wasn't the lisinopril then"
+
+Factor   (8020-8051): "Uh maybe they call it listopril"
+
+CarePlan (8066-8088): "No, no, no, lisinopril"
+
+CarePlan (8066-8088): "No, no, no, lisinopril"
+
+Probe    (9196-9359): "But it's one thing to give you the medication and it’s one thing if you still had it at home and you've been taking it. So you don't know which ones you're taking"
+
+Factor   (9375-9464): "Not really. I just take them cause there's a ton in the morning and a ton in the evening"
+
+Red Flag (9489-9494): "sugar"
+
+Red Flag (9528-9597): "Yeah just that when it drops, my reaction is eat a candy or something"
+
+Red Flag (10429-10495): "There's all these labs I wanted you to get and you didn't get them"
+
+Probe    (10550-10589): "Why didn’t they draw any of these today"
+
+Factor   (10633-10655): "there's no stool order"
+
+CarePlan (10658-10693): "Alright I'll have to do another one"
+
+Red Flag (10702-10745): "you don't want to get the colonoscopy right"
+
+CarePlan (10906-10940): "I'm putting it in in the lab right"
+
+CarePlan (11542-11680): "the eye drops are already ordered so it's not like I could do anything. I would call the Pharmacy and make sure they give you another one"
+
+CarePlan (11717-11778): "And just let them know that you never got the one before that"
+
+CarePlan (11965-11991): "Call them you can renew it"
+
+CarePlan (12026-12104): "It's there. All you have to do is just call and have them send it to you okay"
+
+CarePlan (21181-21216): "so you need to call about the drops"
+
+CarePlan (24370-24415): "And who you gonna call about your medications"

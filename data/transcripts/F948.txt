@@ -1,0 +1,1677 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:    @@@
+
+DOCTOR F948
+Hi.
+
+
+PATIENT F948
+Yes ma'am.
+
+
+DOCTOR F948
+@@@
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+Okay.
+
+
+PATIENT F948
+Nope I've got it.
+
+
+DOCTOR F948
+Hello.
+
+
+PATIENT F948
+Hi.
+
+
+DOCTOR F948
+This is NURSE.
+
+
+PATIENT F948
+Hi NURSE.
+
+
+DOCTOR F948
+@@@.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+I hope you don't mind.
+
+
+PATIENT F948
+I'm okay, no problem.
+
+
+DOCTOR F948
+No problem.  I haven't seen you in a while.
+
+
+PATIENT F948
+Well.
+
+ 
+DOCTOR F948
+You keep canceling your appointments with me.
+
+
+PATIENT F948
+Uh no one, no my scooter.
+
+
+DOCTOR F948
+What's the deal?
+
+
+PATIENT F948
+My scooter lift is broke.
+
+
+DOCTOR F948
+Oh no.  Are you trying to get that fixed?
+
+
+PATIENT F948
+Yeah they told @@@.  It has been three weeks now.  I guess he's trying to get as many people on the contract before we get it fixed.
+
+
+DOCTOR F948
+You know that's really um, tough to get these things fixed.
+
+
+PATIENT F948
+Yeah but the scooter gets me around and the lift is here with me.
+
+
+DOCTOR F948
+Yeah, your INR is low today, you been taking your Coumadin?
+
+
+PATIENT F948
+No.  I have an endoscope scheduled for Monday.
+
+
+DOCTOR F948
+Yeah.
+
+
+PATIENT F948
+And so um, NURSE the Coumadin nurse instructed me not to take my dosage the third and the fourth and report to him today, you know to get the level done.
+
+
+DOCTOR F948
+Oh, okay, gotcha, oh gotcha, gotcha, yeah.  You're gonna get an endoscope?  Who got you and endoscope, yeah I didn't get you an endoscope.
+
+
+PATIENT F948
+The liver doctors at Jesse Brown.
+
+
+DOCTOR F948
+Oh, okay.  So you are up for an, wait are you getting an endoscopy or colonoscopy?  Above or below?
+
+
+PATIENT F948
+Above.
+
+
+DOCTOR F948
+Above okay.
+
+
+PATIENT F948
+So.
+
+
+DOCTOR F948
+And um, let me see.
+
+
+PATIENT F948
+It's uh Monday the 9th at 7:30, 8:30 something like that.
+
+
+DOCTOR F948
+I hope it's not, I hope so cause it's not on here, let me see.
+
+
+PATIENT F948
+Well, I got the paperwork.
+
+
+DOCTOR F948
+Oh yeah, okay, well if they've got you set up I believe em, you know cause they know that.
+
+
+PATIENT F948
+Here is the appointment form, for @@@.
+
+
+DOCTOR F948
+The liver doctor at Jesse Brown, what did they say?  They said the . . .
+
+
+PATIENT F948
+They said my liver is funcitoning
+
+
+DOCTOR F948
+Oh, they wanted to check to see if you had any of those blood vessels.
+
+
+PATIENT F948
+Yeah, right, which I do, but they want, this is the second one.
+
+
+DOCTOR F948
+Okay, gotcha.  We'll look at that, oh this is over; this is over at Jesse Brown though huh.
+
+
+PATIENT F948
+Right.
+
+
+DOCTOR F948
+Not here.
+
+
+PATIENT F948
+No, no.
+
+
+DOCTOR F948
+Okay, gotcha, now it's clear.
+
+
+PATIENT F948
+Right.
+
+
+DOCTOR F948
+It is not going to show if it is at Jesse Brown on my computer.
+
+PATIENT F948
+Oh, okay.  Well, you can't access those files.
+
+
+DOCTOR F948
+Yeah I can't.
+
+
+PATIENT F948
+You just said.
+
+
+DOCTOR F948
+It just doesn’t show here, I have to look at a special place.
+
+
+PATIENT F948
+Okay, okay.  I see, okay.
+
+DOCTOR F948
+Okay so they're looking for the vessels?
+
+
+PATIENT F948
+Right I guess.
+
+
+DOCTOR F948
+Making sure they're okay.  You've never had bleeding right?
+
+
+PATIENT F948
+No.
+
+
+DOCTOR F948
+Of the vessels?
+
+
+PATIENT F948
+No what they did it before.
+
+
+DOCTOR F948
+Yeah, okay.
+
+
+PATIENT F948
+Uh and they found out that I did have some varices in the, in the stomach.
+
+
+DOCTOR F948
+Are you taking your water pill?
+
+
+PATIENT F948
+Uh I am taking it occasionally, I'm taking it.
+
+
+DOCTOR F948
+You know might get into trouble when you don't take em right?
+
+
+PATIENT F948
+I know, I know.
+
+DOCTOR F948
+I know the liver doctor gets on ya, right?
+
+
+PATIENT F948
+Yes I do, I just you know.
+
+
+DOCTOR F948
+So you ran out, so I'm gonna renew okay.
+
+
+PATIENT F948
+Okay, you'll need to get through.
+
+
+DOCTOR F948
+You need that Lactulose.
+
+
+PATIENT F948
+Yeah right, right.
+
+
+DOCTOR F948
+Okay right.  So you have uh hepatitis cirrhosis and then he has varices and then he has occasional encephalopathy and the fluid is from the spleen, that makes more sense.
+
+
+PATIENT F948
+Okay so.
+
+
+DOCTOR F948
+I'm gonna renew these meds okay?
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+Cause you need them.
+
+
+PATIENT F948
+Can I pick em up this evening?
+
+
+DOCTOR F948
+Yeah, let's do that.
+
+
+PATIENT F948
+Okay.  I have a form from uh, uh Human, The Illinois Department of Human Services.
+
+
+DOCTOR F948
+Yeah, what is it for?
+
+
+PATIENT F948
+It's for they want to provide me service, home care service.
+
+
+DOCTOR F948
+Okay,I think I’m okay with that.  Help you out with your medicines.
+
+
+PATIENT F948
+Yeah and you know.
+
+
+DOCTOR F948
+And your weight.
+
+
+PATIENT F948
+You know, work around the house like you know dishes and groceries and stuff.
+
+
+DOCTOR F948
+Oh, is it the Department of Aging?
+
+
+PATIENT F948
+No, Rehabilitative Service.
+
+
+DOCTOR F948
+Rehab.  I can fill this out for you
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+Okay.  Um, you live by yourself right?
+
+
+PATIENT F948
+Yes, it's just me.
+
+
+DOCTOR F948
+Okay, well let's see last time you haven't seen me in so long, we should be seeing you every three months to be honest.
+
+
+PATIENT F948
+Doctor uh.
+
+
+DOCTOR F948
+I know, I know it's hard.
+
+
+PATIENT F948
+I supposed to have my eyes checked too but they haven't been times, you know they haven't even contacted me about that.
+
+
+DOCTOR F948
+So we can put that in for you.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+An eye appointment.  Are you service-connected?
+
+
+PATIENT F948
+I'm 100% yes.
+
+
+DOCTOR F948
+100%.  So I could order anything for you that.
+
+
+PATIENT F948
+Right, right.  I see that you've already you @@@ picked out my appointments @@@.
+
+
+DOCTOR F948
+Let's see.  @@@ to me, oh Lord, @@@.
+
+
+PATIENT F948
+I know it is, you know I knew @@@ my eyes is nothing, my nerves @@@.
+
+
+DOCTOR F948
+Yeah it's because you're not taking your water pills.  You're full of fluid.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+For you your fluid dependent okay.
+
+
+PATIENT F948
+Oh.
+
+
+DOCTOR F948
+The more fluid you have on you, the higher your blood pressure is.
+
+
+PATIENT F948
+Right.
+
+
+DOCTOR F948
+Okay, you need to be on the water pill.
+
+
+PATIENT F948
+Well but where the fluid, I urinate the fluid out?
+
+
+DOCTOR F948
+Oh yeah.
+
+
+PATIENT F948
+Well I'm doing that anyway.
+
+
+DOCTOR F948
+I know, that's because you have a lot on you.
+
+
+PATIENT F948
+Yeah okay.
+
+
+DOCTOR F948
+You gotta watch what you eat right?
+
+
+PATIENT F948
+Right.
+
+
+DOCTOR F948
+What you drinking.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+If you're drinking too much, you've taken in too much salt, you're gonna retain all that fluid.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+You have a tendency because your liver doesn't, isn't 100% you know.
+
+
+PATIENT F948
+Uh-huh.
+
+
+DOCTOR F948
+So you retain fluids, you have low protein probably, low albumin as they call it, low protein.  So you keep all that fluid in you.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+So the water pill, you gotta be on it.
+
+
+PATIENT F948
+I know doctor, I keep.
+
+
+DOCTOR F948
+And I know you don't want to take it.
+
+
+PATIENT F948
+I keep saying, the same thing@.  But I've been so busy trying to like just get through the day, I tend of forget about it, just focus on the now with what I have to get done.  If I have to get a letter out, pay a bill or whatever.  The first of the month I go prepare things, go to the bank get the money, go to Cashay, get the money orders and then get around to pay the people.  Uh, so I'm just so focused doing that, if it's not an emergency I usually have a tendency not to put that high on the priority list.
+
+DOCTOR F948
+Let me see, okay here's your liver doctor.  I want to see what your liver doctor says.
+
+
+PATIENT F948
+He said he didn’t want to put me back on interferon.
+
+
+DOCTOR F948
+He said he wanted to?
+
+
+PATIENT F948
+He didn't and I was upset about that, somebody will kill me, I don't believe it.
+
+
+DOCTOR F948
+You're not a candidate um.
+
+
+PATIENT F948
+For a liver transplant.
+
+
+DOCTOR F948
+For a transplant because of the depression um.
+
+
+PATIENT F948
+So that you mean for the…
+
+
+DOCTOR F948
+No, no, no, not that um, cause you are not, you're intolerant to the interferon.
+
+
+PATIENT F948
+Right, right.
+
+
+DOCTOR F948
+So only on water pills and some Lactulose, he wanted to check your liver function twice a year.  He wanted to do an ultrasound.  He wants to do the endoscopy.
+
+
+PATIENT F948
+Okay, they did the ultrasound.
+
+
+DOCTOR F948
+Yeah and then he said um, for us to follow your Coumadin, which we did.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+Um okay and then okay.  @@@.  Alright, let's see from my standpoint, what have I got to do for you.  So any ulcers on your leg, are all those healed up?
+
+
+PATIENT F948
+No, they’re not.  It's just you know they Jesse Brown gave me the whatcha call it, the pressure and every once in a while like a blister get on em, fill the water.
+
+
+DOCTOR F948
+They're supposed to drain, remember the first time I met ya.
+
+
+PATIENT F948
+Yeah, I know.
+
+
+DOCTOR F948
+That was bad ulcers.
+
+
+PATIENT F948
+I know but they was, they gave, they gave me that, they gave me that pressurized thingy, I don't do it religiously.  The doctor told me, he said if you do that, it'll restore your leg, all we got almost 100%.
+
+DOCTOR F948
+All this is the fluid.
+
+
+PATIENT F948
+Right.
+
+
+DOCTOR F948
+All of this is water.  I remember when I first met you, I remember.  Okay, um, can you get up on the table for me?  Is it . . .
+
+PATIENT F948
+Yes.  Do you want me to take my jacket off?
+
+
+DOCTOR F948
+Yeah that would be great.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+@@@....right here for you
+
+
+PATIENT F948
+I think I'm gonna back up here, so if I was like over there, somebody'd come in and knock me off.
+
+DOCTOR F948
+No one’s coming in.
+
+
+PATIENT F948
+I don't know, you don't know me and my luck.  Somebody will come in.
+
+
+DOCTOR F948
+@@@ uh, I'll hang your jacket up for you.
+
+
+PATIENT F948
+Oh.  That you can put it over there.  @@@.
+
+
+DOCTOR F948
+There we go.
+
+PATIENT F948
+See this.
+
+
+DOCTOR F948
+Did they weigh you @@@?
+
+
+PATIENT F948
+Yeah, I’m still 76, 67 I haven’t gained that much weight those scales, @@@ cause I haven't lost much weight
+
+DOCTOR F948
+How many times a day do you take your Coumadin?
+
+
+PATIENT F948
+When I take it, I take it uh four times a week.  I take it, I take it every day.
+
+
+DOCTOR F948
+Uh-huh.
+
+
+PATIENT F948
+What I take on Wednesday and Fridays, no, Wednesday and Saturdays I take it like 10 mg.
+
+
+DOCTOR F948
+Uh-huh.
+
+
+PATIENT F948
+And on those other days I take 2.7 or 7.4.
+
+
+DOCTOR F948
+Okay, okay.  What time during the day do you take it?
+
+
+PATIENT F948
+I take it in the evening time like 10 o'clock, same time.
+
+
+DOCTOR F948
+So 10 o'clock.
+
+
+PATIENT F948
+Yeah.
+
+
+DOCTOR F948
+Oh wow, look at all this.  How many times a day are you supposed to take your water pill?
+
+
+PATIENT F948
+I'm supposed to take like every day.
+
+
+DOCTOR F948
+Every day?
+
+
+PATIENT F948
+Yeah uh, well I can tell you something I don't take that much and when she ordered it I”m gonna start taking it..
+
+DOCTOR F948
+If you take two times each day, once in the morning when you wake up, that way you'll remember I need to take one pill when I wake up in the morning and then I need to take one pill when I go to sleep at night.
+
+PATIENT F948
+Right, yeah.  I'm not @@@, blowin up, that's why I needed the endoscope
+
+
+DOCTOR F948
+Umm.
+
+
+PATIENT F948
+they say it’s the fluid.
+
+
+DOCTOR F948
+Umm.
+
+PATIENT F948
+@@@...gas or air or whatever…
+
+
+DOCTOR F948
+Umm.
+
+
+PATIENT F948
+@@@ thought I got pneumonia @@@ or maybe just gas or something.
+
+
+DOCTOR F948
+How long have your stomach been so bloated ?
+
+
+PATIENT F948
+Well he first started doing it in the last year.
+
+
+DOCTOR F948
+In the last year?
+
+
+PATIENT F948
+Yeah.
+
+
+DOCTOR F948
+Are there times when you wake up @@@ or has it gotten bigger or sometimes it's smaller.
+
+
+PATIENT F948
+@@@ growing yeah.  But now I can't even bend over.  It used to be, something like varicose, @@@ so I assuming it is bigger.
+
+
+DOCTOR F948
+Uh-huh.
+
+
+PATIENT F948
+and my pants size is bigger.
+
+
+DOCTOR F948
+The ultrasound is of your liver, is that right?
+
+
+PATIENT F948
+They did the whole liver area.
+
+
+DOCTOR F948
+The whole side.
+
+
+PATIENT F948
+And the whole shoulder too, @@@.
+
+
+DOCTOR F948
+Well we’ll definitly look at it  There's a lot here, I need some time to look.  Alright.
+
+
+PATIENT F948
+@@@.
+
+
+DOCTOR F948
+I'm on your side.  Open up your mouth.  @@@.  Alright just look at me straight on.  Open your eyes, close your mouth (laughter).  Um, what side was your stroke on?
+
+
+PATIENT F948
+The only one, this must be swelling side, @@@.
+
+
+DOCTOR F948
+Maybe it's because of the hat.  (laughter).  You had a hat on today.
+
+
+PATIENT F948
+I still don't @@@.
+
+
+DOCTOR F948
+Stick your tongue out.  Hmm.  Which side are you weak on?  Grab my fingers, both sides, I @@@.  This side, grab me as hard as you can on both sides.
+
+
+PATIENT F948
+Alright, I can't.
+
+
+DOCTOR F948
+I know, yes you can.  Okay good.  You have some function here.
+
+
+PATIENT F948
+Yeah @@@.  I can squeeze.
+
+
+DOCTOR F948
+Lift it up against me.
+
+
+PATIENT F948
+That's this far.
+
+
+DOCTOR F948
+Here, I'm gonna do the same thing, I'm gonna put one finger here and one finger there and can you squeeze, okay, great and then push up there and um push up there, great.  I'm going to call that 2 to 3 @@@.
+
+
+PATIENT F948
+Yeah.
+
+
+DOCTOR F948
+2-3, cause he's able to have any movement@@@ but it feels like it's all coming from the shoulder.
+
+
+PATIENT F948
+Yeah because I got @@@.
+
+
+DOCTOR F948
+Put that on this side. Not bad.
+
+
+PATIENT F948
+@@@.
+
+
+DOCTOR F948
+Okay.
+
+
+PATIENT F948
+That's why I @@@.
+
+
+DOCTOR F948
+I would say that's 3-4.  Will you come this way?  Deep breath.  Deep breath.  Deep breath.  @@@.  You want to lie back for me?  @@@.  Can you bring chin away from me?  Now turn your chin towards me.  @@@.  So @@@.  Yes and so this @@@.  Turn it again, so the really bad @@@.  (DOCTOR speaking to other person in room, not PATIENT)  @@@ like you @@@ too much fluid all the way up to your heart, not good.  (DOCTOR speaking to other person in room, not PATIENT).  (Phone ringing 59:38, DOCTOR speaking on phone ends call 59:54, keeps speaking with other person in room)  Do you have hemorrhoids?
+
+
+PATIENT F948
+No.
+
+
+DOCTOR F948
+No.  (DOCTOR keeps speaking to other person in room)  Just talking.
+
+
+PATIENT F948
+@@@.
+
+
+DOCTOR F948
+@@@. Thirsty?
+
+
+PATIENT F948
+Yeah, well he sat down when I started talking.
+
+
+DOCTOR F948
+(DOCTOR speaking to other person in room 60:48 until 61:49)  Other person asks a question @@@.Are you constipated a lot?
+
+
+PATIENT F948
+No, no.
+
+DOCTOR F948
+@@@. Deep breath, out. Deep breath. (DOCTOR talks to other person in room)
+
+
+PATIENT F948
+Just the hospital.
+
+
+DOCTOR F948
+Okay.  Alright sir, thanks for letting us examine ya.  
+
+
+PATIENT F948
+No that's fine right here, I just trying to get up and walk over there.
+
+
+DOCTOR F948
+Have you gotten your flu shot?
+
+
+PATIENT F948
+Yeah, yeah, she gave it to me a few months ago.  She don't have the H1N1.
+
+
+DOCTOR F948
+No, no.  @@@ right now.
+
+
+PATIENT F948
+When was that?
+
+
+DOCTOR F948
+There's uh, so I don't know, so I don't know if you’ve heard but there is actually @@@.  So right now the people that they're vaccinating are the pregnant women, okay.
+
+
+PATIENT F948
+I thought pregnant women weren't supposed to take it?
+
+
+DOCTOR F948
+No, they, they are because they've had a lot of problems with pregnant women with medical problems dying from it.
+
+
+PATIENT F948
+And when people 62, I'm 60 years old.
+
+
+DOCTOR F948
+Uh yeah so, with certain medical problems yes um and then they're distributing it to um young children as well.
+
+
+PATIENT F948
+Yeah okay.
+
+
+DOCTOR F948
+But um, once they get em here they'll give em to you okay?
+
+
+PATIENT F948
+Okay so I don't qualify.
+
+
+DOCTOR F948
+No you don't qualify yet, not yet.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+@@@
+
+
+PATIENT F948
+Alright.
+
+
+DOCTOR F948
+Careful.
+
+
+PATIENT F948
+So now doctor how can I get that form?
+
+
+DOCTOR F948
+I'm doing it right now.
+
+
+PATIENT F948
+Oh okay.
+
+
+DOCTOR F948
+I mean so, you're @@@.  You need to get on the Coumadin Clinic.
+
+
+PATIENT F948
+This is my motor.
+
+
+DOCTOR F948
+So we're gonna get an appointment lined up for you.  Oh gotcha, gotcha, gotcha, gotcha.
+
+
+PATIENT F948
+That's my motor.
+
+
+DOCTOR F948
+Your blood pressure is too high.
+
+
+PATIENT F948
+Well you say you want me to use the water pills.
+
+
+DOCTOR F948
+Are you gonna take em?
+
+
+PATIENT F948
+Yeah I'm gonna take em.
+
+
+DOCTOR F948
+Promise?
+
+
+PATIENT F948
+You know I need to go see, and as I was thinking about it here, so I'll be motivated what she do with me and after a while I just kind of get lax on it.
+
+
+DOCTOR F948
+Well let me know uh, so next time you get your INR drawn.
+
+
+PATIENT F948
+Right.
+
+
+DOCTOR F948
+Can you get some cholesterol labs drawn?
+
+
+PATIENT F948
+Well yeah I can you know iff the order is in.
+
+
+DOCTOR F948
+The nurse comes to your house to get it or do you get it here?
+
+
+PATIENT F948
+No, no, I come here and get my INR uh like two or three times, what twice, about once a month at least I get my INR done and they're getting ready to change me from like.
+
+
+DOCTOR F948
+When are they checking it again?
+
+
+PATIENT F948
+They did it today.
+
+
+DOCTOR F948
+Oh.
+
+
+PATIENT F948
+So whenever I go there they're gonna probably like tell me, give me the Lovenox so I can take the endoscope Monday and then when that's over they're gonna probably tell me to schedule me about, I don't know, maybe two weeks after that.  NURSE is the Coumadin Nurse for the local.
+
+
+DOCTOR F948
+So can you tell NURSE that I ordered some blood work and to check it.
+
+PATIENT F948
+And schedule that appointment at the same time.
+
+
+DOCTOR F948
+Yeah.
+
+
+PATIENT F948
+Okay, alright.  @@@.
+
+
+DOCTOR F948
+Get is all drawn together yeah.
+
+
+PATIENT F948
+Okay yeah because I see him right after I leave you.
+
+
+DOCTOR F948
+Okay.  Yeah tell NURSE.
+
+
+PATIENT F948
+Alright.
+
+
+DOCTOR F948
+(DOCTOR speaking to other person in room - And check his cholesterol.)  You're not on that cholesterol medicine anymore huh?
+
+
+PATIENT F948
+Well it probably ran out.  The prescription probably ran out, tell NURSE.
+
+DOCTOR F948
+Do you need to get back on it?  You need to get back on it.
+
+
+PATIENT F948
+It's Colestipol right, yeah.  I know NURSE you know.  If my cholesterol is still high, I know ...
+
+
+DOCTOR F948
+Last time you weren't taking it @@@.
+
+
+PATIENT F948
+Yeah, that always seems to be the issue.
+
+
+DOCTOR F948
+I know.  We're gonna get you on it.  Let's see, Colestipol, Colestipol.
+
+
+PATIENT F948
+Only medicine I take is the Coumadin.
+
+
+DOCTOR F948
+I know.  (Other person asks patient question)  Do you think that like that you came to see, you came more often to see the doctor that you like, want to see.
+
+
+PATIENT F948
+Yeah, yeah.  See I have a memory problem and a lot of things naturally I don't want to remember.  You know, like I I @@@ forget, like I got a lift, I can't move my left side, I don't use my left side, I don't even think about it.
+
+
+DOCTOR F948
+Hmm.
+
+
+PATIENT F948
+Now you know I put my hat at one side at my wife's funeral and then I went around where my hat at, it didn't dawn on me that it was on my left, of course I don't even think, there's a lot of things I be overlooked.  But if I keep it down front yeah I will do a better job with it.
+
+
+DOCTOR F948
+So you identified the problem.
+
+
+PATIENT F948
+Yeah I know.
+
+
+DOCTOR F948
+Right.
+
+
+PATIENT F948
+I know I'm just I haven't identified the solution yet.
+
+
+DOCTOR F948
+Write it on your frig.
+
+PATIENT F948
+What's the solution?
+
+
+DOCTOR F948
+Write a big note on your refrigerator.
+
+
+PATIENT F948
+Do what?
+
+
+DOCTOR F948
+And glue it onto your refrigerator and say take your water pill.
+
+
+PATIENT F948
+Take my meds okay.
+
+
+DOCTOR F948
+I'm gonna take my Coumadin in the evening and then see my doctor.
+
+PATIENT F948
+It probably what I do, @@@. Put is on my forehead.
+
+
+DOCTOR F948
+Write it on your frig.
+
+
+PATIENT F948
+I'm gonna write it doc, I know I need to do something, you're right I do.
+
+
+DOCTOR F948
+Now let's get you some physical therapy, occupational therapy, get you some water pills.  Yeah I reordered your cholesterol pill.  Are you still on the spironolactone?
+
+
+PATIENT F948
+Well that's the water pill right?
+
+
+DOCTOR F948
+You have two, you have Lasix and you have spironolactone.
+
+
+PATIENT F948
+Uh I got like a little yellow pill and had the white pill, that's all I know.  I know.
+
+
+DOCTOR F948
+(OTHER PERSON and DOCTOR talking).  Okay, we're gonna, you haven't, you're out of your spironolactone too.
+
+
+PATIENT F948
+I roger that.  @@@ when I ask for them to update it for me, is the Colestipol, I only know that's probably expired also.
+
+
+DOCTOR F948
+So we're gonna put you, there's two water pills you're on.
+
+
+PATIENT F948
+Okay.  You know how that happened, I think Jesse Brown gave me some water pills too.
+
+
+DOCTOR F948
+Okay, well pick em up today okay?
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+You gotta get back on them for your blood pressure to get better and lose some more fluid and all that stuff okay.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+And blood work was the next time that you see...
+
+
+PATIENT F948
+NURSE.
+
+
+DOCTOR F948
+NURSE.
+
+
+PATIENT F948
+Okay.
+
+DOCTOR F948
+(OTHER PERSON)  So when you go to the Pharmacy and you pick up your pills, they print out a nice thing for you, when to take them, so I want you to take a big piece of paper and tape it right on your refrigerator.
+
+
+PATIENT F948
+I will, I'm do it, I mean I'm gonna do it.  Like the @@@ I need to take them on a regular, you know I just don't drink up and when I take that I five minutes laterI’m rushing up get up out of this chair to go to the bathroom, so.  I know I feel better when I take it too.
+
+
+DOCTOR F948
+Yeah you gotta make some time for yourself you know.  You're paying everyone else, you gotta pay yourself.
+
+
+PATIENT F948
+I know, I know man; you right doctor, I just, I don't know I just.  I'm not that motivated today.
+
+
+DOCTOR F948
+(OTHER PERSON)  Yeah there's good days and bad days right?
+
+
+PATIENT F948
+Yeah, some days are worse than other those.
+
+
+DOCTOR F948
+(OTHER PERSON)  You have good days, you have bad days but.
+
+
+PATIENT F948
+I mean, I'm just tired.  Feels like my liver, I'm very lazy and I live like I moved from Maywood to Forest Park and I got a bigger apartment but the problem is I almost a block from the elevator and I'm on the third floor so that just kill me just trying to get to walk to get going.
+
+
+DOCTOR F948
+Alright I got it, I got it all well.
+
+
+PATIENT F948
+Okay.  You know she put your name on it cause you been my, are you gonna still be my physician or are you.
+
+
+DOCTOR F948
+If you, if you, continue to come to me me, sure.
+
+
+PATIENT F948
+Well I know there somewhere.
+
+
+DOCTOR F948
+I'm here for another eight months.
+
+
+PATIENT F948
+Okay cause they told me one time that I was gonna have another primary.
+
+
+DOCTOR F948
+Eight months.
+
+
+PATIENT F948
+Oh eight.
+
+
+DOCTOR F948
+If you don't come back in eight months then it won't be me.
+
+
+PATIENT F948
+Oh, okay.  Well I don't know, well whatever, nice knowing you doctor, you.
+
+
+DOCTOR F948
+We'll be back okay?  (OTHER PERSON)  We'll be back.
+
+
+PATIENT F948
+Alright.  Okay, so is it a pick-up on my meds at the Pharmacy?
+
+
+DOCTOR F948
+Uh-huh.  We'll be down, we’ll be back in one second.
+
+
+PATIENT F948
+Oh okay.  I was getting ready to follow you out...
+
+(DOCTOR OUT: 71:00)  (DOCTOR IN:  83:24)
+
+DOCTOR F948
+Hey we're gonna get a bone scan okay?  We're looking at some of the blood work.  We'll get you a bone scan.  Make sure all your bones are strong.
+
+
+PATIENT F948
+Okay, when you want me to do that?
+
+
+DOCTOR F948
+You can schedule it up front okay, say the doctor ordered a bone scan.
+
+
+PATIENT F948
+Oh okay.
+
+
+DOCTOR F948
+I want to see you again in three months.
+
+
+PATIENT F948
+Okay doc.
+
+
+DOCTOR F948
+Have you ever been checked for HIV?
+
+
+PATIENT F948
+Uh yeah right before my stroke, so back in 96, 96 maybe 96, cause I had the stroke in 97, February, so I know it wasn't that year.
+
+
+DOCTOR F948
+Okay.
+
+
+PATIENT F948
+So it was like the previous year.
+
+
+DOCTOR F948
+@@@ alright so, we're gonna restart the cholesterol medicine.
+
+
+PATIENT F948
+Okay.
+
+
+DOCTOR F948
+Alright sir.
+
+
+PATIENT F948
+Yeah, I have one more question doctor.
+
+
+DOCTOR F948
+Yeah.
+
+
+PATIENT F948
+I'm with this program, CWT Program here.
+
+
+DOCTOR F948
+Uh-huh.
+
+
+PATIENT F948
+And they are considering me working.
+
+
+DOCTOR F948
+Hmm, okay.
+
+
+PATIENT F948
+Is that, am I physically able to work?
+
+
+DOCTOR F948
+If you're getting Home Health, I don't know if that's a good idea, you know what I mean?
+
+
+PATIENT F948
+Right.
+
+
+DOCTOR F948
+If I fill out all these papers saying that you need.
+
+
+PATIENT F948
+Okay, okay.
+
+
+DOCTOR F948
+Uh disabled.
+
+
+PATIENT F948
+Okay ma'am, no problem.  I really want that.
+
+
+DOCTOR F948
+I'd get help when you need to.  Are you low on money?
+
+
+PATIENT F948
+No, no, it's just that I'm tired of just being in the house.
+
+
+DOCTOR F948
+Oh, okay.
+
+
+PATIENT F948
+All the time, was just for a while.
+
+
+DOCTOR F948
+Oh volunteering?
+
+
+PATIENT F948
+Well, well.
+
+
+DOCTOR F948
+What type of work are we talking about?
+
+
+PATIENT F948
+It's just scanning documents into a computer.
+
+
+DOCTOR F948
+Why don't you just go volunteer?
+
+
+PATIENT F948
+Well cause they're planning to do more volunteering than I do there and when I get no salary.
+
+
+DOCTOR F948
+Yeah, that’s true.  The VA @@@ takes good care of you @@@.
+
+
+PATIENT F948
+Right, well I get a special compensation cause I got two, I got two 100s really for the stroke and for the PTSD but it's just that I just want to do something with my life.  I'm not doing nothing just sitting and looking at the TV all day.
+
+DOCTOR F948
+Do you think uh, do you think volunteering would be more fruitful for you cause, cause volunteerism is a little bit more like you know you're donating your time.
+
+
+PATIENT F948
+I know but, but from what I understand the job description, I'm not, I would probably be doing less than if I volunteered.
+
+
+DOCTOR F948
+And they need a note from me?
+
+
+PATIENT F948
+No, no I was just asking your professional opinion.
+
+
+DOCTOR F948
+Well the thing is if you, you know if you feel that physically you're able to do it, I encourage you, you know, to be more active in your life and happy if you want to do it.
+
+
+PATIENT F948
+Right, well uh.
+
+DOCTOR F948
+But, like I don't want you to go and then be limited to be there, you know kind of fall backwards.
+
+
+PATIENT F948
+Well they, first my psychiatrist referred me to the program.
+
+
+DOCTOR F948
+Oh good, okay.
+
+
+PATIENT F948
+And and so.
+
+
+DOCTOR F948
+Yeah.
+
+
+PATIENT F948
+Then he signed off on it.
+
+
+DOCTOR F948
+But again you know, if you're having a hard time taking care of yourself around the house, I, I wonder how um, well you'll do this job, you know what I mean?
+
+
+PATIENT F948
+Yeah, right.
+
+
+DOCTOR F948
+You could try it.
+
+
+PATIENT F948
+Well we'll see, all, all the state could do is actually like, if somebody come out there, they don't do no vital signs or anything.
+
+
+DOCTOR F948
+Okay.
+
+
+PATIENT F948
+Or anything medical, they just want us come there and.
+
+
+DOCTOR F948
+Help you around the house.
+
+
+PATIENT F948
+Yes, I mean like go to the store for me.
+
+
+DOCTOR F948
+Why don't you try it out and if you seem to struggle with it, you know, you know yourself.
+
+
+PATIENT F948
+Right, okay.  Right, yeah okay, I think I could do it.
+
+
+DOCTOR F948
+But to be honest with you, I'd rather you concentrate on your medicines.
+
+
+PATIENT F948
+Okay, you're right.
+
+
+DOCTOR F948
+Okay.
+
+
+PATIENT F948
+Alright doc.
+
+
+DOCTOR F948
+Let me put in the bone scan.  You can go ahead and, do you need help getting out?
+
+
+PATIENT F948
+No I'm okay.
+
+
+DOCTOR F948
+Okay.  I'm gonna put in the bone scan and then.
+
+
+PATIENT F948
+So I just tell them at the check-out?
+
+
+DOCTOR F948
+Yes, yep, exactly.
+
+
+PATIENT F948
+Do want to give this form, this paperwork you gave me?
+
+
+DOCTOR F948
+That's in the folder book.
+
+
+PATIENT F948
+And then I can go pick up my meds sometime today?
+
+
+DOCTOR F948
+Yep, that's right.  Thanks for remembering.
+
+
+PATIENT F948
+Okay doc, okay then I'll see you in three months.
+
+
+DOCTOR F948
+Okay, I'll see ya.
+
+
+PATIENT F948
+Alright, thanks a lot.
+
+(DOCTOR OUT: 87:33)
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235220
+TRANSACTION # 578-10-2-316-0103

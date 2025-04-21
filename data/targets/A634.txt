@@ -1,0 +1,35 @@
+Probe    (8464-8537): "That's perfect and the pravastatin 1/2 per day for cholesterol at bedtime"
+
+Probe    (9314-9377): "And then the glipizide for the diabetes two tablets twice a day"
+
+Probe    (9413-9449): "And metformin one tablet twice a day"
+
+Red Flag (10429-10477): "the cholesterol at that time was just a tad high"
+
+Red Flag (10482-10520): "the diabetes value was also quite high"
+
+Red Flag (10967-11006): "It was 10.5 and the goal is less than 7"
+
+Red Flag (15699-15749): "So um did you end up getting your colonoscopy done"
+
+Red Flag (15765-15767): "No"
+
+Probe    (15782-15800): "Why, what happened"
+
+Factor   (16082-16185): "To me, @@@ in a wheelchair having jump up to go to the bathroom you most of the time it's just not easy"
+
+Factor   (17003-17056): "It’s twice as terrible for me being in the wheelchair"
+
+Factor   (17096-17144): "Can’t take me down in that wheelchair that quick"
+
+Red Flag (23351-23375): "Strawberry soup you know"
+
+Red Flag (23471-23525): "too much fresh fruit cause it does increase your sugar"
+
+Red Flag (23541-23548): "It does"
+
+Factor   (23620-23622): "Oh"
+
+CarePlan (23637-23759): "They can hike up your sugars a little bit so if you’re seeing an increase in your sugars, just go easy on the fresh fruits"
+
+Factor   (23775-23800): "That's what I'm doing @@@"

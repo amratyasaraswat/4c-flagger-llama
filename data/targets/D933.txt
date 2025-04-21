@@ -1,0 +1,19 @@
+Red Flag (5548-5632): "Swelled up, I comes out and I see the foot doctor and you got to make an appointment"
+
+Factor   (5635-5689): "He told me to come in you know when it flares up right"
+
+Red Flag (5724-5806): "And I just got frustrated and I just hobbled back to my car and went home you know"
+
+CarePlan (5821-5880): "You know you could go to Urgent Care where that can be done"
+
+Red Flag (9465-9522): "right now my first meal normally is about maybe 5 o'clock"
+
+Red Flag (9797-9836): "Now I don't eat probably till 5 o'clock"
+
+Red Flag (10581-10693): "8.1 over the past couple of months but still above what I would like to see in terms of your average blood sugar"
+
+Red Flag (12768-12806): "checking your blood sugars again right"
+
+Red Flag (12822-12857): "You know what when I had to stop it"
+
+Factor   (13172-13204): "you know it just stayed that way"

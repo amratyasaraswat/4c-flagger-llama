@@ -1,0 +1,43 @@
+Red Flag (7221-7246): "I don’t take any of those"
+
+Red Flag (7374-7418): "why would he give you two of the same things"
+
+Factor   (7396-7418): "two of the same things"
+
+CarePlan (8716-9118): "Don't worry about that, that's not a big deal because he only gets one, one set of pills at a time and if he has two, three, four prescriptions, it doesn't matter, it's not like he's getting charged more and we only charge you on the pills that they distribute and what that means is that when someone orders a prescription instead of renewing it they just order another prescription for the same thing"
+
+Factor   (9736-9792): "Yeah but I thought you was getting two different bottles"
+
+CarePlan (9830-9836): "No, no"
+
+Red Flag (11701-11743): "you didn't take your medicine today either"
+
+Red Flag (11759-11770): "No I didn't"
+
+Red Flag (11922-11973): "Are you taking it, are you taking it with food? No"
+
+Probe    (11975-11983): "how come"
+
+Factor   (12024-12046): "I don’t eat that early"
+
+Red Flag (14107-14141): "That's because I had no medication"
+
+CarePlan (15083-15143): "Even if you eat a banana and take your medicine or an orange"
+
+Red Flag (16160-16168): "flu shot"
+
+Red Flag (16190-16217): "I'm not gonna get it either"
+
+Probe    (16232-16240): "How come"
+
+Red Flag (16310-16369): "How about the colonoscopy? You don't want to take it right"
+
+Factor   (16385-16398): "I done had it"
+
+CarePlan (16476-16489): "No you didn't"
+
+CarePlan (16575-16651): "He had that prostate thing at the office but you didn't have the colonoscopy"
+
+Red Flag (16712-16729): "You don't want it"
+
+Red Flag (16745-16747): "No"

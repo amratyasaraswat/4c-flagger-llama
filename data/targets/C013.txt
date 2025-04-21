@@ -1,0 +1,25 @@
+Red Flag (1209-1258): "Alprazolam anxiety or for sleep, do you take that"
+
+Red Flag (1274-1317): "It's been a long time but I took it I think"
+
+Red Flag (4079-4116): "I haven't filled that for a long time"
+
+Red Flag (4573-4594): "Now I'm losing weight"
+
+Probe    (4615-4633): "Did you want to or"
+
+Probe    (5103-5132): "So you've been trying to lose"
+
+Red Flag (11921-11982): "he said we need another operation and I said no that can wait"
+
+Probe    (13612-13649): "So you're trying to lose weight right"
+
+Red Flag (26208-26244): "Meeting you has been such a pleasure"
+
+Red Flag (26259-26282): "Oh you've met me before"
+
+Red Flag (26298-26303): "I did"
+
+Red Flag (26418-26437): "I've met you before"
+
+Red Flag (26472-26488): "I can't remember"

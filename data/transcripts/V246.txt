@@ -1,0 +1,954 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@  
+
+DOCTOR V246 
+PATIENT?
+
+PATIENT V246
+Yep.
+
+DOCTOR V246
+@@@ I'm DOCTOR.  I took over DOCTOR’s clinic.
+
+PATIENT V246
+Oh, okay.
+
+DOCTOR V246
+@@@.  How's everything today?
+
+PATIENT V246
+Okay, pretty good.  I've already @@@.  When I'm alone, when I don't talk for a couple of days I lose my voice.
+
+DOCTOR V246
+Oh oh.
+
+PATIENT V246
+If you can believe that.
+
+DOCTOR V246
+How come you haven’t been talking for a couple days?
+
+PATIENT V246
+No I live alone, you know.
+
+DOCTOR V246
+I see.
+
+PATIENT V246
+I don't have a lot to say.  That's my biggest problem.  I don't know, you know since I lost a couple of family members.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+And then one of my biggest problems is that I don't sleep.  They did give me the amitriptyline but sometimes nothing helps.
+
+DOCTOR V246
+Not helping?
+
+PATIENT V246
+Okay.
+
+
+DOCTOR V246
+Do you feel like um your depression is better?
+
+PATIENT V246
+(overlapping) worse.
+
+DOCTOR V246
+Or do you think it’s?
+
+PATIENT V246
+I think it’s worse.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+I thought within a year it'd be a little better, but. . .
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+But I don’t even know if that’s worth talking about.  That seemed to be a big problem. @@@ I think I feel very good, I’ve got some arthritis, my cholesterol I think I feel really good physically.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+Mentally, that's another story.
+
+DOCTOR V246
+Tell me what all you've done as far as, how do you make yourself feel better?  What have you tried?
+
+PATIENT V246
+Well, I try to keep very busy you know, involved working with the VFW being the commander, so it took a lot of responsibility @@@.  That was when my wife passed.  So then while I was commander I lost a son. It’s just too much. From MS.
+
+DOCTOR V246
+And does it, has it ever gotten better.  Have you gotten to where you feel okay?
+
+PATIENT V246
+Yeah I guess you know, yeah, I guess you know but.  I have too many bad days @@@ you know.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+But uh you know really I just need try to @@@ this thing.  I'm doing pretty good.
+
+DOCTOR V246
+Uh-huh, yeah.
+
+PATIENT V246
+@@@ everything.
+
+DOCTOR V246
+Yeah but I don't really think @@@.
+
+PATIENT V246
+Oh, that's the problem I have.
+
+DOCTOR V246
+You know.
+
+PATIENT V246
+You know, I don't know.  You know my wife had so many medications.  She passed away she was on dialysis and a whole lot of things but I think a lot of those medications do you in, the side effects, they mess you up. @@@ really try to avoid them.
+
+DOCTOR V246
+Um, have you ever seen Mental Health here?
+
+PATIENT V246
+No and I don't think I should you know.  I don't get the, I don't know how to interpret that (laughs).  
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+I don't think its mental problem.
+
+DOCTOR V246
+Well, it's called Mental Health, it's really, I mean it's for any kind of depression.
+
+PATIENT V246
+Depression and all kinds of things.
+
+DOCTOR V246
+It's feeling down, you know.
+
+PATIENT V246
+Right.
+
+DOCTOR V246
+They can um, they can see you or I can see you and just manage it between me and you.  So it's up to you.  I think you maybe need a little bit more time than you know, to kind of help with the therapy aspect too.  You know I can give you medication and sit with you for 30 minutes.
+
+PATIENT V246
+Uh-huh.
+
+DOCTOR V246
+But as far as you going on healing and starting to have more better days than bad days.
+
+PATIENT V246
+Well, again, on my prescription, @@@.  A couple of these I've never refilled you know.  I think, I think they are the minor ones.
+
+DOCTOR V246
+Let’s see.  Are you taking the triamterene and hydrochlorothiazide?  That's the blood pressure medicine.
+
+PATIENT V246
+Yes I take that and the simvastatin.  I take.
+
+DOCTOR V246
+The atenolol.  
+
+PATIENT V246
+Uh-huh.
+
+DOCTOR V246
+How about.  Are you using the ketoconazole cream?
+
+PATIENT V246
+That I am not.  I just never refilled it.  
+
+DOCTOR V246
+I’ll take that one off. And you're taking amitriptyline right?
+
+PATIENT V246
+Yes.  Uh but not all the time. I try to do without as much as I can.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+It doesn’t seem to do the job some of it.
+
+DOCTOR V246
+Yeah.  How about, the @@@?
+
+PATIENT V246
+Yes, you see, that’s another thing. I have such severe constipation.  I cut that down to just one tablet a day instead of two because I started reading.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+And then ran out.
+
+DOCTOR V246
+How about the vitamin D?
+
+PATIENT V246
+@@@ I cut in in have.
+
+DOCTOR V246
+Okay, so you're taking it once a day or once a week?
+
+PATIENT V246
+Once a day.  I did, @@@ but I don't think, I know it was two a day but I cut it down to one a day for, due to constipation problems minor problems.
+
+DOCTOR V246
+Okay.
+
+PATIENT V246
+And the ergocalciferol.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+That one I never refilled,  one week or a month or so, I never did try it.
+
+DOCTOR V246
+Okay.
+
+PATIENT V246
+But the rest I take.
+
+DOCTOR V246
+How long did you take ergocalciferol?
+
+PATIENT V246
+I tried to take it but I don't know, but I literally really didn't @@@.  I tried for once a week [but couldn’t remember] @@.
+
+DOCTOR V246
+But not.
+
+PATIENT V246
+@@@.
+
+DOCTOR V246
+I can give you another vitamin D that is daily so it might be easier to remember to take.
+
+PATIENT V246
+Do I really need it?  @@@.
+
+DOCTOR V246
+Well yeah so, I can tell you your vitamin D level was low the last time it was checked.
+
+PATIENT V246
+Oh I see.
+
+DOCTOR V246
+It's mildly low.  Normal is 30 and  yours is 27.  Um so we can do nothing and recheck it or we can restart the vitamin D.  I would feel fine either way. To be honest with you.
+
+PATIENT V246
+Well, what if you just start the ascorbic acid.
+
+DOCTOR V246
+That's vitamin C.
+
+PATIENT V246
+That's the C.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+Okay, then the other one then was uh let me see.
+
+DOCTOR V246
+Those are the only ones that I have.
+
+PATIENT V246
+What was I taking? I was taking the . . .  I didn't think the D, no one a day of these.  Now this thing, these are the vitamins I was taking, I cut down to one a day.  I know one of them; the white one is the ascorbic acid. I’m trying to think @@@.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+I'm trying to think what they, how come the other one didn't work so good?
+
+DOCTOR V246
+Here's the problem.
+
+PATIENT V246
+Huh.
+
+DOCTOR V246
+This one?  Is it just the multivitamin?
+
+PATIENT V246
+That @@@, from the pharmacy, @@@.  Non-VA type thing.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+Yeah so that was given here.  I'm surprised it's not on the list.  I just noticed that, huh.  Cause I've been taking that for.
+
+DOCTOR V246
+Yeah but I mean the only ones that I have are ascorbic acid  acid, the two blood pressure, the one you take at night.
+
+PATIENT V246
+Uh-huh.
+
+DOCTOR V246
+And uh the one for your cholesterol.
+
+PATIENT V246
+Uh-huh, yeah.  I was taking those two vitamins, I showed you.  The ascorbic acid that's put in a vitamin isn't it?
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+Okay.  And I can’t think of what the other one was.
+
+DOCTOR V246
+@@@.
+
+PATIENT V246
+I'll @@@ bottle.  One is like a D that I take you know also.
+
+DOCTOR V246
+Yeah.  Would, I mean you were on the vitamin D, the one that you is supposed to be taken once a week.
+
+PATIENT V246
+One that I also take, it's always the green one there, twice a day.  I’m almost positive it was a vitamin.  I'm almost positive it was a D.  In fact I thought it was @@@ stuff.
+
+DOCTOR V246
+It may, it may be the vitamin D that, that you take once a day.
+
+PATIENT V246
+@@@, although again those those two were @@@ twice a day.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+But I cut them down myself.
+
+DOCTOR V246
+Okay.
+
+PATIENT V246
+But the doctor gave them to me twice a day.
+
+DOCTOR V246
+Well let's figure out what that was um.
+
+PATIENT V246
+Too bad I didn't bring the bottle.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+I just refilled it not long ago, so I probably just you know.
+
+DOCTOR V246
+I don't see it.  
+
+PATIENT V246
+I can let you know when I get home.
+
+DOCTOR V246
+So the ones that weren't refilled, were the atenolol, triamcinolone and simvastatin?
+
+PATIENT V246
+Yes that sounds right.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+Those are the important ones.
+
+DOCTOR V246
+Yeah.  Um, so let's talk about what we can do to make you feel better.
+
+PATIENT V246
+If you could do something with the sleep thing, it could really help.
+
+DOCTOR V246
+I'm think what you're telling me is that you are depressed.
+
+PATIENT V246
+Yes I am.
+
+DOCTOR V246
+And you're not sleeping is one of the main side effects of your depression.
+
+PATIENT V246
+Yep, yes.
+
+DOCTOR V246
+So we can get rid of the amitriptyline that you're taking at night and start you on a new medication.  I could send you to the Mental Health Clinic where they can follow you a little bit closer.
+
+PATIENT V246
+Ah not right now.
+
+DOCTOR V246
+Okay.
+
+PATIENT V246
+To tell you the truth, I'm you know, through my Christianity, I try to get help in that area, you know.
+
+DOCTOR V246
+Uh-huh. Yeah.
+
+PATIENT V246
+It's the mental part of it.
+
+DOCTOR V246
+I understand.
+
+PATIENT V246
+You know so.
+
+DOCTOR V246
+You know sometimes we need a little help here.
+
+PATIENT V246
+No, no, I've been told @@@ involved.
+
+DOCTOR V246
+Yeah.  Uh-huh.
+
+PATIENT V246
+But like doubling up on the amitriptyline I don’t think that’s.
+
+DOCTOR V246
+No and to be honest amitriptyline that's probably going to help you sleep but it's not the best medicine that we have for depression.  So, if you are willing we could try something new?
+
+PATIENT V246
+@@@ to try something and of course I look at the side effects and other things.
+
+DOCTOR V246
+Yeah that's too hard.
+
+PATIENT V246
+Well you know I hate that.  You know read those side effects, like I say @@@ my wife perished, she had literally 12 medicines 24 hours a day.
+
+DOCTOR V246
+Hmmm.
+
+PATIENT V246
+You know, type 2 diabetes and of plus dialysis @@@.
+
+DOCTOR V246
+Yeah and that's hard.
+
+PATIENT V246
+I know a lot of those medicines.
+
+DOCTOR V246
+Dialysis is very hard I mean.
+
+PATIENT V246
+Yeah, you know two or three days in a row she'd be on it.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+It's a terrible existence.  But that's my biggest problem because I think the depression thing.  At my age, I think, physically, you know.  I move around well.
+
+DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+I do things that a lot of people my age can’t you know.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+I'm grateful for that.
+
+DOCTOR V246
+Yeah.  Well I think we've gotten your body under control.  Let's get your mood better.
+
+PATIENT V246
+Okay.
+
+DOCTOR V246
+And then I’m just @@@ a little bit longer.
+
+PATIENT V246
+Okay.
+
+DOCTOR V246
+And you think about coming in @@@.
+
+PATIENT V246
+Okay yeah, @@@.
+
+DOCTOR V246
+Okay.  Do you want to hop up here and I can take a listen to you.  And you don't feel like you're gonna hurt yourself?
+
+PATIENT V246
+No, that's the first thing they asked me.  I'm not, yeah I know exactly what.  First thing you were told, what about @@@.  But you're not there from a religious standpoint that's wrong, no.  I've got that under control.  
+
+(Examining patient)
+
+DOCTOR V246
+Deep breath. You sound fine. Are you moving your bowels okay?
+
+PATIENT V246
+Yes outside of those little bouts of the constipation but when I take the Docusate the over-the-counter thing, that's helping me.
+
+DOCTOR V246
+Yeah.  Okay.  Are you still doing things that you enjoy?
+
+PATIENT V246
+Uh yeah.  I am very active, like I say, I have a large house and a large lot.  A lot of work.
+
+DOCTOR V246
+@@@.
+
+PATIENT V246
+Yeah I move around very well without the cane.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+Well really.
+
+DOCTOR V246
+What about social stuff?
+
+PATIENT V246
+Well yeah.  I'm pretty active with the VFW and really do a lot, they have me going to conventions, plus the monthly things and the weekly things so.  And I have a pretty large family.
+
+DOCTOR V246
+And they take care of you?
+
+PATIENT V246
+Yeah, too much so.
+
+DOCTOR V246
+What are you doing for Thanksgiving?
+
+PATIENT V246
+Oh just one of the kids and one of my boys is gonna pick me up and we're gonna for to another one’s.  
+
+DOCTOR V246
+Okay.  That's good.
+
+PATIENT V246
+@@@.
+
+DOCTOR V246
+You're lucky.
+
+PATIENT V246
+Yes I am.
+
+
+DOCTOR V246
+You're very lucky.
+
+PATIENT V246
+Oh sure.
+
+DOCTOR V246
+Um okay, well let me go talk about you with my boss and then I'll come back and explain the new medications.
+
+PATIENT V246
+Okay.
+
+DOCTOR V246
+Okay.
+
+PATIENT V246
+It sounds good.
+
+DOCTOR V246
+I'll be right back.
+
+PATIENT V246
+Yeah.
+
+(DOCTOR OUT: 52:32  DOCTOR IN:  57:49
+
+SECOND DOCTOR V246
+(DIFFERENT VOICE male doctor)  Hi.
+
+PATIENT V246
+How are ya?
+
+SECOND DOCTOR V246
+Hello, I'm DOCTOR.  How are you doing?  What have you been up to?
+
+PATIENT V246
+Not much.
+
+SECOND DOCTOR V246
+@@@.
+
+PATIENT V246
+Well as I was telling the doc, you know the VFW thing, I stay pretty active on a weekly basis, pretty good and then I @@@.
+
+SECOND DOCTOR V246
+How big of a family?
+
+PATIENT V246
+Oh I had six kids.  I lost one recently.
+
+SECOND DOCTOR V246
+How recently?  A year ago?  Uh how close or far away are your kids from you?
+
+PATIENT V246
+One lives around the corner.
+
+SECOND DOCTOR V246
+So you definitely interacting.  Do you have any grandkids?  You got a whole Army of people around you.
+
+PATIENT V246
+Oh sure, no quite a few kids, even grandkids.
+
+SECOND DOCTOR V246
+So, DOCTOR tells me that you're not doing too well with the insomnia, so staying awake at night.  What's happening when you're staying awake?
+
+PATIENT V246
+I can’t explain it. 
+
+SECOND DOCTOR V246
+Are you staying awake to pee a lot, to urinate?
+
+PATIENT V246
+No.
+
+SECOND DOCTOR V246
+Are you staying awake because of a headache?
+
+PATIENT V246
+Heart broke.
+
+SECOND DOCTOR V246
+That's what it is.  And when did your wife pass away?
+
+PATIENT V246
+(teary voice) Three years yesterday.
+
+SECOND DOCTOR V246
+And then how long were married for?  
+
+PATIENT V246
+(teary voice)51 years
+
+SECOND DOCTOR V246
+51 years?  I think that's awesome, that's terrific.  So three years ago, you know, I'm not a person to counsel you, your my elder.
+
+PATIENT V246
+Yeah.
+
+SECOND DOCTOR V246
+But uh, it’s hard to get over something like that, but so @@@ symptoms that DOCTOR was telling me about it's suggest that you are in more of a depression than from a mourning period. If that makes sense.
+
+PATIENT V246
+Yes, I would say so.
+
+SECOND DOCTOR V246
+How about the amitriptyline does it help you at all?
+
+PATIENT V246
+It’s funny, it seems like some days it worked and other days like, I don't want to use the word “overpower it” but I'm so active @@@ it just had no effect on me.  I never fall asleep before maybe 2 or 3 o'clock in the morning and needless to say I wake up innumerable times.
+
+SECOND DOCTOR V246
+Why are you walking up?
+
+PATIENT V246
+I have no idea.  Maybe you know, being alone and every little noise maybe, I don't know if it's you know.  It's different when you're by yourself.  If you've got other people, you could knock the door down and you’d be sleeping. Every little thing seems to wake me up. 
+
+SECOND DOCTOR V246
+Are you having racing thoughts?  Are you thinking a lot.
+
+PATIENT V246
+Oh sure, oh sure.
+
+SECOND DOCTOR V246
+Your mind is going over and over.
+
+PATIENT V246
+Oh sure, yeah, in the bed yeah.  
+
+SECOND DOCTOR V246
+Well there's a couple of ways to go about this.  Amitriptyline is an old drug um, really old.  Not older than us, but old enough and it works, it's great medication when the problem is going from 25 mg to 50, it causes pretty big side effects in someone your age.  Though you're not old but it’s not the safest medication. DOCTOR and I were just talking about two options.  One is something called Remeron or mirtazapine and if most of your symptoms are at night, this might be the medication for you.
+
+PATIENT V246
+Yeah I would say so.
+
+SECOND DOCTOR V246
+And during the day you're not blue, your you're engaged, you're doing stuff right?
+
+PATIENT V246
+Yeah, 99% of the time.  @@@.  You know being alone doesn't help and yet I don't want to be with anybody you know.  I could be with somebody.
+
+SECOND DOCTOR V246
+This other medication is Celexa um (to other doctor) Listening to him, I think mirtazapine is a better choice. (to patient) Mertazapine has properties which are helpful to help with sleep but they're not sedatives, it's not a sedative.
+
+PATIENT V246
+Well I always look at the side effects you know.
+
+SECOND DOCTOR V246
+Oh any psychiatric medication we use for depression or for any type of psychiatric illness the side effects @@@
+
+PATIENT V246
+Well I don't want @@@.
+
+SECOND DOCTOR V246
+But much less than the amitriptyline.  
+
+PATIENT V246
+Oh well.
+
+SECOND DOCTOR V246
+So.  Maybe start you you on a low dose of Remeron or mirtazapine at night.
+
+PATIENT V246
+Okay.
+
+SECOND DOCTOR V246
+Take just an hour or so before you go to bed and then we’ll start you at the smallest dose.  You might not feel any different.
+
+PATIENT V246
+Okay.
+
+SECOND DOCTOR V246
+And then we're gonna increase the dose as you tolerate it and you have to talk to DOCTOR 108, at least three times, over the next three months.
+
+PATIENT V246
+@@@.
+
+SECOND DOCTOR V246
+@@@ you have to do DOCTOR.
+
+PATIENT V246
+Oh okay, over the next three months.
+
+SECOND DOCTOR V246
+So in two weeks, you will see our nurse and on the same day we’ll be in clinic, so you can stop by and say “hi.”  So, in two weeks from today, after you start the medication, we'll order to pick it up, come back and see our nurse and make sure you're doing okay.
+
+PATIENT V246
+Okay.
+
+SECOND DOCTOR V246
+And the same day you come in and see the nurse, just remind her that DOCTOR 108 and SECOND DOCTOR 108 will come and see you and then DOCTOR 108 will call you probably in a month, month and a half as well to check up on you and I want you to stop the amitriptyline.
+
+PATIENT V246
+Okay.
+
+SECOND DOCTOR V246
+Don't take the two together.  Sound great?
+
+PATIENT V246
+Sure, @@@, yeah sounds great.
+
+SECOND DOCTOR V246
+The other medications like Celexa, Zoloft or uh Paxil they're very good for anxiety and for daily all the time depression but they actually can keep people up at night.
+
+PATIENT V246
+Hmm.
+
+SECOND DOCTOR V246
+So I think this is a safer, more organized approach.
+
+PATIENT V246
+Are you gonna make it @@@ . . . 
+
+SECOND DOCTOR V246
+So does show signs of being like clinically depressed, interfering with his daily functions, interacting with his family, going to the VFW, but you definitely are telling me that three years later you should still way . . .
+
+PATIENT V246
+Well my son passed too, that was, he was . . .
+
+SECOND DOCTOR V246
+That didn't help.
+
+PATIENT V246
+40 years old.
+
+SECOND DOCTOR V246
+Wow, young guy. How did he pass away?  
+
+PATIENT V246
+Carbon monoxide poisoning.
+
+SECOND DOCTOR V246
+In his house?
+
+PATIENT V246
+Yeah.
+
+SECOND DOCTOR V246
+One of my closest friends, he kept getting headaches, after headaches, he wasn’t sleeping well, he called me and I said, “You’re just being anxious” and then he kept on calling me for like a month and it would happen every year just when winter started and turned out @@@.
+
+PATIENT V246
+Now see I thought just the opposite. He was well qualified as an automobile mechanic, you know really taking care of engines. In other words, he had a lot of association with any engines and carbon monoxide, that's what really threw me for a loop, it wasn’t that he was ignorant about that stuff.
+
+SECOND DOCTOR V246
+Uh-huh.
+
+PATIENT V246
+@@@ so that really.
+
+SECOND DOCTOR V246
+Well I guarantee if you @@@.
+
+PATIENT V246
+But maybe if, like you say, a little at a time, @@@.
+
+SECOND DOCTOR V246
+It builds up. @@@.  You @@@ a lot to me.  Well listen, we're gonna see if we can help.
+
+PATIENT V246
+Okay @@@.
+
+SECOND DOCTOR V246
+Well we never want to cause any harm so there are any problems you let us know.
+
+PATIENT V246
+Okay.
+
+SECOND DOCTOR V246
+Alright.
+
+PATIENT V246
+Like I said, hurting myself, it does not exist.
+
+DOCTOR V246
+Yeah.
+
+PATIENT V246
+I mean, I don’t even give that a thought.
+
+DOCTOR V246
+Okay.
+
+PATIENT V246
+But that still doesn't make me happy.
+
+DOCTOR V246
+Exactly, exactly.  You know you've had a lot to deal with @@@.  Uh-huh.  I know it's hard, it doesn't seem fair.  So I want you, you know I put it for the window.
+
+PATIENT V246
+Oh go pick it up here?
+
+DOCTOR V246
+@@@ and then you can start it tonight um and like he said you may not feel the effects overnight.
+
+PATIENT V246
+Oh sure, yeah I know.
+
+DOCTOR V246
+So I want you to come back in a couple weeks and talk to the nurse, let her see how you're doing and I'll be here in two weeks too.
+
+PATIENT V246
+Uh-huh.
+
+
+DOCTOR V246
+Um doing the same thing you know.  I'll come say hello, talk to you, make sure she lets me know that you're here.
+
+PATIENT V246
+Okay.
+
+DOCTOR V246
+Okay.
+
+PATIENT V246
+@@@ if I have these, I don't want you to think I’m like this all the time.
+
+DOCTOR V246
+We're okay.  I mean.
+
+PATIENT V246
+@@@.  Wherever it's an anniversary, this morning.
+
+DOCTOR V246
+Yeah, well I mean any, any time you feel this way, it's a bad time.
+
+PATIENT V246
+Oh yeah.  @@@ November so, they both passed in the same month so it's been bad @@@.
+
+DOCTOR V246
+Yeah, @@@ with your family.
+
+PATIENT V246
+Oh yeah, uh-huh.  @@@.
+
+DOCTOR V246
+And you can call me DOCTOR 108.  
+
+PATIENT V246
+@@@.
+
+DOCTOR V246
+I don't know.
+
+PATIENT V246
+@@@  I mean I was sad, it feels good, I'm a lot better than @@@.
+
+DOCTOR V246
+@@@.
+
+PATIENT V246
+Okay.
+
+DOCTOR V246
+@@@.
+
+PATIENT V246
+Sure.  @@@.
+
+DOCTOR V246
+I know.
+
+PATIENT V246
+That's good.
+
+DOCTOR V246
+Alright, we'll just have you come back in two weeks and then you know after I talk to you in a couple of weeks, if I feel like you're doing well then you can go up on the dose and I'll keep in touch with you.
+
+PATIENT V246
+Yeah, no I'll be fine.
+
+DOCTOR V246
+Okay, alright.
+
+PATIENT V246
+Thank you so much.  
+
+DOCTOR V246
+Take care okay.
+
+PATIENT V246
+I'll make sure of that.  @@@.
+
+DOCTOR V246
+Yeah @@@.  Okay.
+
+PATIENT V246
+@@@.  Take care.
+
+(DOCTOR OUT:  67:40)
+
+Time is 11:20.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235289
+TRANSACTION # 578-10-2-316-0103

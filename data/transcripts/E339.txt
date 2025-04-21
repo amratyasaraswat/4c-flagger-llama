@@ -1,0 +1,967 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@   
+
+DOCTOR E339
+PATIENT?  Okay, how's it going?
+
+PATIENT E339
+Okay.  I'm fine.
+
+DOCTOR E339
+The last time you came in, you had some dizziness.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+And they gave you two liters of fluid.
+
+PATIENT E339
+Right.
+
+DOCTOR E339
+Downstairs in the Emergency Room.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+How are things going now?
+
+PATIENT E339
+Pretty good, every now and then I get a little dizzy.
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+Sometimes I get up too much and too fast.
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+And then you know, almost all the medications I'm taking say could cause dizziness.
+
+DOCTOR E339
+Yeah but they just put that stuff on there, to cover their butt.  Your blood pressure is a little bit on the lower side.
+
+PATIENT E339
+Oh.
+
+DOCTOR E339
+Yeah you're pretty well set.  The quetiapine I think can cause dizziness.  Okay.  How's the Parkinson's medication going?
+
+PATIENT E339
+Alright.  I don't know how, what it's supposed to do for me you know.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+Sometimes I suck on my teeth, if I don't pay attention I do it you know.
+
+DOCTOR E339
+And do you have a tremor?  Did you ever have a tremor?  No.
+
+PATIENT E339
+Uh uh.
+
+DOCTOR E339
+Okay.
+
+PATIENT E339
+Never did.
+
+DOCTOR E339
+Who said you had Parkinson's?
+
+PATIENT E339
+Huh?
+
+DOCTOR E339
+Who said that you had Parkinson's?  Who diagnosed you?
+
+PATIENT E339
+DOCTOR.
+
+DOCTOR E339
+Here okay.
+
+PATIENT E339
+He said symptoms.
+
+DOCTOR E339
+Uh-huh.  So then you worked with DOCTOR.  You're not feeling um dizzy or anything.
+
+PATIENT E339
+Uh uh.  Sometimes you know I’m doing too much around the house cause I'm home all day and my daughter's working, I'll cook and I'll clean and I'm mopping or vacuuming and I may get a little bit dizzy but that's it.  It's that my appetite seems really @@@.
+
+DOCTOR E339
+Okay.
+
+PATIENT E339
+But I'm 180.  In 1953 when I got out of the service I was 175, so in 50 years I gained five pounds.  I don't think that's too bad.
+
+DOCTOR E339
+@@@ significant.
+
+PATIENT E339
+I know.
+
+DOCTOR E339
+And you're not falling down with the dizziness?
+
+PATIENT E339
+No.  A couple times I tripped you know.
+
+DOCTOR E339
+Oh.
+
+PATIENT E339
+I missed that road and not paying attention.
+
+DOCTOR E339
+Right.
+
+PATIENT E339
+Cause I've been slowing down on that.
+
+DOCTOR E339
+@@@.  Anything else going on?
+
+PATIENT E339
+Nothing.
+
+DOCTOR E339
+I think I brought you in mainly to make sure that.
+
+PATIENT E339
+Huh?
+
+DOCTOR E339
+I think I brought you in mainly, we just saw you in February right?  I brought you in mainly to make sure that that dizziness had resolved.
+
+PATIENT E339
+Uh-huh, well it happens but not where it bothers me, scare me.
+
+DOCTOR E339
+Okay.  The last time was a little different?
+
+PATIENT E339
+Uh-huh.  I uh I'm having a little more trouble with my prostate.
+
+DOCTOR E339
+Okay so that’s one of the questions that the VA wants us to ask you about is urination.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+Do you have weak urine and do you pee accidentally or anything like that?
+
+PATIENT E339
+No it's just that uh I have to go more, more frequently and that you know I have two @@@ one leads to the other so sometimes I get a little pain down there and I don't know if it's from the tube.
+
+DOCTOR E339
+What tube?
+
+PATIENT E339
+From the prostate to my bladder.
+
+DOCTOR E339
+You have a tube down there?
+
+PATIENT E339
+Yeah well you getting any blood flow here so they tapped in.
+
+DOCTOR E339
+Oh that, yeah.  No that should have nothing to do with it.
+
+PATIENT E339
+Hmm.  But I'm getting discomfort down here.
+
+DOCTOR E339
+Yeah.  Okay.  Uh how often do you urinate at night?
+
+PATIENT E339
+A day, now  a day I couldn't count it but at night at least three times in the night.
+
+DOCTOR E339
+You get up to go urinate?
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+And um are you able to completely empty your bladder?
+
+PATIENT E339
+Sometimes, not always.  I feel like uh you know I could but I get tired of standing there and give up.
+
+DOCTOR E339
+Okay so you have some problems emptying your bladder okay.
+
+PATIENT E339
+I feel like I haven't emptied it you know.
+
+DOCTOR E339
+Okay right and then when you um, what was I doing, when you do urinate is the stream weak?
+
+PATIENT E339
+It's different you know.  It'll be you know pretty good and then it'll slow down, be weak and stop and then start again.
+
+DOCTOR E339
+And how long has that been going on?
+
+PATIENT E339
+Months.  And I drink a lot of water.
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+And my daughters drive me nuts with Gatorade and I see in the paper and on TV Gatorade isn't all that good.  They say Pedialyte is better.
+
+DOCTOR E339
+Oh.
+
+PATIENT E339
+That they give to the kids.
+
+DOCTOR E339
+Oh Gatorade has a lot of sugar in it.
+
+PATIENT E339
+Not Gatorade 2.
+
+DOCTOR E339
+Okay.
+
+PATIENT E339
+Gatorade 2 has about 5 mg.
+
+DOCTOR E339
+Oh is that right.
+
+PATIENT E339
+The other ones are like 19 or something like that.
+
+DOCTOR E339
+Yeah it has a lot of sugar.
+
+PATIENT E339
+Yeah, yeah so I make sure.
+
+DOCTOR E339
+Good.
+
+PATIENT E339
+Gatorade 2 but then again most of the time I try to stay away from sugar and I'm constantly in that cookie bowl.  I'm worse than my grandkids.
+
+DOCTOR E339
+Okay.  Um and then you're on medication for the prostate, did you know that?
+
+PATIENT E339
+Uh-huh.  Finasteride.
+
+DOCTOR E339
+Finasteride, good and you take that every day?
+
+PATIENT E339
+Yeah.  I was on two.
+
+DOCTOR E339
+Yeah you used to be on two.
+
+PATIENT E339
+And they cut the one back, uh Flomax cause they thought that was giving me the dizziness.
+
+DOCTOR E339
+Yeah, we could have probably done Flomax again.
+
+PATIENT E339
+And I think we should.
+
+DOCTOR E339
+Does that make it better?
+
+PATIENT E339
+Yeah I thought it was better with Flomax.
+
+DOCTOR E339
+Okay.  Yeah all those medications are going to cause a little bit but I'll talk to my boss about it.
+
+PATIENT E339
+I mean if.
+
+DOCTOR E339
+We could try it.
+
+PATIENT E339
+If I start taking it and I get dizzy then let’s stop, we know that was the problem.
+
+DOCTOR E339
+Right, right.  Have you ever had a prostate biopsy?
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+Oh your symptoms.
+
+PATIENT E339
+A long time ago I had a biopsy.
+
+DOCTOR E339
+And that was negative?
+
+PATIENT E339
+There was a cut, there was a lump there and I don't know how many samples he took but I was ready to come off that table.  It was painful.
+
+DOCTOR E339
+Let's see and you're supposed to, hmm they scheduled to see the urologist.
+
+PATIENT E339
+I didn't.
+
+DOCTOR E339
+You're seeing Urology May 25th.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+So what we could do, oh no April 2nd, you'll see Urology April 2nd.  So what we could do is try @@@ so try the Flomax again.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+And you'll follow up with them in May and they can tell you what to do with it.
+
+PATIENT E339
+@@@.
+
+DOCTOR E339
+Okay um well let me check your blood pressure again.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+Have a seat up there.  
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+That's.
+
+PATIENT E339
+I just came.
+
+DOCTOR E339
+The way you walk.
+
+PATIENT E339
+Huh?
+
+DOCTOR E339
+Like this, that's called a shuffled gait.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+And that happens with Parkinson's.
+
+PATIENT E339
+I know.
+
+DOCTOR E339
+Okay.  Cause otherwise, usually.
+
+PATIENT E339
+Last time you know.
+
+DOCTOR E339
+You don't have a tremor.
+
+PATIENT E339
+No, no.  Seems like when I get up that's when I start.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+And then every day I walk outside.
+
+DOCTOR E339
+Yeah you have a little bit of cog, and then you also have this thing called, maybe you do, a little bit, not that bad.  You also have this thing called cogwheeling rigidity
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+So it's in people who have pretty bad Parkinson's and @@@ rigidity.
+
+PATIENT E339
+Oh yeah.
+
+DOCTOR E339
+Which I don't think you have but you're on medication so maybe you did before, did you do this?  I thought I felt @@@ second.  @@@ neurologist.  I think you may have a little bit of it.
+
+PATIENT E339
+And this elbow has arthritis in the morning and sometimes it @@@ me.
+
+DOCTOR E339
+Oh, do you take anything for it?
+
+PATIENT E339
+No.  I have to see the arthritis doctor sometime in the next.
+
+DOCTOR E339
+Do you take Tylenol?
+
+PATIENT E339
+Uh no.
+
+DOCTOR E339
+You can take Tylenol.
+
+PATIENT E339
+Yeah but I'm not, I'm not taking any now.
+
+DOCTOR E339
+Take some Tylenol for the pain.  I can order it for you.  You can take a gram, up to a gram a every six hours.
+
+PATIENT E339
+Yeah that would help.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+Especially in the morning when I wake up.
+
+DOCTOR E339
+I can order it @@@.
+
+PATIENT E339
+But sometimes it hurts when I sleep on it you know.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+And that makes it worse.
+
+DOCTOR E339
+@@@.
+
+PATIENT E339
+And it seems like the right elbow is always colder than the left.  Why is that?
+
+DOCTOR E339
+Um, that I don't know.  It could be um the same artery disease that you have in your legs and your heart; it could be in the arms too.
+
+PATIENT E339
+And then I was feeling pretty good, I was in Arizona for two weeks.  I come back the night before last and just as soon as I get out there it's cold.  It was 58 degrees in Las Vegas.
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+Cause I'm going to @@@ from there and it was 81 in Chicago.
+
+DOCTOR E339
+Isn't that funny?
+
+PATIENT E339
+It's crazy.
+
+DOCTOR E339
+It is.  I was actually, I was in @@@ and I was flying back and I had to land in Miami before I got to Chicago and it was warmer in Chicago last weekend than it was here and I was in Miami.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+Weird.  Now it's starting to cool down.
+
+PATIENT E339
+And I was in; I was in Portal City which is one of the warmest.  It's only 10 minutes from the Needles Point.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+And I couldn't believe the temperature drop and my daughter yes its fine @@@.  As soon as I get there it drops.
+
+DOCTOR E339
+@@@.
+
+PATIENT E339
+Oh.
+
+DOCTOR E339
+Alright.  Okay and then relax your arm as much as you can, try to bend your elbow, just like that, perfect.  You're blood pressure is hard to feel.
+
+PATIENT E339
+Hmm.  That arm is always lower than this arm.  Why I don't know.  I think there's some blockage the doctor said.
+
+DOCTOR E339
+I'll try that arm.
+
+PATIENT E339
+What was it?
+
+DOCTOR E339
+That's 150 too.  Yeah there was a big difference.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+So it was 108/68 on this side and I couldn't even hear it on that side.
+
+PATIENT E339
+Yeah they tell me there's a blockage.
+
+DOCTOR E339
+@@@.
+
+PATIENT E339
+When I had my heart attack, why didn't I tell them and I said how could I tell you cause I didn't know.  @@@.
+
+DOCTOR E339
+And which arm is cold?
+
+PATIENT E339
+It's the elbow.
+
+DOCTOR E339
+Oh the elbow's cold, but this arm is okay.  Hmm.  There you go.  Yeah it's easier to feel a pulse on this side.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+You must have a blockage in that arm.
+
+PATIENT E339
+That's what he said but.
+
+DOCTOR E339
+I don't think there's any, @@@ this means, pink means blood flow.  But that doesn't that needs to be done, it's something to watch.  Did you used to be a drinker?
+
+PATIENT E339
+Used to be.
+
+DOCTOR E339
+Okay.
+
+PATIENT E339
+I quit 32 years ago February 19th.
+
+DOCTOR E339
+Wow, @@@ huh.  Keep standing up.  Okay, just watch out, if you ever notice this arm getting cool or something?
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+That means there may be you know a really bad blockage in here, maybe permanent blockage that we have to intervene on and if it gets cool you go straight to the hospital okay.
+
+PATIENT E339
+@@@.
+
+DOCTOR E339
+Any numbness or tingling or anything like that in the arms go straight to the hospital and tell them that you know.
+
+PATIENT E339
+Yeah the blockage.
+
+DOCTOR E339
+That you may have a blockage in this arm.  And they'll be able to feel the pulses are not equal.
+
+PATIENT E339
+The same with that shuffling thing.
+
+DOCTOR E339
+You can stand up.
+
+PATIENT E339
+When I first get up that happens.
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+To walk.
+
+DOCTOR E339
+Uh-huh, yeah.
+
+PATIENT E339
+I'll get my cane, I go outside and I start walking normal, no shuffle and it seems like it only happens when I get up or when I have back pain.
+
+DOCTOR E339
+Uh-huh back pain can cause it.
+
+PATIENT E339
+Yeah.  Most of the time it's the back pain.
+
+DOCTOR E339
+Do you have any or are you feeling dizzy right now?
+
+PATIENT E339
+No.
+
+DOCTOR E339
+Okay.  Take some deep breaths in and out for me.  Good.  Okay let’s take your blood pressure standing up.  Let's stand over here and then turn around.  This will be easier.  I think I'll get you to take this off, I think you can take it off.  Alright, oops.  @@@.  Okay, the same @@@.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+Now the other one.  @@@.
+
+PATIENT E339
+@@@ huh.
+
+DOCTOR E339
+There we go.  Okay and lean forward, there you go.  Okay, so it's 94/68 in this arm here.  So the blood pressure dropped.
+
+PATIENT E339
+Yeah I know it dropped.
+
+DOCTOR E339
+And that seems like @@@.
+
+PATIENT E339
+And this thing with the drinking when I first come home, I was a wreck.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+And I came here and they did like almost a family doctor.
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+They put me on phenobarbital.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+And another pill and I @@@.   So I noticed that when I took the a couple of drinks that it relaxed me.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+And from relaxing me it damn near killed me.
+
+DOCTOR E339
+Yeah.
+
+PATIENT E339
+So I had to give that up.
+
+DOCTOR E339
+Okay.  So @@@ about that.
+
+PATIENT E339
+Pardon?
+
+DOCTOR E339
+I'm going to talk to my boss about what he thinks about starting on the tamsulosin and making sure that's okay.
+
+PATIENT E339
+Yes.
+
+DOCTOR E339
+I'm willing to try it uh and I do want you to watch your blood pressures.  And then we may bring you back in to see the nurse to check your blood pressures again.  Do you live far away?
+
+PATIENT E339
+20 minutes.
+
+DOCTOR E339
+Okay.  Let me go talk to my boss, what were you saying?
+
+PATIENT E339
+Uh so I start taking today or tomorrow or?
+
+DOCTOR E339
+Well let me ask and he may say that.
+
+PATIENT E339
+Okay.
+
+DOCTOR E339
+I just have to run this by him; he may say I can't do that.
+
+PATIENT E339
+And it was just one tablet.
+
+DOCTOR E339
+Yeah, take one cause it's the same dose every time.  I'll be right back.
+
+(DOCTOR OUT:  86:40  DOCTOR IN:  94:10)
+
+DOCTOR E339
+Okay, so the boss is okay with starting the Flomax and I'll order that for you.  And we need just need to be diligent because it lowers your blood pressure you know.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+Yeah so that's why we stopped it before right?
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+So be careful.
+
+PATIENT E339
+@@@.
+
+DOCTOR E339
+Right and we thought you were getting dizzy because.
+
+PATIENT E339
+Flomax.
+
+DOCTOR E339
+Flomax lowers blood pressure.  If your blood pressure's low you'll feel dizzy.
+
+PATIENT E339
+And Tylenol and Flomax.
+
+DOCTOR E339
+Tylenol yeah.  So do you want me to send them both to your house?
+
+PATIENT E339
+Yeah, uh-huh.
+
+DOCTOR E339
+We'll give you the higher strength of the Tylenol.
+
+PATIENT E339
+Okay.
+
+DOCTOR E339
+Um.
+
+PATIENT E339
+Sometimes with that back pain.
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+I take four pills of hydrocortisone is it?
+
+DOCTOR E339
+Uh-huh.
+
+PATIENT E339
+And sometimes I'll take a half a pill and then go for a walk and I have no trouble you know.  It relieves that pain in the back cause that causes me to walk funny.
+
+DOCTOR E339
+Okay and Flomax you're supposed to take it every night right.
+
+PATIENT E339
+Uh-huh.  I just yeah.
+
+DOCTOR E339
+And it's pretty @@@ blood pressure medications but it still can.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+If you feel dizzy at all with it, stop it okay and you can come see our nurse in two weeks to get the blood pressure checked and make sure that it's not lowering your blood pressure.
+
+PATIENT E339
+Will they send me a letter?
+
+DOCTOR E339
+Yeah we'll set it up today, you can schedule it before you leave and then you're going to see Urology as scheduled in April, you know about that appointment right?
+
+PATIENT E339
+Yeah April 4th is it?
+
+DOCTOR E339
+April 2nd, at 11 a.m.  April 4th you have a different appointment.
+
+PATIENT E339
+Yeah.  I'm remembering.
+
+DOCTOR E339
+@@@.
+
+PATIENT E339
+The 4th is on my calendar but I don't remember the 2nd.
+
+DOCTOR E339
+Okay but you have it on your calendar?
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+Right?
+
+PATIENT E339
+I got a calendar just for appointments.
+
+DOCTOR E339
+You can see me in six months.  Okay.  Okay, I think that's all we need.  Oh, no, no, no and then there's one more thing.  I need you to go to Vascular Lab.  This asymmetry thing, he said we got to look into that.
+
+PATIENT E339
+The what?
+
+DOCTOR E339
+Oh the fact that your blood pressures are different on the different sides.
+
+PATIENT E339
+Oh yeah, both sides, yeah.
+
+DOCTOR E339
+We got to look into it okay.
+
+PATIENT E339
+Okay.
+
+DOCTOR E339
+For that, the Vascular Lab will take care of it.  It's like just an ultrasound, it doesn't hurt.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+And um they'll call you and schedule it.
+
+PATIENT E339
+Okay.  I was wondering when they did that bypass here they didn't feel that.
+
+DOCTOR E339
+Probably did yeah.
+
+PATIENT E339
+And I'm quite sure they took it.
+
+DOCTOR E339
+At the arm?
+
+PATIENT E339
+Knew there was a difference.
+
+DOCTOR E339
+Oh the blood pressures yeah.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+Okay, so I'm just going to add that in as a consult so they'll call you okay.
+
+PATIENT E339
+They'll call me and I'm good at forgetting.
+
+DOCTOR E339
+Okay.  And you're not having symptoms with that.  When you use your arms, it sounds like you said your right elbow sometimes feels cold.
+
+PATIENT E339
+Feels, cold, yeah.
+
+DOCTOR E339
+But otherwise nothing?
+
+PATIENT E339
+Uh uh.  @@@ no.
+
+DOCTOR E339
+And how much did you used to smoke?
+
+PATIENT E339
+A couple of packs a day.
+
+DOCTOR E339
+And then when did you quit?
+
+PATIENT E339
+20 years ago.
+
+DOCTOR E339
+And you said you have no weight loss.  Are you coughing up blood or?
+
+PATIENT E339
+No.
+
+DOCTOR E339
+You have night sweats and I think you said no to and are you having any fevers or chills?
+
+PATIENT E339
+Huh?
+
+DOCTOR E339
+Fevers or chills?
+
+PATIENT E339
+No.
+
+DOCTOR E339
+Okay.  Okay.  Okay, that is it.
+
+PATIENT E339
+Uh-huh.
+
+DOCTOR E339
+Okay and so you just go up to the front.
+
+PATIENT E339
+And give this to them.
+
+DOCTOR E339
+And schedule the nurse visit.
+
+PATIENT E339
+Okay.
+
+DOCTOR E339
+And they'll do this, you just have to show them the paper and then they'll put in an order, they won't schedule this one today but they'll put it in the computer and will send an automatic message.
+
+PATIENT E339
+Yeah.
+
+DOCTOR E339
+To set up to remind you to schedule this in six months.  Okay.
+
+PATIENT E339
+Very, very good.
+
+DOCTOR E339
+Good and the medications will be sent to you, okay.
+
+PATIENT E339
+You have a nice day; don't let them work you too hard.
+
+DOCTOR E339
+Yeah you too.
+
+PATIENT LEAVES:  100.3
+
+Time is 10:45.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255119
+TRANSACTION # 578-10-2-316-0103

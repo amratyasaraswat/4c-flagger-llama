@@ -1,0 +1,19 @@
+Red Flag (322-347): "don't send me no medicine"
+
+Factor   (382-406): "This stuff ain't nothing"
+
+Red Flag (1782-1826): "Well this morning they was kind of high, 127"
+
+Factor   (1968-2097): "It depends on what I eat you know at night. If I leave that refrigerator closed after 9 o'clock I'd be alright but I can't do it"
+
+Red Flag (3719-3750): "Don't put nothing else in there"
+
+Factor   (3785-3843): "‘Cuz I have to pay for that stuff. Put as big as they come"
+
+CarePlan (3858-3885): "Yeah I put um 90 day supply"
+
+CarePlan (3974-4109): "It comes, the prescription will say take two tablets as needed and they'll come with you know 180 but you can take one or two as needed"
+
+Red Flag (6242-6346): "I think you should, would be able to tolerate a colonoscopy um, if that's something you wished to pursue"
+
+Red Flag (6362-6368): "No, no"

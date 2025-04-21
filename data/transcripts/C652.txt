@@ -1,0 +1,893 @@
+Date of Encounter:   @@/@@/@@  
+Time of Encounter:   @@@ 
+
+DOCTOR C652
+PATIENT?
+
+PATIENT C652
+@@@.
+
+DOCTOR C652
+I'm DOCTOR, it's nice to meet you.
+
+PATIENT C652
+@@@.
+
+DOCTOR C652
+How you doing today?
+
+PATIENT C652
+Feel good uh but I see that my blood pressure is high.
+
+DOCTOR C652
+Yeah it's a little off huh.
+
+PATIENT C652
+I don't understand that.
+
+DOCTOR C652
+Well, so tell me what you’re on for blood pressure right now.
+
+PATIENT C652
+Say again.
+
+DOCTOR C652
+What medicine are you taking for blood pressure right now?
+
+PATIENT C652
+Well I was taking this metoprolol.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+And that's cause I was @@@ in my heart.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+Then they bumped it up for another 25, what do you call it?
+
+DOCTOR C652
+Uh-huh the milligrams so.
+
+PATIENT C652
+Okay milligrams the last time but.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+What I don't understand is this blood pressure business; see I don't shake a salt shaker.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+I haven't did that in about 30 years.
+
+DOCTOR C652
+Okay.  So.
+
+PATIENT C652
+I know everything what you say, all processed food.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+And frozen things.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+Cause but I would say, I saw the dietician.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+And I got a little book so I could understand uh.
+
+DOCTOR C652
+Perfect.
+
+PATIENT C652
+My boneless, skinless chicken.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+I @@@ that might have had and I do frozen vegetables and stuff so I don't, I kind of monitor my sodium.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+So this loses me how it's up like that.
+
+DOCTOR C652
+Well here's the thing, in some people there is, in most people it's a genetic one okay in that your parents have had it.  They might not have known that they had it or not but your family has it, their family has it so and as you age it just becomes a little bit harder to control.  Now the dose that you're on of the metoprolol.
+
+PATIENT C652
+Yeah.
+
+DOCTOR C652
+Is very little.  It's actually very, very, we can go up to 200 you know.
+
+PATIENT C652
+Well how much is it now?
+
+DOCTOR C652
+You're only at 50.
+
+PATIENT C652
+Well that's alright with me, the 50.
+
+DOCTOR C652
+I'm saying that there's a lot of room to go up and in a lot of people they have to use multiple medicines.  You're only on one so.
+
+PATIENT C652
+Well what is it; I don't understand why I got to use the medicine.  This is what's losing me.
+
+DOCTOR C652
+It's nothing to do with you.  People can exercise as much as they want, they can eat you know the best food that they can possibly get and have no fat, no salt, nothing.
+
+PATIENT C652
+Does it come with age?
+
+DOCTOR C652
+It can come with age and it can come with your family inheritance with your genetics okay.
+
+PATIENT C652
+Well okay if you look at here you can see how at mostly one time it was taken for my heart.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+You know my @@@ ventricle lisinopril.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+but it was not agreeing with the allergies.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+So then you could see what my blood pressure was then can't you?
+
+DOCTOR C652
+You can but @@@.
+
+PATIENT C652
+And that's @@@.
+
+DOCTOR C652
+Yeah you can but the thing is that was also years ago right?
+
+PATIENT C652
+Yeah, yeah, yeah, years ago.
+
+DOCTOR C652
+And as you age it gets worse.
+
+PATIENT C652
+Oh yeah?
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+Them birthdays make some oh okay.
+
+DOCTOR C652
+Yeah.  As you age it gets worse.  It's nothing you're doing wrong.
+
+PATIENT C652
+But it's kind of scary, I tell you I mean like okay now what is this today, its 145 or something over 81.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+Is that high blood pressure or is that the high end of normal?  I need the exact language.
+
+DOCTOR C652
+So it's high blood pressure okay cause for you, anybody who has blood pressure, your goal should be less than 130/80 okay.  So you're about 15 over which is not horrible but obviously could be better.
+
+PATIENT C652
+Okay now, now I ate breakfast and took my medicine at 1 o'clock so does that have anything to do with it?
+
+DOCTOR C652
+No cause the formulation you’re on is extended. I know you're fishing for it aren't you?  We're kind of like, what can I say?
+
+PATIENT C652
+I'm trying to.
+
+DOCTOR C652
+I know.
+
+PATIENT C652
+I'd like to know.
+
+DOCTOR C652
+You know I appreciate that you're, you know you're just trying to help yourself.  It's okay.  Don't worry about it.  Um it's just.
+
+PATIENT C652
+But my @@@.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+Just one day, gonna see in in the machine. I went and got me one of those blood pressure machine.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+Did you see that?
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+Well that day I fainted, now what does that mean?
+
+DOCTOR C652
+What do you mean you fainted, what happened?
+
+PATIENT C652
+I was cooking right and I take medicine oh shoot I got to the point where you know I couldn't stand up anymore so I told my son I said listen uh you go on and eat I'll get back to it later.
+
+DOCTOR C652
+Was it hot where you were cooking or what happened?
+
+PATIENT C652
+No it wasn't hot.  You know it's like the lights went out but I could feel it.  I was on my feet and all of a sudden then I went to the bed and I sat up and was talking and then I just keeled over okay, but maybe a second as I was coherent like I.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+Could use some water or something you know, I get me some water.
+
+DOCTOR C652
+Okay.
+
+PATIENT C652
+And so we got me some water and then so I gets back up to continues.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+And then I know I had to lay back down cause I could see that I hadn't been down there long enough.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+But so anyway then a day or so, @@@ so then I came up here.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+And then I saw the Emergency Room doctor and then they gave me uh a what's it called, a machine so I could do my own blood pressure.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+And then I read to learn that I need to keep my feet and then sometime they do it over here, well I don't understand that you were told to do it over here.
+
+DOCTOR C652
+You can do it on this side.
+
+PATIENT C652
+Now all the information I got say you do it on this only.
+
+DOCTOR C652
+They want you to do it in one arm and stick to that one arm.
+
+PATIENT C652
+Yeah so they say.
+
+DOCTOR C652
+But you can take it on the other one, it's.
+
+PATIENT C652
+Oh yeah.
+
+DOCTOR C652
+Yeah it's alright.  Well let's just take a look at some of your old stuff real fast.
+
+PATIENT C652
+Well my old stuff was better than the current shoot, at least the blood pressure.
+
+DOCTOR C652
+Yeah and @@@.
+
+PATIENT C652
+@@@ was doctor what's his name DOCTOR or whatever.
+
+DOCTOR C652
+DOCTOR.
+
+PATIENT C652
+I think it was the doctor's name, it was borderline then and then for some reason I was able to work with it but then when DOCTOR became my doctor just, it got out of hand.  Sometime I come here and I haven't had my medicine that day but I had it today.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+But you said next time that matter though huh?
+
+DOCTOR C652
+Not honestly that much. Um now my question for you is when you were having that dizziness did you have any pain in your chest at all?
+
+PATIENT C652
+Oh really no.  It's just @@@ um I was kind of telling my son, I was explaining it to you uh. 
+
+DOCTOR C652
+Were you dehydrated at all during that time.
+
+PATIENT C652
+Not dehydrated, but thirsty though.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+And it seemed like the room just, so what it was I hadn't eaten yet that day.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+And it was almost 4 p.m.
+
+DOCTOR C652
+Yeah I mean that most likely is what did it.
+
+PATIENT C652
+You know.
+
+DOCTOR C652
+You know, just not having, cause what happens if you don't eat you don't have any nutrients in your body that can break down whatever you already have in just in the muscles.
+
+PATIENT C652
+Uh-huh.
+
+DOCTOR C652
+And the liver and people, as we age, are not as good at accommodating to it.
+
+PATIENT C652
+Yeah.
+
+DOCTOR C652
+You know.
+
+PATIENT C652
+I mean he thought it was an emergency and he said dial 911 and I said no it don't seem that serious.  I know I got to get the medicine and I got to.
+
+DOCTOR C652
+Do you feel like your heart was racing at that time?
+
+PATIENT C652
+No not at that time.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+Not at that particular time but it has raced one time, just once only but not that time.
+
+DOCTOR C652
+When did it race?
+
+PATIENT C652
+Oh maybe between um about 9 o'clock and 11 o'clock one night.
+
+DOCTOR C652
+How long ago was this?
+
+PATIENT C652
+It was over a couple of years ago because I put, I explained it to my sister.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+And it was not last year.
+
+DOCTOR C652
+Okay.
+
+PATIENT C652
+Maybe in 2008 that happened.
+
+DOCTOR C652
+Okay.
+
+PATIENT C652
+And you know I was playing a computer game and it started and so I just stopped playing the game but I didn't know what might of made that.  It only happened one time though.
+
+DOCTOR C652
+Okay, okay.  Then it hasn't happened.
+
+PATIENT C652
+Yeah but.
+
+DOCTOR C652
+Okay.
+
+PATIENT C652
+But this fainting deal uh, I just.
+
+DOCTOR C652
+I know.
+
+PATIENT C652
+I mean, my legs felt strong but you know I just feel faint.
+
+DOCTOR C652
+Okay.  Have you felt like that at all since then?
+
+PATIENT C652
+No, not since then but seemed like around, I eat the same breakfast, I eat uh turkey, @@@ and one substitute egg, you know what I mean.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+Egg whites and uh oatmeal so and uh fiber bread but I don't get an appetite for it, I don't necessarily like it but it's good for me so I wait until I get hungry and that be at least 11 or 12 o'clock so that's when I eat but that particular day I wasn't for the appetite and that's why I ended up eating at 4 o'clock.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+You know what I mean but I try to between 11 and 12, to get something in me but that particular day it just happened to be 4 o'clock and when I could of @@@ you know but I understand if you.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+Cause I know what's healthy for me on the breakfast side to eat oatmeal every day so that's like a stress food and it's oats and grains and fiber.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+But I want it in me but you know I don't have the appetite for it.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+You know what I mean.
+
+DOCTOR C652
+Yeah.  It's not very tasty is it.  Let me take a listen to you @@@ okay.
+
+PATIENT C652
+Okay.
+
+DOCTOR C652
+Lean forward; see if I can hear through this.  Take a big deep breath.
+
+PATIENT C652
+Well do you want @@@ murmur?
+
+DOCTOR C652
+No it actually doesn't sound that bad.  Take a big deep breath and out again.  And again, last time, good.  Your lungs sound nice and clear.
+
+PATIENT C652
+They do?
+
+DOCTOR C652
+Uh-huh they actually sound good.  Alright well let me talk with my boss and I'll be right back.  The other question I have, did you ever smoke?
+
+PATIENT C652
+Yes.
+
+DOCTOR C652
+Do you still smoke?
+
+PATIENT C652
+No.
+
+DOCTOR C652
+Good for you.  Um did they ever check, there is one thing that we, it's more of a new recommendation that just kind of came out in that people who have ever smoked they should get what's called an ultrasound of your stomach uh.
+
+PATIENT C652
+For the aorta?
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+Yeah.
+
+DOCTOR C652
+@@@.
+
+PATIENT C652
+Was that, when was that a year ago or so?
+
+DOCTOR C652
+Uh it was a year and a half and it was normal so that's perfect so we do not have to get that.  Okay.  
+
+PATIENT C652
+Good.
+
+DOCTOR C652
+Alright, let me check in with my boss and I'll be right back okay.
+
+PATIENT C652
+Okay.
+
+(DOCTOR OUT:  21:51  DOCTOR IN:  28:42)
+
+DOCTOR C652
+I got my boss with me.
+
+SECOND DOCTOR C652
+Hello.
+
+PATIENT C652
+Hello.
+
+SECOND DOCTOR C652
+How are you today?
+
+PATIENT C652
+Good.
+
+SECOND DOCTOR C652
+Good. I’m DOCTOR, I wanted to introduce myself. DOCTOR went over your history and you're doing really well other than you had this isolated episode of where you felt a little bit like you might pass out or you did pass out.
+
+PATIENT C652
+Yeah.
+
+SECOND DOCTOR C652
+Um but you didn't end up on the floor so @@@ felt that maybe you can.
+
+PATIENT C652
+Yeah I got feeling like you know I'd be better off in the bed.
+
+SECOND DOCTOR C652
+Okay and you had skipped a meal when that happened?
+
+PATIENT C652
+Yes, yes.
+
+SECOND DOCTOR C652 
+
+Okay.  Then that's probably what it is of course we're going to do a couple of things to make sure we’re not missing anything.
+
+PATIENT C652
+Okay.
+
+DOCTOR C652
+And you haven't had @@@ ever before.
+
+PATIENT C652
+Right and then after that I came in and seen the doctor and got a blood pressure machine and so that's what DOCTOR told me.
+
+SECOND DOCTOR C652
+Yeah, you know what it sound like, it sounds like it's not that bad but it could be a little better, your blood pressure so.  @@@ I don't think @@@ though.  Your dizziness, I don't think the blood pressure is why that happened.
+
+PATIENT C652
+Oh no.
+
+DOCTOR C652
+I don't think so.
+
+PATIENT C652
+Well I know it was about 4 p.m. and I had not fueled myself yet you know.
+
+SECOND DOCTOR C652
+That's the more likely thing than the blood pressure. Blood pressure you know we see a lot of headaches, sometimes ringing in your ears and you can get a little dizzy.
+
+PATIENT C652
+Well that headache, that happened about nine months or so ago, it's probably on record here.
+
+SECOND DOCTOR C652
+Yeah.
+
+PATIENT C652
+That’s when I @@@.
+
+SECOND DOCTOR C652
+@@@ I mean really it's probably – it’s just like one isolated event that happened right after you skipped a meal.  If it seemed obvious, that’s probably because it is but it's just you know we'll do some things that we probably, it's probably time to do anyway just to be on the safe side but I really wouldn't be concerned unless it happens again.
+
+PATIENT C652
+Okay.
+
+SECOND DOCTOR C652
+Okay.
+
+PATIENT C652
+Okay.
+
+SECOND DOCTOR C652
+But I just wanted to make sure to introduce myself. It was nice to meet you.
+
+PATIENT C652
+Okay.
+
+SECOND DOCTOR C652
+Take care.
+
+PATIENT C652
+Okay.  I had something in mind and it had slipped @@@.  Okay go ahead, maybe it'll come to me.
+
+DOCTOR C652
+Okay, so we'll start with your blood pressure okay.
+
+PATIENT C652
+Yeah.
+
+DOCTOR C652
+We are going to go up on that metoprolol okay.  Like I said you've got plenty of room so don't worry about it.  So we're going to go up from 50 to 75 okay.  It's a @@@ increase, not too bad.  Alright.
+
+PATIENT C652
+Oh here's my question.
+
+DOCTOR C652
+Yes.
+
+PATIENT C652
+Okay you might see in there I'd had a problem at one time with that cholesterol right.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+Well I fixed that. Well, what helped me to fix that was to cut down on that egg and eat the egg whites and a whole lot more stuff and then another thing that helped me was apple cider vinegar.
+
+DOCTOR C652
+Oh.
+
+PATIENT C652
+The apple cider vinegar could those throw my blood pressure off?
+DOCTOR C652
+Unlikely.  Unlikely.  I know you're trying.
+
+PATIENT C652
+Cause that's the thing.  It don’t have sodium, but it’s so bitter, right?
+
+DOCTOR C652
+It is but.
+
+PATIENT C652
+@@@ water. 
+
+DOCTOR C652
+Maybe.
+
+PATIENT C652
+I tell you what's going in that water.
+
+DOCTOR C652
+I'm not going to tell you @@@.
+
+PATIENT C652
+@@@ something.
+
+DOCTOR C652
+I don't think so.  You know if you want to try it without it then we can.  
+
+PATIENT C652
+Cause I got scared and I stopped taking it and then I learned there was no sodium in there cause I didn't know but I was drinking @@@ there was no sodium and I could not @@@ salt @@@.
+
+DOCTOR C652
+I know but @@@ itself that does that.  @@@.  Alright so.
+
+PATIENT C652
+@@@.
+
+DOCTOR C652
+So that's the blood pressure issue.  Now the other.
+
+PATIENT C652
+How did I do that, now I got a pill and I cut it in half?  Is there another pill or something?
+
+DOCTOR C652
+Yeah, so what we're going is um, you can take the 50 until you get the new one in the mail okay.
+
+PATIENT C652
+Oh and then the new prescription.
+
+DOCTOR C652
+Then you'll get.
+
+PATIENT C652
+Will take the old one out.
+
+DOCTOR C652
+Yeah exactly.
+
+PATIENT C652
+Okay.
+
+DOCTOR C652
+Okay.  Um and then as far as your dizziness, you're just going to have to @@@.  Now as far as your dizziness is concerned, there's a couple things we want to check.  We want to check your labs again to make sure you're not like having anything like low potassium or low magnesium that could cause that dizziness okay.
+
+PATIENT C652
+Yeah.
+
+DOCTOR C652
+That episode you had.  Okay so we'll do that. The other thing I want to do is you know where you had that ultrasound of your heart done a long time ago?
+
+PATIENT C652
+Yes.
+
+DOCTOR C652
+So let's just check it again to make sure that nothing new is happening.
+
+PATIENT C652
+Okay.
+
+DOCTOR C652
+Cause that can also sometimes cause people to get dizzy okay.
+
+PATIENT C652
+Okay.
+
+DOCTOR C652
+And I want you to come back and see me in a month okay.  So when you come in and see me in a month we'll see how you're doing with your blood pressure, we'll see how you're doing with that @@@.
+
+PATIENT C652
+Well I just go because you know if it's on the schedule cause you can do that 30 days.
+
+DOCTOR C652
+Yes you could do it right now before you leave actually.
+
+PATIENT C652
+Okay.
+
+DOCTOR C652
+And go get your labs done today and.
+
+PATIENT C652
+Well wait a minute, when I gonna get my labs done it means I shouldn’t have eat before I come.
+
+DOCTOR C652
+No it's okay, you don't have to worry about that.
+
+PATIENT C652
+@@@.
+
+DOCTOR C652
+No we have a new test that actually we can just measure directly in your blood.
+
+PATIENT C652
+Good.
+
+DOCTOR C652
+@@@ so it's actually nice.
+
+PATIENT C652
+It is.
+
+DOCTOR C652
+Isn’t it?
+
+PATIENT C652
+After this, don't worry about eating and just come in I mean I used to fast sometimes you know.
+
+DOCTOR C652
+Yeah.
+
+PATIENT C652
+And something like that.
+
+DOCTOR C652
+No that and give me a phone number to reach you at in case these tests.
+
+PATIENT C652
+NUMBER.
+
+DOCTOR C652
+Uh-huh.
+
+PATIENT C652
+NUMBER.
+
+DOCTOR C652
+Okay.  We're all set.  So go ahead and give this to them out front and they'll make you an appointment to come back and see me in a month.  Go get your labs done today and then we can schedule that echo, that ultrasound of your heart.
+
+PATIENT C652
+Okay.  Now do I go somewhere to get this echocardiogram, do I do that, go to this schedule.
+
+DOCTOR C652
+I think they can tell you up front.  You might have to go to the Heart Station, over there, but they'll point you the way.  I'm not sure cause I know sometimes they can schedule you for you here and sometimes they can’t.
+
+PATIENT C652
+Okay so how many things will I be doing before I leave?
+
+DOCTOR C652
+Schedule an appointment with me.  Get your labs and then schedule an appointment with the ultrasound, the echo.
+
+PATIENT C652
+Okay now that's @@@.
+
+DOCTOR C652
+@@@ not to worry.  Okay.
+
+PATIENT C652
+Okay then you'll take care of my prescription?
+
+DOCTOR C652
+Uh yes, your prescriptions are done @@@.
+
+PATIENT C652
+I mean you know they'll be done in the mail in other words.
+
+DOCTOR C652
+Yeah, yeah, uh-huh.
+
+PATIENT C652
+So what they do send me 150 and I cut that in half?
+
+DOCTOR C652
+I don't know what they do.
+
+PATIENT C652
+@@@.
+
+DOCTOR C652
+I know they might be.
+
+PATIENT C652
+They like to do that half pill.
+
+DOCTOR C652
+Half pill I know.  I think it usually depends on um, I think it usually depends on what they have on stock you know.
+
+PATIENT C652
+Oh I was taking 25, they send me the 50 and half that so when they put in the 50 I just @@@ 100 and cut it in that half.
+
+DOCTOR C652
+Yeah I know.
+
+PATIENT C652
+@@@ take it all.
+
+DOCTOR C652
+I don't know right.
+
+PATIENT C652
+@@@ might have to get an increase on the phone huh, emergency now.
+
+DOCTOR C652
+Well maybe.
+
+PATIENT C652
+And they say okay you got it just take the @@@.
+
+DOCTOR C652
+Okay they'll actually watch that so go ahead.  It was nice meeting you and I’ll see you in a month, in, okay, take care sir.
+
+PATIENT C652
+Okay.
+
+DOCTOR C652
+@@@.
+
+PATIENT LEAVES:  36:34
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275385
+TRANSACTION # 578-10-2-316-0103

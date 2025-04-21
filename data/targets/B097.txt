@@ -1,0 +1,31 @@
+Red Flag (3063-3133): "and that's when a lot of times I'll get up and take another metoprolol"
+
+Red Flag (3231-3280): "And that's when I'll get up and take a metoprolol"
+
+Factor   (3285-3355): "then stay up for a while and what I'll do is try to relax or something"
+
+CarePlan (4919-5005): "So the metoprolol that's you know a medicine to manage your heart rate, blood pressure"
+
+CarePlan (5221-5576): "You know that side effect, which is not a bad thing as long as you don't take too much of it but I feel that I think it’d be better to address with the meds that act on actual stress so there are certain meds that relax you and certain meds that act on the stressors and then you know when it comes down to it there are things you can do to relax yourself"
+
+Red Flag (6150-6369): "Um and but that's why sometimes when sometimes when my heart rate gets elevated like I told you um then I take a metoprolol because I feel that my heart rate goes back down on that, cause that's part of helping me relax"
+
+CarePlan (9322-9413): "I wouldn't take metoprolol for it uh I'll increase what you're doing for your stress relief"
+
+Red Flag (10838-10917): "so what about your diet, did you make it better? Last time we talked about that"
+
+Red Flag (10933-10936): "Hmm"
+
+Red Flag (11472-11599): "But I do need refills on um atropine um simvastatin and omeprazole. Boy oh boy when I don't take that omeprazole man I know it"
+
+Red Flag (11659-11727): "And they can just be mailed cause I bought over-the-counter Prilosec"
+
+Probe    (11882-11931): "And when's the last time you took the simvastatin"
+
+Red Flag (12160-12225): "But the other two medicines I don't have any so I can wait for um"
+
+Red Flag (16882-16971): "the MOVE Program helps you like exercise @@@ would you be interested in seeing them or no"
+
+Red Flag (16987-16993): "No sir"
+
+Probe    (17012-17059): "why not? You think you've got it under control"

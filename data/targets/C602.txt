@@ -1,0 +1,19 @@
+Red Flag (2454-2515): "there are times when your blood pressure is markedly elevated"
+
+Red Flag (3665-3690): "Same thing, 170, not good"
+
+Red Flag (5154-5228): "The last time they didn't set an appointment. I didn't get an appointment"
+
+Factor   (5282-5374): "I called in for medicine and they said you didn't get an appointment well you didn't tell me"
+
+Red Flag (9812-9852): "The last time I had faxed something here"
+
+Red Flag (9889-9919): "Nobody said @@@ they never saw"
+
+Factor   (9922-10004): "I mean it's as if went to the Never Never Land in the VA I mean and I did it twice"
+
+CarePlan (10019-10062): "Oh okay just bring it in to the next clinic"
+
+Red Flag (10285-10427): "The last time they wouldn’t do anything. I mean I, just to let you know and then I come for meds, just to get medicines and uh. Oh no, I know"
+
+Factor   (10620-10823): "You know, well it was “We’ll notify you when you have an appointment” so I called for some medications and a week I get, you didn’t see your doctor, you didn’t have a test, you didn’t see a doctor lately"

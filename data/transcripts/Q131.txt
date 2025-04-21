@@ -1,0 +1,1390 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@  
+
+DOCTOR Q131 
+PATIENT?
+
+PATIENT Q131
+Yes sir.  
+
+DOCTOR Q131
+How you doing today sir?
+
+PATIENT Q131
+Alright.
+
+DOCTOR Q131
+You can come back here.  Good to see you, how have you been doing?
+
+PATIENT Q131
+Uh I been okay I guess.
+
+DOCTOR Q131
+Okay.
+
+PATIENT Q131
+Yep.
+
+DOCTOR Q131
+Good uh.
+
+PATIENT Q131
+Can't really complain.
+
+DOCTOR Q131
+That is good to hear.  I see your blood pressure's a little bit high today though.
+
+PATIENT Q131
+Well I just came straight from Physical Therapy.
+
+DOCTOR Q131
+I saw that, I saw that, yeah.
+
+PATIENT Q131
+So that was probably it.
+
+DOCTOR Q131
+Physical Therapy was for your back huh?
+
+PATIENT Q131
+Yeah for the lower back.
+
+DOCTOR Q131
+How's that been doing?
+
+PATIENT Q131
+I don't know it's really changed that much yet it's.
+
+DOCTOR Q131
+Has it gotten any better?
+
+PATIENT Q131
+Maybe just a little bit but not a whole lot so.
+
+DOCTOR Q131
+So remind me, what happened to your back?
+
+PATIENT Q131
+Uh.
+
+DOCTOR Q131
+@@@ I don't think I remember that.
+
+PATIENT Q131
+No you didn't, the arthritis doctor did I think.
+
+DOCTOR Q131
+Oh gotcha.
+
+PATIENT Q131
+Because they were saying that I got arthritis in the back and the shoulders and the knees.
+
+DOCTOR Q131
+@@@.  I gotcha.
+
+PATIENT Q131
+Uh before I forget it, all of your prescriptions DOCTOR you need to renew the prescriptions.
+
+DOCTOR Q131
+I will take care of that today.  Yep that's not a problem.  I'm just uh taking a second to catch up on what you've been doing.  There are a lot of Rehabilitation Notes in here.  You've been to the MOVE Program.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+That looks good. @@@ better than when I last saw you.  Following up with Anticoagulation.  How about the liver, have you seen the liver guys?
+
+PATIENT Q131
+Yeah uh, they told me I got the hepatitis C.
+
+DOCTOR Q131
+Uh-huh.  Okay. 
+
+PATIENT Q131
+But they said, the way I understand it it's in the mid stages.
+
+DOCTOR Q131
+Uh-huh.
+
+PATIENT Q131
+So I don't really need any treatment at this point, just try to keep everything.
+
+DOCTOR Q131
+Just keep following with them yeah.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+And we're not drinking anymore right?
+
+PATIENT Q131
+No I haven't had a beer in almost a year so, any kind of alcohol that I know of intentionally so.
+
+DOCTOR Q131
+Gotcha.  
+
+PATIENT Q131
+Maybe that's why I've dropped about 27 or 28 pounds.
+
+DOCTOR Q131
+Yeah and that'll help your blood pressure too uh.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Seen here for follow-up.  Have you been trying to lose weight?
+
+PATIENT Q131
+Not really no, I just.  When I'm hungry I eat and when I'm not hungry I don't eat which.
+
+DOCTOR Q131
+Gotcha.
+
+PATIENT Q131
+It seems like I used to get a craving for something and couldn't figure out what I was craving so I'd nibble everything and never find it but I haven't been getting that craving so I guess.
+
+DOCTOR Q131
+You may just be eating less.
+
+PATIENT Q131
+That's all that I can think of.
+
+DOCTOR Q131
+Uh-huh.  Okay good.  So looks like you've been doing pretty good.  How's your diabetes been doing?
+
+PATIENT Q131
+Diabetes?
+
+DOCTOR Q131
+How's your sugars?  Have you been eating okay?
+
+PATIENT Q131
+I guess so, I didn't know.
+
+DOCTOR Q131
+Well we started you on metformin I believe.  A medicine to control your sugars.
+
+PATIENT Q131
+I don’t…
+
+DOCTOR Q131
+Have you been taking that?
+
+PATIENT Q131
+I.
+
+DOCTOR Q131
+Let's run through your medicines and figure out what you're taking and what you're not, how about that?
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+Um so there's a couple of creams here, I’m not too interested in those.  The Coumadin you still take right?
+
+PATIENT Q131
+Right.
+
+DOCTOR Q131
+It looks like that needs a refill.
+
+PATIENT Q131
+Yeah it does.
+
+DOCTOR Q131
+Just in the mail?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+And you follow at the Coumadin Clinic?
+
+PATIENT Q131
+Yeah I follow up with that.
+
+DOCTOR Q131
+Alright.  The stomach medicine?
+
+PATIENT Q131
+The what?
+
+DOCTOR Q131
+There's a stomach medicine omeprazole.
+
+PATIENT Q131
+Oh that's that little capsule for the.
+
+DOCTOR Q131
+Yeah.
+
+PATIENT Q131
+For the.
+
+DOCTOR Q131
+Acid reflux?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Yeah and you take that right?
+
+PATIENT Q131
+I'm still taking that yeah.
+
+DOCTOR Q131
+Valsartan, that's a medicine for uh blood pressure.
+
+PATIENT Q131
+Okay the little white pill?
+
+DOCTOR Q131
+I don't know the color of it.  You take the blood pressure pill Valsartan?
+
+PATIENT Q131
+There's two or three, three I can't remember which ones.  There's three of them.
+
+DOCTOR Q131
+Uh how about tramadol?  That was one of the pain pills.
+
+PATIENT Q131
+Yeah that was the, the arthritis doctor gave me that.
+
+DOCTOR Q131
+Okay.  Digoxin?
+
+PATIENT Q131
+Digoxin yeah I got that.  It's the third blood pressure pill.
+
+DOCTOR Q131
+It helps with your atrial fibrillation.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+For rate control.  Um metoprolol?
+
+PATIENT Q131
+Okay the metoprolol I'm taking.
+
+DOCTOR Q131
+You're taking 100 mg; you take that twice a day right?
+
+PATIENT Q131
+Twice a day yeah, one pill I cut it in half and one in the morning and one in the afternoon.
+
+DOCTOR Q131
+Okay.
+
+PATIENT Q131
+Half in the morning and half in the.
+
+DOCTOR Q131
+Alright let's see, looks like they gave you some prednisone for a short time, that's gone okay.  That's mostly your medicines, is that right?
+
+PATIENT Q131
+That sounds like it.
+
+DOCTOR Q131
+Next time I want you to bring the medicine bottles in or bring a list of what you uh for sure take.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+But that's what I got on the list here.
+
+PATIENT Q131
+Okay but I don't have anything for diabetic that I know of.
+
+DOCTOR Q131
+The last time we talked about but we didn't give it to you.
+
+PATIENT Q131
+Yeah something about the blood count was close or whatever so we didn't.
+
+DOCTOR Q131
+Right.  That's why we sent you to the MOVE Clinic.
+
+PATIENT Q131
+Oh.
+
+DOCTOR Q131
+Now I remember.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Now I remember.  Um did you eat anything this morning?
+
+PATIENT Q131
+Nope.
+
+DOCTOR Q131
+No okay.  We may draw some labs.  Your Coumadin level's been pretty good.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Let see what your sugars, this was last June.  So last June you had some labs drawn in June.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+By 9 o'clock in the morning.  Do you happen to remember if you had eaten that day?
+
+PATIENT Q131
+I don't think I did.
+
+DOCTOR Q131
+You don't think you did.
+
+PATIENT Q131
+Uh uh.
+
+DOCTOR Q131
+Okay. 
+
+PATIENT Q131
+Cause most time when I come here I don't eat.
+
+DOCTOR Q131
+You don't eat just in case huh.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Alright.  So the other thing is before your glucose was 146, so it's better um.  We're going to draw some labs today.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+Depending what your sugars are.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+I might want to start you on a medicine for pre-diabetes.
+
+PATIENT Q131
+Okay.  Pre-diabetes, does that mean, to intercept sort of.
+
+DOCTOR Q131
+You're right, from getting full-blown diabetes.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+The way we diagnose diabetes is we take your blood.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+And look to see what the sugar level is.  If the sugar is 125 or higher, two separate times after you haven't eaten for 12 hours or so then we can say you have diabetes.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+You're right on the border so back in June you were 126, that's elevated.  When I saw you before you were 140, also elevated.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+So those two together we basically can diagnose you with diabetes.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+But because you've been doing good, you lost some weight, you went to the MOVE Clinic, they exercised you right?
+
+PATIENT Q131
+Yeah but actually uh I didn't lose it during the whole time I was with the MOVE Clinic I didn't lose one single, yeah I lost one pound.  I've lost all this weight since I left the MOVE Clinic.
+
+DOCTOR Q131
+Huh.
+
+PATIENT Q131
+I don't know if it's just now starting to catch up with me or if it's because I quit drinking the beer or what it is.
+
+DOCTOR Q131
+That could be, that could be.  Um.
+
+PATIENT Q131
+Cause I quit drinking the beer after I found out about the hepatitis.
+
+DOCTOR Q131
+Okay. 
+
+PATIENT Q131
+And then I never really drank a lot of beer, that was just like maybe two beers a day was about it so.  I don't think that's that much.  Saved me a lot of money though.
+
+DOCTOR Q131
+We just recently diagnosed you with that hepatitis right?
+
+PATIENT Q131
+Yeah, yeah, within the last, about a year.  You suspected a year ago and you finally finished all the tests maybe six or seven months ago.
+
+DOCTOR Q131
+Yeah.
+
+PATIENT Q131
+To confirm it.
+
+DOCTOR Q131
+And we think that may be from a blood transfusion back when.
+
+PATIENT Q131
+Right.
+
+DOCTOR Q131
+You had the surgery for your stomach.
+
+PATIENT Q131
+Right and then that's another thing, I applied for the VA benefits to be increased and they sent me a letter of rejection saying of course I can re you know.
+
+DOCTOR Q131
+Reapply?
+
+PATIENT Q131
+Reapply or whatever within the year but they said that they didn't think that that transfusion, it was so long ago, would have give it to me.  But it's a possibility for me to have it ever since then and not really know about it right?
+
+DOCTOR Q131
+Right yeah.  I think we talked about that last time.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+And I put it in the note here.
+
+PATIENT Q131
+Yeah and I know they had access to the records.
+
+DOCTOR Q131
+Right.
+
+PATIENT Q131
+And everything so.  But what I'm not quite understanding they said something about they were holding at 20%.  I think that means they raised it by 10% because I been drawing 10% so I'm not quite sure if they raised it a little bit or not.  Cause I just got the letters recently so.
+
+DOCTOR Q131
+Let's see did they weigh you today?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+They did, let's see what.
+
+PATIENT Q131
+She did.
+
+DOCTOR Q131
+Your weight is 244.
+
+PATIENT Q131
+I was down another pound or two so.
+
+DOCTOR Q131
+So you were 258 yeah so that's good, let's see where you were a year ago.  Yeah that's pretty good.
+
+PATIENT Q131
+A year ago.
+
+DOCTOR Q131
+That’s pretty good. @@@ something we're concerned about.
+
+PATIENT Q131
+A year ago I was up probably somewhere around 260 or 270 I'm guessing.
+
+DOCTOR Q131
+Yeah you were 270.
+
+PATIENT Q131
+Yeah 270.
+
+DOCTOR Q131
+270.5.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Today 244.
+
+PATIENT Q131
+So that's close to.
+
+DOCTOR Q131
+Yeah.
+
+PATIENT Q131
+Getting close to 30 pounds.
+
+DOCTOR Q131
+Yeah, that's about 30 pounds, just under 30 pounds.  So that's pretty good and you've been trying to do better?
+
+PATIENT Q131
+Well actually I haven't been trying at all, it's just.
+
+DOCTOR Q131
+You haven't been trying at all.
+
+PATIENT Q131
+Not really.
+
+DOCTOR Q131
+So sometimes that can be concerning.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Losing weight without trying.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+That can be concerning.
+
+PATIENT Q131
+Well, my diet has changed because I'm not, so well I eat a lot more fruit and stuff than I was before.  I love fruit.
+
+DOCTOR Q131
+So you're eating healthier.
+
+PATIENT Q131
+Probably yeah.
+
+DOCTOR Q131
+Did the MOVE Clinic help with anything?  They tell you how to eat better?
+
+PATIENT Q131
+Well that's one thing they did do because I've always liked fruit and everything and they kind of led me along the lines of stuff that I like pretty well but I wasn't really eating a whole lot that I like but so that kind of switched.  So they did have me switch my diet a little I think so that.
+
+DOCTOR Q131
+Okay.  Um you still live with your wife right?
+
+PATIENT Q131
+Correct.
+
+DOCTOR Q131
+And before you told me you were sleeping in different rooms because your wife moves too much?
+
+PATIENT Q131
+No she says I move too.
+
+DOCTOR Q131
+You move.
+
+PATIENT Q131
+Yeah.  She says I get to screaming and hollering for some reason.  I couldn't see where it would be my military experiencing causing any of that though so.
+
+DOCTOR Q131
+Alright.  Alright.
+
+PATIENT Q131
+Yeah they got me on that sleeping thing too but that doesn't seem to me that it's doing.
+
+DOCTOR Q131
+What oh CPAP machine?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+That's good, that'll help your blood pressure.
+
+PATIENT Q131
+Well, it takes me twice as long to go to sleep and then I wake up about every 30 minutes or so where before I used to go to sleep real quick and not wake up so.
+
+DOCTOR Q131
+But they, I think I ordered that for you.
+
+PATIENT Q131
+Ah somebody did, yeah, yeah you did.
+
+DOCTOR Q131
+So they said you're having sleep apnea huh?
+
+PATIENT Q131
+Yeah, it's not real bad just slight you know.
+
+DOCTOR Q131
+You been using that sleeping machine all the time?
+
+PATIENT Q131
+I'd say 90% of the time.
+
+DOCTOR Q131
+Well that probably could help you lose weight too, believe it or not.
+
+PATIENT Q131
+Uh-huh.  I been probably about 90% of the time I use it.  When we went on our vacation we were camping out in the woods, there was no electrical so I didn't use it that week.
+
+DOCTOR Q131
+Right.  No that's okay.  Where'd you camp at?
+
+PATIENT Q131
+Uh Devil's Den in Arkansas.
+
+DOCTOR Q131
+Do you feel like you're more awake now?
+
+PATIENT Q131
+Uh.
+
+DOCTOR Q131
+Do you feel like may have more energy?  Cause sometimes when you have sleep apnea you get tired during the day.  
+
+PATIENT Q131
+Uh, I seem to stay awake a little bit better but yeah.
+
+DOCTOR Q131
+You don't feel as fatigued huh?
+
+PATIENT Q131
+I still feel fatigued quite a bit but not quite as much as I did I guess maybe it's just, I'm not sure if it's that or not.
+
+DOCTOR Q131
+You know seems like everything got a little bit better.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+We may have done something right.
+
+PATIENT Q131
+Yep.
+
+DOCTOR Q131
+And I would tell you that we probably should get another colonoscopy but you just had one, just had one.
+
+PATIENT Q131
+Yeah I just had it.
+
+DOCTOR Q131
+Last year so.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+You're good to go.
+
+PATIENT Q131
+Well they told me I was good for another ten years.  I tell you what the pre-treatment's worse than the.
+
+DOCTOR Q131
+That's the worst.  Did I do that to you?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+I think I did do that to you.
+
+PATIENT Q131
+Yeah, yeah you did.
+
+DOCTOR Q131
+Well we're getting you squared away though.  The only thing I want to see is when was the last time you had your cholesterol checked?
+
+PATIENT Q131
+God I'm not sure.
+
+DOCTOR Q131
+That may have been a little while.
+
+PATIENT Q131
+I thought that was.
+
+DOCTOR Q131
+That was last September.
+
+PATIENT Q131
+Oh okay.
+
+DOCTOR Q131
+You're probably due for that.
+
+PATIENT Q131
+Hmm.
+
+DOCTOR Q131
+So we can probably check your lipids.  Probably check your BMP.  We can check an A1c.
+
+PATIENT Q131
+Well there's something else I want you to check, my left testicle for some reason.
+
+DOCTOR Q131
+What's happened?
+
+PATIENT Q131
+Uh it feels like, I feel uncomfortable, a little bit of pain in it, not a lot.
+
+DOCTOR Q131
+Uh-huh.
+
+PATIENT Q131
+And feel a little bit of pressure, sometimes it comes uh and it's getting where it's more often.  The thing of it is if I don't go urinate or something.
+
+DOCTOR Q131
+Uh-huh.
+
+PATIENT Q131
+And it relieves, and the pain and pressure seem to relieve and go away.
+
+DOCTOR Q131
+So pain in the left testicle right.
+
+PATIENT Q131
+Right.  It's not real severe but it's you know.  It's and it feels like pressure and pain a little bit.
+
+DOCTOR Q131
+Every day?
+
+PATIENT Q131
+Yeah at least once a day or so.  Uh usually like I say I go urinate or something and, I have no problem with urination or anything like that.
+
+DOCTOR Q131
+No problem.  Okay.  No burning.
+
+PATIENT Q131
+No burning, no nothing.  It's just.
+
+DOCTOR Q131
+So tell me more about your pain.
+
+PATIENT Q131
+It's almost like.
+
+DOCTOR Q131
+When did it come?
+
+PATIENT Q131
+Well, different, sometimes at nighttime, sometimes in the middle of the day just, never any set time it just uh.  Feels like somebody kind of taking hold of it and kind of squeezing it a little bit or something.
+
+DOCTOR Q131
+Okay.  What does it feel like, does it last a long time or is it just a few seconds?
+
+PATIENT Q131
+No it lasts until I go urinate or something.  It starts out slightly and then it starts getting a little bit more and more pressure and a little bit more pain until I go to the washroom or something, relieve myself and then it seems to go away then for a while.  Now this has been going on probably for two or three months now but I don't know how long it's been going on.
+
+DOCTOR Q131
+A few months?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Hmm.  Alright well why don't I have you sit up there and uh I'll take your blood pressure first cause I want to check and see if that's for real or.
+
+PATIENT Q131
+Here?
+
+DOCTOR Q131
+It's probably just because you walked.  So you had rehab today?
+
+PATIENT Q131
+Yep.
+
+DOCTOR Q131
+What were you doing over there?
+
+PATIENT Q131
+They just had me doing.
+
+DOCTOR Q131
+For the back.
+
+PATIENT Q131
+Yeah it's for the back yeah they.
+
+DOCTOR Q131
+How's the back pain doing?
+
+PATIENT Q131
+It seems to be there all the time.  I mean it's not as severe as it was before but it seems like it ain't going away but.  It's been that way for years it seems like, just a.
+
+DOCTOR Q131
+A little squeeze sorry.  So it's definitely not as high as it was.  Sorry.
+
+PATIENT Q131
+No problem.
+
+DOCTOR Q131
+Okay, I got about 130/80.
+
+PATIENT Q131
+That's not bad.
+
+DOCTOR Q131
+Not terrible, not terrible.  Alright um, I'm going to examine you too.  I'll have you take some deep breaths.  Again.  Good, again, good, again.  Okay I'm just going to feel your pulse.  Okay.  You still have that irregular heartbeat.
+
+PATIENT Q131
+Yeah, I'll probably have that the rest of my life I guess.
+
+DOCTOR Q131
+Yeah.
+
+PATIENT Q131
+And it seems like I'm.
+
+DOCTOR Q131
+Do you ever get swelling in the legs?
+
+PATIENT Q131
+Yeah from time to time.  Seems like I run out of breath a lot easier than.
+
+DOCTOR Q131
+Than before?
+
+PATIENT Q131
+Than before too now so.
+
+DOCTOR Q131
+Lay back.  I'm just going to feel on your belly a little bit.  So how far can you walk now?
+
+PATIENT Q131
+I don't know.  I really don't know.
+
+DOCTOR Q131
+You been doing physical therapy, you getting short of breath or no?
+
+PATIENT Q131
+No when I'm working upstairs, it's like when I go up the stairs or something.
+
+DOCTOR Q131
+Take your drawers off and we'll take a look at that.  When you go up the stairs you get short of breath?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+How far can you go?
+
+PATIENT Q131
+I don't know I'm not really trying but just seem like I'm winded when I get to the top of the stairs where I used to.  Drop the drawers and everything all the way down?
+
+DOCTOR Q131
+Yeah.  I'll take a look here.
+
+PATIENT Q131
+I've never really tried to see how far I could go or anything.
+
+DOCTOR Q131
+But you notice that now you can't go as far?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Okay.  Have you ever had a stress test?
+
+PATIENT Q131
+Been a long time but yeah I had one.
+
+DOCTOR Q131
+Show me where it's been bothering you the most.
+
+PATIENT Q131
+Right in through there.
+
+DOCTOR Q131
+Is it sore where I touch?
+
+PATIENT Q131
+No.
+
+DOCTOR Q131
+Okay.  I'm just going to check you for a hernia okay.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Go ahead and cough.  Again.  Same on the other side, cough.  I don't see anything obvious.  I'll ask my attending and see if we need to check the urine to make sure there's no infection in there.
+
+PATIENT Q131
+Okay. 
+
+DOCTOR Q131
+Um I'll see if he wants to come take a look at it.  The stress test was taken a long time ago right.
+
+PATIENT Q131
+Yeah.  Back when I first started.  The last time was when I first started coming here on a regular basis.
+
+DOCTOR Q131
+Uh-huh.
+
+PATIENT Q131
+And that's when I wanted because I already knew I had the a fib.  
+
+DOCTOR Q131
+Sure.
+
+PATIENT Q131
+But of course they wanted their own you know, so that was the last time I took it, the chemical one or whatever.
+
+DOCTOR Q131
+Yeah.
+
+PATIENT Q131
+@@@.
+
+DOCTOR Q131
+No that's okay.  I'm just going to see when you had a stress test last.  You had a treadmill.
+
+PATIENT Q131
+I don't remember doing a treadmill.
+
+DOCTOR Q131
+Sorry, I lied. Well this was in August 2009 they did an echocardiogram.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Did I do that?  That might have been something I ordered hmm.  But that looks pretty good.  Yeah that one's pretty good.  So the symptom of shortness of breath is only with exertion right?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+That's when you start to get a little more winded?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+Okay.
+
+PATIENT Q131
+Just normal walking around it doesn't seem like.
+
+DOCTOR Q131
+Oh when you.
+
+PATIENT Q131
+Like when I ride the bike over there, it didn't seem to bother me.
+
+DOCTOR Q131
+You have to ride a bike on a stationary place?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+When does it seem to come, going up and down the stairs?
+
+PATIENT Q131
+Going up and down the stairs, something like that or outside when it's real hot, on a real hot day.
+
+DOCTOR Q131
+Do you think you could walk on a treadmill if we wanted you to?
+
+PATIENT Q131
+Sure.
+
+DOCTOR Q131
+Okay.  I'll talk with my attending about that.  I want to get some labs for you too.
+
+PATIENT Q131
+Okay is that going to be done today or?
+
+DOCTOR Q131
+Hopefully yeah, the labs.
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+I'm just going to go talk with him and then we'll go from there okay.
+
+PATIENT Q131
+Alright.
+
+DOCTOR Q131
+Alright hold on one second.  So, it says 20% service-connected right?
+
+PATIENT Q131
+That's what it says?
+
+DOCTOR Q131
+That's what it says in the computer.
+
+PATIENT Q131
+Yeah before it was only 10% so I guess that they must have upped it.
+
+DOCTOR Q131
+They may have.  Alright I'll be back in one second, okay.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+Hang tight for me.
+
+(DOCTOR OUT:  63:55  DOCTOR IN:  73:22)
+
+DOCTOR Q131
+Alright so, here's what we're going to do for you, couple things.  We're going to check the labs like we talked about.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Uh I also want to order two tests one is an ultrasound of your testicle making sure that there's no hydro-seal, there's no signs of cancer in there.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+No problems that I couldn't find on examining you.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+It feels to me like it's pretty benign.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Depending what that shows we may send you to the urologist.  Now your symptoms don't sound too concerning and because they're mild I'm willing to watch them for a bit and see what happens with them.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+Also number two, because of your increasing shortness of breath I want to do a stress test.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+Okay.
+
+PATIENT Q131
+So all these, not today it's going to be.
+
+DOCTOR Q131
+No, no, no.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+The ultrasound and the stress test are not going to be today correct.
+
+PATIENT Q131
+Okay, but the lab.
+
+DOCTOR Q131
+The labs will be today.
+
+PATIENT Q131
+Well I just go down, that's blood right?
+
+DOCTOR Q131
+You just go down or they can draw them here.
+
+PATIENT Q131
+It doesn't matter to me if they want.
+
+DOCTOR Q131
+If you want to just get them here I can put you in the Lab here, it might be quicker.
+
+PATIENT Q131
+That's fine.
+
+DOCTOR Q131
+Let me just, let me just order those labs so I can set you up there and get you in line.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Um we're going to order a bit.
+
+PATIENT Q131
+Okay you're going to redo all my prescriptions.
+
+DOCTOR Q131
+I refilled them all already.
+
+PATIENT Q131
+And you're going to add that one for the.
+
+DOCTOR Q131
+What for.
+
+PATIENT Q131
+For the pre-diabetes or whatever.
+
+DOCTOR Q131
+Um I'm going to check a lab today called hemoglobin A1c.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+That'll tell us how your sugars have been over the last three months.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+If that's high I'll send you a prescription for diabetes medicine okay.
+
+PATIENT Q131
+Okay, alright.
+
+DOCTOR Q131
+Um we're going to check your lipids.  I'm also going to check what's called alpha fetoprotein.  We checked that before.  We're going to check it again.  That's what monitors how your liver's doing.
+
+PATIENT Q131
+Uh-huh okay.  Yeah the liver doctor said something about technically they should be checking that every time I come in anymore.
+
+DOCTOR Q131
+Yeah I'm going to check it now since you're here.
+
+PATIENT Q131
+That again will be with the Lab right?
+
+DOCTOR Q131
+Yeah, uh-huh.
+
+PATIENT Q131
+So really once I leave the Lab I don't have to go anywhere today except.
+
+DOCTOR Q131
+Home.
+
+PATIENT Q131
+Then they'll be calling me and making.
+
+DOCTOR Q131
+Yep they'll call you and get the ultrasound and the stress test taken care of.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+So let's see I just got to figure how to order that alpha fetoprotein.
+
+PATIENT Q131
+Beats me.
+
+DOCTOR Q131
+Make sure that you give them urine too.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+And we probably should check your prostate, so a PSA.
+
+PATIENT Q131
+I thought you did that once before.
+
+DOCTOR Q131
+We did.
+
+PATIENT Q131
+And it came back clean but it still you can't be.
+
+DOCTOR Q131
+This is something you check about once a year.
+
+PATIENT Q131
+Okay.  Just as long as it ain't nothing like that colon thing.
+
+DOCTOR Q131
+No this is a blood test.
+
+PATIENT Q131
+Whew.
+
+DOCTOR Q131
+Yeah that was bad huh?
+
+PATIENT Q131
+Man drinking that stuff, I couldn't even get off the pot; I just sit there and drain.
+
+DOCTOR Q131
+Sorry about that.
+
+PATIENT Q131
+When they said it'd be ten years before I have to take it again maybe by then they'll have something better.
+
+DOCTOR Q131
+Yeah.  Ten years before you have to do it again and at that time you may consider not even doing it you know.
+
+PATIENT Q131
+If I live to be another ten years old.
+
+DOCTOR Q131
+Right exactly.  Alright so let's see here, the ultrasound, scrotum.  I'll order it today and I'll tell them in the front.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+So.
+
+PATIENT Q131
+They'll take my urine sample here too?
+
+DOCTOR Q131
+Yep.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+So I'm going to order a stress test and we're all set to go.  Stress test. What we're going to do is instead of the treadmill; well you could probably walk on a treadmill right?
+
+PATIENT Q131
+Yeah I don't.
+
+DOCTOR Q131
+What we'll do is you'll walk on the treadmill and then they'll give you.
+
+PATIENT Q131
+The chemical.
+
+DOCTOR Q131
+They'll give you an echo.
+
+PATIENT Q131
+Oh that's a.
+
+DOCTOR Q131
+And they may give you a chemical.  If you can't get your heart rate fast enough.
+
+PATIENT Q131
+Will they give me the, I had that chemical done to me twice, once by you guys and once by.
+
+DOCTOR Q131
+Oh you had a stress test before?
+
+PATIENT Q131
+Yeah.
+
+DOCTOR Q131
+I don't see it in here.
+
+PATIENT Q131
+You guys gave me one once, when I first.
+
+DOCTOR Q131
+@@@.
+
+PATIENT Q131
+When I first started coming here on a regular basis, that's before you guys would give me the medication and everything for the a fib.
+
+DOCTOR Q131
+Okay.
+
+PATIENT Q131
+And then I had one done at McNeal which was chemical.
+
+DOCTOR Q131
+Alright so let me make sure I got your medicines renewed.
+
+PATIENT Q131
+Uh-huh.
+
+DOCTOR Q131
+Yep I got everything renewed that you need.  Um I'm not going to make any changes cause I think your blood pressure is okay for now.  Um that's it.  What I'm going to do is have you.
+
+PATIENT Q131
+Wait up there for the.
+
+DOCTOR Q131
+Have a seat out here.
+
+PATIENT Q131
+And they'll call me for those other.
+
+DOCTOR Q131
+I'm going to have you, nobody's here for the Lab. You can wait a few minutes and see.
+
+PATIENT Q131
+Alrighty.
+
+DOCTOR Q131
+If someone comes back if not then you can always go downstairs.
+
+PATIENT Q131
+Alright.
+
+DOCTOR Q131
+Alright.  I want to see you back in three months.
+
+PATIENT Q131
+Three months.
+
+DOCTOR Q131
+By then we'll have the ultrasound, we'll see what the labs show and we'll get a stress test.
+
+PATIENT Q131
+Okay.
+
+DOCTOR Q131
+Alright.
+
+PATIENT Q131
+Alrighty.
+
+DOCTOR Q131
+Take care sir.
+
+PATIENT Q131
+Alright.
+
+DOCTOR Q131
+You can just uh sit out there.
+
+PATIENT Q131
+Back in @@@.
+
+DOCTOR Q131
+If they don't come back soon you can always go downstairs.
+
+PATIENT Q131
+Yep.
+
+DOCTOR Q131
+And they can draw the blood downstairs but sometimes it's quicker here.
+
+PATIENT Q131
+Yeah.
+
+PATIENT LEAVES:  79:17
+
+Time is 10:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238121
+TRANSACTION # 578-10-2-316-0103

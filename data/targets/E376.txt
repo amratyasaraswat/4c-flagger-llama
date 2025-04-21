@@ -1,0 +1,7 @@
+Red Flag (1340-1452): "And they cancelled my appointment and I've been trying to call them to see if they'd give me another appointment"
+
+Factor   (1457-1483): "they never return my calls"
+
+Factor   (1939-2021): "I called them twice and twice they never answered me. Never gave me a return call"
+
+Probe    (2766-2941): "So I don't know exactly where the problem is, so I wanted to do that test to see and I'm not sure why. Of course they don't give any information, it just says will reschedule"

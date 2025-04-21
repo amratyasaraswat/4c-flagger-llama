@@ -1,0 +1,511 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR C602
+PATIENT?  How you doing sir?
+
+PATIENT C602
+Okay, how you been?
+
+DOCTOR C602
+I've been good.
+
+PATIENT C602
+@@@.
+
+DOCTOR C602
+That's what they told me.
+
+PATIENT C602
+@@@.  @@@ anticipating @@@ you know what I mean. @@@.  Can I have you come in here?  Blood pressure.  
+
+DOCTOR C602
+You got a logbook in that thing don't you?
+
+PATIENT C602
+Yeah I got it. There is from June and turn it over and this is to the current.
+
+DOCTOR C602
+Your logbook is @@@.  And this is directly after you've taken the medications?
+
+PATIENT C602
+Pretty close yeah.  I take the medication the first thing in the morning, there's the time.  Sometimes I take it.
+
+DOCTOR C602
+Alright so you were taken it yeah.
+
+PATIENT C602
+@@@
+
+DOCTOR C602
+@@@.
+
+PATIENT C602
+Well you see I take it usually around 7 o'clock, 6:30, 7 o'clock.
+
+DOCTOR C602
+You take your medications in the morning, no?  
+
+PATIENT C602
+Just because of the anticipation I'm more likely to set that friggin machine off.
+
+DOCTOR C602
+Okay.
+
+PATIENT C602
+And I've been to the doctor, been to the heart specialist, went to the doctor the day before yesterday and it was 135 over I think it was something like 80.  The heart doctor, a week ago today it was 128 over, same thing. I don't know it.  I do for his machine; I did not notice much anticipation I don't know why.
+
+DOCTOR C602
+Did you say that you may have had a MRI being ordered?  Do you remember having @@@.
+
+PATIENT C602
+Uh-huh I think @@@.
+
+DOCTOR C602
+They inject a dye.
+
+PATIENT C602
+Yeah, yeah.
+
+DOCTOR C602
+They did it?
+
+PATIENT C602
+Uh-huh you lay there.
+
+DOCTOR C602
+Yeah, yeah.
+
+PATIENT C602
+And they got this thing that goes over you like this.  Uh and then you go through exercise then and they get atomic radiation that they put in your.
+
+DOCTOR C602
+That's for your heart.
+
+PATIENT C602
+Okay.
+
+DOCTOR C602
+That's a stress test for your heart.
+
+PATIENT C602
+Um.  I did every test go can make available.
+
+DOCTOR C602
+Okay.
+
+PATIENT C602
+They ran my legs.
+
+DOCTOR C602
+Um well the nice thing is that your cholesterol and your glucose look fantastic, they're both good.
+
+PATIENT C602
+@@@ look at the heart thing I mean that's not really, it's only this machine here you know.
+
+DOCTOR C602
+Yeah I know these aren't bad.  These are really good generally.
+
+PATIENT C602
+Yeah well I mean for my age and.
+
+DOCTOR C602
+You know it's just the situation that you're on four medications and there are times when your blood pressure is markedly elevated.  We want to be sure that it's not just hypertension that there's not something else causing it and that's the really the only reason I bring that @@@ thing up.
+
+PATIENT C602
+Uh-huh.
+
+DOCTOR C602
+Cause when kidney arteries are blocked or narrowed.
+
+PATIENT C602
+Uh-huh.  I'm almost positive I had that done.  I really am.
+
+DOCTOR C602
+Uh-huh.  Um you haven't had any chest pain, shortness of breath or anything of that nature?
+
+PATIENT C602
+No.
+
+DOCTOR C602
+Let’s check it out.
+
+PATIENT C602
+@@@.
+
+DOCTOR C602
+I'm just checking the pulse ox.  
+
+PATIENT C602
+So how you been?
+
+DOCTOR C602
+I'm okay. What's new?
+
+PATIENT C602
+@@@.  Friday.
+
+DOCTOR C602
+Who?
+
+PATIENT C602
+Flangan.
+
+DOCTOR C602
+Oh yeah.
+
+PATIENT C602
+Yeah it's so just last week. Checking the blood. @@@ it was fine @@@ .08.  What'd you get?
+
+DOCTOR C602
+It's high yet.
+
+PATIENT C602
+What'd you get.
+
+DOCTOR C602
+165.
+
+PATIENT C602
+It's coming down.  When they first took it it was 2 something and she took it again and it was @@@.  I get done about 50 times a year.
+
+DOCTOR C602
+You get your blood pressure checks so many times in a year.  
+
+PATIENT C602
+What'd you get?
+
+DOCTOR C602
+Same thing, 170, not good.
+
+PATIENT C602
+I just got a shot and I'm trying to get my t-shirt down.  @@@.
+
+DOCTOR C602
+Deep breath for me.  How's the smoking going?
+
+PATIENT C602
+@@@.
+
+DOCTOR C602
+Yeah.  How many packs a day do you have?
+
+PATIENT C602
+Oh I don’t smoke a pack, maybe six or eight a day.
+
+DOCTOR C602
+@@@.
+
+PATIENT C602
+Depends on what I'm doing.  If I'm working I don't have time to stop and when you think about something take a cigarette.
+
+DOCTOR C602
+Sometimes you're bored huh?
+
+PATIENT C602
+Well before you think about it, it's a reflex action.
+
+DOCTOR C602
+I bet.
+
+PATIENT C602
+It's sort of like a @@@ I don't have it with me all the time.  
+
+DOCTOR C602
+What else can I refill for you?
+
+PATIENT C602
+Pardon me?
+
+DOCTOR C602
+Anything else I can refill for you medication wise?
+
+PATIENT C602
+I don't think, I probably need some refills.  What test did you say you want that, cause I can talk to them.
+
+DOCTOR C602
+They're called an MRA.
+
+PATIENT C602
+MRA.
+
+DOCTOR C602
+Of the renal.
+
+PATIENT C602
+Renal.
+
+DOCTOR C602
+Uh-huh arteries.
+
+PATIENT C602
+Spell that please.
+
+DOCTOR C602
+@@@ ask them.  
+
+PATIENT C602
+Uh it's a kidney test.  Kidney test.  And what is your fax number if they want to fax it, if they want to get some information to you?
+
+DOCTOR C602
+They have it up front at the front desk, just ask them at the front.  Where you get your appointment scheduled.
+
+PATIENT C602
+Yeah.
+
+DOCTOR C602
+Just ask them cause they have it up there.
+
+PATIENT C602
+They do?  The last time they didn't set an appointment.  I didn't get an appointment, they said just to call you or let you know and then I called in for medicine and they said you didn't get an appointment well you didn't tell me.  
+
+DOCTOR C602
+Alright.  (Doctor on phone)
+
+PATIENT C602
+MRA of the renal artery.  I'm almost positive I did.
+
+DOCTOR C602
+Oh, I know. I know.
+
+PATIENT C602
+No I just.
+
+DOCTOR C602
+I hate to repeat it, but you know again I'm not going to do it until I know.
+
+PATIENT C602
+Okay, well I better be @@@.
+
+DOCTOR C602
+Well let me talk to DOCTOR, you wait in here for a few minutes.
+
+PATIENT C602
+That’s not mine.
+
+DOCTOR C602
+Yeah that’s not yours.
+
+PATIENT C602
+Okay.
+
+(DOCTOR OUT:  35:24  DOCTOR IN:  43:03)
+
+DOCTOR C602
+Have you ever had a sleep study done?
+
+PATIENT C602
+A what?
+
+DOCTOR C602
+Sleep study?
+
+PATIENT C602
+No.
+
+DOCTOR C602
+Do you @@@ sleep at night?
+
+PATIENT C602
+Yeah well I do but not intentionally.  I fall sleep in the evening and I'll go down and turn something on the television, I'll fall asleep for an hour or so and then I can't go to bed right away so I go to bed about midnight, 1 o'clock and I sleep till about 7 o'clock or something like that.
+
+DOCTOR C602
+Okay.
+
+PATIENT C602
+I'm not tired, I'm mean if that's what you're looking into, I'm not tired.
+
+DOCTOR C602
+It's sometimes the cause of high blood pressure.  It's something called sleep apnea.
+
+PATIENT C602
+@@@.
+
+DOCTOR C602
+It's bad for the heart.  You don't snore or wake up in the middle of the night gasping for breath, that type of stuff?
+
+PATIENT C602
+Well I snore.  My wife, that's why she sleeps in another bedroom.  I always have snored.
+
+DOCTOR C602
+It's a situation where it's a test that you do in the Pulmonary Lab; it doesn't take much, where they evaluate whether you have sleeping troubles.  Uh you may not know it but this sleeping trouble puts stress on the heart and because of the stress on the heart, it can cause hypertension we can’t control with medicine.
+
+PATIENT C602
+Uh-huh.
+
+DOCTOR C602
+It's something that I want to do for you.
+
+PATIENT C602
+Uh-huh.
+
+DOCTOR C602
+But I want to schedule you for.  Why don't you go talk to the folks in the pulmonary lab.
+
+PATIENT C602
+Is that here?
+
+DOCTOR C602
+It's here.  Yeah, I'll schedule it, so it's not going to be today.
+
+PATIENT C602
+Okay.
+
+DOCTOR C602
+But uh why don't I schedule that for you.  
+
+PATIENT C602
+I need some refills of the clonidine too, so there are no refills remaining.
+
+DOCTOR C602
+Yeah we'll do that right now.
+
+PATIENT C602
+It says prior to May @@, @@@@ so I don't know what that means.
+
+DOCTOR C602
+Yeah whatever, I'll refill it. Especially @@@ one.
+
+PATIENT C602
+Uh-huh yeah.  And this one three, and this one three, and this one three.
+
+DOCTOR C602
+Alrighty so couple things I want to do with you.  I want to, if you're okay I'll send you to the Pulmonary folks for a sleep study and let’s not do the MRA test yet.
+
+PATIENT C602
+Let me check on that?
+
+DOCTOR C602
+I'm not going to do the test because it's a pretty, you know heavy duty thing to do.  @@@.  I want to make sure.
+
+PATIENT C602
+Let me check with the, I'll check with the doctor, DOCTOR.
+
+DOCTOR C602
+Please do.  Do one of two things, either fax them here if you have it or bring it in to your next appointment.  If you find out that you haven't had it done um call, like you would normally call for a refill.
+
+PATIENT C602
+Uh-huh.
+
+DOCTOR C602
+Call and tell say hey, tell DOCTOR that a MRA hasn't been done.
+
+PATIENT C602
+Okay.
+
+DOCTOR C602
+And I'll schedule it for you.
+
+PATIENT C602
+I’m almost positive I have had it but I can't remember.  And I have no trouble sleeping.
+
+DOCTOR C602
+You have no trouble sleeping, but you’re snoring.
+
+PATIENT C602
+Oh yeah my wife says I snore.
+
+DOCTOR C602
+You know maybe this test is for your wife, then.
+
+PATIENT C602
+@@@ sleeps in another room.
+
+DOCTOR C602
+That's what I mean; maybe I can help that out.
+
+PATIENT C602
+Hmm.  After 50 some years, what’s the difference.
+
+DOCTOR C602
+Okay, then maybe I won’t.
+
+PATIENT C602
+She don't give a shit (laughs).
+
+DOCTOR C602
+So it sounds good.  So they'll be notifying you about the sleep test.  You can follow up with me in six months unless something else comes up before then.  Um and then I'd like to know about that test.
+
+PATIENT C602
+Alright um alright I know the number to call.  I'll just call and I'll say yes or no.
+
+DOCTOR C602
+That's it.
+
+PATIENT C602
+Uh and I'll @@@.
+
+DOCTOR C602
+If yes then fax it in or bring it in to your appointment just so I can have a copy of it.
+
+PATIENT C602
+Okay I'll try and get a copy of it.
+
+DOCTOR C602
+If you fax it then I'll know it comes in my mailbox.
+
+PATIENT C602
+The last time I had faxed something here.
+
+DOCTOR C602
+Uh-huh.
+
+PATIENT C602
+Nobody said @@@ they never saw.  I mean it's as if went to the Never Never Land in the VA I mean and I did it twice.
+
+DOCTOR C602
+Oh okay just bring it in to the next clinic.
+
+PATIENT C602
+Okay.
+
+DOCTOR C602
+If it's no.
+
+PATIENT C602
+If it's no I'll call you and I'll leave a message.
+
+DOCTOR C602
+And then I'll call you so we can get it schedule it.
+
+PATIENT C602
+Okay.  @@@.  Six months okay.  The last time they wouldn’t do anything.  I mean I, just to let you know and then I come for meds, just to get medicines and uh. Oh no, I know.
+
+DOCTOR C602
+I just try to work within the system.
+
+PATIENT C602
+I'm not faulting you I'm just saying.
+
+DOCTOR C602
+No, no, I know how it is.  People tell me that all the time.
+
+PATIENT C602
+You know, well it was “We’ll notify you when you have an appointment” so I called for some medications and a week I get, you didn’t see your doctor, you didn’t have a test, you didn’t see a doctor lately.
+
+DOCTOR C602
+Okay @@@ there you go.  
+
+PATIENT C602
+Thanks a lot, I appreciate it.
+
+DOCTOR C602
+Alright you take care. 
+
+PATIENT C602
+You're here one day a week?
+
+DOCTOR C602
+Yes.
+
+PATIENT C602
+@@@.
+
+PATIENT LEAVES:  49:00
+
+Time is 11:10.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238138
+TRANSACTION # 578-10-2-316-0103

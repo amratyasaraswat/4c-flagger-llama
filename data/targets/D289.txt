@@ -1,0 +1,29 @@
+Red Flag (1928-1939): "colonoscopy"
+
+Red Flag (1955-1983): "No. I was scheduled for one"
+
+Factor   (2110-2171): "I had planned to be out of town uh so we had to reschedule it"
+
+Factor   (2206-2275): "And I needed to call and reschedule it but I'm out of the area now so"
+
+Red Flag (2827-2914): "The only two that I haven't been taking are the ones for blood pressure and the one for"
+
+Red Flag (2949-2957): "Diabetes"
+
+Red Flag (3220-3271): "And you had a CPAP, you had that um you said a mask"
+
+Red Flag (3306-3313): "No more"
+
+Red Flag (3856-3920): "Good and um do you have a place to stay or are you still looking"
+
+Red Flag (3936-3953): "I'm still looking"
+
+Probe    (3968-4018): "Are they helping you out in the Social Work Office"
+
+Probe    (4247-4313): "Okay and they're finding you someplace a little bit more permanent"
+
+Red Flag (8480-8561): "But um, when do you think the last time you took your blood pressure medicine was"
+
+Red Flag (8577-8624): "Uh probably, that was on the 8th, about the 4th"
+
+Red Flag (9105-9142): "your blood pressure is still too high"

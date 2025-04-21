@@ -1,0 +1,498 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR B552
+PATIENT?  My name is DOCTOR, um I work with DOCTOR.  Um how you doing?
+
+PATIENT B552
+Not bad, how about you?
+
+DOCTOR B552
+Uh good.  It says the last time you were here you saw DOCTOR.
+
+PATIENT B552
+Right.
+
+DOCTOR B552
+He was one of the other residents and I understand you had the colonoscopy.
+
+PATIENT B552
+Yeah.
+
+DOCTOR B552
+And uh everything looked okay.  You had a polyp that wasn’t cancerous.
+
+PATIENT B552
+That wasn't one of my better moments in life.
+
+DOCTOR B552
+Well, it's uh yes @@@.
+
+PATIENT B552
+Uh.
+
+DOCTOR B552
+But uh the next thing that you just need to have another one in ten years or so.  If you have more polyps than usually they want to repeat the colonoscopies a little more frequently so and then you had any more chest pains?
+
+PATIENT B552
+Actually, I told them before I didn't really have chest pain.
+
+DOCTOR B552
+Just numbness?
+
+PATIENT B552
+Yeah my arm was going numb.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+Cause you asked me if @@@ arm.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+And that's when I first decided it's time to go see a doctor.
+
+DOCTOR B552
+And you didn't see anybody before that for a long time?
+
+PATIENT B552
+I had one that said I was borderline high blood pressure and I saw him a couple of times only and then @@@.
+
+DOCTOR B552
+Okay.  Alright and let me see what the, uh did you have a rectal exam the last time, do you know?  Because one of the things that uh we need to do to evaluate your prostate and you can do it a couple of ways by either measuring uh the level of your prostate-specific antigen, it's something they find in your blood and then also a digital exam where we examine your rectum.
+
+PATIENT B552
+I don't think I did.
+
+DOCTOR B552
+Yeah.
+
+PATIENT B552
+No, no.
+
+DOCTOR B552
+Is that something you want to consider it now?
+
+PATIENT B552
+Uh right now no.
+
+DOCTOR B552
+No.  Yeah uh at your next visit then we'll talk about it again.
+
+PATIENT B552
+Okay.
+
+DOCTOR B552
+And now you can think about it.
+
+PATIENT B552
+I don't really go home and @@@.
+
+DOCTOR B552
+Okay.  It's something I don't think we have to do today.
+
+PATIENT B552
+Yeah.
+
+DOCTOR B552
+But we could do it next time too.
+
+PATIENT B552
+Fine.
+
+DOCTOR B552
+If you feel more comfortable with that and uh other than that, you know all your labs, everything looked okay too but this was actually from before.  Okay and then do you check your blood pressure at home?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+Uh do you check it whenever you go anywhere else?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+Okay cause today actually you know it was 133/80 and then on repeat it was 149/98, you know sometimes its a little bit higher when you come to the doctor's office so for right now we can actually just continue with, you know just continue with are you taking the amlodipine?
+
+PATIENT B552
+Yeah on that dose though I've only got another couple weeks left.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+So I'm gonna need.
+
+DOCTOR B552
+Yeah I can refill those for you.
+
+PATIENT B552
+Yeah both of them @@@ whatever they were.  Big words, I didn't want to try to pronounce @@@.
+
+DOCTOR B552
+Oh.  And do you want to get them in the mail or do you want to get them here?
+
+PATIENT B552
+Mail is fine.  Probably easier.  
+
+DOCTOR B552
+Uh @@@.
+
+PATIENT B552
+@@@.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+That’s fine, I got plenty to last @@@.
+
+DOCTOR B552
+Oh good so you actually have enough for, @@@.
+
+PATIENT B552
+Yeah they're both getting low.
+
+DOCTOR B552
+And those are the only two medicines that you take?
+
+PATIENT B552
+Right.
+
+DOCTOR B552
+Well let me ask you a few questions.  And then when you come back here uh let's see, March, April, May, June, July, August, so in about six months we'll check your cholesterol then too.
+
+PATIENT B552
+Okay.
+
+DOCTOR B552
+Okay.  But the last time it looked okay.  Any other things I can help you with today?
+
+PATIENT B552
+@@@ no.  The only reason I was glad to come now was because I was getting low on the pills.
+
+DOCTOR B552
+Okay.  You didn't have any changes in your vision?  Other than I saw that you had a visual studies test done showing that you @@@.
+
+PATIENT B552
+Yeah.
+
+DOCTOR B552
+Out of the corner of your eye.
+
+PATIENT B552
+That's what they told me.
+
+DOCTOR B552
+But you didn't notice that.
+
+PATIENT B552
+@@@ been bothering me because I dull the pain so if I hit anything I can just go over it.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+But now no problem.
+
+DOCTOR B552
+Okay good.  And you’re driving okay?
+
+
+PATIENT B552
+Uh actually I'm not driving right now.
+
+DOCTOR B552
+Is there a reason? Is it because of that?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+No.  Okay.  Oh.
+
+PATIENT B552
+Because of that.
+
+DOCTOR B552
+Are you still drinking?
+
+PATIENT B552
+I still drink yes.  
+
+DOCTOR B552
+How much?
+
+PATIENT B552
+Just a couple @@@ a day.
+
+DOCTOR B552
+Okay.  But were driving under the...
+
+PATIENT B552
+That's what they told me.
+
+DOCTOR B552
+Oh.
+
+PATIENT B552
+But I wasn't @@@.
+
+DOCTOR B552
+Oh okay and do you feel like you've got a problem with it?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+No, @@@.
+
+PATIENT B552
+No problem at all you know, no.
+
+DOCTOR B552
+No.
+
+PATIENT B552
+No.
+
+DOCTOR B552
+And any, are you smoking?
+
+PATIENT B552
+I puff on a cigar once in a while.
+
+DOCTOR B552
+Okay.  So any drugs?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+No so and well if you don't feel that the alcohol is a problem right now?
+
+PATIENT B552
+No it's not.
+
+DOCTOR B552
+Okay good.
+
+PATIENT B552
+In fact I was thinking of starting to drink more.
+
+DOCTOR B552
+Oh.
+
+PATIENT B552
+No I'm just @@@.
+
+DOCTOR B552
+Right uh any problems when you urinate, any pain?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+No blood in your stool?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+Let me have you sit up here and see you a minute.
+
+PATIENT B552
+Okay.  Yeah they put a, @@@ my appointment was in February and I put it off because I didn't want to have to stand in the bus stop in the middle of winter.
+
+DOCTOR B552
+Oh well @@@.
+
+PATIENT B552
+Yeah so this works out.  I hate the buses since high school.
+
+DOCTOR B552
+Deep breath and will you lie down?  Would you lift up your shirt?  Any pain anywhere?
+
+PATIENT B552
+No.
+
+DOCTOR B552
+Any swelling in your legs?
+
+PATIENT B552
+Uh no not really.
+
+DOCTOR B552
+No, good, alright.  So I'm going to have you sit back up.  I need to go talk to DOCTOR I already put in refills of your medications.
+
+PATIENT B552
+Okay @@@.
+
+DOCTOR B552
+Okay.  I want to just look at your immunizations.  Do you know if you're up-to-date on those?
+
+PATIENT B552
+Uh just before I came in here I just had the H1N1.
+
+DOCTOR B552
+Oh good.
+
+PATIENT B552
+And uh in the fall I had the regular.
+
+DOCTOR B552
+Uh how about your tetanus?
+
+PATIENT B552
+That I can't remember.
+
+DOCTOR B552
+You don't know when you did it.  Has it been about 10 years?
+
+PATIENT B552
+I can't remember so I'd probably say.
+
+DOCTOR B552
+Do you want to get that today?
+
+PATIENT B552
+Why not.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+I haven't @@@ pin cushion.
+
+DOCTOR B552
+Alright um take a seat okay.
+
+PATIENT B552
+Okay.
+
+(DOCTOR OUT:  38:38  DOCTOR IN:  43:12)
+
+DOCTOR B552
+Alright. Everything looks good.  I think that uh one thing that we could do about your blood pressure right now is have you cut down on the amount of salt.
+
+PATIENT B552
+Sure.
+
+DOCTOR B552
+Do you eat a lot of salt?
+
+PATIENT B552
+No.  I never put it on anything.
+
+DOCTOR B552
+Do you eat a lot of.
+
+PATIENT B552
+But I do eat some beef jerky and stuff like that.
+
+DOCTOR B552
+Okay so a lot of processed foods, in fact about 80% of what we take in in terms of salts comes in from processed foods so it's not really what you add during your meals but if you could just try cutting back on.  Do you eat a lot of you know frozen foods?
+
+PATIENT B552
+Yep.
+
+DOCTOR B552
+So try cutting back on those things and that'll actually help and that'll bring your blood pressure down a little bit too and then we'll see where it is next time I see you.
+
+PATIENT B552
+Alright.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+Okay.
+
+DOCTOR B552
+And today I'll send up the nurse to give you a tetanus shot, I don't know if she's still around so just give me a second while I find her okay.
+
+PATIENT B552
+Okay.
+
+DOCTOR B552
+And if not then you can just have that done the next time you come in.
+
+PATIENT B552
+Okay.
+
+DOCTOR B552
+Alright.  Alright so I don't see her so why don't we just plan on doing that next time.
+
+PATIENT B552
+Fine.
+
+DOCTOR B552
+Okay.
+
+PATIENT B552
+Yep.
+
+DOCTOR B552
+And you'll need to take this with you and they'll set up an appointment for you.
+
+PATIENT B552
+Okay and okay I was gonna ask about when you want to see me next.
+
+DOCTOR B552
+About six months.
+
+PATIENT B552
+Six months alright.
+
+DOCTOR B552
+Yeah.  Does that sound like?
+
+PATIENT B552
+@@@ so.
+
+DOCTOR B552
+Well it'll be in the @@@.
+
+PATIENT B552
+@@@.
+
+DOCTOR B552
+Okay.  Alright.
+
+PATIENT B552
+Okay.
+
+DOCTOR B552
+And then make sure that when you come back you get your labs drawn before.  You'll just stop at the, it's kind of diagonal to here, to get your blood drawn.
+
+PATIENT B552
+Oh okay yeah I know where it's at.
+
+DOCTOR B552
+Yeah and then uh.
+
+PATIENT B552
+Been there many times.
+
+DOCTOR B552
+And we'll think about the rectal exam alright.
+
+PATIENT B552
+You'll maybe think about it, I don't know if I.
+
+DOCTOR B552
+Okay, alright.
+
+PATIENT B552
+Alright thanks.
+
+PATIENT LEAVES:  45:50
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255195
+TRANSACTION # 578-10-2-316-0103

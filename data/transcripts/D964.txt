@@ -1,0 +1,932 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR D964
+PATIENT?
+
+PATIENT D964
+Yeah.  How you doing?
+
+DOCTOR D964
+How you doing?
+
+PATIENT D964
+Good.  Thank you.
+
+DOCTOR D964
+You can have a seat right there.  
+
+PATIENT D964
+Oh man.
+
+DOCTOR D964
+How you doing today?
+
+PATIENT D964
+Not too bad now that I've got a cold here so.
+
+DOCTOR D964
+What's that?  You have a cold?
+
+PATIENT D964
+With a cold yeah, over.
+
+DOCTOR D964
+When did that start?
+
+PATIENT D964
+A couple days ago.
+
+DOCTOR D964
+Couple days ago.  Just a runny nose or?
+
+PATIENT D964
+Yeah man sneezing and.
+
+DOCTOR D964
+@@@.
+
+PATIENT D964
+I feel a little bit under the weather.
+
+DOCTOR D964
+Any fevers?
+
+PATIENT D964
+Yeah Sunday night I had a little fever.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+But it was not too bad.
+
+DOCTOR D964
+Is it getting better or worse?
+
+PATIENT D964
+It's getting to be a little better.
+
+DOCTOR D964
+Starting to get better alright.  It's probably like a virus.
+
+PATIENT D964
+Yeah my son, my son had it.  Right then and there I said I picked that cold from you dude.
+
+DOCTOR D964
+(Laughter) Any sore throat or anything like that?
+
+PATIENT D964
+It was sore for about a day or so.
+
+DOCTOR D964
+Now that's gone?  Any cough?
+
+PATIENT D964
+Not really coughing.  Sneezing and a lot of runny nose, man.
+
+DOCTOR D964
+I think it sounds like you're on the mend from that.
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+Hopefully you've turned the corner.
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+Sometimes these things can stick around for a week or two.  But you said it sounds like you're getting better.
+
+PATIENT D964
+Uh-huh.
+
+DOCTOR D964
+Uh let's see, how are you doing otherwise.  Any chest pain, shortness of breath anything like that?
+
+PATIENT D964
+Uh not really chest pain.  A little, I mean not shortness of breath, I got a little chest pain but I think that comes from being congested, runny nose.
+
+DOCTOR D964
+Yeah when did you have those chest pains?
+
+PATIENT D964
+The last couple days.
+
+DOCTOR D964
+Last couple days.
+
+PATIENT D964
+Yeah but you know.
+
+DOCTOR D964
+Okay do you think that anything, tell me a little more about that.
+
+PATIENT D964
+Hmm.  I think it's, I don't know it's just like uncomfortable.  Like I lay on this side then if I lay on the other side its better.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+It could be maybe, I don't know maybe from the cold, I don't know.
+
+DOCTOR D964
+If you're walking around do you get the chest pain?
+
+PATIENT D964
+No.
+
+DOCTOR D964
+Okay.  When it comes on does it seem like a discomfort?  Is it like a pressing sensation?
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+Or a burning pain?
+
+PATIENT D964
+Like a burning pain then it goes away.
+
+DOCTOR D964
+How long will it last for?
+
+PATIENT D964
+A split second and then I may not have it no more for about two, three hours you know.
+
+DOCTOR D964
+And you said a split second.
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+Uh and so it won't last more than that?  It just goes off on its own.  Do you have to rest when that happens?
+
+PATIENT D964
+No it just, you know it's uncomfortable.
+
+DOCTOR D964
+Just kind of comes on.  Is it anything like when you had your heart attack?
+
+PATIENT D964
+No, that's the, you know my wife and I talked about it.  I said if it is I'll let you know you know.
+
+DOCTOR D964
+Any dizziness when you get that pain?
+
+PATIENT D964
+Uh uh.
+
+DOCTOR D964
+Any nausea when you get this pain?
+
+PATIENT D964
+No.
+
+DOCTOR D964
+Does it feel like the heart's racing at all?
+
+PATIENT D964
+No.
+
+DOCTOR D964
+Did you have any of those when you had your heart attack?
+
+PATIENT D964
+Oh yeah.
+
+DOCTOR D964
+Yeah.
+
+PATIENT D964
+You know I'd say I'm familiar with the symptoms.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+I know.  If it get to that point you know I could.
+
+DOCTOR D964
+Yeah we got to keep an eye on it okay.
+
+PATIENT D964
+You know say something.
+
+DOCTOR D964
+And you don't feel like you've had to take nitroglycerin?
+
+PATIENT D964
+No I haven't taken it you know.
+
+DOCTOR D964
+Yeah.  When was the last time you took nitroglycerin?
+
+PATIENT D964
+Oh man it's been a while.
+
+DOCTOR D964
+It has been.
+
+PATIENT D964
+I just got a new bottle cause the other one was so old.
+
+DOCTOR D964
+Right.
+
+PATIENT D964
+So they told me they were gonna replace it.
+
+DOCTOR D964
+Yeah you said you were having a fresh batch.
+
+PATIENT D964
+Right.
+
+DOCTOR D964
+Yeah.  Then if you need it you should have it.
+
+PATIENT D964
+I think I got it about a month ago.
+
+DOCTOR D964
+Okay.  @@@.  Tell me about your diabetes now.  Are you taking medications?
+
+PATIENT D964
+Yeah but it seems like its still running high.
+
+DOCTOR D964
+The last time we saw you, that was in October.  At that time the reason your sugars were running high is you weren't taking the medication.  So we said let's take your medications and see what that does.  Uh it looks like their still running high.
+
+PATIENT D964
+Yeah.  I takes it and still ain't right.  120 sometime and 130, 140, 160 even and I don't know what I'm doing.
+
+DOCTOR D964
+That's in the morning?
+
+PATIENT D964
+It was bad today cause I didn't take it this morning.  I didn't eat anything cause I didn't have a appetite really.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+And you know she said well you should eat something and I said no I'm okay but then when she took it out there it was 168 and I couldn't understand it.  
+
+DOCTOR D964
+And that's without having anything to eat.
+
+PATIENT D964
+I didn't eat anything.
+
+DOCTOR D964
+And the other thing is you got that lab recently, a couple days ago?
+
+PATIENT D964
+Yeah, I said I would make sure I come in here so we can get that done before.
+
+DOCTOR D964
+And that one tells us that it's been out of control for a long time now, like for three months, probably since I saw you.  Cause that's what it's saying with the Glargine.
+
+PATIENT D964
+Than what, I wanted to make sure I get that before I come back in here.
+
+DOCTOR D964
+So let's see.
+
+PATIENT D964
+So I came in Monday.
+
+DOCTOR D964
+So that's what brings up the next question, is what do we do at this point.  There's two options okay.  There's a third medication we can add on that I have to see if the VA has but sometimes it works and sometimes it doesn't and the other one is insulin, we might have to start at some point with that.  Cause with your heart history, it will be very important for us to get our diabetes under control.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+Uh what do you think.
+
+DOCTOR D964
+Which one do I think?
+
+PATIENT D964
+I don't want @@@.
+
+DOCTOR D964
+I'll talk to DOCTOR you don't want.
+
+PATIENT D964
+No I don't want.  I mean let's see, let's try it a month.  You know and I take strict control of it.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+I will take, you know I take my medication; I make sure I take it on time and let's see what happens.  One month and then we go from there.
+
+DOCTOR D964
+You want uh.
+
+PATIENT D964
+Just give it a little time and see if it works and.
+
+DOCTOR D964
+But you said you've been taking your medications regularly.
+
+PATIENT D964
+I been taking it you know.
+
+DOCTOR D964
+So that be a good reflection of where we are.  Let me talk to, I actually don't see it on the list here.  Let me see if the VA offers it, this third medication.
+
+PATIENT D964
+What is it?
+
+DOCTOR D964
+Uh it's Actos, pioglitazone um but I mean I'll talk to him and we'll come up with a plan.
+
+PATIENT D964
+And then see even if I have, you know sometime like I have to take the metformin twice a day.
+
+DOCTOR D964
+Uh-huh.
+
+PATIENT D964
+A lot of time, I do forget at night but I make sure I take it every day.
+
+DOCTOR D964
+You do take it every day.
+
+PATIENT D964
+Every morning I takes it.  Well a couple times at night I forget before I go to bed.
+
+DOCTOR D964
+So that's not every day.
+
+PATIENT D964
+That's not every day.  I don't forget every day but I do forget at times.
+
+DOCTOR D964
+Right.
+
+PATIENT D964
+But the one in the morning I been taking every day.
+
+DOCTOR D964
+And I'm looking at your weight, your weight let's see, it’s been going up, actually. So that's something else we can work on, try to get you to lose some weight okay.  Um you probably have your boots on and stuff like that.
+
+PATIENT D964
+Boots, heavy coat but you know I realize you know it's still too much level but I seen 250 up there and yes that's too much.
+
+DOCTOR D964
+And exercise is gonna help control your diabetes also okay.  So I'll probably take the problems with your heart disease @@@.
+
+PATIENT D964
+Yeah maybe like before you know it got cool it was kind of, the weight was, I don't know I was fishing and moving around.
+
+DOCTOR D964
+You were doing a lot.
+
+PATIENT D964
+And I was doing more things than I'm doing now you know.
+
+DOCTOR D964
+Alright.  And your breathing is okay otherwise.
+
+PATIENT D964
+No I'm fine.
+
+DOCTOR D964
+Alright. Let's take a look and see everything.
+
+PATIENT D964
+And I'm like a conjested like I say.
+
+DOCTOR D964
+Right.
+
+PATIENT D964
+My shirt off?
+
+DOCTOR D964
+Yeah please.  Let me see if we checked your cholesterol.  
+
+PATIENT D964
+The blood pressure's been fine.
+
+DOCTOR D964
+The blood pressure today was gppd.
+
+PATIENT D964
+It's been hanging in there real fine but I can't understand with the sugar.
+
+DOCTOR D964
+Give me a second.  How is, what's your diet?
+
+PATIENT D964
+Uh my wife have me eating like a pigeon sometimes.
+
+DOCTOR D964
+Okay.  So she's taking control of that?
+
+PATIENT D964
+Yeah man, vegetables I mean you know.  She say I still don't eat as much as I should but you know.
+
+DOCTOR D964
+So she does that.
+
+PATIENT D964
+Yeah man.
+
+DOCTOR D964
+She's watching out for you huh.
+
+PATIENT D964
+Sometimes I too much.
+
+DOCTOR D964
+(Laughter)  That's a good thing for you.
+
+PATIENT D964
+Yeah she been making those juices and shakes and all kinds of things.
+
+DOCTOR D964
+Can you tell me how often do you get this chest pain?
+
+PATIENT D964
+Hmm a couple times a day.
+
+DOCTOR D964
+Couple times a day.
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+And that's for how long, how many months?
+
+PATIENT D964
+Not months.  It's like the last few days or something.  I thought maybe, I figured maybe I was congested or something.  I really don't know.  But like I said it wasn't to the point you know where I was really, really concerned about it.
+
+DOCTOR D964
+Right.
+
+PATIENT D964
+But it was there.
+
+DOCTOR D964
+It was there.  Okay.  Any belly pain?
+
+PATIENT D964
+No.
+
+DOCTOR D964
+Blood in the urine, you going to the bathroom okay?
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+Urinating okay though?
+
+PATIENT D964
+Uh-huh.
+
+DOCTOR D964
+Any swelling?
+
+PATIENT D964
+No.
+
+DOCTOR D964
+Alright.  Let's see I'll be right back in a second.
+
+PATIENT D964
+Okay.  You gonna see about that medication and what we gonna do about that.
+
+DOCTOR D964
+What’s that.
+
+PATIENT D964
+Going to see about the sugar?
+
+DOCTOR D964
+Yeah that's what I'm gonna go talk to DOCTOR about.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+We'll come up with a plan for you okay.
+
+PATIENT D964
+Alright.
+
+DOCTOR D964
+And you know part of it does, we may recommend insulin based on.
+
+PATIENT D964
+May recommend.
+
+DOCTOR D964
+We might okay and if that's the case then we'll have someone teach you more about that.
+
+PATIENT D964
+Alright.
+
+DOCTOR D964
+Okay.  But I'm going to talk to her.
+
+PATIENT D964
+Okay.
+
+(DOCTOR OUT:  40:46  DOCTOR IN:  48:27)
+
+DOCTOR D964
+Alright.  Let's see.  So we talked about it and um a couple things came up.  So we were looking at your medications.  We do think insulin and we were gonna add one more thing than @@@.  
+
+PATIENT D964
+OKay.
+
+DOCTOR D964
+Um you know with your heart history I guess that it's absolutely @@@ to get your diabetes under control cause otherwise we're just putting you at risk of having another heart attack.  Cause those stents that you have um, because they keep the vessels open but they're also at risk of closing up if we don't control your other illnesses.   Does that make sense?  Um because I was looking through here and some of these medications haven't been filled since September it says.  @@@.
+
+PATIENT D964
+I been taking them, that's the old ones.  I was just trying to get them all out the way @@@.
+
+DOCTOR D964
+@@@ okay.
+
+PATIENT D964
+Now they just about used up.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+And that's what I wanted to do instead of because that's a waste of med, you know that.
+
+DOCTOR D964
+Yeah.  So I believe you I mean @@@ you told me the truth last time.
+
+PATIENT D964
+I had a few bottles of each one of those things and I just started taking them instead of, I don't like to throw away stuff like that.
+
+DOCTOR D964
+No problem.  So would be okay then, I think we should start the insulin.
+
+PATIENT D964
+Now how would I take it?
+
+DOCTOR D964
+So someone would teach you how to do it.  Usually what it is, you go underneath the skin.  They'll put you, you have to get a small injection um but it's not going to be too much different than what you're doing already when you check your sugars right.
+
+PATIENT D964
+Alright.
+
+DOCTOR D964
+So you break the skin and then it's just going to be under the skin and you give yourself an injection.
+
+PATIENT D964
+And how much would I have to take?
+
+DOCTOR D964
+So we're gonna start with 10 units okay and what we're going to have you do is come in three weeks.  Just check it every day, continue to do what you're doing, check it every day and uh keep an eye on what kind of affect it's having on your sugars cause if it's dropping too low then we may have to back off okay.  We're gonna start on uh.
+
+PATIENT D964
+And how often do you want me to take the sugar each day then?
+
+DOCTOR D964
+Once a day, still do it once a day.
+
+PATIENT D964
+Once a day.
+
+DOCTOR D964
+Yeah.
+
+PATIENT D964
+And when do I take the insulin?  In the morning or?
+
+DOCTOR D964
+So usually they do it at night but there's no particular reason for that.  It sounds like for you, you remember your meds mostly in the mornings.
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+So let's do it in the morning.  Does that sound fair?
+
+PATIENT D964
+I'd take one shot in the morning and that's it.
+
+DOCTOR D964
+Yeah and that's it.
+
+PATIENT D964
+Then would I check the sugar at night or?
+
+DOCTOR D964
+Check it before to make sure it's gonna be.  This insulin that we're gonna start you off on is going to be one that lasts for 24 hours okay.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+Uh you may have been in the hospital before where they have to give you a shot every six hours or so, that's not the same insulin that we're going to be using.  So you have to check it in the morning before you give it to make sure your sugar is not too low to get the insulin.
+
+PATIENT D964
+What should the sugar be?  Like at least before I'd take it?
+
+DOCTOR D964
+So if it's below 90.
+
+PATIENT D964
+Uh-huh.
+
+DOCTOR D964
+I wouldn't take it.
+
+PATIENT D964
+Take it.  If it below 90 don't take it.
+
+DOCTOR D964
+Don't take it and then.
+
+PATIENT D964
+Continue the other medications?
+
+DOCTOR D964
+Continue all the other medications.  So that's what we, what I want to do is see how you do down the line or maybe start taking you off the other meds.  If you start taking the insulin and it works and we'll maybe take off the glyburide.
+
+PATIENT D964
+Well I mean what about taking off the insulin if it's working?
+
+DOCTOR D964
+Well that's uh.
+
+PATIENT D964
+In three weeks, if we got it under control with adding the insulin.
+
+DOCTOR D964
+Well that means, that's something you need every day to try and keep you under control.  See how that works?  Okay.  Now if you start losing weight and that sort of thing and your sugars improve with that, we may be able to back off of the insulin by the end of the road.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+Okay.  I know you're worried about it and I know it's hard to accept it but sometimes when you have to give yourself an injection and that sort of thing but really the most important thing is gonna be your heart and that's what we're trying to look after.  Does that make sense?  Cause you've already proven to yourself the fact that your vessels are tenuous there they're going to be affected by the cholesterol and the @@@.  Now the cholesterol it seems like we've gotten back under control now we'll take care of the diabetes.  Your blood pressure is doing better so that's the one last thing @@@ next ine.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+Okay.  And then the.
+
+PATIENT D964
+I know how to use the insulin.
+
+DOCTOR D964
+You do?
+
+PATIENT D964
+Yeah.  What do I get, they gonna give me the injections you know everything I need I can pick them up from the Pharmacy or they gonna mail them?
+
+DOCTOR D964
+Uh why don't we have you pick it up so that someone can show you exactly how to use it.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+Okay.
+
+PATIENT D964
+And pick up the rest of the medication or you gonna mail that?
+
+DOCTOR D964
+Uh it's up to you; I'll put the orders in for them.  Now the albuterol I noticed you do have refills on them.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+11 refills on that and you take your Plavix every night?
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+Okay.  So you have to have all your medications enough to last you through June.
+
+PATIENT D964
+Is it okay to take the Levitra with insulin?
+
+DOCTOR D964
+Yeah so the Levitra it's actually okay to take with insulin uh but the concern and the reason they've actually taken it off your list is uh because of the @@@.
+
+PATIENT D964
+I know not to mix the two.
+
+DOCTOR D964
+Okay, @@@.  But yeah I think we had that discussion the last time you came in. 
+
+PATIENT D964
+Uh-huh.
+
+DOCTOR D964
+I thought it was okay but actually they oversaw that.  I thought it would okay because we had that discussion.
+
+PATIENT D964
+Uh-huh.
+
+DOCTOR D964
+But they uh, the VA oh the bosses of the VA still @@@.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+So actually, I had ordered it and they...  So if you have some that you want to use then just make sure you don't, I mean if you're having any chest pains or anything then don't use it.
+
+PATIENT D964
+Uh-huh.
+
+DOCTOR D964
+Now the chest pain, like you said it doesn't sound like it's from your heart, it sounds like something else.  Give me just a sec, do you feel that at all when I press there?
+
+PATIENT D964
+I don't get no pain.
+
+DOCTOR D964
+Yeah.  But the fact that it's only less than a second.
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+It doesn't sound like @@@.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+If there is at any point that changes then don't wait till your next appointment, come in right away.
+
+PATIENT D964
+Alright.  I just decided it wasn't really severe so I got to go Wednesday anyway to go back to the Emergency Room so.
+
+DOCTOR D964
+Yeah.  I think that's fair.  I think at this point but if like if it starts lasting more than a minute, couple minutes.
+
+PATIENT D964
+Right.
+
+DOCTOR D964
+Then you have to come in okay.  Alright.  And then the other thing when we start insulin you have to make sure, the same with your other @@@ is a consistent diet.  You're having the same number of meals every day that kind of thing.
+
+PATIENT D964
+Same number of meals.
+
+DOCTOR D964
+Yes.
+
+PATIENT D964
+Well you know that's something I kind of got to get in the habit of doing that because see like today I just didn't have no appetite, I didn't eat.
+
+DOCTOR D964
+Uh-huh.
+
+PATIENT D964
+So you know.
+
+DOCTOR D964
+Yeah just so, cause we also want you to, so we want you to avoid getting high but we also want you avoid getting too low okay.  That's not a been a problem @@@.  Alright.  You're all set okay.  So I'm gonna have you come back for two things in three weeks just to see how your sugars are doing.
+ 
+PATIENT D964
+Okay.
+
+DOCTOR D964
+If you can, at that time, also bring the log if you can try to record what you were getting at home.
+
+PATIENT D964
+Fasting readings, I can set this meter.
+
+DOCTOR D964
+Set the meter okay.
+
+PATIENT D964
+Yeah.
+
+DOCTOR D964
+Then bring that with you then.
+
+PATIENT D964
+I got plenty of scripts though.
+
+DOCTOR D964
+You did.
+
+PATIENT D964
+I mean they there, I mean I can pick them up?
+
+DOCTOR D964
+Yeah.
+
+PATIENT D964
+That's what.
+
+DOCTOR D964
+Yeah.  No but I want you to bring in the readings so we can see what you’re getting at home.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+And then we'll have you just come back and see me in 2-3 months.
+
+PATIENT D964
+Okay three weeks.
+
+DOCTOR D964
+Stop up here and they'll check your sugar and then we can make any adjustment @@@.
+
+PATIENT D964
+Okay so when I leave they give me an appointment in three weeks to come back.
+
+DOCTOR D964
+Yes.
+
+PATIENT D964
+Check in at the desk.
+
+DOCTOR D964
+Right.  Okay.
+
+PATIENT D964
+Cause see last time they say they gonna mail me one and I never seen nothing in the mail.
+
+DOCTOR D964
+Oh is that right.  No, no so this one they'll give it to you then.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+Alright.
+
+PATIENT D964
+Meet with the pharmacist.
+
+DOCTOR D964
+Yeah.
+
+PATIENT D964
+Okay.
+
+DOCTOR D964
+Alright take care.
+
+PATIENT D964
+Okay you too man, will do.
+
+DOCTOR D964
+Okay.  Make sure you're not out in the cold too much.
+
+PATIENT D964
+No.
+
+DOCTOR D964
+Cause it's that's also has an affect on the heart and you don't shovel right?
+
+PATIENT D964
+No uh uh I got a big old son for that.
+
+DOCTOR D964
+Alright good.
+
+PATIENT D964
+He do that.
+
+DOCTOR D964
+One you're outside take care of yourself.
+
+PATIENT D964
+I don't be out there long with the parking @@@.  Okay thanks doc.
+
+DOCTOR D964
+Thank you, take care.
+
+PATIENT LEAVES:  61:04.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255180
+TRANSACTION # 578-10-2-316-0103

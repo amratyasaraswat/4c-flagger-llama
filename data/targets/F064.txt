@@ -1,0 +1,25 @@
+Red Flag (6459-6507): "Some days it's 200s you know, it's 250 some days"
+
+Red Flag (6805-6828): "it was 180 this morning"
+
+Red Flag (7023-7057): "maybe 230-240, something like that"
+
+Probe    (7210-7275): "Well are you changing your diet? Are you eating different things"
+
+Red Flag (7441-7466): "Does it ever go above 240"
+
+Red Flag (7482-7499): "Some days it does"
+
+Red Flag (7946-8027): "A couple times it go low you know, I can feel it goes low you know a couple times"
+
+Red Flag (9499-9514): "Eye drops, okay"
+
+Red Flag (9530-9551): "Can you take them off"
+
+Probe    (12429-12462): "Did you take your medicines today"
+
+Probe    (12429-12462): "Did you take your medicines today"
+
+Red Flag (12679-12685): "173/80"
+
+Red Flag (12700-12721): "80 oh that's too high"

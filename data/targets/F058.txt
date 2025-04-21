@@ -1,0 +1,25 @@
+Red Flag (188-248): "Uh it's been a year or two when I've been to the office here"
+
+Red Flag (1752-1807): "I lowered it from what it was from 33 works pretty good"
+
+Probe    (1822-1862): "Why, what are you getting in the morning"
+
+Red Flag (4421-4489): "Um we sent you to the cardiologist and you didn't want an ICD put in"
+
+Red Flag (4505-4531): "No I didn't want it put in"
+
+Red Flag (5115-5126): "colonoscopy"
+
+Red Flag (5194-5271): "Yeah you had one in 2006 but you had something in there that was a little big"
+
+Factor   (5735-5827): "Can it wait for like uh, see what it is, is I'm working and I have to take the whole day off"
+
+CarePlan (5961-6044): "Can’t you schedule that ahead of time because you’ve already put it off for a while"
+
+Red Flag (6838-6879): "And you said you can't do the MOVE Clinic"
+
+Factor   (6880-6901): "because of the timing"
+
+Red Flag (7453-7467): "glipizide pill"
+
+Red Flag (7571-7673): "So I'm supposed to take two in the morning and two in the evening, sometimes I take one in the evening"

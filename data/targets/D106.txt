@@ -1,0 +1,19 @@
+Red Flag (6716-6796): "The only thing is your blood pressure is a little high but I'll recheck it today"
+
+Red Flag (16591-16645): "Well, see, I’m having a problem with appointments here"
+
+Factor   (16697-16737): "Uh @@@ appointment with the cardiologist"
+
+Factor   (16774-16780): "DOCTOR"
+
+Factor   (16862-16991): "So that's gonna be, maybe I can see him and I don’t know what he’s going to decide. then I'd have B12 shot at the end of December"
+
+Factor   (17036-17105): "And at the same time, I usually have a blood draw to check on the INR"
+
+Factor   (17139-17206): "Uh, the 9th I've got your blood tests request and @@@ Coumadin test"
+
+Factor   (17254-17301): "Right. January 5th I've got to see Dermatology"
+
+Factor   (17337-17382): "And January 12th I've got to have the dentist"
+
+CarePlan (17451-17495): "Do you want me to move it to two months then"

@@ -1,0 +1,859 @@
+Date of Encounter:  @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR F237
+PATIENT? 
+
+PATIENT F237
+Hi doc, how you doing?
+
+DOCTOR F237
+Actually @@@ right?
+
+PATIENT F237
+Well I think it's a little more than that doc.  I guess you’ll figure all that out.
+
+DOCTOR F237
+Isn't that why you called?
+
+PATIENT F237
+Yeah the ankle and from here to the ankle.
+
+DOCTOR F237
+Okay, let's take off the shoes and look at both of them.  Tell me what happened.
+
+PATIENT F237
+I don't know.  Uh you know I’ve been getting swelling in these ankles and in the ankle for a while but I'll ice it and it'll go down.  I injured it in the military and it never really healed.  When I was in the Army I had a cast on it.
+
+DOCTOR F237
+You said this has been going on ten years or something?
+
+PATIENT F237
+Uh.
+
+DOCTOR F237
+So what's the deal here?
+
+PATIENT F237
+You know it was off and on.  If I twisted it or something usually but since the last couple of months.
+
+DOCTOR F237
+Alright so the last couple of months.
+
+PATIENT F237
+It’s been swelling more and not going down.
+
+DOCTOR F237
+Last couple months having more swelling.  And pain or just swelling?
+
+PATIENT F237
+Well it was just swelling there, for the past three weeks.
+
+DOCTOR F237
+@@@, last three weeks.
+
+PATIENT F237
+And a coloration change.
+
+DOCTOR F237
+In the last three weeks with a color change and some pain.
+
+PATIENT F237
+No, not some pain, it's a sharp like pin sticking pain.
+
+DOCTOR F237
+Oh oh.  You got diabetes?
+
+PATIENT F237
+Yeah diabetes.
+
+DOCTOR F237
+Like needles?
+
+PATIENT F237
+Yeah.
+
+DOCTOR F237
+@@@
+
+PATIENT F237
+Worse at night?
+It's also worse throughout the day and I'm having numbness too in the area.
+
+DOCTOR F237
+Since I'm not your doctor so I don't know your background but it could be that your diabetes is getting worse.
+
+PATIENT F237
+Yeah much worse.
+
+DOCTOR F237
+And you're having so alright. How do I explain this?  So you got some nerves right.  This is your leg right.  You have arteries and you have nerves right.  These are the nerves.  What do you think the nerves do right?
+
+PATIENT F237
+Probably sensation yeah.
+
+DOCTOR F237
+Sensation that's one.
+
+PATIENT F237
+@@@.
+
+DOCTOR F237
+One is moving them right.
+
+PATIENT F237
+Uh-huh.
+
+DOCTOR F237
+And some of the nerves go up to the arteries all right.  So there's nerves going everywhere right.  So with the diabetes your circulation isn't great.
+
+PATIENT F237
+Right.
+
+DOCTOR F237
+Alright.  The less controlled you are the blood it's not circulating very well.  That's why they want you to check your blood pressure.  That's why they want that.  You don't have that, you're gonna have disease.  What's gonna happen, you're gonna have venous stasis, this chronic lower extremity edema and that's in relation like if somebody's not controlling themselves they're going to have ugly looking legs.
+
+PATIENT F237
+Right.
+
+DOCTOR F237
+You know when it gets all red and scaly.
+
+PATIENT F237
+Uh-huh.  @@@.
+
+DOCTOR F237
+And then there's more that do control themselves, they don't get that so.  Every time that kind of shows this @@@ control that kind of thing.  The nerves they need to nutrition.  It's just like how your muscles need nutrition to move so if your nerves have poor circulation to them they start getting damage and that's where the pins and needles and numbness, so they're getting damaged.  Why because the circulation is bad.  Why is the circulation bad, because of the diabetes @@@.  Some of that is irreversible.  Once we get to that point there is no more going back, so you just damaged it you know.  So the only hope is try to prevent it from getting worse and try to control your sugars.  So let me see how your sugars have been.
+
+PATIENT F237
+Yeah.
+
+DOCTOR F237
+Like I say I'm not your doctor so I have no idea of your history so on June 8th you were 8% which is not good.  Do you know what your A1c is?
+
+PATIENT F237
+I had another one at Advocate health fair and it was 7.4.
+
+DOCTOR F237
+And that was when?
+
+PATIENT F237
+That was one month ago, July they had that.
+
+DOCTOR F237
+They did a spot check?
+
+PATIENT F237
+No they took blood.  They took blood, sent it to a lab and sent me the results back within about two weeks.
+
+DOCTOR F237
+So 7.5.  So you've been averaging about 169 fasting glucose for the last three months.
+
+PATIENT F237
+Usually they're 166.
+
+DOCTOR F237
+So then with an 8 on June 15th you were averaging like 180 fasting.  So it's not very well controlled.
+
+PATIENT F237
+But I haven't been able to exercise cause @@@.  I used to just ride a bike @@@.
+
+DOCTOR F237
+Have you been taking your insulin?
+
+PATIENT F237
+I been taking insulin.
+
+DOCTOR F237
+And have you been watching what you eat?
+
+PATIENT F237
+Now I can't say I've been watching greatly but I have been yes watching it.
+
+DOCTOR F237
+What have your uh, what has your fasting glucose been like in the morning.  Like this morning what was it?  Do you check it every morning?
+
+PATIENT F237
+Oh yeah. This morning I was rushing and didn’t check it, I usually try to check it every morning but I'm usually in the 120s and many times lower in the morning.
+
+DOCTOR F237
+What was it yesterday?
+
+PATIENT F237
+Uh yesterday it was 119 yesterday.
+
+DOCTOR F237
+Okay.  
+
+PATIENT F237
+I have, like I say, I'll get up into the high 120s sometimes.  It's just the way.
+
+DOCTOR F237
+What's the highest it's ever been?
+
+PATIENT F237
+In the mornings 137 I believe it was.  Over this last couple of months.
+
+DOCTOR F237
+Yeah that A1c that you got from @@@ was like 130s, 120s you know.
+
+PATIENT F237
+It's during the day I think that it spikes on me pretty bad.  Uh I've had lows in the middle of the night uh when they first gave me that Aspart, then I'd have to get up and I'd have to drink something, some sugary drink or get some hard candy and I noticed that affects me when I take my morning sugar.  Uh but and I'm not eating much in the morning.  Yeah but when I eat.
+
+DOCTOR F237
+It doesn't help yeah.  For diabetics, like for other people it doesn't matter but for diabetics, it's more important that you eat every day at the same time.
+
+PATIENT F237
+Yes but what I do at my job.  But I eat; I may have dinner at 10-10:30 a night.  I think that affects me because of the way I work.
+
+DOCTOR F237
+What do you do?
+
+PATIENT F237
+Uh I do network stuff and I work odd hours, depends on when I'm called and what I'm doing.
+
+DOCTOR F237
+But think about it if you eat late and then you go to bed late.
+
+PATIENT F237
+Yeah.
+
+DOCTOR F237
+You know.
+
+PATIENT F237
+I think that's one of the main problems right there.  I've got this, I'm trying to change jobs right and I change what I do to get expanded out but I find myself eating @@@ constant now and I told my other doctor the same thing.  I mean I got to work and that sort of work is not really four or five almost is,@@@ there but never that late and I know that's the problem.  
+
+DOCTOR F237
+You didn't hurt your leg, like you didn't have trauma.
+
+PATIENT F237
+Oh no, no, no.  @@@.  No it just started hurting @@@.
+
+DOCTOR F237
+Let me go over your meds real quick.  You on fish oil?
+
+PATIENT F237
+Yes.
+
+DOCTOR F237
+Do you still use the artificial tears?
+
+PATIENT F237
+Yes.
+
+DOCTOR F237
+Uh hydrochlorothiazide and lisinopril combination?
+
+PATIENT F237
+Yes.
+
+DOCTOR F237
+And you have insulin.
+
+PATIENT F237
+Uh-huh.
+
+DOCTOR F237
+How much do you take?
+
+PATIENT F237
+Uh 55 at night, 50 in the morning.
+
+DOCTOR F237
+Of Glargine right?
+
+PATIENT F237
+Of Glargine.
+
+DOCTOR F237
+And what do you do for the premeals?
+
+PATIENT F237
+The Aspart?
+
+DOCTOR F237
+Yeah.
+
+PATIENT F237
+It depends on what I eat, I have to adjust it.
+
+DOCTOR F237
+Adjust it.
+
+PATIENT F237
+And the most I take is 20 units.
+
+DOCTOR F237
+And then you take pravastatin.
+
+PATIENT F237
+Pravastatin.
+
+DOCTOR F237
+At night and the metformin three times?
+
+PATIENT F237
+Metformin at night.  Its three pills at night.
+
+DOCTOR F237
+Three pills at night.  Now it says here take three tablets by mouth at bedtime, oh never mind.  @@@.  Yeah three at night right, okay.  And you are taking the metformin?
+
+PATIENT F237
+Yes.
+
+DOCTOR F237
+Alright.  Have you ever been started on gabapentin?
+
+PATIENT F237
+What is it, I had the gabapentin, I think it caused me some problems.
+
+DOCTOR F237
+Okay, that's the only thing that'll relieve some of the numbness and burning.
+
+PATIENT F237
+Uh.
+
+DOCTOR F237
+That's for a diabetic otherwise there's nothing else then.
+
+PATIENT F237
+Yeah well I might have to start taking it again then.
+
+DOCTOR F237
+Yeah.
+
+PATIENT F237
+But I'm trying to remember what the gabapentin did, I don't remember.
+
+DOCTOR F237
+Sleepy?
+
+PATIENT F237
+I don't remember, it's been a while.
+
+DOCTOR F237
+Well we could a half a pill; it doesn't mean you have to go high.
+
+PATIENT F237
+Yeah.
+
+DOCTOR F237
+That's the thing maybe somebody tried to go up too high on you.  Alright, so why don't you lay back and I'll raise this thing up.  Alright, relax and close your eyes.  Which toe am I poking at?
+
+PATIENT F237
+The little toe.
+
+DOCTOR F237
+The little one right?
+
+PATIENT F237
+Uh-huh.
+
+DOCTOR F237
+And we'll call the big toe one and then you know one, two, three, four, five.
+
+PATIENT F237
+And I just call the little one a five.
+
+DOCTOR F237
+Yeah.
+
+PATIENT F237
+One, that might be one, that felt like two.
+
+DOCTOR F237
+And where am I pressing now?  
+
+PATIENT F237
+Oh you're over now on my left foot now.
+
+DOCTOR F237
+Yeah where?
+
+PATIENT F237
+In the middle.
+
+DOCTOR F237
+Okay.
+
+PATIENT F237
+That would be number five on the left.
+
+DOCTOR F237
+Uh-huh.
+
+PATIENT F237
+That's the little toe I guess that's on the left.
+
+DOCTOR F237
+You have good sensations.  
+
+PATIENT F237
+I have no problem in my toes @@@.  But it gets right there.
+
+DOCTOR F237
+Okay.  
+
+PATIENT F237
+That hurts, right along that bone.
+
+DOCTOR F237
+Looks like you've got some cellulitis, a skin infection.
+
+PATIENT F237
+Hmm.  That's what I call @@@.
+
+DOCTOR F237
+Did you have a cut on your feet?
+
+PATIENT F237
+Huh, no I didn't have.
+
+DOCTOR F237
+You have fungus.  That's probably the cause of it.
+
+PATIENT F237
+Cause of what?
+
+DOCTOR F237
+Your toes.
+
+PATIENT F237
+On the nails?
+
+DOCTOR F237
+Well you know on your skin and your feet.  The thing is when people have fungus it cracks your skin and because it cracks bacteria can get in and then it @@@ the bacteria up.
+
+PATIENT F237
+Oh I didn't even know that.  I didn't see that.  I look at my feet twice a day, in the morning and at night.
+
+DOCTOR F237
+Alright @@@.  Alright.  So I think a couple things have to happen.  You can put on your shoes.  Is you have to try to dry your feet.  Here I'll help you.
+
+PATIENT F237
+Now can you just show me where you saw the fungus was cause I try to look for it.
+
+DOCTOR F237
+On the bottom where it's all scaly and white.
+
+PATIENT F237
+Uh-huh.
+
+DOCTOR F237
+That's fungus.
+
+PATIENT F237
+This stuff.  Cause I look at my feet twice.
+
+DOCTOR F237
+And you can see pealing over here.
+
+PATIENT F237
+But this is, right here its Podiatry a few years ago I had a growth or something or other and they cut it off and they saw something and a nitrogen shot in there and took it all off.  
+
+DOCTOR F237
+@@@ all over here.  The skin over here peeling.
+
+PATIENT F237
+Yeah.
+
+DOCTOR F237
+Now let me give you an anti-fungal, so a few things.  An anti-fungal and I'm gonna give you antibiotics and it looks like you have a skin infection there.  That's why it's red and warm and tight.
+
+PATIENT F237
+Yeah it is tight yeah.  Well what was that caused from?
+
+DOCTOR F237
+From the.
+
+PATIENT F237
+The fungus?
+
+DOCTOR F237
+Yeah like, you know how our skin is you know just smooth.
+
+PATIENT F237
+Uh-huh.
+
+DOCTOR F237
+Whenever you get something that's cracking like in cold winter and it kind of gets raw and cracks open.
+
+PATIENT F237
+Yeah.
+
+DOCTOR F237
+That's an avenue.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+For bacteria and guess what, you're a diabetic and your immune system.
+
+PATIENT F237
+@@@ blood stream.
+
+DOCTOR F237
+That happens to diabetics.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+That's why we get so paranoid about don't walk barefooted in your house.
+
+PATIENT F237
+I don't.
+
+DOCTOR F237
+You know cause you'll get a cut and guess what infection.
+
+PATIENT F237
+Walk in your tennis shoe, they taught me to about New Balance, clogs around the house, the foot doctor told me all that.
+
+DOCTOR F237
+Yeah okay.  I'll be right back okay.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+You can put on your shoes now.
+
+DOCTOR OUT:  28:10   DOCTOR IN:  35:42
+
+DOCTOR F237
+Alright sir.  So I'll have you come back in a week to visit the nurse and see if that infection is looking better, so I'll have come back for a nurse visit in one week and then I think we need to see you, just to see your primary care physician.  So I know you take a bath every day but I'm gonna try to mark it and see if you can try to avoid cleaning the markers off so when the nurse sees you in a week she can see if that redness has gone down, right in here.
+
+PATIENT F237
+Yeah.  All I take is a shower uh.
+
+DOCTOR F237
+Just kind of dab around it and try to avoid @@@.
+
+PATIENT F237
+Getting the water on it.
+
+DOCTOR F237
+Yeah or at least washing the marker so we can see if um.
+
+PATIENT F237
+So what I need to do is wash around that area.
+
+DOCTOR F237
+Yeah I think so yeah.  I would say right here, right like that.
+
+PATIENT F237
+Yeah.  All around the bone area.
+
+DOCTOR F237
+Okay.
+
+PATIENT F237
+A little soap.
+
+DOCTOR F237
+You should try to wash, does it hurt here?
+
+PATIENT F237
+Oh no not right there.
+
+DOCTOR F237
+Tell me when it does.
+
+PATIENT F237
+Yeah right, right there.
+
+DOCTOR F237
+Okay.  Alright well you know just clean and try not to wash off and we'll see, we can see if it's, you know what I mean.
+
+PATIENT F237
+This is permanent marker.
+
+DOCTOR F237
+Yeah.
+
+PATIENT F237
+Alcohol would take it off at the end of the day.
+
+DOCTOR F237
+Alright.  @@@.
+
+PATIENT F237
+Let me ask you a question, if you get @@@ stand in here this is a skin infection you say?
+
+DOCTOR F237
+Yeah.  It's called cellulitis.
+
+PATIENT F237
+That's exactly the area where the pins sticking me.
+
+DOCTOR F237
+Oh yeah.  
+
+PATIENT F237
+Okay that's why I can see.
+
+DOCTOR F237
+And uh cellulitis is not like cellulitis on you see on girl's butt or anything.
+
+PATIENT F237
+There on the rear.
+
+DOCTOR F237
+So it's basically inflammation of the underlying area of the skin.
+
+PATIENT F237
+So what am I supposed to do?
+
+DOCTOR F237
+You're gonna pick up Keflex antibiotic and gabapentin, I'm gonna start you on a low dose alright.  @@@.  Do have your doctor, you're real doctor @@@ put you on a higher dose based on your symptoms and titrate it a little bit up.
+
+PATIENT F237
+The gabapentin?
+
+DOCTOR F237
+With the gabapentin.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+Okay.  Uh get it at the window and then you can let them know that you want it mailed, that you want it mailed out to you.
+
+PATIENT F237
+No I want it before.
+
+DOCTOR F237
+No like I know that it's at the window and then you tell them at the window make the changes to mail it that you have to go someplace, you know what I mean.
+
+PATIENT F237
+Okay, yeah.  Could I have been bitten by something also?
+
+DOCTOR F237
+Well this is another thing sometimes yes it could be spider bites.
+
+PATIENT F237
+Yeah because I had rats and I had to have the house fumigated.  
+
+DOCTOR F237
+Right.
+
+PATIENT F237
+White spiders.
+
+DOCTOR F237
+But the most common reason might be because of that fungus.
+
+PATIENT F237
+Fungus yeah okay.
+
+DOCTOR F237
+And because you're a diabetic.  The likelihood of it being spider bites is really low.
+
+PATIENT F237
+Okay.  @@@ anything you know @@@.
+
+DOCTOR F237
+Oh of cellulitis?
+
+PATIENT F237
+No the uh.
+
+DOCTOR F237
+Fungus?  @@@  So I won’t give you medication for the fungus for now, I want to treat the infection first.
+
+PATIENT F237
+Uh-huh.
+
+DOCTOR F237
+And then once everything starts resolving you should definitely 
+bring it up with your primary care physician.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+Or your doctor, whoever it is.
+
+PATIENT F237
+DOCTOR.
+
+DOCTOR F237
+I don't know, @@@ he said I had fungus and I have cellulitis.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+He'll give you something for it.
+
+PATIENT F237
+You got that in, you got that in there right?
+
+DOCTOR F237
+Yeah I'm gonna write in there but I'm not gonna give you anything for the fungal yet but I'm gonna give you the antibiotics.  I’m glad there was nothing seeping anything out. That’s when it’s really @@@.
+
+PATIENT F237
+Seeping from the site? Or @@@.
+
+DOCTOR F237
+@@@ having some pus or anything like that.  We'll give you seven days.
+
+PATIENT F237
+Seven days of antibiotics, think that'll do it?
+
+DOCTOR F237
+Huh?
+
+PATIENT F237
+Think that'll do it?
+
+DOCTOR F237
+Yeah so they’re say five so I’m doing seven @@@.  Given this is my first time but you can't go @@@.  If you take care of your sugar it'll @@@ faster.
+
+PATIENT F237
+@@@.
+
+DOCTOR F237
+So why would you do that?
+
+PATIENT F237
+Yeah I think this @@@.
+
+DOCTOR F237
+Do you smoke?
+
+PATIENT F237
+No.
+
+DOCTOR F237
+Oh that's good.  Um how about at least for this week you like check your sugar a little more often, just for this week.  I mean you should do it all the time.  I'm just saying this week.
+
+PATIENT F237
+I usually try to get it at night and in the day and sometimes I have time to get it done.
+
+DOCTOR F237
+And try to avoid the potatoes.
+
+PATIENT F237
+@@@.
+
+DOCTOR F237
+I know, I know @@@.  Something, let's help this along.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+I know this is bad to tell you this but I just at least to help you for this week why don't act like you're a good patient right now for the week so this could get better alright?
+
+PATIENT F237
+I'll do that.
+
+DOCTOR F237
+So what you could do is avoid bread this week.
+
+PATIENT F237
+Uh-huh.
+
+DOCTOR F237
+Try to eat like more wheat if you don't eat bread, try to avoid potatoes, macaroni and cheese.
+
+PATIENT F237
+I don't even like macaroni and cheese.
+
+DOCTOR F237
+No pasta, spaghetti and noodles and the white rice.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+So no chicken fried rice from you know a Chinese restaurant.  So do that for this week so your sugar is being monitored because I want you to take that insulin because your body's like whoa I'm not having carbs and that insulin really works too well alright so you've got to be careful.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+You need to understand what I'm saying cause if you're avoiding the bad stuff your sugars will start getting lower.
+
+PATIENT F237
+I'm gonna have to adjust the insulin.
+
+DOCTOR F237
+Yes exactly.
+
+PATIENT F237
+So if I eat more of the vegetables.
+
+DOCTOR F237
+Yes, if you have any steaks boom.  Um green beans.
+
+PATIENT F237
+I eat not too much steaks, I don't take too much anymore.
+
+DOCTOR F237
+Or chicken with green beans and mixed vegetables instead of that nice baked potato.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+So make sure that's.
+
+PATIENT F237
+But some nice veggies. I used to.
+
+DOCTOR F237
+Well you know just a week so we can help this out for the @@@.
+
+PATIENT F237
+I will do that.
+
+DOCTOR F237
+Okay and then after that it's up to you but let's give it at least start a habit.
+
+PATIENT F237
+I'll start a habit.
+
+DOCTOR F237
+Just give it a chance alright.
+
+PATIENT F237
+Okay.
+
+DOCTOR F237
+Otherwise you have the medications, the orders.
+
+PATIENT F237
+And I'm just coming back in a week to see the nurse.
+
+DOCTOR F237
+Yeah.
+
+PATIENT F237
+@@@.
+
+DOCTOR F237
+Well try to see what they can arrange for you, tell them it's because of an infection.
+
+PATIENT F237
+@@@.  Oh I can just take it like this.
+
+DOCTOR F237
+Well they need the folder.
+
+PATIENT F237
+So that's privacy issues.
+
+DOCTOR F237
+Alright sir, take care.  @@@ alright.
+
+Time is 9:18.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  38296
+TRANSACTION # 578-10-2-316-0103

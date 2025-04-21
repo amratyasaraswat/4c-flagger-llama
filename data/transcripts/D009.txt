@@ -1,0 +1,404 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@
+
+DOCTOR D009
+Nice to meet you, how you doing?
+
+PATIENT D009
+Hmm, I'm doing alright.  @@@
+ 
+DOCTOR D009
+Just have a seat over there.  I understand you saw DOCTOR in the ER a few days ago?  
+
+PATIENT D009
+Yes.
+
+DOCTOR D009
+A few days ago, um and she diagnosed with plantar fasciitis.
+
+PATIENT D009
+Uh I actually knew that before.
+
+DOCTOR D009
+Okay and it just kind of flared up?
+
+PATIENT D009
+Uh it was bothering me so I went in and asked her to see if there's anything else to be done with it.
+
+DOCTOR D009
+Okay.
+
+PATIENT D009
+Here's the original x-rays and report on it.
+
+DOCTOR D009
+Okay, I kind of reviewed them already, thanks for bringing them in.  Um now when would you say you have your pain?
+
+PATIENT D009
+Whenever I try to pick the foot up.  I mean I try and walk on the ball of the foot.  Every time I take a step it feels like there's a balloon in the heel.
+
+DOCTOR D009
+Okay.
+
+PATIENT D009
+And it presses
+
+DOCTOR D009
+Alright so let me examine you.  You know what I'd like to do is send you to see Podiatry to see if there is something.
+
+PATIENT D009
+I already have an appointment August 2nd.
+
+DOCTOR D009
+Alright so they are going to be the ones to best address this and they might be able to give you a special shoe and also get x-rays and discussions and things and they'll go over all this stuff with you too.  Otherwise, it looks like you've never really been here in the system.
+
+PATIENT D009
+No.
+
+DOCTOR D009
+Okay.  So I do have a few questions just to kind of go over and make sure we cover everything else.  We're going to repeat your blood pressure too; it was almost a little high.
+
+PATIENT D009
+Okay.
+
+DOCTOR D009
+Um do you have any past medical history that you know of or that a doctor has ever told you about or anything like that?
+
+PATIENT D009
+No I've had the first right rib taken out.
+
+DOCTOR D009
+Okay.  Um and then are you a drinker or smoker?
+
+PATIENT D009
+No.
+
+DOCTOR D009
+Have you ever been in the past?
+
+PATIENT D009
+Um when I was 7, 8 years old I was smoking.
+
+DOCTOR D009
+So when did you quit?
+
+PATIENT D009
+When I was like eight years old.
+
+DOCTOR D009
+How much did you smoke?
+
+PATIENT D009
+Probably 2-3 cigarettes a day at that time.
+
+DOCTOR D009
+The reason why I ask is we need to see if we need to run some tests to screen for an artery issue.  How long did you smoke, a year, two years?
+
+PATIENT D009
+Yeah probably a year.  It was the excitement stealing them from my brothers and sisters and I never really had any alcohol issue.
+
+DOCTOR D009
+Any street drugs?
+
+PATIENT D009
+No.
+
+DOCTOR D009
+Have you ever used @@@?
+
+PATIENT D009
+No.
+
+DOCTOR D009
+Family history @@@.
+
+PATIENT D009
+Uh my mom and dad are both deceased.  Um.
+
+DOCTOR D009
+May I ask what they passed away from.
+
+PATIENT D009
+Uh my father just got old, and his body gave out on him.  My mother uh, the exact cause they don't know.  I know she fell and hurt her knee.
+
+DOCTOR D009
+Uh-huh.
+
+PATIENT D009
+And I took it as an embolism cause when I got back, the doctor said he was talking to her, he turned to write on her chart and when he turned back she was dead.
+
+DOCTOR D009
+No problem.  Have you ever had a colonoscopy?
+
+PATIENT D009
+No.
+
+DOCTOR D009
+No.
+
+PATIENT D009
+No.
+
+DOCTOR D009
+I strongly recommend it.  You don't have do it but it's one of those things I say, yeah.  So they give you a bunch of labs I got to order for that if you ask, okay.  And then that pain medicine that she's gave you.  
+
+PATIENT D009
+It is pain medicine?  Or is it? They said it was inflammatory medicine.
+
+DOCTOR D009
+I disagree with the use of that one.  I think there's a better one I'd like you to try it.
+
+PATIENT D009
+As long as it's not narcotic.  
+
+DOCTOR D009
+It's not.
+
+PATIENT D009
+Okay.
+
+DOCTOR D009
+It’s actually just straight-up Motrin. It’s better. That is an anti-inflammatory medicine, I just, the one that I would give you is a little better, okay.
+
+PATIENT D009
+Uh.  The reason I say about the medicine I'm going through a rescue mission at West Lake Cross.
+
+DOCTOR D009
+Uh-huh.
+
+PATIENT D009
+And I have to report all the medicines and they're kind of iffy on some medications so.
+
+DOCTOR D009
+Well, I don't think they’d be bothered by Motrin or ibuprofen.  Um based on blood pressure, we’ll see. Go ahead and have a seat.  Have you been enjoying the weather?
+
+PATIENT D009
+I try.  Well, I try and get out and ride the bike.
+
+DOCTOR D009
+That’s good. So unfortunately, I’ve got more bad news.
+
+PATIENT D009
+Uh-huh.
+
+DOCTOR D009
+Based on your weight you fall into – not the overweight, but you’re actually obese.
+
+PATIENT D009
+Oh yeah. I realize that by riding my bike.
+
+DOCTOR D009
+Right.  I’d like you to continue to ride your bike.  
+
+PATIENT D009
+Actually, it’s easier to ride a bike than it is to walk.
+
+DOCTOR D009
+That's definitely something.  Another thing is diet.  The VA has a program called the MOVE Clinic and they'll help you work with, if it's something you're interested in.
+
+PATIENT D009
+Oh it's just something I'd be interested in but where I'm going, I have no control over the diet.
+
+DOCTOR D009
+Right.
+
+PATIENT D009
+Like whatever they have.
+
+DOCTOR D009
+Yeah.  
+
+PATIENT D009
+@@@.
+
+DOCTOR D009
+I understand, just saying something. Are you working with our Social Work and everything?
+
+PATIENT D009
+Yeah I just got into the Homeless Program last month so.  I'm trying to do everything they ask me to do.
+
+DOCTOR D009
+So would be able to have the colonoscopy?
+
+PATIENT D009
+I don't even know what it is.
+
+DOCTOR D009
+What a colonoscopy is, they basically, it’s to screen to see if you have colon cancer. Colon cancer is one of those things that if they find, they can treat, take care of the issue. So basically, what it is, a tube about the size of these two fingers. We consciously sedate you, you'll be lightly sedated but you'll still be able to feel some stuff. They go from behind and um they look to see if there are any lesions in your colon.
+
+PATIENT D009
+Oh okay.  
+
+DOCTOR D009
+Um the reason why is to make sure you don't have any.  Now if it’s normal, it’s a once every ten year process. You’d probazbly get it two more times and then we’d stop. Now if we find something.
+
+PATIENT D009
+They can treat it.
+
+DOCTOR D009
+If we don't find something, you don't have to go through it for another ten years.  I will warn you though it is a painful process because of the preparation.  Unfortunately, in our bowel you have a lot of stool and that stool blocks their view.
+
+PATIENT D009
+Blocks the view.
+
+DOCTOR D009
+Of what we're looking at.  So we have to drink all of the stuff and it makes us poop our brains out.  Okay.  And that is the thing that most people are worried about. The test. So basically, the night before you're going to be sitting on your toilet pooping all night long.
+
+PATIENT D009
+Alright.  It’ll be a problem where I’m going.
+
+DOCTOR D009
+Okay.  I'm just saying I still think it's something to do.  But I mean, you wouldn't have to be on the toilet all night long, You’d just have to have access to the bathroom.  Touch down like you’re driving.  Does this hurt?
+
+PATIENT D009
+Yeah a lot there. 
+
+DOCTOR D009
+You need to you take your shoe off okay?  Where's the pain?
+
+PATIENT D009
+Right there.
+
+DOCTOR D009
+How about here?
+
+PATIENT D009
+No there's no pain.
+
+DOCTOR D009
+In the heel?  Does this hurt?
+
+PATIENT D009
+No.
+
+DOCTOR D009
+How about this?  
+
+PATIENT D009
+No.
+
+DOCTOR D009
+Does it get better through the course of the day or does it kind of get …
+
+PATIENT D009
+Well it's one of those things that in the morning it's just stiff.
+
+DOCTOR D009
+Alright come on up. In the morning, it’s just stiff.
+
+PATIENT D009
+Yeah and then throughout the day it continually gets worse.
+
+DOCTOR D009
+And then it gets better through the night?
+
+PATIENT D009
+Yeah.
+
+DOCTOR D009
+When you're not using it?
+
+PATIENT D009
+Right.
+
+DOCTOR D009
+Right.  So that unfortunately sounds like.  I actually have this myself, it’s a pain in the butt.  But there are some stretches that you can do.
+
+PATIENT D009
+Well.
+
+DOCTOR D009
+First, while painful so I’m just going to do it, basically it's doing this, @@@ okay.  And that's to work the entire muscle down below.  I would do it as tolerated okay.
+
+PATIENT D009
+Okay.
+
+DOCTOR D009
+I try to do it, when I'm having a flare I'll do it, you know I try to do it like ten times an hour.
+
+PATIENT D009
+Yeah.
+
+DOCTOR D009
+If I’m talking to you, you might see me do this.  Okay.
+
+PATIENT D009
+Where does this come from?  Is it just.
+
+DOCTOR D009
+Unfortunately, some people overuse, there's a muscle tendon there it gets a little @@@ and @@@ in theory could be @@@.  You just take it once a day, that's why I actually prefer ibuprofen, you can take it up to three times a day.  @@@. But you know sometimes it’s worse.  Yeah, probably in the morning when you're not walking on it.
+
+PATIENT D009
+Yeah, every once in a while, I land on something with the heel.  I try and walk so everything gets primed but…
+
+DOCTOR D009
+That would be my advice okay.  Um you can hop on down.  Alright.
+
+PATIENT D009
+Something's not right, that's just burns me all the time.  That's the one I was more worried about.  
+
+DOCTOR D009
+Um, and then ice and still @@@.  Do you want to pick up your medicines down in the Pharmacy?
+
+PATIENT D009
+Yes.
+
+DOCTOR D009
+You can take it every eight hours. Alright, I'll be back in a few.
+
+PATIENT D009
+Okay.
+
+(DOCTOR OUT:  82:49  DOCTOR IN:  89:01)
+
+DOCTOR D009
+Well alrighty.  I'll give you a call if anything comes up positive.
+
+PATIENT D009
+Okay.
+
+DOCTOR D009
+Otherwise I’ll see you in six months, okay.
+
+PATIENT D009
+Okay.
+
+DOCTOR D009
+I want you to follow up with that appointment. And if you're @@@ not getting any better I want you to call me.
+
+PATIENT D009
+Okay.
+
+DOCTOR D009
+Here you are.  The other thing I’d like to talk to you about is this outpatient advanced directive assignment.  So basically, uh what it is, is that as you get older, if you come to the hospital and need to see the doctor, I'll advise you what I think is right so you don't have to accept what I’m saying if you should choose, if you want.  Another thing, is, there are two things a Living Will and a Durable Power of Attorney.  What that means is if something happens to you and you're not able to talk, say you got in a car accident, someone would hit you, and you're not able to communicate, we will know what your wishes are.  The Living Will will say that.  Now basically what that means is if something happens such as mentally, or a breathing machine, and things like that.  Another thing is uh Durable Power of Attorney.  That means that if you're not able to talk to us, that would be a friend or family member who will speak for you on medical issues.  And the advise that I would give in that situation is to tell them what you want.  Anything can happen.  Of course I don’t think any of this is going to happen any time soon, but it's just a precaution kind of thing okay.  Um @@@ what I need here is I'll have you sign this and do you have any thoughts? Would you want to do that?
+
+PATIENT D009
+It would probably good; I mean I don't have anyone to speak for me so.
+
+DOCTOR D009
+So with um, here you go, so what I would do here is uh if you want to make a Living Will uh, at our next visit bring the form stating your wishes.  I'll have you sign right here.  Anytime you want to make a change or anything to modify anything, at every visit you come by.  Now I'll mention to you one more time @@@ switch out every three years.  You might get a different doctor okay.
+
+PATIENT D009
+Okay that's fine.
+
+DOCTOR D009
+Alright.  @@@.
+
+PATIENT D009
+Well.
+
+DOCTOR D009
+Try to stay warm and dry it's supposed to rain tonight.  Are you ready to go?
+
+PATIENT D009
+I @@@.
+
+DOCTOR D009
+Alright actually I'll have you do a bunch of labs.  Sign out here.  They'll call you @@@.  Take a right and that'll be where you check out okay.
+
+PATIENT LEAVES:  93:20
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238120
+TRANSACTION # 578-10-2-316-0103

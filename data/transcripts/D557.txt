@@ -1,0 +1,811 @@
+Date of Encounter:   @@/@@/@@.
+Time of Encounter:   @@@
+
+DOCTOR D557  
+PATIENT?  How are you? 
+
+PATIENT D557
+Could be better, could be worse.  
+
+DOCTOR D557
+Right over here is okay.  You can have a seat there.  Here for your uh annual visit?
+
+PATIENT D557
+I guess that's what it is.
+
+DOCTOR D557
+Okay.  Any new, I haven't seen you in a year, any new problems or issues?
+
+PATIENT D557
+Yeah I got a pain in my back for the last three months or so, I don't know if it's a muscle pulled.  I don't know what the hell it is.
+
+DOCTOR D557
+Okay.
+
+PATIENT D557
+But I can't get rid of it.
+
+DOCTOR D557
+Okay.
+
+PATIENT D557
+But I got to keep on working and stuff like that on my basement @@@ so I don't know if it's physical or whatever.  And then I had an endocrine doctor telling me my kidney, to detect the kidney @@@.
+
+DOCTOR D557
+Sure.
+
+PATIENT D557
+I guess it went too high or something.  But they checked it out and it was okay.  But then my endocrine doctor here, I did see him about a week or two ago.  That's the first time in a year.
+
+DOCTOR D557
+Uh-huh.
+
+PATIENT D557
+That’s ridiculous for hyperparathyroidism and the only reason I'm here cause I called cause I'm running out of medication refills.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+And so forth and they said well it said four months, suppose the nurse didn't do their Goddamn job so they never made an appointment for me and she decided to look at my back record.  It's not even on the screen so she couldn't even really diagnose the situation.
+
+DOCTOR D557
+Uh-huh.
+
+PATIENT D557
+But other than that, I'm still alive.
+
+DOCTOR D557
+So are you seeing a regular doctor as well on the outside?
+
+PATIENT D557
+No.  I did see an endocrine doctor.
+
+DOCTOR D557
+The endocrine okay.  Um alright so any injury to your back in the past?
+
+PATIENT D557
+Uh yeah years ago but that was, mainly it's just right here, it's like the muscle is @@@.
+
+DOCTOR D557
+Uh-huh.
+
+PATIENT D557
+But if I turn a certain way I have a hard time bending down and stuff like but you know I do it.  But I had, yeah nothing big you know they just told me, what do they call that, when you get older and stuff, lumbar spine.
+
+DOCTOR D557
+Uh-huh.
+
+PATIENT D557
+You know just like normal @@@.
+
+DOCTOR D557
+Any surgeries in the past for the back?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Does the pain go down the leg at all, radiate down the leg?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Okay and it just stays in that one spot?
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Um on a scale of 1-10, 10 being the worst pain in your life?
+
+PATIENT D557
+10 if I turn the right way or the wrong way or something like that but normally it just stays at a you know a three or four.  All depends on which way I move @@@.
+
+DOCTOR D557
+Are you taking anything for pain?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Um is it worse if you're um, do you ever notice if you're hunched over that it provides you more relief versus laying back.
+
+PATIENT D557
+Uh you know I think yeah I tried it.  I don't know if it does any more relief.
+
+DOCTOR D557
+Okay.
+
+PATIENT D557
+I tried to like stretch it out.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+To me it feels, it seems like a muscle or something uh.
+
+DOCTOR D557
+Yeah.  It could be.  I mean I'll examine you still but the fact that there's nothing going down the leg or anything like that is reassuring.
+
+PATIENT D557
+Yeah, yeah.
+
+DOCTOR D557
+And probably just arthritis, muscular or a muscular pain.
+
+PATIENT D557
+Yeah cause the same thing with this here like uh, I'm getting a lot of pain here now uh if I use it, like if I squeeze it here.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+I never had that before and just in the last month or so I'm starting to get it, so I don't know if I sprained it or maybe it's arthritis or carpal tunnel or some other garbage.
+
+DOCTOR D557
+Okay.
+
+PATIENT D557
+So I don't know what that is but I mean this hurts a lot when I, like I'm squeezing, I usually use this hand but I can't and I use this one and it's just too much power, you know too much pain in it.
+
+DOCTOR D557
+Okay.  Um I'll examine your hand too real quick after.  Uh any chest pain, shortness of breath, palpitations?
+
+PATIENT D557
+No, nothing that’s abnormal.
+
+DOCTOR D557
+And you're moving your bowels okay?
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Any blood in your stool, black stools?
+
+PATIENT D557
+No.  I only get blood, I use Metamucil but that's for the hemorrhoids.
+
+DOCTOR D557
+Okay and you had a colonoscopy in 2009 so you're set for that.  Um do you want something for pain?
+
+PATIENT D557
+Uh.
+
+DOCTOR D557
+I know in the past you didn’t.  If things are getting worse.
+
+PATIENT D557
+Yeah maybe, yeah just for like at night or something like that.  I don't know, it seems like a muscle.
+
+DOCTOR D557
+Yeah it's possible.  I mean did you notice that it came on all of a sudden a couple months ago or you just started noticing it gradually.
+
+PATIENT D557
+Yeah I think it just came on like all of a sudden.
+
+DOCTOR D557
+Okay.  Um and.
+
+PATIENT D557
+I'm not sure, @@@ if I move, it feels like just like right now, if I'm moving I can feel it, it hurts.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+It's just like if I pull a muscle or something like that, that's what it feels like.
+
+DOCTOR D557
+That's what it feels like okay.  You're still smoke free right?
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Okay good.  How long has that been now?
+
+PATIENT D557
+I don't know, about a year or so.
+
+DOCTOR D557
+Okay good.  Um and any heartburn, reflux, any issues like that?
+
+PATIENT D557
+No, them pills they give me work.  I guess they work pretty good.  I guess when I use them I'll get @@@.
+
+DOCTOR D557
+Alright.  Um okay let me change the paper here and examine you okay.  Take off your coat.  
+
+PATIENT D557
+I got to watch how I get up, when I bend down and stuff like that; I try to go straight down.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+If I just go down to get something, it's not that great.
+
+DOCTOR D557
+Okay.  Let me see is it this thumb here you said.  Put your hands out like this.  And where does it hurt when it hurts?
+
+PATIENT D557
+Right in here.
+
+DOCTOR D557
+Right in there okay.  Any pain when I push in here?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Does this cause any pain?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+So let's just put your hands kind of like you're praying and bring them straight, your arms straight, there you go, hold that for a moment.  Does that cause any pain in the hand here?  Okay good.
+
+PATIENT D557
+Yeah maybe a pressure, but not.
+
+DOCTOR D557
+But no sharp pains.
+
+PATIENT D557
+No pain no.
+
+DOCTOR D557
+Okay good.  So those two tests are for carpal tunnel so if those are both negative then that's probably not it.  You might just have some arthritis in the joint.
+
+PATIENT D557
+Cause that's pain right now.
+
+DOCTOR D557
+Squeeze my fingers really hard.  Good strength okay.  It hurts in here huh.
+
+PATIENT D557
+Yeah and here.  @@@.
+
+DOCTOR D557
+Did you ever hurt this area, younger, when you were younger?
+
+PATIENT D557
+I don't think so.
+
+DOCTOR D557
+Okay cause it could just be and then if it's in here, you know it seems just more like an arthritis I’m not sure.  
+
+PATIENT D557
+@@@ right here.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+@@@
+
+DOCTOR D557
+Okay.  Alright.  Let's listen to your lungs here.  Deep breaths.  How long has that thumb been bothering you?
+
+PATIENT D557
+Probably about a month or two something like that, that I notice it you know.  But now it’s consistent.
+
+DOCTOR D557
+And you're right-handed?
+
+PATIENT D557
+No I'm left-handed.
+
+DOCTOR D557
+Left-handed okay good.
+
+PATIENT D557
+I do everything right but I'm left-handed.
+
+DOCTOR D557
+Just breathe normal.  Okay.  Now if I push along your spine does this hurt at all?
+
+PATIENT D557
+Oh.
+
+DOCTOR D557
+Right, wow that’s very tender.
+
+PATIENT D557
+Yeah very tender.  I was fine it comes over here it aggravates it.
+
+DOCTOR D557
+Okay what about down here?
+
+PATIENT D557
+Probably the way I’m sitting.
+
+DOCTOR D557
+Okay.
+
+PATIENT D557
+It's got to be in the right position.
+
+DOCTOR D557
+Alright stand up for me.
+
+PATIENT D557
+A little bit down here but mostly it was right here.
+
+DOCTOR D557
+Okay.  Then come forward a little bit.  So if I push here is there anything?
+
+PATIENT D557
+Yeah a little bit.
+
+DOCTOR D557
+On that side here, what about @@@?
+
+PATIENT D557
+Just a little bit you know.
+
+DOCTOR D557
+Okay.  Anything here if I push?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+And any pain that radiates into the groin?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Okay then sit back down for me.  I'm going to have you lay back all the way.
+
+PATIENT D557
+@@@ my left foot the toenail and it came off @@@.
+
+DOCTOR D557
+Oh really okay.
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Let me see now I'm just going to keep your legs straight.  I'm going to bring you up, tell me if you feel any pain in your back.
+
+PATIENT D557
+A little bit now.
+
+DOCTOR D557
+Okay.  Now bend your knee or bring this ankle over to the other knee okay and then I'm gonna just bring your knee down.  Tell me if that hurts in your back.
+
+PATIENT D557
+No.
+
+DOCTOR D557
+No okay.  Same thing on this side, I'm going to raise this leg first.
+
+PATIENT D557
+I can feel it pulling on it.
+
+DOCTOR D557
+Okay.  Now bend your knee, bring this foot over to the side and bring your leg down.  Does that hurt at all?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Okay.  Can you come back up?  I'm going to have you stand up again.  I want you to twist, turn to the left, that's fine.  Does that hurt?
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Okay what about this way?
+
+PATIENT D557
+This way is not too bad. I don’t feel that.
+
+DOCTOR D557
+Okay.  And now.
+
+PATIENT D557
+Yeah if I turn that way it hurts more.
+
+DOCTOR D557
+And that hurts more than here.
+
+PATIENT D557
+It was right here.
+
+DOCTOR D557
+Okay.  Now I want you to like you're gonna touch your toes.  That's pretty good.
+
+PATIENT D557
+It feels a little @@@.
+
+DOCTOR D557
+Okay can you go back this way?
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Where did that hurt?
+
+PATIENT D557
+Same place.
+
+DOCTOR D557
+That hurts when you go back up okay.  Alright.  Have a seat back over here.  
+
+PATIENT D557
+Maybe it's from the hypoparathyroidism too you know @@@.
+
+DOCTOR D557
+Well but the thing is that’s a very particular spot um that you know I was able to reproduce it.
+
+PATIENT D557
+Yeah, yeah it feels like somebody kicked me or I stretched it or something like that.  I'm just curious why it lasts you know so long usually that'll wear off.
+
+DOCTOR D557
+Yeah.  I'm gonna talk to my boss.  I don't know if we need to get you an x-ray or not but we might, okay I can give you something to see if it helps relax that area okay.  Um I'm not going to get any blood work until you're due for your blood work with DOCTOR.
+
+PATIENT D557
+When am I due for that?
+
+DOCTOR D557
+Uh I guess in June.  I will let you know for sure.  She ordered this for June 30th so anytime after June 30th you can come in to get that done.
+
+PATIENT D557
+Okay now.
+
+DOCTOR D557
+And that'll be your cholesterol and your PSA.
+
+PATIENT D557
+Now did they say anything for like the kidneys on that?
+
+DOCTOR D557
+Um in June?
+
+PATIENT D557
+Yeah in June.
+
+DOCTOR D557
+Yeah she was gonna check that.
+
+PATIENT D557
+See that's what I understood @@@.
+
+DOCTOR D557
+Okay.  Let me talk to my boss and um and then I'll come back and we'll address this, you know the thumb and the back.
+
+PATIENT D557
+And now what about the toenail @@@.
+
+DOCTOR D557
+Well let me take a look at it.
+
+PATIENT D557
+It just @@@ I didn't know it was coming off so it looks like its on half way and I just - phew.
+
+DOCTOR D557
+Which toe is it?
+
+PATIENT D557
+My big toe.  I have pain.
+
+DOCTOR D557
+Oh it's right in there?  Yeah there's no signs of infection or anything.  It should grow back.  Was it black?
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Did you um hit it somewhere?
+
+PATIENT D557
+Probably so.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+@@@ that toe.
+
+DOCTOR D557
+Yeah that's okay.
+
+PATIENT D557
+@@@.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+But that will just grow back.
+
+DOCTOR D557
+Yeah it'll grow but it's gonna take some time but it'll grow back.
+
+PATIENT D557
+Yeah cause I think there's still some, a little loose on top of but that'll come off right?
+
+DOCTOR D557
+Yeah.  Well.
+
+PATIENT D557
+You got to let it fall off?
+
+DOCTOR D557
+Yeah I wouldn't do anything else to it.
+
+PATIENT D557
+Yeah I'm not going to.
+
+DOCTOR D557
+Let it be, let it be.  Um okay and let me look at that and I think we're up to speed.  So let me, now did you have chicken pox when you were younger?
+
+PATIENT D557
+Yeah I did.
+
+DOCTOR D557
+Have you had any um shingles?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Do you know what that is?
+
+PATIENT D557
+No I know my buddy had it.
+
+DOCTOR D557
+Yeah so but whenever you get chicken pox the virus that causes chicken pox when we were kids.
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+It lies dormant in the spine and it can wake up at any time wherever.  We don't know the trigger so it can occur at any time and it causes a very painful rash and the rash is something we don't care about cause the rash goes away but it's the pain associated with the rash that can linger for several years and that's because of nerve injury.  So uh they have a vaccine now.  It's called the shingles vaccine.  Anybody over the age of 60 is eligible for it.  Um it's something I would recommend.  Is that something that you're interested in?
+
+PATIENT D557
+Yeah, cause this poor guy has had it for months.
+
+DOCTOR D557
+No, it's I mean it's not.
+
+PATIENT D557
+He's in a tremendous amount of pain.
+
+DOCTOR D557
+Yeah it's uh, it's not.
+
+PATIENT D557
+And he still has it; he has to put stuff on his hands to cover it.
+
+DOCTOR D557
+Uh-huh.
+
+PATIENT D557
+Like psoriasis of a sorts.
+
+DOCTOR D557
+Uh-huh.
+
+PATIENT D557
+I got enough pain.  @@@ for that shot?
+
+DOCTOR D557
+It's just like any other shot, like anything else, like your flu shot or anything else.  
+
+PATIENT D557
+Maybe I should just get them both at the same time.
+
+DOCTOR D557
+Well they can't do the shingles today because it has to be like refrigerated and they got to do all this preparation for it, we'll schedule it.  They'll have to call you and set it up for you to come in to do it.  Okay, let me um talk to DOCTOR and I'll be back okay.
+
+PATIENT D557
+Uh-huh.
+
+(DOCTOR OUT:  59:29  DOCTOR IN:  65:29)
+
+DOCTOR D557
+Okay, she wants me to get some x-rays done of your back.
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Okay so um the x-ray is just to make sure that there's no fracture of the bones that work in the spine okay.  Um.
+
+PATIENT D557
+Way over here would that be affected.
+
+DOCTOR D557
+Essentially yes and sometimes in men it can be very vague so that's why we want to make sure because it happened all of a sudden, to make sure there's no fracture anywhere okay.
+
+PATIENT D557
+What do I do when I got two sisters and brothers that died from cancer and they complained about the back pain.
+
+DOCTOR D557
+Did they?
+
+PATIENT D557
+@@@ really I don't know.
+
+DOCTOR D557
+Yeah no they shouldn’t be.  Um let me just order that and then.
+
+PATIENT D557
+Ultra sounds.
+
+DOCTOR D557
+Heard what?  
+
+PATIENT D557
+@@@.  
+
+DOCTOR D557
+No for ultrasounds.  So ultrasounds only good for looking like an abscess or something like that but it won't for this.  And then for the pain I'm going to recommend you can do Tylenol over-the-counter that'll help or ibuprofen, either of those will help with arthritic pain okay.  That sounds like its arthritic pain.  If you want we can always do an x-ray cause I think an x-ray shows arthritic changes @@@.
+
+PATIENT D557
+Yeah would this be coming out of just my back?
+
+DOCTOR D557
+Well we don't know if that came out just like that.  I mean I can check it and we can see um while we're doing the lab.
+
+PATIENT D557
+@@@ happen this week.
+
+DOCTOR D557
+Go like this too with your hands and does that cause any pain?
+
+PATIENT D557
+No.
+
+DOCTOR D557
+Okay.  We can just – I’ll just x-ray your thumb too.  So Tylenol or ibuprofen and I'm also going to order, in case this is a muscle spasm that's going on in your back I'm gonna order a muscle relaxant it's called Flexeril.  You can technically take it up to three times a day as needed to see if that helps you okay.  Um and that'll give us a good starting point.  It’s your right thumb. Do you want me to have it sent to you or do you want to pick it up?
+
+PATIENT D557
+Just send it to me.
+
+DOCTOR D557
+Okay.  In the interim just take like Tylenol or ibuprofen and see if that helps you okay.  If that doesn't help and the Flexeril doesn't help call and if we get the results back and it shows, I can always give you something stronger and you can also escalate an investigation of this if we need to okay.  So this is just the starting point to see if these measures alone are sufficient to help you.  Okay so the toe is don't touch the rest of the nail.  That'll eventually come off on its own but toenails are the ones that take the longest to grow so it's going to be a long while alright.  Um the shingles vaccine, they will schedule for you to come back to get that done.  Um the Flexeril for the muscle spasms will be mailed to you.  In the interim when you're done today you're going down to Radiology, they're going to take some x-rays of both your hand and your lower back okay.  If anything comes back worrisome of any sort apart from just arthritis I will give you a call and let you know okay.  Um and then the Flexeril will be mailed as I mentioned and in the interim you try Tylenol or ibuprofen over the counter as needed for the pain and if none of those measures work for you, including the Flexeril, you call me back and we'll re-evaluate okay.
+
+PATIENT D557
+Now they can mail that to me too, if they want cause I'm out of that too.
+
+DOCTOR D557
+Oh you want the Tylenol, okay sure.
+
+PATIENT D557
+Yeah I'd rather have Tylenol than ibuprofen.
+
+DOCTOR D557
+That's fine.
+
+PATIENT D557
+Ibuprofen don't seem to do anything for me.
+
+DOCTOR D557
+Okay.  No blood work today.  When you're due for it, you're going to come back in July you can get blood work with DOCTOR and you can do that then too.  Now you don't want to take more than eight tablets of this Tylenol in a given day okay.  That's the max.
+
+PATIENT D557
+@@@ ibuprofen 600 mg, are you taking anything?  I said I'm not happy with any of it.  @@@.
+
+DOCTOR D557
+Yeah and actually with your @@@ probably not gonna want you to take the ibuprofen.  The maximum is eight tablets a day.  Um you can take 1-2 tablets every 4-6 hours as needed.  Okay and then now in terms of your medications; you've got lots of refills.  The bupropion you don't have any refills on, do you need refills for that?
+
+PATIENT D557
+Yeah, bupropion.
+
+DOCTOR D557
+Yep that's for the smoking.
+
+PATIENT D557
+That's for my smoking yeah, seems that's the only thing that works.
+
+DOCTOR D557
+Now um the fatty acids are you still doing those or no?
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Okay.
+
+PATIENT D557
+@@@ before cholesterol.
+
+DOCTOR D557
+Yep, exactly.
+
+PATIENT D557
+Did the cholesterol go down?
+
+DOCTOR D557
+Well we're going to check it in June.
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Okay.  
+
+PATIENT D557
+That's just @@@ right now.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+And I know I have to have this stuff @@@.
+
+DOCTOR D557
+Okay, so your meds from me are now all updated now too so you have plenty of refills.  Okay.
+
+PATIENT D557
+Okay.
+
+DOCTOR D557
+Okay.  So I want you to come back in six months or sooner if this is still an issue alright.
+
+PATIENT D557
+Yeah.
+
+DOCTOR D557
+Um I am done at the end of June so you'll need to get @@@.  But I'm still here until June @@@.  So if anything comes up, if these measures don't work, call me and let us transfer you to something else.
+
+PATIENT D557
+Right.  What's your extension?
+
+DOCTOR D557
+Um when you go to check out they can give you get a number for the general clinic cause I don't have a, I'm only in the clinic like once every two weeks.
+
+PATIENT D557
+Yeah, yeah.
+
+DOCTOR D557
+So I don’t have a specific phone. But I want you to call and you have to go through the Triage and then they'll get a hold of me and I'll call you back.
+
+PATIENT D557
+Okay.
+
+DOCTOR D557
+Okay and hopefully this will do the trick.
+
+PATIENT D557
+@@@.
+
+DOCTOR D557
+Yeah.
+
+PATIENT D557
+@@@.
+
+DOCTOR D557
+Yeah so just take it easy, I mean don't do too much.
+
+PATIENT D557
+Okie dokie.
+
+DOCTOR D557
+Alright.  Okay.  Take care.
+
+PATIENT D557
+@@@.
+
+PATIENT LEAVES:  74:50.
+
+Time is 11:17.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249441
+TRANSACTION # 578-10-2-316-0103

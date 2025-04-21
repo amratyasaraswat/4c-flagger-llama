@@ -1,0 +1,377 @@
+Date of Encounter:  @@/@@/@@
+Time of Encounter:  @@@@ 
+
+DOCTOR D783 
+PATIENT?
+
+PATIENT D783
+Yes. 
+
+DOCTOR D783
+I didn't know if I had the name correct.  How are you?
+
+PATIENT D783
+Good.
+
+DOCTOR D783
+We haven't seen you in a while huh?  And how are you holding up?
+Good.  Alright how you been?  Any problems since the last time I saw you?  Alright no @@@.
+
+PATIENT D783
+I came over here.
+
+DOCTOR D783
+What?
+
+PATIENT D783
+I said the only is @@@.
+
+DOCTOR D783
+Alright. Um you haven't been here since November that's okay I think I said six months right, so close enough.  Um no more clots?  No more blood clots?
+
+PATIENT D783
+@@@
+
+DOCTOR D783
+As far as you know.  No swelling in your legs or anything like that?
+
+PATIENT D783
+Maybe a little bit of swelling and I keep the compression on it.  If anything it might have collected.  It's just the thing that nothing has really been unavailable, no major swelling.
+
+DOCTOR D783
+Okay.  Uh any shortness of breath, trouble breathing, anything like that?
+
+PATIENT D783
+No.
+
+DOCTOR D783
+Alright cool.  Uh you saw the Hem/Onc doctors again so that's great.  We ran some tests so you might have one, you know the gene mutations you can have, I don't know if they talked to you about those.
+
+PATIENT D783
+Now I know that you wanted me to go there just because there's a treatment situation.
+
+DOCTOR D783
+Yeah.  
+
+PATIENT D783
+I don't know what came of it because.
+
+DOCTOR D783
+Oh yeah well basically what they, what they said was you know there were a few genetic tests that we can do.
+
+PATIENT D783
+Yeah.
+
+DOCTOR D783
+To see if you have a mutation, when some of the genes are clotting genes.  Um there's a few that are the most common, yours have two, well kind of 1 1/2.  You have one definite mutation that um makes you clot more.
+
+PATIENT D783
+Uh-huh.
+
+DOCTOR D783
+And one mutation that's kind of iffy. The test was kind of what's in between basically where it's not you completely have or you completely don't it's somewhere in the grey zone.  Um but nevertheless you've had clots before.  You had these tests.  You need to be on dalteparin all the time okay.  You kind uh because of all the stuff you've had.
+
+PATIENT D783
+Uh-huh.
+
+DOCTOR D783
+Kind of bought yourself lifelong dalteparin shots.
+
+PATIENT D783
+Okay.
+
+DOCTOR D783
+Which is better than getting a big, big blood clot in your lungs right and you know.
+
+PATIENT D783
+@@@?
+
+DOCTOR D783
+Yeah.  So then yeah because you know eventually if you don't take them what could happen would be maybe a big blood clot and it could either be like you know.  You see people who smoke.
+
+PATIENT D783
+Uh-huh.
+
+DOCTOR D783
+Like when old people that smoke what you see and they're on oxygen and all that stuff.  Same thing could happen.  You know basically what happens is if you lose a part of your lung um and then you require all this extra oxygen cause it makes it hard to walk, do things.  Worse obviously, the worst case scenario is you could die from a blood clot with this if it goes in your lungs and stops you from like getting oxygen okay.  You need to be, that's basically their recommendation was you should have it every day.  Are you still having, are you taking those still or are you off?
+
+PATIENT D783
+@@@ I mean.
+
+DOCTOR D783
+Okay.
+
+PATIENT D783
+I need refills of the meds, that's why I was here; I had an issue with the prescription where they didn't want to give me the appropriate.  They gave me some to go home with then they were supposed to mail it to me.  I never got it in the mail.  I talked to the pharmacist to try and validate what I was supposed to get, all those boxes @@@ so.
+
+DOCTOR D783
+Okay.
+
+PATIENT D783
+And then he tried to say it was my fault because I didn't sit and wait for some of it.  I was told that it was going to be mailed it to me.
+
+DOCTOR D783
+Okay.
+
+PATIENT D783
+So, I’m just going to sit and wait today to get it.
+
+DOCTOR D783
+Okay, sounds good.  I was gonna say we'll do that and make sure we refill it.  I'll give you 30 days, oh yeah 30 days is one of the things we do and then we'll do eight refills okay.  You should have some way more than enough okay.  And I could see you back here in nine months okay.
+
+PATIENT D783
+Okay.
+
+DOCTOR D783
+Okay.
+
+PATIENT D783
+Okay well could they mail me a 30 day supply today or?
+
+DOCTOR D783
+Yeah 30 day and then you just have to.  I'll tell you what I'm gonna do, let's do 60, how about that?
+
+PATIENT D783
+Okay.
+
+DOCTOR D783
+Okay.  Yeah and then you can get five refills so you don't have to come back every two months okay. 
+
+PATIENT D783
+So can I do the refills on the website stuff or?
+
+DOCTOR D783
+Yeah, yeah.
+
+PATIENT D783
+Or do I gotta come see you?
+
+DOCTOR D783
+I think they'll so right now pick them up today and then you can do the rest from the website okay.
+
+PATIENT D783
+Okay.
+
+DOCTOR D783
+Oh yeah we gotta make sure you get this.  If there's any problems if they don't want to give you something just call here.  If I'm not here and like somebody else is then you got to make sure you get it okay.  Uh I don't want you getting any big blood clot okay.  Um otherwise you're not going to Podiatry anymore?  Is it getting better?
+
+PATIENT D783
+Yeah it got to the point where they said it was healed so.
+
+DOCTOR D783
+And you're wearing; you're wearing the compressive stockings okay.  Any other problems?
+
+PATIENT D783
+No.  The lady that gave me the compression stocking, they gave me like Velcro stuff.
+
+DOCTOR D783
+Yeah.
+
+PATIENT D783
+So, I probably need some more.  @@@ quite a while and the Velcro coming loose @@@.
+
+DOCTOR D783
+Looks like they gave you a lot of those gel stuff.  Are you putting that on?
+
+PATIENT D783
+The what?
+
+DOCTOR D783
+That gel, it's called Absorbase like for dry skin.
+
+PATIENT D783
+Oh it's for the dry skin yeah.  It more like a lotion than a gel but @@@.
+
+DOCTOR D783
+Oh yeah.
+
+PATIENT D783
+I always think that everything @@@.
+
+DOCTOR D783
+And you know where to go for that? Upstairs.
+
+PATIENT D783
+Oh yeah.  Can I go today?
+
+DOCTOR D783
+Yeah.
+
+PATIENT D783
+I want to get my prescription over here and come back.  Is that @@@ upstairs?  I think it's on the third floor.  I take the elevator.
+
+DOCTOR D783
+Yeah the green elevator yeah.  Cause that's over here, it's called Prosthetics.
+
+PATIENT D783
+@@@?
+
+DOCTOR D783
+Yeah.  Can you sit over here?  Deep breath.  Deep breath okay another one.  That's good.  Lay back.  You're not smoking right?
+
+PATIENT D783
+Huh?
+
+DOCTOR D783
+You're not smoking or anything are you?  @@@ Worst thing you can do.
+
+PATIENT D783
+Yeah.
+
+DOCTOR D783
+They gave me one large glove.
+
+PATIENT D783
+So what's the name of this condition?
+
+DOCTOR D783
+What's that?
+
+PATIENT D783
+Now what was that name of this condition?
+
+DOCTOR D783
+You mean the mutation that you have?
+
+PATIENT D783
+Mutation is it?
+
+DOCTOR D783
+It's called um there's I think you've got two of them, one's called Factor Five Leiden.
+
+PATIENT D783
+Alright.
+
+DOCTOR D783
+Um it is nothing you could always talk about it at the bar because nobody knows what it is.  But it's like one of the most common kind of mutations you can have to be predisposed to the blood clots.  And the other one is called prothrombin it's kind of the in between one.  Uh basically what you've had is you've had DVTs which are deep venous thrombosis.  That's just a fancy word for like blood clots in the deep veins of your legs.
+
+PATIENT D783
+Hmm.
+
+DOCTOR D783
+One of them travels up into your lungs or actually two of them.
+
+PATIENT D783
+Yeah.
+
+DOCTOR D783
+Yeah.  What are you doing now?  Are you working?
+
+PATIENT D783
+Yeah I'm not working at the moment.
+
+DOCTOR D783
+Okay. You looking for a job?
+
+PATIENT D783
+Cause I'm still going to school.
+
+DOCTOR D783
+Oh you are?
+
+PATIENT D783
+Yeah.
+
+DOCTOR D783
+Cool what are you gonna school for?
+
+PATIENT D783
+Um @@@.
+
+DOCTOR D783
+What's that?
+
+PATIENT D783
+Ambulance communications management.
+
+DOCTOR D783
+Very good, very good.  Where you going to school at?
+
+PATIENT D783
+@@@ and then I was going, when I do have, the thing is we're @@@.  What it is there's no work right now.
+
+DOCTOR D783
+Oh.
+
+PATIENT D783
+@@@.
+
+DOCTOR D783
+Very slow. Yeah I get you, alright.  Alright well only got to see you for a little bit.  Let me double check with the boss, make sure everything's okay and then you'll be good to go okay.
+
+PATIENT D783
+Okay.
+
+DOCTOR D783
+I'll be right back.
+
+DOCTOR OUT:  53:53  DOCTOR IN:  56:46
+
+DOCTOR D783
+@@@.
+
+PATIENT D783
+Yeah.  I think @@@ I'm trying to find out how to take this rotation during @@@ in the @@@ cause I don't know how.
+
+DOCTOR D783
+You what?
+
+PATIENT D783
+You've got to assemble it.
+
+DOCTOR D783
+Oh.
+
+PATIENT D783
+If I turn it this way.
+
+DOCTOR D783
+Oh.
+
+PATIENT D783
+It'll still want to keep flipping but I don't know how I did it.  But even when they actually come out with I-4 with this, I felt that the I Phone.
+
+DOCTOR D783
+The 5 right?  This week coming out.
+
+PATIENT D783
+This year so @@@.  Well I don't know with everybody getting it because if it's just Apple or Sprint cause even Crickets be getting the I Phone now.
+
+DOCTOR D783
+Oh really.
+
+PATIENT D783
+Yeah it's gonna be prepaid.  Oh man I'm T Mobile sounds like they're gonna be I Phone and stuff.  Probably have them all.  
+
+DOCTOR D783
+So remember to go get it, I refilled your medicines, compression stockings, be back in like 6-9 months okay.
+
+PATIENT D783
+Right.
+
+DOCTOR D783
+Any questions?  Anything else we can do for you?
+
+PATIENT D783
+No I take this down there?
+
+DOCTOR D783
+Yeah they'll mail you a letter since it's so far from there.  Alright.
+
+PATIENT D783
+I take it to the front and what about the prescription?
+
+DOCTOR D783
+All send them, the prescriptions like you just tell them your name and they'll fill it.
+
+PATIENT D783
+So I pick up the prescriptions up here yeah.
+
+DOCTOR D783
+Alright, take care.
+
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  38308
+TRANSACTION # 578-10-2-316-0103

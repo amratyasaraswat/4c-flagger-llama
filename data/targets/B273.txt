@@ -1,0 +1,7 @@
+Red Flag (2876-2885): "albuterol"
+
+Red Flag (3090-3144): "I could pick up my, but I got enough for two more days"
+
+Red Flag (3159-3211): "How long does it usually take them to mail it to you"
+
+Red Flag (3227-3252): "Uh about three, four days"

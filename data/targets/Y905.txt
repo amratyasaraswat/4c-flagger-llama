@@ -1,0 +1,43 @@
+Red Flag (1056-1159): "they did a MRI and then they never told me anything else about my prostate when they found a spot on it"
+
+Factor   (1080-1098): "they never told me"
+
+Factor   (1080-1098): "they never told me"
+
+Probe    (1174-1231): "Oh it looks like you're seeing the prostate doctors right"
+
+CarePlan (1267-1353): "And uh yeah I think that was your kidney that they found the spot on, not the prostate"
+
+CarePlan (1397-1511): "Right so I think they didn't really think much of it, kind of reading their notes. They just wanted to follow you"
+
+Factor   (1527-1599): "They told me my prostate was swelled and there was a spot on my prostate"
+
+CarePlan (1716-1759): "They said there was a lesion on your kidney"
+
+Probe    (1884-1939): "Have you been able to take your blood pressure medicine"
+
+Red Flag (1974-2032): "Cause it looks like you haven't refilled it since December"
+
+Red Flag (2921-3018): "You know I'm doing a lot of exercising myself so I don't even know if physical therapy would work"
+
+Factor   (2970-3018): "I don't even know if physical therapy would work"
+
+Red Flag (4958-4990): "And you see I'm out of Tylenol 3"
+
+Red Flag (6609-6652): "You had an appointment with the orthopedist"
+
+Probe    (6767-6822): "Cause it looks like you didn't make it to your last one"
+
+Red Flag (7277-7357): "Uh are you sure we can't interest you in any vaccinations or a colonoscopy today"
+
+Red Flag (7373-7383): "No nothing"
+
+Red Flag (8632-8704): "So why do you always, so you know it ain't happening this time I go back"
+
+Factor   (9028-9167): "Well why does the guy keep sticking his finger in my ass? That's what I'm talking about see, cause I mean there's something wrong with him"
+
+Factor   (9277-9362): "Yeah they getting off sticking their finger in my ass. You know you guys are all @@@"
+
+Factor   (9976-10015): "You know that thing about the ass thing"
+
+Factor   (10048-10063): "It wasn't right"

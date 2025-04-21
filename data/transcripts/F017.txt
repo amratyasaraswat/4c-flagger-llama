@@ -1,0 +1,499 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@@  
+
+DOCTOR F017
+PATIENT?  How you doing sir?  Pleased to meet you.  You normally see DOCTOR?
+
+PATIENT F017
+I haven't seen my regular doctor for probably about six or seven months.
+
+DOCTOR F017
+Okay.  What brings you in today?
+
+PATIENT F017
+Uh actually I was in the Emergency Room a couple weeks ago with um pain in my arms and my chest and uh now I notice that I'm having uh bouts of headaches along with continued limb pain and some chest pain and uh a lot of coughing.
+
+DOCTOR F017
+Okay what's the number one complaint, the arm pain?
+
+PATIENT F017
+Yeah the arm pain.
+
+DOCTOR F017
+And uh why haven't you seen the regular doctor?
+
+PATIENT F017
+I haven't been.
+
+DOCTOR F017
+They didn't schedule you or anything.
+
+PATIENT F017
+Something like that.
+
+DOCTOR F017
+Um.  Now you tell me you were in the ER and they wanted you to be admitted.
+
+PATIENT F017
+Yeah and I uh.  When I went there the problem had been going on for about three days but after I was in the Emergency I wasn't experiencing that same problem so I didn't feel like I could stay in the hospital for something that I didn't feel like it was a problem at the time.
+
+DOCTOR F017
+So who was your main doctor before?
+
+PATIENT F017
+I couldn't even tell you sir.  It just seems like every year I get a new doctor.  I get seen by them once or twice and then I get another new one.
+
+DOCTOR F017
+Have you been taking your medications?
+
+PATIENT F017
+The ones that I can get.  I have run out of clopidogrel.  I have no more prescriptions available for metoprolol and I'm down to my last, I have no more refills for my glipizide and only one refill remaining for my metformin and just keeping up with what I'm taking it's just impossible trying to do this online and order.  No names, just numbers.  
+
+DOCTOR F017
+Are you getting any chest pain right now?
+
+PATIENT F017
+Not at this moment no.
+
+DOCTOR F017
+Um so you have left arm pain.  How long has the left arm pain been going on?
+
+PATIENT F017
+Oh totally for about a month, maybe six weeks.
+
+DOCTOR F017
+Uh is it worse when you use it?
+
+PATIENT F017
+It's just, it feels like it's under the skin, maybe in the veins and it has nothing to do with using the arm or not.
+
+DOCTOR F017
+Any rash?
+
+PATIENT F017
+None noticed.
+
+DOCTOR F017
+Have you injured your arm in any way?
+
+PATIENT F017
+No.
+
+DOCTOR F017
+Is it worse if you get up, if you're walking around, you're doing a flight of stairs or something?
+
+PATIENT F017
+It's not always in the arm.  Sometimes I just feel you know just short of breath, just general walking.  I'm in sales so I don't do a lot.
+
+DOCTOR F017
+Yeah.  How much activity, do you ever go up the stairs at all, like uh?
+
+PATIENT F017
+Not really.
+
+DOCTOR F017
+Okay um and you don't walk much?  Have you walked into?  How did you get here, did you walk from the parking lot?
+
+PATIENT F017
+From the parking lot yeah.
+
+DOCTOR F017
+So walking from the parking lot here, did you get short of breath?
+
+PATIENT F017
+I didn't park that far away, I was pretty close.
+
+DOCTOR F017
+Okay.  Do you do housework at all?
+
+PATIENT F017
+On occasion.
+
+DOCTOR F017
+Do you get short of breath with that?
+
+PATIENT F017
+I haven't done any housework lately.
+
+DOCTOR F017
+Okay.
+
+PATIENT F017
+I haven't done anything to exert myself, only just walking on the lot to find a car.
+
+DOCTOR F017
+Okay when you've had chest pain, can you describe it for me?
+
+PATIENT F017
+I want to say you know like a quick stabbing or pressure uh.  Like someone pushing on my chest.
+
+DOCTOR F017
+Okay how long does it last?
+
+PATIENT F017
+Seconds.
+
+DOCTOR F017
+Where is it worse, where is it?
+
+PATIENT F017
+It's usually in the left side.
+
+DOCTOR F017
+Okay.  When was the last time you took Plavix?
+
+PATIENT F017
+What's Plavix?
+
+DOCTOR F017
+I mean clopidogrel?
+
+PATIENT F017
+Uh two days ago, I ran out.
+
+DOCTOR F017
+Okay.  Now are you using the insulin?
+
+PATIENT F017
+Yes.  I'm up to 18 units per day.
+
+DOCTOR F017
+Simvastatin?
+
+PATIENT F017
+Simvastatin I don't know about that.
+
+DOCTOR F017
+It's a cholesterol medication.
+
+PATIENT F017
+I'm not sure if it's required, I'm not missing any of my meds.  Maybe my night medication, just because I'm so tired when I come from work, I just get home and pass out rather than taking more medicine.
+
+DOCTOR F017
+Are you still smoking or no?
+
+PATIENT F017
+No I haven't smoked in almost two years, that's why I'm complaining about the cough.
+
+DOCTOR F017
+Okay.  How long have you been coughing?
+
+PATIENT F017
+Uh only about three months.  That's actually one thing my wife thinks that we should find out what that is and it doesn't matter whether I'm at work or whether I'm at home, I get really severe coughing from time to time.
+
+DOCTOR F017
+Did you eat anything this morning?
+
+PATIENT F017
+Not yet, usually about 10 o'clock is when I have breakfast.
+
+DOCTOR F017
+Do you want to pick up these medications today or have them sent to you?
+
+PATIENT F017
+Uh the ones I run out, I especially need to pick up.
+
+DOCTOR F017
+Are you still taking the iron?
+
+PATIENT F017
+Yes I have taken it. I take it.
+
+DOCTOR F017
+How about the doxazosin?
+
+PATIENT F017
+Yeah.
+
+DOCTOR F017
+Are you having much urinary trouble?
+
+PATIENT F017
+I'm still going frequently at night.
+
+DOCTOR F017
+And what were the ones that you need today?  I'm sorry, the Plavix or the clopidogrel.
+
+PATIENT F017
+And glipizide.  I probably got about two weeks left and metoprolol uh; I don't have any more prescriptions available for that.  I've probably got about a week's worth left.  
+
+DOCTOR F017
+What have your sugars been running?
+
+PATIENT F017
+Last time I did take the time to check they were in the high 100s, like almost 200.
+
+DOCTOR F017
+Have you been getting low at all?
+
+PATIENT F017
+Yeah a few times it's gotten low.
+
+DOCTOR F017
+How long have you been taking the insulin?
+
+PATIENT F017
+Three months maybe.
+
+DOCTOR F017
+You started it when?
+
+PATIENT F017
+Last um, the doctor I saw last time.  She actually had me seen in the diabetes educator a couple times.  So there may be notes in there from her.
+
+DOCTOR F017
+Are you still smoking?
+
+PATIENT F017
+No.
+
+DOCTOR F017
+Have you tried hydrochlorothiazide in the past?
+
+PATIENT F017
+I can't remember what it is.
+
+DOCTOR F017
+It's a medication for blood pressure.
+
+PATIENT F017
+I've only taken lisinopril for blood pressure.
+
+DOCTOR F017
+Okay.  Have you been checking your blood pressure at home?
+
+PATIENT F017
+No.
+
+DOCTOR F017
+No.  Alright.  I'm going to increase the lisinopril to 40 and start you on a medication; well I'll probably start you on another one, the hydrochlorothiazide.  Okay and I also want you to see the cardiologist again um.  I don't think that chest pain sounds terribly cardiogenic but um shortness of breath is a little more concerning.  You know you had a positive stress test in the past and you know sometimes we can do an angiogram.  Um have you ever had an angiogram before?  They go in through the groin to take a look at the heart vessels.
+
+PATIENT F017
+I'm not sure.
+
+DOCTOR F017
+Okay.  You want to sit up there.  Well you know, I think we want to make sure you know you're not having any major um, increased blockage in the heart.
+
+PATIENT F017
+Right.
+
+DOCTOR F017
+Now I think last time they thought that was unlikely based on the stress test um but you may, they may need to do an angiogram.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+Okay because of your diabetes and if there was a major blockage and you needed to undergo you know good severe disease then they may need to maybe either put a stent in or.
+
+PATIENT F017
+Yeah.
+
+DOCTOR F017
+Do a bypass.  I don't think right now you're not getting anything acute.  I don't think you're having a heart attack or anything like that but there could be a little bit of angina.  Um so I think you should be seen by them again.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+You've only seen them once is that correct?
+
+PATIENT F017
+Yes just once.
+
+DOCTOR F017
+Okay.  Take some deep breaths.  Any sores on your legs, concerns about your feet or anything like that?
+
+PATIENT F017
+Not on the feet.  I banged my leg a few days ago and just seems to be taking a longer time than normal to heal.
+
+DOCTOR F017
+Okay if it doesn't look worse than that, if it starts, you know if it doesn't heal in a week or so then let us know okay.  @@@ up alright.  Um any stomach pain when I press?
+
+PATIENT F017
+No.
+
+DOCTOR F017
+Okay.  Alright uh I think we'll put you in the morning.  We can't determine, so we could, uh, we can't do labs up here so you just sit in here and I'll say to follow up with me and I know you saw DOCTOR once, but I think DOCTOR was your primary.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+@@@.  Alright you can sit in the chair.  
+
+(DOCTOR OUT:  44:12  DOCTOR IN:  59:06)
+
+DOCTOR F017
+Alright uh so you know you've been talking for three months.  I just need to ask you a little bit more about that.  I've got to write down the other stuff.  Is it a dry cough or?
+
+PATIENT F017
+Yeah mostly it's dry and eventually I get some phlegm up.
+
+DOCTOR F017
+You do okay.  So I want to do a chest x-ray today um and then um you know the medication you're on, the lisinopril.
+
+PATIENT F017
+Uh-huh.
+
+DOCTOR F017
+That can cause a cough.  I mean and uh it can happen any time.
+
+PATIENT F017
+Okay cause I haven't been quit smoking for almost two years now.
+
+DOCTOR F017
+Yeah.
+
+PATIENT F017
+And almost immediately after I stopped smoking I started having the cough until recently at sometimes.
+
+DOCTOR F017
+Do have any runny nose or?
+
+PATIENT F017
+Yeah.
+
+DOCTOR F017
+It could also be postnasal drip from allergies okay.  Where everything comes down.  You say your nose has been stuffy and draining?  Okay well we can try that too um there's medications for it okay.  So I'm going to give you this nasal, there's a nasal inhaler.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+Um it's called Flonase.
+
+PATIENT F017
+Yes I've taken that before.
+
+DOCTOR F017
+When have you taken it?
+
+PATIENT F017
+Uh years ago.
+
+DOCTOR F017
+Well I think it could help.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+And then we'll get a chest x-ray today.  Uh you can get labs done while you’re here, okay.  And then let me see your arms, the left arm.  Have you been taking anything for this?  
+
+PATIENT F017
+No I try to avoid taking over-the-counter meds.
+
+DOCTOR F017
+I think you can try some Tylenol.  Where does the pain go.
+
+PATIENT F017
+Usually it's just going through the muscle and it feels like it's just under the skin.
+
+DOCTOR F017
+Okay.  Does it hurt when I press on that?
+
+PATIENT F017
+Not really.
+
+DOCTOR F017
+Okay.  Uh well you know usually these things are musculoskeletal and benign.
+
+PATIENT F017
+Uh-huh.
+
+DOCTOR F017
+Uh I think you should try some Tylenol first and maybe do some ice to it and uh see what that; you could just do just over-the-counter Tylenol; it's cheaper if you buy it.
+
+PATIENT F017
+I'm a internal bleeder.
+
+DOCTOR F017
+Yeah Tylenol is safe.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+From that standpoint so you know don't take it more than like four times a day though.
+
+PATIENT F017
+Yeah.
+
+DOCTOR F017
+Um and then they did a chest x-ray in the ER when you were there.
+
+PATIENT F017
+Uh-huh.
+
+DOCTOR F017
+But uh they only did the one view with the portable machine.
+
+PATIENT F017
+Right.
+
+DOCTOR F017
+I mean those aren't the best x-rays, especially for us so we'll get a real one and have you go down and get it after you, whichever line is shorter, you can get them both done today.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+Um.
+
+PATIENT F017
+So you want some lab work and x-rays right?
+
+DOCTOR F017
+Yes and then I'll take care of the meds.  We're going to switch you on a different, I'm going to take you off that lisinopril and put you on something else.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+A similar medication that doesn’t cause the cough in case that's what's doing it.  Okay.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+Alright um and I want you to come back like in three months.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+And you can see me and I put a note in for the cardiologist to see you.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+Um so that should be scheduled, if not, if they don't get hold of you in a week or so give them a call.  Cause definitely I want you to see them.
+
+PATIENT F017
+Okay.
+
+DOCTOR F017
+Cause you know you may need an angiogram.
+
+PATIENT F017
+Alright.
+
+DOCTOR F017
+Um okay.
+
+PATIENT F017
+Okay doc.
+
+DOCTOR F017
+Alright take care.
+
+PATIENT LEAVES:  63:05
+
+Time is 10 o'clock a.m.
+
+DD: @@/@@/@@
+DT: @@/@@/@@  
+INFOPRO/800511/JOB#  1238137
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,9 @@
+Red Flag (3766-3781): "blood pressures"
+
+Red Flag (4024-4053): "this morning it was about 147"
+
+Red Flag (4108-4119): "if I behave"
+
+Red Flag (12185-12250): "Your blood pressure is a little bit higher than what it really is"
+
+Red Flag (12266-12272): "Higher"

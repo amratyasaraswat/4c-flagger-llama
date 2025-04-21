@@ -1,0 +1,1084 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@  
+
+DOCTOR F815
+Hello.
+
+SECOND PERSON F815 
+Hello.
+
+DOCTOR F815
+Uh so how are you doing today?
+
+PATIENT F815
+And what is your name?
+
+DOCTOR F815
+DOCTOR.
+
+PATIENT F815
+DOCTOR.  Alright we'll try to remember.
+
+DOCTOR F815
+How you doing?
+
+PATIENT F815
+Well let’s put it this way, I'm a happy camper.
+
+DOCTOR F815
+Good, good.  Anything going on that's new or different from your baseline?
+
+PATIENT F815
+No.
+
+DOCTOR F815
+@@@ good.  How are your sugars running at home?
+
+PATIENT F815
+Uh pretty good.
+
+DOCTOR F815
+Pretty good.
+
+PATIENT F815
+But this morning I forgot to take my insulin.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+But uh you can get all of the information from the Health Buddy.
+
+DOCTOR F815
+The Health Study?
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+What is that?
+
+PATIENT F815
+Uh there's a phone system that I hook up.
+
+DOCTOR F815
+Uh-huh.
+
+PATIENT F815
+And I give them my sugar counts and.
+
+DOCTOR F815
+Oh.
+
+PATIENT F815
+Blood pressure and uh they record it every night.
+
+DOCTOR F815
+Okay, okay.  If you're not good, are your sugars like around the 100s at home do you know?
+
+PATIENT F815
+Uh yeah.
+
+DOCTOR F815
+Okay.  And you're taking the 5 of Aspart with each meal and you're taking the um the 5 of NPH twice a day, is that the measuring?
+
+PATIENT F815
+No, the N I take it three times because uh, yeah twice a day.
+
+DOCTOR F815
+Of the NPH 5 units.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+And then you take 5 units.
+
+PATIENT F815
+Well I take more than 5, depends on usually 10, like in the morning I usually take 10 @@@.
+
+DOCTOR F815
+@@@
+
+PATIENT F815
+And then I usually take 10 of Aspart.
+
+DOCTOR F815
+Oh you take 10 of Aspart usually with each meal?
+
+PATIENT F815
+Yeah that's at noon.
+
+DOCTOR F815
+That's at noon.
+
+PATIENT F815
+And then in the evening, according to whatever the reading is I take 5 and 10 or 10 and 10 and.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+But usually 10 is usually enough.
+
+DOCTOR F815
+Is usually what you take okay good.
+
+PATIENT F815
+Yeah.  It used to be up to 50 of each three times a day.
+
+DOCTOR F815
+Oh okay.  So you're feeling pretty good otherwise?
+
+PATIENT F815
+Yes ma'am.
+
+DOCTOR F815
+That's good.  Let me see @@@ on you.  And you're following with the GU doctors?
+
+PATIENT F815
+Oh yes.
+
+DOCTOR F815
+Okay.  Okay.
+
+PATIENT F815
+And every other doctor.
+
+DOCTOR F815
+I know it's hard.
+
+PATIENT F815
+I got new hearing aids last week.
+
+DOCTOR F815
+Oh good, good and are they working well?
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+I saw the note from Audiology that they'd given you the hearing aids.
+
+PATIENT F815
+Yeah, it's uh no problem on my left ear but my right ear I have a hard time.
+
+DOCTOR F815
+Hearing.
+
+PATIENT F815
+Trying to make it, no not hearing making it, getting it in right.
+
+DOCTOR F815
+Oh getting actually into your ear okay.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+Okay.  And uh any problems with your hip at all or anything, the pain is well controlled?
+
+PATIENT F815
+Yeah there's uh, three days ago I walked a half a mile on the treadmill.
+
+DOCTOR F815
+That's pretty good.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+That was good and you saw the eye doctors in October of last year.  Do you have an appointment coming up with them?
+
+PATIENT F815
+Oh yeah.
+
+DOCTOR F815
+When is that appointment?
+
+PATIENT F815
+I don't know.
+
+DOCTOR F815
+Oh you don't know but your appointment's kind of pending.
+
+PATIENT F815
+I don't know when but I just uh went out to the VA, to the Hines Hospital yesterday.
+
+DOCTOR F815
+Uh-huh.
+
+PATIENT F815
+And they gave me some magnifying things to read the paper and stuff.
+
+DOCTOR F815
+Oh I mean the eye exam for your diabetes.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+Okay, we can make one here.  Do you see an outside vision eye doctor?
+
+PATIENT F815
+No, no.
+
+SECOND PERSON F815
+No, no, here, here.
+
+DOCTOR F815
+Okay so I could make one with them, it doesn’t look like an appointment is coming up.
+
+PATIENT F815
+If there isn’t one coming up, then let’s get one in there.
+
+DOCTOR F815
+Yeah then I'll make one for you and then.
+
+PATIENT F815
+I want to know what they're doing.
+
+DOCTOR F815
+Yeah.
+
+PATIENT F815
+Uh because I don't put drops in my right eye that had the glaucoma.
+
+DOCTOR F815
+Uh-huh.
+
+PATIENT F815
+Cause it was more, the pressure was normal.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+The last time there.
+
+DOCTOR F815
+Okay and I remember you were dizzy the last time I saw you, how is that?
+
+PATIENT F815
+Yeah I get lightheaded every once in a while.
+
+DOCTOR F815
+Is that still happening or is that better?
+
+PATIENT F815
+Uh I usually get lightheaded after I do the exercise.
+
+DOCTOR F815
+Okay and then it goes away on its own?
+
+PATIENT F815
+Yeah then it clears up.
+
+DOCTOR F815
+It kind of resolves on its own.  Okay this um, this is the second time I've seen you.  I just want to go over, so you have the diabetes.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+You have the chronic kidney disease.  You have high cholesterol.
+
+PATIENT F815
+No.
+
+DOCTOR F815
+No high cholesterol?
+
+PATIENT F815
+Well the last time they said I didn't, I don't know.
+
+DOCTOR F815
+And you have um the enlarged prostate that you've had the surgery for?
+
+PATIENT F815
+They took it away.
+
+DOCTOR F815
+They took it out yeah.
+
+PATIENT F815
+Yeah they took it out.
+
+DOCTOR F815
+And um you have the arthritis in your hips that you've had the left hip replacement surgery.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+And what medicines are you taking right now?
+
+PATIENT F815
+Well.
+
+SECOND PERSON F815
+Just three.
+
+DOCTOR F815
+Just three.
+
+PATIENT F815
+Well no I'm taking aspirin and vitamin pill.
+
+DOCTOR F815
+Aspirin.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+And vitamins.
+
+PATIENT F815
+And a stool softener.
+
+DOCTOR F815
+Stool softener.
+
+PATIENT F815
+And uh Senna.
+
+DOCTOR F815
+Uh-huh and insulin, the Aspart.
+
+PATIENT F815
+Insulin, yeah.
+
+DOCTOR F815
+The citalopram you're taking?
+
+PATIENT F815
+Uh I'm taking uh what's that for?
+
+DOCTOR F815
+It's like a mood stabilizer.
+
+PATIENT F815
+Yes a mood stabilizer, citalopram?
+
+DOCTOR F815
+Yes.
+
+PATIENT F815
+Yeah and then I'm taking.
+
+DOCTOR F815
+The tramadol and the temazepam.
+
+PATIENT F815
+Temazepam.
+
+DOCTOR F815
+And is that it?
+
+PATIENT F815
+Huh?
+
+DOCTOR F815
+Is that it, we got everything?
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+Okay and do you have any allergies?
+
+PATIENT F815
+But do I need blood pressure medicine, that's what I question.
+
+DOCTOR F815
+Uh your blood pressure, for diabetics we like to have it less than 130/80 as a goal.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+And yours is 133/61 today.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+And usually we like to have two readings of elevated blood pressure.
+
+PATIENT F815
+Yeah it was 140 at first.
+
+DOCTOR F815
+Uh-huh so usually we like want two readings with blood pressure medicines on two separate visits before we start it.
+
+PATIENT F815
+Oh.
+
+DOCTOR F815
+So I'll go talk to my attending to see if we would want to start today or if we want to watch it and then have you come back pretty soon to see a pharmacist and they could monitor your blood pressure then.
+
+SECOND PERSON F815
+That pharmacist, the doctor thing is, I don't know, such a long @@@.
+
+PATIENT F815
+Yeah I did check my blood pressure every day.
+
+DOCTOR F815
+Well what is it running like every day?
+
+PATIENT F815
+Uh 133.
+
+DOCTOR F815
+It's usually at 133 okay.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+Well I'll let him know and he might want to check something for you.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+Okay.  And then um any allergies to any medicines that you know of?
+
+PATIENT F815
+No I got some here that they sent me and I don't need it.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+And they sent me some constipation pills and I haven't used them.
+
+DOCTOR F815
+Uh-huh.
+
+PATIENT F815
+You know I get a lot of stuff I don't need.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+But then I get a lot of stuff I need.
+
+DOCTOR F815
+Yeah.
+
+SECOND PERSON F815
+And you know when we talk to you, what we had a year ago so you know we do the things that he really needed so.
+
+PATIENT F815
+So.
+
+SECOND PERSON F815
+That is really the prime core reason why we're here today.
+
+DOCTOR F815
+So you need refills on all the medicines?
+
+PATIENT F815
+Yeah.
+
+SECOND PERSON F815
+To get the things that we really need.
+
+PATIENT F815
+That uh Aspart insulin I need.  I don't need N, I've got 10, 12 bottles.
+
+DOCTOR F815
+Do you want to pick it up at the window?
+
+PATIENT F815
+Huh?
+
+DOCTOR F815
+At the window, do you want to pick it up now?
+
+PATIENT F815
+No, have it mailed.
+
+DOCTOR F815
+Have it mailed okay.
+
+PATIENT F815
+But I have 10 or 12 bottles left.
+
+DOCTOR F815
+Okay of the N okay.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+I'm just going to list a bunch of symptoms, if you have any right now just stop me and let me know.
+
+PATIENT F815
+Okay.
+
+DOCTOR F815
+Fever, chills, weight loss, weight gain, headaches, changes in your vision um changes in your hearing.  I know you have.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+From your, you got the hearing aids, um any cough.
+
+PATIENT F815
+No.
+
+DOCTOR F815
+Uh @@@ any chest pain, shortness of breath?
+
+PATIENT F815
+No.
+
+DOCTOR F815
+Shortness of breath with walking, any feeling like your heart's beating really fast in your chest, swelling in your legs?
+
+PATIENT F815
+Now when I exercise.
+
+DOCTOR F815
+When you exercise.
+
+PATIENT F815
+When I get done I'm breathing heavy.
+
+DOCTOR F815
+Okay and then it goes away once you rest?
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+Okay.  Any nausea, vomiting, vomiting up blood.
+
+PATIENT F815
+No, no.
+
+DOCTOR F815
+Trouble with swelling in your feet.
+
+PATIENT F815
+No pain.
+
+DOCTOR F815
+Stomach pain, diarrhea, constipation.
+
+PATIENT F815
+No.
+
+DOCTOR F815
+Bright red blood or dark black blood in your stools?
+
+PATIENT F815
+No.
+
+DOCTOR F815
+Any blood in your urine, changes when you urinate?
+
+PATIENT F815
+No I got a bag.
+
+DOCTOR F815
+A bag, okay.  And then any rashes, ulcers or lesions on your skin?
+
+PATIENT F815
+No.
+
+DOCTOR F815
+And besides that, any @@@ pain, any back pain or @@@ pain anywhere else?
+
+PATIENT F815
+Muscle pain.
+
+DOCTOR F815
+Muscle pain.
+
+PATIENT F815
+From exercise.
+
+DOCTOR F815
+From exercising okay.  Any numbness or tingling or weakness in your arms or feet?
+
+PATIENT F815
+No.
+
+DOCTOR F815
+Okay and any episodes of fainting or dizziness?  I know you get your lightheadedness after you exercise but.
+
+PATIENT F815
+Other than that no.
+
+DOCTOR F815
+Oh I'm just going to examine you, can you sit up on here for me?
+
+PATIENT F815
+Sure.
+
+DOCTOR F815
+Does it hurt when I touch here?
+
+PATIENT F815
+No.
+
+DOCTOR F815
+Can you breathe in and out for me?  Can you just look at me, take your glasses off for a second.
+
+PATIENT F815
+Oh.
+
+DOCTOR F815
+Um.
+
+PATIENT F815
+Now I got.
+
+DOCTOR F815
+@@@ you had surgery in both eyes.
+
+PATIENT F815
+Both eyes.
+
+DOCTOR F815
+Can you open your mouth, stick your tongue out, say ah.
+
+PATIENT F815
+Ah.
+
+DOCTOR F815
+Okay I'll be back in a second.
+
+PATIENT F815
+Okay.
+
+(DOCTOR OUT:  36:24  DOCTOR IN:  43:20)
+
+Knock on the door.
+
+PATIENT F815
+Come on in.
+
+DOCTOR F815
+Hi.  So um we're gonna restart you on a lower dose of the lisinopril that you're on.  You're on 5 of lisinopril.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+So we're gonna start you on 2.5 lisinopril.  So they had stopped the lisinopril just because of the lightheadedness.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+So we're just going to start you on a lower dose of it.
+
+PATIENT F815
+I haven't taken any in.
+
+DOCTOR F815
+Yeah since I saw you in July.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+Yeah.  And you want it mailed to you yes?
+
+PATIENT F815
+Yes.
+
+DOCTOR F815
+Uh-huh.
+
+PATIENT F815
+But I got some others I want you to.
+
+DOCTOR F815
+Yeah I'm gonna refill everything yeah.  And have you eaten yet today?
+
+PATIENT F815
+Oh yes.
+
+DOCTOR F815
+Okay.  I'm gonna send you to get some lab work as well.  So you need refills on your Aspart?
+
+PATIENT F815
+Yes.
+
+DOCTOR F815
+Okay.
+
+SECOND PERSON F815
+Do you want them to send you Aspart?
+
+PATIENT F815
+Aspart.
+
+DOCTOR F815
+And the NPH as well.
+
+PATIENT F815
+Yeah.  No.
+
+DOCTOR F815
+No NPH.
+
+PATIENT F815
+No NPH, I got enough for a year.
+
+DOCTOR F815
+Okay and the citalopram do you want?
+
+PATIENT F815
+Citalopram yes.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+And the sleep medicine.
+
+DOCTOR F815
+The temazepam.
+
+PATIENT F815
+Yeah and I want um the stomach medicine.
+
+DOCTOR F815
+Which one is that?
+
+PATIENT F815
+Ome.
+
+DOCTOR F815
+Omeprazole?
+
+PATIENT F815
+Yeah.
+
+SECOND PERSON F815
+Omeprazole. 
+
+DOCTOR F815
+Yeah.
+
+PATIENT F815
+Yeah I need that.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+Alright now.
+
+DOCTOR F815
+Uh-huh.
+
+PATIENT F815
+I need the test strips sent.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+And I need 100 of them at a time.
+
+DOCTOR F815
+Uh-huh.
+
+PATIENT F815
+So one or two boxes of that.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+Alright.
+
+SECOND PERSON F815
+And the pokers.
+
+PATIENT F815
+Yeah the pokers.
+
+SECOND PERSON F815
+The lancets.
+
+PATIENT F815
+The lancets.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+Okay alcohol pads.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+Alright and then and then this, this I want you to reorder but not delivered.  I'll call in when I need it.
+
+SECOND PERSON F815
+They give us all this and he’s a remover.
+
+DOCTOR F815
+This one?
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+@@@ remover and the @@@.  Tell you what, I'll just send it to you.
+
+PATIENT F815
+No!
+
+SECOND PERSON F815
+No, no, no, no.
+
+DOCTOR F815
+What do you want?
+
+PATIENT F815
+We want it renewed.
+
+SECOND PERSON F815
+She doesn't understand you know that @@@.  We want the prescription renewed but when we actually need it we'll call for it on the phone.  We do not want a bottle sent to us right now.
+
+DOCTOR F815
+Okay.
+
+PATIENT F815
+And all this other stuff there.
+
+DOCTOR F815
+Okay.  Okay.
+
+PATIENT F815
+Because I call up and they says well you need a doctor's prescription for it.
+
+DOCTOR F815
+Okay so I renewed it.
+
+SECOND PERSON F815
+So that's our primary job today to make sure that the.
+
+PATIENT F815
+That we get it.
+
+DOCTOR F815
+So we're renewing all of these.
+
+SECOND PERSON F815
+Okay.
+
+PATIENT F815
+Now we want it renewed but we don't want it delivered.
+
+DOCTOR F815
+Okay.
+
+SECOND PERSON F815
+Except for the insulin, the @@@ we do want that delivered.
+
+DOCTOR F815
+Yeah I'll send them through the mail.
+
+SECOND PERSON F815
+Okay and this omeprazole.
+
+DOCTOR F815
+Yeah I put in for that.
+
+SECOND PERSON F815
+That's, that's, that's going there and the regular insulin.
+
+DOCTOR F815
+Yeah.
+
+SECOND PERSON F815
+Okay and the test strips.
+
+DOCTOR F815
+Yeah everything.
+
+SECOND PERSON F815
+We really need that.
+
+DOCTOR F815
+Okay.
+
+SECOND PERSON F815
+Okay, alright.  Now we also need a renewal on these long sponges, 4 x 4s.
+
+DOCTOR F815
+Okay I’m renewing that too.
+
+SECOND PERSON F815
+Okay, alright and then there's @@@ stoma wafers we need that too.
+
+DOCTOR F815
+Mailed to you?
+
+PATIENT F815
+No.
+
+SECOND PERSON F815
+We don't need any right now no, no.
+
+DOCTOR F815
+Okay.  Anything else?
+
+SECOND PERSON F815
+Okay and then the @@@ pouch we need that renewed but we do not need it sent.
+
+DOCTOR F815
+Okay.
+
+SECOND PERSON F815
+Okay also, now also what I need is I don't have this number because it is run out already, it's a urinary...
+
+DOCTOR F815
+Okay I'm renewing it.
+
+SECOND PERSON F815
+…drainage bag. That, we want that prescription renewed but we don't have to have any sent out right now.
+
+DOCTOR F815
+@@@
+
+SECOND PERSON F815
+Okay.
+
+DOCTOR F815
+@@@ signing all these.
+
+SECOND PERSON F815
+Yeah just send out you know the three or four things that we really need.
+
+DOCTOR F815
+Uh-huh.
+
+SECOND PERSON F815
+That we really need okay.
+
+DOCTOR F815
+Okay.
+
+SECOND PERSON F815
+Alright.  Okay.
+
+PATIENT F815
+I'm gonna hang on to that.
+
+SECOND PERSON F815
+Yes I will for dear life yeah.
+
+DOCTOR F815
+Okay.  Okay so I renewed all of those, um I put in for the lab orders for you to get.
+
+PATIENT F815
+Yeah.
+
+DOCTOR F815
+And um just make a follow-up appointment with Ophthalmology at the front.
+
+SECOND PERSON F815
+Okay, alright and uh.
+
+DOCTOR F815
+And then I'll see you back in several months.
+
+PATIENT F815
+Okay.
+
+SECOND PERSON F815
+And what about the, if it's necessary for him to have any other follow-up on you know any of these other skin conditions that he has because he had.
+
+PATIENT F815
+I had skin cancer they took out a tumor on my back.
+
+DOCTOR F815
+Not unless they want to, unless they set it up.
+
+PATIENT F815
+Yeah they'll let us know.
+
+DOCTOR F815
+Yeah then that'd be up to them.
+
+PATIENT F815
+It's on the list, on their list to follow-up.
+
+DOCTOR F815
+Yeah.  So that'd be up to them.
+
+SECOND PERSON F815
+Okay.
+
+DOCTOR F815
+Okay that should be all.
+
+PATIENT F815
+Okay.
+
+DOCTOR F815
+Good to see you, okay.
+
+PATIENT F815
+Anything else?
+
+DOCTOR F815
+No that'll be all and I'll see you back in a couple of months.
+
+PATIENT F815
+Okay.
+
+DOCTOR F815
+Did you want a tetanus shot today?
+
+PATIENT F815
+Huh?
+
+DOCTOR F815
+Did you want an influenza shot or tetanus?
+
+PATIENT F815
+I already had it.
+
+DOCTOR F815
+Oh you had it?
+
+PATIENT F815
+I just had it.
+
+DOCTOR F815
+Okay good.  Okay.  Um.
+
+PATIENT F815
+Okay then bye.
+
+SECOND PERSON F815
+Okay thank you.
+
+PATIENT F815
+You have a good day doctor.
+
+DOCTOR F815
+You too.
+
+PATIENT LEAVES:  50:57
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1275434
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,41 @@
+Red Flag (561-607): "They said I wasn't list for a blood draw today"
+
+Probe    (629-658): "Let's see what happened there"
+
+Red Flag (1796-1816): "So Aspart is NovoLog"
+
+Red Flag (1916-1949): "No, I haven't had that for months"
+
+Probe    (7439-7611): "Um did somebody stop the other insulin? Did they tell you not to take insulin with meals at some point or did you just stop taking the insulin with meals? Do you remember"
+
+Red Flag (9259-9268): "metformin"
+
+Red Flag (9355-9368): "Well after on"
+
+Factor   (9366-9416): "on a account that they withdrew it from the market"
+
+CarePlan (9431-9459): "No, it's still on the market"
+
+Red Flag (13178-13217): "I've had occasions where it got too low"
+
+Red Flag (15140-15173): "Are you getting your eyes checked"
+
+Factor   (15189-15212): "Uh they never called me"
+
+Red Flag (15215-15238): "It's been quite a while"
+
+Factor   (15345-15365): "I hadn't been called"
+
+CarePlan (15642-15666): "So you can call up there"
+
+CarePlan (15768-15953): "give them a buzz up there um or I can ask them to make you an appointment right now on your sheet. I don't need to write you a referral or anything cause they've seen you within a year"
+
+CarePlan (16204-16306): "Well let's go, usually what we can do is go up to the front and and make an appointment on the way out"
+
+CarePlan (21578-21699): "For the eye doctor, oh yeah. For them you can go up there and say I need an appointment with the eye doctor in two weeks"
+
+CarePlan (21787-21827): "right to the left, make that appointment"
+
+CarePlan (23676-23714): "Uh-huh and then what's the third thing"
+
+CarePlan (23764-23784): "It's the appointment"

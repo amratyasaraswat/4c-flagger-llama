@@ -1,0 +1,23 @@
+Red Flag (415-473): "I see your blood pressure's a little bit high today though"
+
+Red Flag (2318-2369): "Maybe that's why I've dropped about 27 or 28 pounds"
+
+Probe    (3115-3140): "Have you been eating okay"
+
+Red Flag (3196-3238): "Well we started you on metformin I believe"
+
+Red Flag (3290-3297): "I don’t"
+
+Probe    (3369-3471): "Let's run through your medicines and figure out what you're taking and what you're not, how about that"
+
+Red Flag (10477-10587): "Yeah, that's about 30 pounds, just under 30 pounds. So that's pretty good and you've been trying to do better"
+
+Red Flag (10603-10656): "Well actually I haven't been trying at all, it's just"
+
+Probe    (11046-11072): "So you're eating healthier"
+
+Red Flag (12583-12632): "You been using that sleeping machine all the time"
+
+Red Flag (12770-12825): "Uh-huh. I been probably about 90% of the time I use it"
+
+Factor   (12828-12943): "When we went on our vacation we were camping out in the woods, there was no electrical so I didn't use it that week"

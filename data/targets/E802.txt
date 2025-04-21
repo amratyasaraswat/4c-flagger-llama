@@ -1,0 +1,59 @@
+Red Flag (909-920): "sugars been"
+
+Red Flag (940-953): "a little high"
+
+Red Flag (969-982): "A little high"
+
+Red Flag (1159-1179): "It’s just the sugars"
+
+Probe    (1309-1349): "Tell me what’s going on with your sugars"
+
+Red Flag (1355-1383): "your sugars are uncontrolled"
+
+Red Flag (1490-1524): "I am not eating on a regular basis"
+
+Red Flag (1596-1625): "I usually don’t eat breakfast"
+
+Red Flag (2021-2067): "Your blood pressure, looking on the lower side"
+
+Probe    (2868-2911): "@@@ pharmacy looks like in the end of April"
+
+Probe    (3022-3058): "Alright, so which one are you taking"
+
+Probe    (3240-3273): "So that is the one you are taking"
+
+Red Flag (3320-3350): "a little bit on the lower side"
+
+Red Flag (3447-3468): "Are you losing weight"
+
+Red Flag (3484-3487): "Yes"
+
+Probe    (3502-3531): "Are you trying to lose weight"
+
+Red Flag (3547-3561): "Ah, yes and no"
+
+Red Flag (5885-5934): "Did you see the foot doctor yet, you said already"
+
+Red Flag (5950-5963): "No, I haven’t"
+
+Probe    (6407-6458): "the foot doctor, you said you were going to do that"
+
+Probe    (6492-6518): "Do you know how to do that"
+
+Factor   (6534-6544): "No I don’t"
+
+CarePlan (6563-6603): "Podiatry Consult in June so that is okay"
+
+Red Flag (6738-6771): "Um, this one, I have had a @@@ 64"
+
+Probe    (6777-6811): "happened at that time, do you know"
+
+Red Flag (6908-6931): "Then there was a 41 one"
+
+Probe    (6933-6943): "right here"
+
+Probe    (7040-7089): "So the 64, do you remember if you ate that day or"
+
+Probe    (7136-7185): "Okay do you know what happens when your sugar low"
+
+Factor   (7271-7371): "No. I used to, like I said, if I get a little dizzy or something, I sit down. So I am not sure @@@"

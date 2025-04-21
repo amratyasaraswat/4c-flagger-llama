@@ -1,0 +1,15 @@
+Red Flag (3802-3853): "can't work and going through some personal problems"
+
+Red Flag (4217-4346): "But um other than that I just want to be able to get back to work whenever I can because with these economics it makes it hard so"
+
+Red Flag (8118-8139): "No flu shot this year"
+
+Red Flag (8155-8201): "No I don't, I've never really had the flu shot"
+
+Factor   (8237-8372): "I was thinking uh if anyone in the house starts getting the flue, maybe I’ll get one but I have never had one so I don't think I should"
+
+Red Flag (15971-15996): "so I can get back to work"
+
+Probe    (16015-16052): "How are doing supporting yourself now"
+
+Red Flag (16068-16107): "Uh actually right now it's kind of hard"

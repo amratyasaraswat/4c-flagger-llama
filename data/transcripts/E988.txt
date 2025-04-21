@@ -1,0 +1,953 @@
+Date of Encounter: @@/@@/@@
+Time of Encounter: @@@  
+
+DOCTOR E988 
+PATIENT?
+
+PATIENT E988
+Oh.  Hi.
+
+DOCTOR E988
+I'm DOCTOR; I think we met once before.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+It's been a pleasure once before.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Sit right here sir.  Have a seat.  Alright, so how have things been since I last saw you here?
+
+PATIENT E988
+Uh, a little rocky.
+
+DOCTOR E988
+It was almost a year ago huh.
+
+PATIENT E988
+Almost a year ago.
+
+DOCTOR E988
+Almost a year ago.  Did you finish your hepatitis C treatment?
+
+PATIENT E988
+Yes I finished that and it didn't work.
+
+DOCTOR E988
+Oh gosh okay.
+
+PATIENT E988
+It didn't take and so uh I had a liver scan done and a liver biopsy and I'm in final stages of cirrhosis and level 3 hepatitis.  So tell me what that means.
+
+DOCTOR E988
+Well it basically means that the hepatitis has kind of taken over your liver.  So your normal liver tissue has been replaced by basically scar tissue.  
+
+PATIENT E988
+Alright.
+
+DOCTOR E988
+So you still must have a little bit of residual function yet cause I see you've had some labs and things that actually show that your liver functions kind of holding.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Which is good um, so basically it just means that you're operating on very little normal liver left.
+
+PATIENT E988
+Okay and uh, is that uh is it putting bile poisoning into my body?
+
+DOCTOR E988
+Not necessarily yet no.  
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+There are stages of cirrhosis in terms of like stages, I don't necessarily, mean end-stage, essentially your liver will stop being able to detoxify the blood and things which is what its primarily responsibility is, it helps to do that, helps manage the lower blood sugars and things like that too.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+But its main goal is to get rid of all the impurities and the bad stuff that basically when eat, drink certain things.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+That's just how our body metabolizes and your liver helps you kind of get rid of some of that stuff.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Eventually as the cirrhoses progresses, even actually in the end stages of cirrhosis um, at some point your body won't be able to get rid of that, the toxins and then they can start building up and start causing side effects.
+
+PATIENT E988
+Can you get dialysis and takes the place?
+
+DOCTOR E988
+Unfortunately no.  Kidneys yes, when your kidneys fail you can but unfortunately we haven't developed a good way, a good substitute liver if you will that can help with detoxifying the body like we've managed to come up with for the kidneys.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+So only curative treatment for end-stage cirrhosis, when it gets to that point um, that's a transplant so.
+
+PATIENT E988
+And I can't get transplant cause I can't get rid of the hepatitis.
+
+DOCTOR E988
+So.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Although they do sometimes make some exceptions and things in certain circumstances.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+You know with having the hepatitis because hepatitis is the number, actually not number one, one of the top few reasons why people develop cirrhosis.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Of the liver because we know that that particular virus does that.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Um and so it's not an absolute contraindication being able to get a liver although it does put you at a much higher risk.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Because if you have hepatitis, you put in a new liver, the changes are you'll develop hepatitis in that one, but that's not to say that you wouldn't at least you know buy yourself some time in terms of things.
+
+PATIENT E988
+I don't want to buy time.
+
+DOCTOR E988
+Now, now.  Don't say that now you're a younger guy so.
+
+PATIENT E988
+Yeah and what am I gonna do, get old and hurt all the time, stay sick?
+
+DOCTOR E988
+Well certainly you know.
+
+PATIENT E988
+You know, I'm pretty fortunate.  I can die a young man instead of an old man and I won't have to worry about all those other aches and pains cause I tell you what the pain doesn't get easier the older you get, it gets worse.
+
+DOCTOR E988
+True.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Sometimes it's not about the quantity of life per say, it's the quality of life.
+
+PATIENT E988
+Right.
+
+DOCTOR E988
+If you're quality of life is going to be poor then you know like what's the push for the quantity part.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+But I'd agree with you there, I'd agree with you there.  
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+But so far your liver, in terms of you know its function for the most part its holding.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+You know a lot of people can go many, many years, even in end-stage cirrhosis and still live you know, many many years down the road without having a lot of the problems.
+
+PATIENT E988
+Counting back I got this 35 years ago.
+
+DOCTOR E988
+Uh-huh.
+
+PATIENT E988
+In bootcamp.  I have pictures showing the guns they used, the air guns.
+
+DOCTOR E988
+Uh-huh.
+
+PATIENT E988
+So what's the max life of hepatitis in your body, 40 years isn't it?
+
+DOCTOR E988
+It can actually last a long time. It can last a lifetime.  
+
+PATIENT E988
+Well what is a life time?
+
+DOCTOR E988
+You never ever get rid of it so however long you live the virus can live.
+
+PATIENT E988
+But how long before it kills you, 40 years is that the max you can keep it?
+
+DOCTOR E988
+Ah.
+
+PATIENT E988
+Before it kills you?
+
+DOCTOR E988
+Uh I'm thinking a little bit different.  Everybody is different.
+
+PATIENT E988
+I need an answer, I need an answer.
+
+DOCTOR E988
+I wouldn't be able to, I wouldn't be able to give you one cause some people get hepatitis and you know they're dead within five years some people get it and it never actually kills them.  They die of other things you know, when they’re happy, old people.
+
+PATIENT E988
+I know, I know now though uh I don't have any energy and I can be sitting and all of a sudden I just go totally blank.  I can't do nothing, I can't hardly get up and then a little while later I'm okay and I can get up and I can walk again and.
+
+DOCTOR E988
+Uh-huh.
+
+PATIENT E988
+But I have these energy spells where I just lose it all.  Is that from the sugar and the diabetes or is that from the hepatitis and the liver because I know the liver causes fatigue.  The hepatitis does.
+
+DOCTOR E988
+It can definitely cause fatigue as well as.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Different things in your blood sugar with the diabetes can do that too but also the treatment that you're on for the hepatitis.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+It and of itself, even after you stop treating, in the treatment with it can have some longer lasting side effects, particularly like with those energy.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+You know you feel miserable when you were getting that treatment.
+
+PATIENT E988
+Right.
+
+DOCTOR E988
+Um.
+
+PATIENT E988
+This is a different type of fatigue, I still have that but this fatigue I can be doing something and all of a sudden it just hits me all at once and I can't do nothing.
+
+DOCTOR E988
+You kind of have to just sit and let it pass.
+
+PATIENT E988
+Yep, yeah uh-huh.
+
+DOCTOR E988
+That could be related to you know the liver.  It could be related to the sugars too.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+But uh you know you don't have any yellowing of your skin or your eyes.  I can tell you what we worry about you know when you have cirrhosis.
+
+PATIENT E988
+I've never turned yellow.
+
+DOCTOR E988
+Which is good, which is good.  Um can you go like this for me @@@.  So you don't have a weak sort of a flap that people develop when the toxins are building up in their body.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+And so you go to do this and you're not able to actually keep your hands up, they just keep falling.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Too.
+
+PATIENT E988
+Huh.
+
+DOCTOR E988
+Yeah no that's actually good so.  I think for the most part @@@ hold them which is a good thing, uh-huh it's a good thing so.  I think you've still got a few years left.  Even if you're in the end stages in terms of you know the liver itself meaning that there's not much good tissue left.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Um, what good tissue you have its still working.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+The liver can be you know a pretty remarkable organ in that it can hang on for quite some time even when a lot of it is uh.
+
+PATIENT E988
+I've been taking care of myself for a long time too and that might have a lot to do with it.
+
+DOCTOR E988
+Definitely can, definitely can sure.
+
+PATIENT E988
+Uh-huh.  How will I know whenever my liver's getting worse?
+
+DOCTOR E988
+Blood tests that we check periodically, at least twice a year and then looking for signs of um liver dysfunction so like I said like if you suddenly notice it.  Most people won't necessarily notice this but um, particularly yellowing of the eyes, yellowing of the skin uh things like that.  Those are the signs of the liver signs of the liver starting to not work as well as it should.
+
+PATIENT E988
+Uh-huh and what.
+
+DOCTOR E988
+That'll be the number thing you'd look for.
+
+PATIENT E988
+What about my kidneys um with the diabetes uh.  Will I know whenever my kidneys are getting ready to shut down, is there any signs?
+
+DOCTOR E988
+You probably won't but we'll notice if your kidneys are starting to worsen because that's something else that's a part of the routine follow-up when we manage the diabetes, we check your kidney function as well and then we keep an eye on it because we do know that diabetes over time, one of the number one reasons a lot of people end up on dialysis is because their kidneys fail.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Um but by keeping a close eye on it and managing things when we see it in terms of keeping your sugars controlled and keeping blood pressure controlled, keeping things like that, all the things kind of keep your kidneys as healthy as we can.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+While we're dealing with the diabetes, that's the best way we can to try and prevent that from ultimately happening for sure.
+
+PATIENT E988
+And another thing uh my eye doctor said I have glaucoma and she said it wasn't that bad so I don't have to worry about it.  Is there any such thing as not worrying about glaucoma?
+
+DOCTOR E988
+There is.
+
+PATIENT E988
+(Laughter).
+
+DOCTOR E988
+Yes there is.  So you know, there are different types of glaucoma.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+First and foremost but the most common type most people we just need to monitor it as well as because you have diabetes, you need to make sure you're seeing an eye doctor at least once a year.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+And so when you have the findings of glaucoma, they just need to monitor the pressures in the eye over a period of time.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+And if they start to get to a level where it's getting high, too high, then we start the different drops and medications that we start to use but initially.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+It's good to know that you have it so that we know that we need to monitor the eye pressures and to monitor the glaucoma development at the time.
+
+PATIENT E988
+Yeah my eyes have been really dry lately and I got some drops one time and I got this just a little bitty bottle and you gave me a prescription but I've run out of it, can you get.
+
+DOCTOR E988
+We can get refills.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+Yeah, yeah basically it's just this artificial tears.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+But they work really really well.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Um you know we can order those for you.
+
+PATIENT E988
+Yeah my eyes were.
+
+
+DOCTOR E988
+Not a problem at all.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+Now as far as you're other medicines that you're taking, taking a baby aspirin every day?
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Good uh and then your insulin regimen.  How much of the Glargine are you using now?
+
+PATIENT E988
+I'm using uh 25 units now.
+
+DOCTOR E988
+25 now and how have your sugars been doing at home?
+
+PATIENT E988
+It's been running 115-120.
+
+DOCTOR E988
+Good, good, very good, very good.  Um still taking the metformin twice a day?
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Good.
+
+PATIENT E988
+I'm taking a half a pill.  I'm taking 500 mg now.
+
+DOCTOR E988
+Okay.  But still taking it twice a day right?
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Okay good and then the insulin you said you're doing 25 units now.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+And then are you still taking the acid reflux medicine, the omeprazole?  Not taking that one anymore.
+
+PATIENT E988
+Uh uh.
+
+DOCTOR E988
+And then are you still using the Xanax three times a day or not using that either?
+
+PATIENT E988
+No I'm not using that either.
+
+DOCTOR E988
+Okay.  So basically the aspirin, the insulin, the metformin and you have the nitroglycerin tablets in case you need them.
+
+PATIENT E988
+That's it, just in case.
+
+DOCTOR E988
+Okay.  I saw that you had couple of bouts of the chest pain but everything turned out okay because the stress test and everything looked good.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Which is good.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+You do have the nitroglycerin just in case?
+
+PATIENT E988
+Yeah, uh-huh.
+
+DOCTOR E988
+Okay.  Have you had to use any more of it?
+
+PATIENT E988
+Uh one time.
+
+DOCTOR E988
+One time.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+So just the one time.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+And did it help when you used it?
+
+PATIENT E988
+Yeah, yeah it did.  I took it right away.
+
+DOCTOR E988
+Good, good.  Alright.  And are you still seeing any of the doctors on the outside or you primarily come through the VA?
+
+PATIENT E988
+I'm going to come to the VA mainly.
+
+DOCTOR E988
+Now that you've finished the hepatitis therapy and everything.
+
+PATIENT E988
+Uh-huh, right.
+
+DOCTOR E988
+Okay.  You had some problem with mental health as well.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+You been trying to stay clean and sober?
+
+PATIENT E988
+Yeah I'm trying to keep my head right you know.
+
+DOCTOR E988
+Good, good, cause you gotta do that, you gotta do that in order to take care of yourself.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Gotta be healthy up here to be healthy everywhere else.
+
+PATIENT E988
+Exactly.
+
+DOCTOR E988
+Good, good.
+
+PATIENT E988
+And tell me something uh three doctors have told me that you can get these uh marijuana pills that's got the same thing in it as marijuana does and I was wondering if you can give me that because the marijuana actually kills the pain in my body and I was smoking when I was on the treatment and it took off the edge of the treatment and I, my bones didn't hurt as much.  It took away the nausea and the vomiting and stuff like that.
+
+DOCTOR E988
+Uh-huh.
+
+PATIENT E988
+And uh then when I went back to work they're saying no you can't do that you know and uh they had a big stink about it and uh I'm not working now though but uh, um, I told some other doctors and they're saying you know you can get pills for that that have the same thing in it and it'd do the same thing for you and you don't have to smoke marijuana.
+
+DOCTOR E988
+Uh-huh.  I admit I'm not familiar with it here.  Now there is a similar compounds that uh we use for appetite stimulation but they don't have any for like sedatives or like pain relieving effect that are made from a marijuana @@@ compound.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Uh but I don't know, it doesn't sound like that would be the type of pill because they said it's mainly, so we use it like in cancer patients.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+For example when they have very very poor appetites and we need to stimulate their.
+
+PATIENT E988
+Yeah that's what I, I was going three days without eating at the time and I couldn't remember to eat and so uh.
+
+DOCTOR E988
+But if I remember correctly they're restricted medications so our Oncology Department.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+That's not something that we just have here unfortunately.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Illinois has not jumped on the bandwagon for like I said medical marijuana use.
+
+PATIENT E988
+Yeah I know.
+
+DOCTOR E988
+Some other states yes.  Unfortunately Illinois has not and neither have the VA's here either.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+So I apologize I would not be able to do that.
+
+PATIENT E988
+I would a lot rather have something like that rather than Xanax and.
+
+DOCTOR E988
+Sure, sure, no I mean that's understandable.
+
+PATIENT E988
+Those kind of things.
+
+DOCTOR E988
+Now I don't know if you know the Mental Health Department if there's something that maybe they could offer you that might be similar uh, they may have options that aren't available to me as a, you know an internal medicine physician.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+So it might be worth asking about that, especially if it's like in terms of like helping to manage the mood and like if you're overwhelmed.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+It might be worth asking them.
+
+PATIENT E988
+It takes away the anxiety.
+
+DOCTOR E988
+Uh-huh.
+
+PATIENT E988
+It takes away the anxiety and uh it takes away a lot of the pain in my spine and my hip and knee.
+
+DOCTOR E988
+Uh-huh.
+
+PATIENT E988
+And.
+
+DOCTOR E988
+It might be worth it, worth asking about.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+You follow up with them already you know, it might not be a bad idea just to say hey is there anything other than you know resorting to actually you know smoking marijuana that you know I can maybe use to kind of help me manage these things.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Unfortunately um the substances, the pill that I'm familiar with.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Is solely an appetite stimulant that's uses.
+
+PATIENT E988
+Appetite stimulant uh-huh.
+
+DOCTOR E988
+Used as a force that was actually in the marijuana but obviously gives you the munchies you that sort of thing.
+
+PATIENT E988
+Yeah uh-huh.
+
+DOCTOR E988
+So that whole part of things but without any of the @@@ you know sedating or anxiety or any of the side effects that actual marijuana does.
+
+PATIENT E988
+Uh-huh.  Yeah.
+
+DOCTOR E988
+And it helps your food for sure.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+The Oncology Department @@@ chemotherapy would treat you for something like that.
+
+PATIENT E988
+Right.
+
+DOCTOR E988
+They do treatment like that so.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Oncology would be able the help you out there.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+But Mental Health Department might be able to because they definitely have different medications up their sleeve and might be more familiar with some of these alternatives too.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+But they may actually be able to help.
+
+PATIENT E988
+I'll tell you what, start mixing pain pills and Xanax.
+
+DOCTOR E988
+That's not a good combination sometimes.
+
+PATIENT E988
+Yeah your head just you know.
+
+DOCTOR E988
+Yeah.
+
+PATIENT E988
+It don't work right.
+
+DOCTOR E988
+No @@@ either.
+
+PATIENT E988
+They gave me those uh depression pills and they're saying these are the weakest ones we got.  I said I have bad side effects on this stuff and sure enough they gave me the weakest one and.
+
+DOCTOR E988
+And you still have the worst side effects with them.
+
+PATIENT E988
+Yeah.  I have real bad side effects and I took them.
+
+DOCTOR E988
+Yeah.
+
+PATIENT E988
+Two times.
+
+DOCTOR E988
+You're that sensitive to things.  
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+It just does, it makes it hard to find options that work for you.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Sure.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Well come have a seat up here, let me take a listen here to your hearts and lungs and everything.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+Deep breaths in and out.  It's nice and clear.  I'll take a listen here to your heart and just breathe normal.  You get a lot of swelling in your legs or anything like that?
+
+PATIENT E988
+Yeah I'm retaining water right now but.
+
+DOCTOR E988
+Retaining a little bit.
+
+PATIENT E988
+Yeah but I think it's because I haven't been working.  I had to quit work because I just couldn't do the job anymore.
+
+DOCTOR E988
+Yeah, everything's kind of taking its toll.
+
+PATIENT E988
+Yeah, yeah and I have a required mandatory 48 hour week and six days a week and.
+
+DOCTOR E988
+Oh gosh.
+
+PATIENT E988
+I told them, I gotta have two days to recover you know I can't do it in one day.
+
+DOCTOR E988
+No I hear you.  If I had to do that indefinite no.  I mean our hours are kind of crazy while we're training but.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Goodness gracious, if I had to do that for.
+
+PATIENT E988
+This guy has been working there 45 years, one day off a week all their life.
+
+DOCTOR E988
+I mean great for them, they're working, if that's the way they want to live.  I don't think I could do it either.
+
+PATIENT E988
+Oh yeah.
+
+DOCTOR E988
+So.
+
+PATIENT E988
+Yeah I did it for over six years and.
+
+DOCTOR E988
+Okay.
+
+PATIENT E988
+And now that I got sick.
+
+DOCTOR E988
+Time to throw in the towel and focus on other things.
+
+PATIENT E988
+Yeah it is.
+
+DOCTOR E988
+Hopefully, let me take a quick peek here.  I think everything else @@@, pull up.  So you think we'll hold off until next time you come we'll check your labs again.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+And at that point we'll check and get an idea what the level of your hepatitis virus and everything too.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+Um check your liver function tests, make sure everything's still holding the same.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+Um so in the meantime we'll keep going with the same medicines that you're taking.  It sound like the diabetes medicine is doing okay, take a quick peek.
+
+PATIENT E988
+Yeah.
+
+DOCTOR E988
+Okay, yeah it was last year when we checked your diabetes number it was perfect it's 5.7.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+We want below 7 so that's great.  So we'll check that again next time you come in alright.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+And then otherwise I think you need to come back in about six months or so and we'll check some blood tests, check your diabetes, check your liver, check your hepatitis status and all that stuff.
+
+PATIENT E988
+Uh-huh.
+
+DOCTOR E988
+And we'll go from there but I'll make sure you've got plenty of refills that will get you through until then.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+If you start to run low on something and you're running low just call our clinic here and you can leave a message and we can call in the refill for you.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+Alright.  So I would check with Mental Health @@@.  Medical marijuana alternative that might work for you.
+
+PATIENT E988
+Yeah, uh-huh.
+
+DOCTOR E988
+Yeah okay.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+Alright.  So we'll have you come back in about six months and we'll do the labs.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+Alright, alright PATIENT here's that for you.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+And if you need anything in the meantime feel free to give us a call, you can always come in and see any of us here.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+In the clinic if you need to alright, I'll see you in about six months.  Okay.
+
+PATIENT E988
+Okay.
+
+DOCTOR E988
+All set.
+
+PATIENT E988
+You're welcome.
+
+DOCTOR E988
+Take care.
+
+PATIENT E988
+Uh-huh.
+
+PATIENT LEAVES 46:36
+Time is 3:40.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1238099
+TRANSACTION # 578-10-2-316-0103

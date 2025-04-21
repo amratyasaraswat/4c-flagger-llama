@@ -1,0 +1,61 @@
+Red Flag (453-506): "I noticed that they you haven't seen Rheumatology yet"
+
+Probe    (508-523): "what's going on"
+
+Factor   (539-622): "Um I’m waiting on I think a consult has been put in but I haven't gotten a date yet"
+
+Probe    (637-673): "Well you've seen them before correct"
+
+CarePlan (707-772): "Yeah, so you should be able to just make an appointment with them"
+
+Factor   (832-869): "Okay. I didn't know I had to do that"
+
+CarePlan (884-982): "Because, not since you've already seen them before. You're an established patient in their clinic"
+
+Red Flag (3526-3627): "Okay. So where do you see, where do you, you see your primary care is generally here is that correct"
+
+Red Flag (3643-3666): "No it's generally there"
+
+Probe    (3681-3780): "Okay, so what brought you here? I mean you now; you've got a couple different primary care doctors"
+
+Red Flag (5258-5294): "No I don't have any therapeutic ones"
+
+Red Flag (6164-6281): "So what I would do or what I recommend is Walgreen’s has them pretty cheap. They're just the Mr. Scholl's gel insert"
+
+Red Flag (6297-6328): "I don't have the money for them"
+
+Factor   (6297-6328): "I don't have the money for them"
+
+CarePlan (6343-6381): "Okay. Well we can see if we have them"
+
+Factor   (6397-6441): "I don't have any income, waiting on that too"
+
+CarePlan (6463-6502): "Well I'll see if we have some here okay"
+
+Red Flag (12879-12939): "I mean do you ever use any anti-fungals in between your toes"
+
+Red Flag (12955-12978): "When I can buy some yes"
+
+Factor   (13013-13039): "But I can't afford any now"
+
+CarePlan (13054-13108): "I'll get you a topical anti-fungal to rub on your feet"
+
+CarePlan (14723-14829): "In four weeks okay. Now if they say you go out there and they'll set the appointment up with them alright"
+
+Red Flag (14845-14892): "So the last time I did, they said they couldn't"
+
+Probe    (14907-14914): "Why not"
+
+Factor   (14930-15059): "I don't know. They said anything that's more than a month in advance I think, a week or a month in advance, they can't set it up"
+
+CarePlan (15074-15175): "Yeah but Rheumatology, if I say Rheumatology in four weeks they should be able to send you over there"
+
+Probe    (15178-15242): "Cause your last appointment with them was – do you remember when"
+
+Red Flag (15534-15600): "Alright yeah and they wanted to see you back in a couple of months"
+
+CarePlan (16122-16182): "Alright cause the Rheumatology appointment you can make okay"
+
+CarePlan (16429-16502): "But they should be able to make the Rheumatology appointment at the front"
+
+CarePlan (16744-16797): "So we need the heel cups okay and I think that was it"

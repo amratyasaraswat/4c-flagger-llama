@@ -1,0 +1,704 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@:@@ 
+
+DOCTOR F049
+PATIENT.  How are you today sir?
+
+PATIENT F049
+I'm good.
+ 
+DOCTOR F049
+@@@.  Come on back.
+
+PATIENT F049
+Okay.
+
+DOCTOR F049
+How you doing?
+
+PATIENT F049
+I'm good.
+
+DOCTOR F049
+Good. Alright have a seat.  How you doing sir?
+
+PATIENT F049
+Oh not so bad I guess.
+
+DOCTOR F049
+Alright.  Let me bring you up here.  Uh when did I see you last here, August huh?  Over the summertime.
+
+PATIENT F049
+That was the last visit with you?
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Yes it was about that time.
+
+DOCTOR F049
+Around four or four and a half months maybe.  
+
+PATIENT F049
+Yeah.
+
+DOCTOR F049
+How have things been going at home?
+
+PATIENT F049
+Oh pretty well.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+I have some problems stemming from my childhood not only from the trauma from my childhood.
+
+DOCTOR F049
+Uh-huh.
+
+PATIENT F049
+And the service too.
+
+DOCTOR F049
+Uh-huh.  Is that what you're seeing Psychology for?
+
+PATIENT F049
+Yes.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+I'm just @@@.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+@@@ help me.
+
+DOCTOR F049
+Well let's see, how are your medicines doing?
+
+PATIENT F049
+Uh they seem to be working alright.  I take uh; I take this saw palmetto, saw palmetto.
+
+DOCTOR F049
+Yeah.  Uh-huh.
+
+PATIENT F049
+When I have trouble with my urinating and uh.
+
+DOCTOR F049
+Uh-huh.
+
+PATIENT F049
+I have that problem and it seems to help kind of.
+
+DOCTOR F049
+The saw palmetto okay.
+
+PATIENT F049
+Yeah.
+
+DOCTOR F049
+And uh your inhalers you're still taking?
+
+PATIENT F049
+Yes I, I take them as needed.
+
+DOCTOR F049
+Well those we want you to be taking all the time.
+
+PATIENT F049
+Well the ones at home I uh, the I have two of them at home I take uh.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Let's see there's just this uh machine.
+
+DOCTOR F049
+Uh-huh.
+
+PATIENT F049
+And then there's the one that uh I forget what it's called right now.
+
+DOCTOR F049
+Now there's Symbicort.
+
+PATIENT F049
+Symbicort.
+
+DOCTOR F049
+That's the one that you take twice a day and there's just one you take once a day.
+
+PATIENT F049
+Symbicort, the one that I take once a day seems to be more effective than the one I used to take twice a day.
+
+DOCTOR F049
+Yeah I mean they're all good in combinations with each other though.
+
+PATIENT F049
+Uh-huh.
+
+DOCTOR F049
+So even though one may make you feel better right away, it's good in the long term to keep using them like that.
+
+PATIENT F049
+Uh-huh.
+
+DOCTOR F049
+They're different types of medicines.
+
+PATIENT F049
+Yes.
+
+DOCTOR F049
+But you're taking both of those every day?
+
+PATIENT F049
+Uh actually I'm only taking one now; I forget the name of it uh, uh right now let's see.  I should have written this down but.
+
+DOCTOR F049
+Uh-huh.  Yeah um I'd like for you to take all of them though um.  Is there a reason you're not taking the other one?
+
+PATIENT F049
+Well it just didn't seem to be very effective and uh so I finally gave it up .
+
+DOCTOR F049
+Okay.  I'd like you to take both though if you can.
+
+PATIENT F049
+Okay.  Okay.
+
+DOCTOR F049
+So I think it's the twice a day one you're probably not taking.
+
+PATIENT F049
+Yeah.
+
+DOCTOR F049
+You didn't bring your medicines with you you said?
+
+PATIENT F049
+No I didn't, I should've, I'm sorry.
+
+DOCTOR F049
+Okay, okay.  Well today do you need any medicines?  Do you need that inhaler we're talking about or any of your inhalers or your?
+
+PATIENT F049
+Well the pocket inhalers I'm pretty well.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Supplied with them and the ones at home I had the medication for those too.
+
+DOCTOR F049
+And you have the other inhaler, the one you're not using, you have that one still?
+
+PATIENT F049
+Yeah, I actually have that yeah.
+
+DOCTOR F049
+Okay and then the you know the albuterol one, that one probably you @@@ carry.
+
+PATIENT F049
+I'm really not sure just how much of any of those I have left so I haven't used them for quite a while actually.
+
+DOCTOR F049
+Okay I'll make sure you have refills of everything.  Do you need anything mailed to you right now?
+
+PATIENT F049
+Uh.
+
+DOCTOR F049
+It looks like you ran out of your cholesterol pill and all this stuff you haven't been taking for a while.
+
+PATIENT F049
+Well the trouble is when they mail the.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Medication if it won't fit in the mailbox I have to drive the ten miles round trip to pick it up at the post office.
+
+DOCTOR F049
+Oh.  Your cholesterol pill and your prostate pill, looks like you're not taking those anymore is that right or?
+
+PATIENT F049
+Cholesterol.
+
+DOCTOR F049
+Cholesterol pill yeah your simvastatin.  You haven't picked those up since June.
+
+PATIENT F049
+Simvastatin, yeah I take those on a regular basis I think yes.
+
+DOCTOR F049
+Yeah.  Okay.  Um okay so it looks like you need refills of that then um.  Let's see, otherwise your breathing's been okay?
+
+PATIENT F049
+Pardon?
+
+DOCTOR F049
+Your breathing's been okay?
+
+PATIENT F049
+Yeah breathing has been pretty good yeah.
+
+DOCTOR F049
+No cough, no chills.
+
+PATIENT F049
+No, no.
+
+DOCTOR F049
+Or sweats, nothing like that.  You know you had that lung infection before so I just wanted to see what's going on.
+
+PATIENT F049
+I cough once in a while but uh.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Not very often.
+
+DOCTOR F049
+Are you still using that treadmill or anything like that?
+
+PATIENT F049
+No I've got to get back to that I think.  I need to get some, I need to exercise.
+
+DOCTOR F049
+Yeah.  And you told you used to use the treadmill but you got bored with it after a couple of minutes.
+
+PATIENT F049
+Yeah.  I had it rigged up to a TV I could watch but that doesn't work.  I just uh, this what is it, what is it, I was just trying to think of the name of this uh X-finity company.
+
+DOCTOR F049
+@@@.
+
+PATIENT F049
+I'm gonna change my, I'd better change my provider for my computer and TV.
+
+DOCTOR F049
+Okay, alright um alrighty and you still drinking a couple drinks a day?
+
+PATIENT F049
+I drink red wine, sweet red wine.
+
+DOCTOR F049
+Uh-huh.
+
+PATIENT F049
+Buy a gallon of it for about $10.
+
+DOCTOR F049
+Uh but how many drinks a day do you have?
+
+PATIENT F049
+Maybe one or two.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+I don't have a great craving for alcohol.  Sometimes I these days I, some days I don't even take it to drink a drop.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+I have lots of alcoholic beverages at home.
+
+DOCTOR F049
+Uh-huh.  And how are you eating at home?
+
+PATIENT F049
+I need to improve on that.
+
+DOCTOR F049
+Yeah.  You used to get that Meals on Wheels right but you didn't feel like you needed it.
+
+PATIENT F049
+No that's, yeah I didn't think that worked that well.
+
+DOCTOR F049
+Okay.  Yeah your weight is up a little bit so that's good.  It's up about four pounds since I saw you last.
+
+PATIENT F049
+Around here, I need to lose that weight, that doesn't really do me any good.  I need to watch my diet.  I need to improve on my diet, eat more of that natural foods and.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+And not so many processed foods.
+
+DOCTOR F049
+You're eating a couple meals a day though still?
+
+PATIENT F049
+Yes uh-huh.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+At least two or three meals.
+
+DOCTOR F049
+Okay.  Okay.  Uh and you're still paying all your own bills, getting your own groceries, all that stuff?
+
+PATIENT F049
+Yes sir.
+
+DOCTOR F049
+Still driving?
+
+PATIENT F049
+Yes.
+
+DOCTOR F049
+Okay, alright um.  How has your urine been?
+
+PATIENT F049
+Uh if I don't take the, uh when I don't take these saw palmettos sometimes I have trouble urinating.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+But that seemed to improve.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+Help me improve but the uh the medications that they.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Prescribed.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+That is not effective.
+
+DOCTOR F049
+Is not working hmm.  Uh we could maybe try a different medicine you know.  I mean it sounds like you have an enlarged prostate that's where your urine issues are coming from.
+
+PATIENT F049
+Yeah.
+
+DOCTOR F049
+Um we could try a different medicine if that one didn't work.
+
+PATIENT F049
+Maybe that would be, that might.
+
+DOCTOR F049
+And we can mail that to you and see if it'll help, what do you think?
+
+PATIENT F049
+Yeah, it might be a good idea yes.
+
+DOCTOR F049
+Yeah okay.  Let's see, but you stopped taking that prostate pill though right?
+
+PATIENT F049
+Beg pardon?
+
+DOCTOR F049
+Are you still taking the prostate pill or did you stop taking that?
+
+PATIENT F049
+Uh yeah I'm still taking the ones that are prescribed, all the medication that's been prescribed I take usually.
+
+DOCTOR F049
+Okay.  Uh let's see uh I'm just going through your labs here you had last time.  You still see the psychiatrist right?
+
+PATIENT F049
+I'm seeing a psychologist.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Somewhat near where I live.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+Psychologist, not a psychiatrist.
+
+DOCTOR F049
+Yeah.  Alright.
+
+PATIENT F049
+The psychiatrist is usually for a little more serious problems I guess aren't they?
+
+DOCTOR F049
+Uh-huh, yeah, more uh with medication and stuff like that.
+
+PATIENT F049
+Yeah.
+
+DOCTOR F049
+And you're not smoking anymore right?
+
+PATIENT F049
+No I quit smoking.
+
+DOCTOR F049
+Did you get the flu shot?
+
+PATIENT F049
+Yes I got the flu; I got the flu shot this morning yes.
+
+DOCTOR F049
+Oh good.  The nurse just gave it to you?  Alright and let me see what else today, yeah so a few of the things, one we'll try a different prostate pill and then I want you to take both of those inhalers.
+
+PATIENT F049
+Yes okay.
+
+DOCTOR F049
+Okay one is twice a day and one is once a day and the other one just when you need it that you carry around with you.
+
+PATIENT F049
+Yeah, yeah, yeah okay sir.
+
+DOCTOR F049
+I think even though you don't feel like it helps you I think it will in the long term help your lungs.  Um, alright your cholesterol you take them uh @@@ get it checked.
+
+PATIENT F049
+Sometimes I think quite often you hear it on the TV.
+
+DOCTOR F049
+Uh-huh.
+
+PATIENT F049
+If the medication makes them, causes them to think about suicide.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Cause most people, I don't think, think about suicide, they start taking some of this medications they prescribe and then it causes them to think about committing suicide for some reason.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+So with medication for psychology and psychiatric problems I don't believe in it very much.
+
+DOCTOR F049
+Yeah.  Okay.  
+
+PATIENT F049
+Maybe if it's a real serious problem so they might believe that people might think of doing irrational things but maybe uh, maybe some of that medication will just kind of numb them so they won't think about it.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+It kind of shocked me the one right if it causes you to think about suicide then they say call us without delay.
+
+DOCTOR F049
+Right.  Alright so then let me go talk with my attending doctor and I'll be back okay.
+
+PATIENT F049
+Pardon?
+
+DOCTOR F049
+Let me talk with the other doctor and I'll be back.
+
+PATIENT F049
+Yeah, yeah, okay fine.
+
+DOCTOR F049
+Other questions for me or no?
+
+PATIENT F049
+Pardon?
+
+DOCTOR F049
+Do you have any questions for me or no?
+
+PATIENT F049
+I'm sorry?
+
+DOCTOR F049
+Any questions for me or no?
+
+PATIENT F049
+No I guess not right now, that I can think of right now.
+
+DOCTOR F049
+Oh okay, alright, I'll be right back, stay here.
+
+PATIENT F049
+Okay, right here is okay.
+
+DOCTOR F049
+Alright.
+
+(DOCTOR OUT:  43:30  DOCTOR IN:  50:56)
+
+DOCTOR F049
+Okay um @@@ stuff here.  I'll renew all your medicines here.  Um simvastatin so just this all of this you can have.  Are you still taking like an aspirin or something?
+
+PATIENT F049
+Yeah I still take an aspirin every day yes low dose.  I make up these doses ahead of time so I make up my medication doses for about a month ahead of time.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+So I @@@.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+The pills when it's time to take it.
+
+DOCTOR F049
+Good yeah, so the main thing for today is I want you to just restart that other inhaler and then we'll give you the different prostate medicine okay.  Otherwise your blood pressure looks good; all your labs from back in August um look great.  Your blood levels, your iron levels, your kidney, your liver, your cholesterol, so we don't need to repeat any blood on you.
+
+PATIENT F049
+Okay.
+
+DOCTOR F049
+It's only been four months and everything looked great um so I renewed all your medicines and then let me.
+
+PATIENT F049
+I think I have most of the medication I.
+
+DOCTOR F049
+Yeah I just renewed them as far as if you need refills.
+
+PATIENT F049
+Okay good.
+
+DOCTOR F049
+To make sure they're up-to-date um and we'll send you the new prostate, called tamsulosin.  It's the same as the other one, Flomax is the other name for it.  Um sometimes it works better in people and you just take it once a day @@@ at bedtime.
+
+PATIENT F049
+This uh, these SAM-E pills.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+I did take them; I discontinued them I don't think they're doing very much.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Good.
+
+DOCTOR F049
+Alright.
+
+PATIENT F049
+They're kind of expensive for one thing.
+
+DOCTOR F049
+Exactly, @@@ covered.  Alright so you take those two inhalers right?
+
+PATIENT F049
+Pardon?
+
+DOCTOR F049
+You're gonna take those two other inhalers now.
+
+PATIENT F049
+Uh yes, I carry these with me and then the other two, the one is on the machine.
+
+DOCTOR F049
+Uh-huh.
+
+PATIENT F049
+I took those once every day.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+These are just once a day.
+
+DOCTOR F049
+Okay.
+
+PATIENT F049
+And then this uh, this other one, I forget this medication but uh I thinks that's for, that's for breathing I think.
+
+DOCTOR F049
+Yeah.
+
+PATIENT F049
+Seems to improve my breathing.
+
+DOCTOR F049
+Okay um alright, very good.  Uh anything else?
+
+PATIENT F049
+No I think that's about it.
+
+DOCTOR F049
+Very good.  We'll see you in a couple of months.
+
+PATIENT F049
+Okay.
+
+DOCTOR F049
+Things are going good.  Just take that other inhaler and take your prostate medicine okay.
+
+PATIENT F049
+Okay very good.  There's no medication that I need to pick up today then is there?
+
+DOCTOR F049
+No I'm just gonna mail, oh unless you want to pick up that prostate one.  It's up to you; otherwise I can just mail it to you.
+
+PATIENT F049
+Well I guess they could just, well maybe if I could pick that up.
+
+DOCTOR F049
+You want to pick that one up okay.  Very good, okay, so I changed that you can pick that one right up.
+
+PATIENT F049
+Okay.
+
+DOCTOR F049
+Alright.
+
+PATIENT F049
+Alrighty, okay thank you.
+
+DOCTOR F049
+Okay have a good day.
+
+PATIENT F049
+Yeah.
+
+PATIENT LEAVES:  54:35.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1300309
+TRANSACTION # 578-10-2-316-0103

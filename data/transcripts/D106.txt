@@ -1,0 +1,914 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@@
+
+DOCTOR D106
+PATIENT?
+
+PATIENT D106
+Oh, oh you wanna fight?
+
+DOCTOR D106
+No, (laughter).  @@@, yeah that's @@@.
+
+PATIENT D106
+You better be good to me or I will end up.
+
+DOCTOR D106
+Let's see, yes you can.  I apologize for that, I didn't mean it to be such a public thing.
+
+PATIENT D106  
+I didn't either, ha, ha.  Sit here?
+
+DOCTOR D106
+Yeah.  You mainly see DOCTOR?
+
+PATIENT D106
+Right.
+
+DOCTOR D106
+Okay.  Do you know why you're here today?  You're in the hospital is that right?
+
+PATIENT D106
+I work in the hospital.
+
+DOCTOR D106
+Okay.  How have been sick?
+
+PATIENT D106  
+Fine.
+
+DOCTOR D106
+Do you walk?  Sounds like your heart was beating fast.
+
+PATIENT D106
+Right.
+
+DOCTOR D106
+Uh, they started you at base, increased some of your medicines and started you on . . .
+
+PATIENT D106
+They changed some medicines too and that's what I want to talk to you about.
+
+DOCTOR D106
+Okay.  So let's take a look at the medicines and then you can tell me your questions.  Looks like you're on Coumadin, which is new.
+
+PATIENT D106  
+Right.
+
+DOCTOR D106
+A blood thinner.
+
+PATIENT D106
+So it's not new.  I was on it before @@@ and I was taken off of it.
+
+DOCTOR D106
+Uh-huh.
+
+PATIENT D106
+Now I'm back on it.
+
+DOCTOR D106
+Okay and then um digoxin. 
+
+PATIENT D106  
+They put me on that when I got out of the Hospital.
+
+DOCTOR D106
+And then a water pill, Lasix, furosemide.  
+
+PATIENT D106
+Yep.
+
+DOCTOR D106
+Metoprolol?
+
+PATIENT D106
+Right, taking it while I was in the hospital.
+
+DOCTOR D106
+And then isosorbide mononitrate?
+
+PATIENT D106  
+Yep.
+
+DOCTOR D106
+And then @@@.
+
+
+PATIENT D106
+Yeah.
+
+DOCTOR D106
+Lisinopril?
+
+PATIENT D106
+Yes half a pill in the morning, half in the afternoon and half in the evening.
+
+DOCTOR D106
+Magnesium?
+
+PATIENT D106  
+Yes.
+
+DOCTOR D106
+Diltiazem?
+
+PATIENT D106
+Yes.
+
+DOCTOR D106
+And then B12 shots.
+
+PATIENT D106
+Right.
+
+DOCTOR D106
+And then glipizide.
+
+PATIENT D106  
+Glipizide which I'm almost out of, which is doing absolutely no good.
+
+DOCTOR D106
+Cause your sugars are high?
+
+PATIENT D106
+Yeah.
+
+DOCTOR D106
+Okay.
+
+PATIENT D106
+They took me off of.
+
+DOCTOR D106
+Metformin?
+
+PATIENT D106  
+Metformin and uh gluco.
+
+DOCTOR D106
+Gliburide.
+
+PATIENT D106
+Glucophage.
+
+DOCTOR D106
+It's because of your kidneys um.  Your kidney function is not normal anymore and metformin is actually dangerous in people with kidney functions that were not normal so that's probably why.
+
+PATIENT D106
+Oh.
+
+DOCTOR D106
+And then they didn't, you know, give you something to kinda help with the diabetes so.
+
+PATIENT D106  
+Right.
+
+DOCTOR D106
+Um.
+
+PATIENT D106
+And the glipizide is not doing it.
+
+DOCTOR D106
+You're taking 10 mg twice a day.  That's the maximum dose actually so.  Have you ever taken anything else for your diabetes?
+
+PATIENT D106
+Well uh, let me think it's so many years ago.  Uh, the metformin and the Glucophage have been here at Hines.
+
+DOCTOR D106
+What's your blood, what's your blood sugar now?
+
+PATIENT D106  
+Well in the morning it's been as much as 150-160.
+
+DOCTOR D106
+Okay.
+
+PATIENT D106
+In the evening it's around 290.
+
+DOCTOR D106
+Wow.  That's pretty high.
+
+PATIENT D106
+Yeah and I had perfect control with the . . .
+
+DOCTOR D106
+The metformin.
+
+PATIENT D106  
+With the metformin.
+
+DOCTOR D106
+It's just that it's very dangerous with your renal function so we have to figure out something to help you out.  Now were you having heart failure when you came in, swelling in your legs, anything like that?
+
+PATIENT D106
+Well I had some little swelling in my right ankle and I wear elastic stockings for that.
+
+DOCTOR D106
+Okay.
+
+PATIENT D106
+That seems to control it.
+
+DOCTOR D106
+Let's see cause we're kind of limited by what we can give you by mouth um.  There's one medication that we can try um but it's associated with swelling in the legs and you were here last time with a little bit of heart failure and so if I give you that medicine.
+
+PATIENT D106  
+I didn't have heart failure I had a high pulse.
+
+DOCTOR D106
+Yeah it sounded like when DOCTOR wrote the sign-off note for you she mentioned that you had a little bit.  So we can try that medication and if you start noticing that your swelling in your legs gets out of control then um perhaps we can try a different medicine.  Cause, so there's only, metformin is the best medication for diabetes.  Next is the glipizide that you're taking now um and then the other ones are just A OK and then the next step would be insulin but that's you know that's a big hassle, a big lifestyle change.
+
+PATIENT D106
+Right.
+
+DOCTOR D106
+And we want to try to avoid that.
+
+PATIENT D106
+Yeah I do too.
+
+DOCTOR D106
+So, yeah we can try you on this new medication and it's called pioglitazone um.  The side, the main side effect is swelling in the legs okay, which I'm kind of worried but um we can try that okay.  Uh let's see what's the last time DOCTOR checked your diabetes @@@.
+
+PATIENT D106 
+Uh-huh.
+ 
+DOCTOR D106
+The last time your control was actually really good and that was in the beginning of November but if you're telling me your blood sugars have been high we should . . .
+
+PATIENT D106
+Well that, the blood sugars are that high since they took me off of the metformin.
+
+DOCTOR D106
+Yeah I understand that.  Okay, we'll try this new medication and then, and then see how your sugars improve okay.
+
+PATIENT D106
+Okay.
+
+DOCTOR D106
+Um if anything um maybe DOCTOR just wanted to start you on a little booster, one time a day, of insulin instead of you know.  Cause insulin is done multiple ways.  But let's try this one medication and see how it goes.  So that's one thing your diabetes.  Um, your heart rate today is well controlled; it was 67, so that's good.  I think all the medications they put you on um helped that.  Um how often do you @@@?
+
+PATIENT D106  
+Feel fine.
+
+DOCTOR D106
+You feel good?
+
+PATIENT D106
+Yeah.
+
+DOCTOR D106
+Okay.  Um, so we'll get some blood work today to check all of that stuff again.  I know you got some about two weeks ago.
+
+PATIENT D106
+That Coumadin is.
+
+DOCTOR D106
+Sticker right?
+
+PATIENT D106  
+Look at that (shows arm).
+
+DOCTOR D106
+@@@.  It does that.  It thins your blood you know.  It prevents strokes that's the thing so.  Um alright.  Any other questions about the medications?  What else you got?
+
+PATIENT D106
+Well, I don't know yet the effect of the other medications cause I haven't been on them that long.
+
+DOCTOR D106
+Okay, so do you want to discuss, I mean kind of ask me questions like what they’re for? Do you want me to answer questios like that?
+
+PATIENT D106
+Well uh I know most of them are for the uh.
+
+DOCTOR D106
+The heart rate.
+
+PATIENT D106  
+The heart rate.
+
+DOCTOR D106
+Yeah.
+
+PATIENT D106
+Yeah.
+
+DOCTOR D106
+The only thing is your blood pressure is a little high but I'll recheck it today.  Does your blood pressure get a little more on the high side?
+
+PATIENT D106
+It must.  I can’t explain it to you and almost all my life, it's been in the upper readings.  It's been around 140-150.
+
+DOCTOR D106
+Okay.
+
+PATIENT D106  
+And the lower reading has always been in the low 60s, that's what diastolic, in the low 60s, but the same reason that I've had a high pulse without realizing it for maybe 15 years.
+
+DOCTOR D106
+Uh-huh.
+
+PATIENT D106
+You know I just noticed it when I go in the stores and I checked it at the store machine which shows a high pulse of 90, 100.
+
+DOCTOR D106
+Yeah.
+
+PATIENT D106
+90s, 100s.
+
+DOCTOR D106
+Yeah.
+
+PATIENT D106  
+In that area.
+
+DOCTOR D106
+The thing is um, they both are you know connected.  The fact that you've had your blood pressure on the little higher side for so long, your heart structurally the muscles pump against a higher blood pressure and so the muscles, over time, stretch, over like say the you know before you get the high high blood pressure.  So the more the muscles stretch and then, so the inner connections are loose and hence your heart beats faster.
+
+PATIENT D106
+But I never, I've never had high blood pressure until ten years ago.
+
+DOCTOR D106
+Oh ten years ago?
+
+PATIENT D106
+Maybe not even that long ago.
+
+DOCTOR D106
+Okay.  So I think the key to preventing your heart, well you're hearts already in that faster rhythm, but controlling your blood pressure is key.  We can still go up on the lisinopril.
+
+PATIENT D106  
+Well I took lisinopril I'd say about 15 years or 20 years ago, back when I started on it with Doctor @@@.
+
+DOCTOR D106
+Uh-huh.
+
+PATIENT D106
+And uh when I was taking more of a dose than I'm taking now, which is a half a tablet in the morning, half in the evening uh I, my lisinopril causes my potassium to go up.
+
+DOCTOR D106
+I see.
+
+PATIENT D106
+So I don't know if you want to increase the lisinopril and automatically increase.
+
+DOCTOR D106
+Then your potassium is high.  You're very right, you're very right.  Um well other things, the other thing is we'll just go up on your, will just raise, make your heart rate go down even more and at this point, your heart rate is pretty low so.  We don't want to drop it too low.
+
+PATIENT D106  
+No I don't want to drop it too low either.
+
+DOCTOR D106
+So that doesn't make you feel good.  Um, let's see.  We can go up on the water pill, the furosemide.  Go up to twice a day.  It makes you pee, you probably know that.
+
+PATIENT D106
+I do that anyhow.
+
+DOCTOR D106
+But the, the nice thing is because your potassium tends to be on the higher side, so the furosemide actually drops your potassium so maybe that can counteract a little bit.  So maybe we'll go, would you rather take twice the dose in the morning or would you rather split it in two doses twice a day?
+
+PATIENT D106
+It doesn’t make any difference.
+
+DOCTOR D106
+@@@ okay.  Let's do it twice a day then.
+
+PATIENT D106  
+Okay.
+
+DOCTOR D106
+I think it's more effective @@@.
+
+PATIENT D106
+Okay I am almost out of glipizide because . . .
+
+DOCTOR D106
+Okay.
+
+PATIENT D106
+I got two pills left.
+
+DOCTOR D106
+Cool, alright.  You need that too.  Okay, you want to come up here?  How about @@@.  I'll just have you come back for blood work in about two weeks.
+
+PATIENT D106  
+I've gotta come back for blood work on December 9th.
+
+DOCTOR D106
+Okay.
+
+PATIENT D106
+For the Coumadin check.
+
+DOCTOR D106
+Okay.
+
+PATIENT D106
+So do want to do it then?
+
+DOCTOR D106
+Let's do it then, yep, yeah let's do it all then.  I think that’s good.
+
+PATIENT D106  
+That's only six days from today.
+
+DOCTOR D106
+Do you want to pick up the new pill downstairs or do you want to mail it?
+
+PATIENT D106
+If they mail it takes about four days.
+
+DOCTOR D106
+Yeah.
+
+PATIENT D106
+Well I have enough for a week.
+
+DOCTOR D106
+Okay.  So the furosemide you just double it.  Just take one in the morning and one at night until we.
+
+PATIENT D106  
+Will they mark that on the prescription?
+
+DOCTOR D106
+Oh yeah when you get it yeah.
+
+PATIENT D106
+Okay.
+
+DOCTOR D106
+Okay.  I can write it down for you if you want.  
+
+PATIENT D106
+Right.
+
+DOCTOR D106
+Do you have your med list?
+
+PATIENT D106  
+Furosemide twice a day.
+
+DOCTOR D106
+Here, your med list is right here.  I'll just mark it on here.
+
+PATIENT D106
+You got your notes on that; don't you want to keep those?
+
+DOCTOR D106
+No there up here, so it's good.
+
+PATIENT D106
+Oh.
+
+DOCTOR D106
+Change to twice a day.  Okay um and then I'll send the new diabetic medication then too.
+
+PATIENT D106  
+Okay.
+
+DOCTOR D106
+You can start that today.
+
+PATIENT D106
+So I can’t get started today I'll stop and pick it up right?
+
+DOCTOR D106
+Um exactly.
+
+PATIENT D106
+Yeah.
+
+DOCTOR D106
+So I'll send it.  I @@@.
+
+PATIENT D106  
+Do I take that new diabetic medicine at night or in the morning, when?
+
+DOCTOR D106
+Take it in the morning.
+
+PATIENT D106
+Just once a day.
+
+DOCTOR D106
+Yes, once a day.  I'll be right back okay?
+
+(DOCTOR OUT:  39:53  DOCTOR IN: 40:44)
+
+DOCTOR D106
+Deep breath please.  Other side.  @@@ okay thank you.  You're heart is regular today so.
+
+PATIENT D106
+Oh.
+
+DOCTOR D106
+Yeah.  The Coumadin.
+
+PATIENT D106  
+That's what drives me nuts.
+
+DOCTOR D106
+Okay.
+
+PATIENT D106
+@@@.
+
+DOCTOR D106
+Yeah you know the Coumadin is one of the downfalls of medicine.  It works because it does what we need it to, which is prevent stroke but.
+
+PATIENT D106
+Yeah.
+
+DOCTOR D106
+But the complications of bleeding and like you know so difficult to monitor.
+
+PATIENT D106  
+Oh it's terrible.
+
+DOCTOR D106
+Yeah so I mean.
+
+PATIENT D106
+I get the blood tests every two weeks.
+
+DOCTOR D106
+So but once you start getting more control I think it's the management that @@@ once you get more regular.  I think you're in that early period where.
+
+PATIENT D106
+Well I was in the @@@ for six years.
+
+DOCTOR D106
+Yeah I know.
+
+PATIENT D106
+And they took me off of it because my echocardiogram was perfect and my uh, the EKG was perfect and the heartbeat was perfect and everything.  Then I went off of it for a month and now it’s all screwed up.
+  
+DOCTOR D106
+Yeah. Screwed up.  Let me look at the dose then.  @@@.  So once a day.
+
+PATIENT D106
+Should I watch for swelling in the legs or what?
+
+DOCTOR D106
+Yeah.  So if you start noticing increased swelling in the legs give me a call or give DOCTOR a call and then we'll have to come up with other options.  @@@.
+
+PATIENT D106
+Well I don't, because @@@ swelling and just.
+
+DOCTOR D106
+Yeah massive swelling.
+
+PATIENT D106  
+Oh geeze.
+
+DOCTOR D106
+Yeah.  
+
+PATIENT D106
+I don't know that I didn't want to take that.
+
+DOCTOR D106
+Well it doesn't, you know it's just about maybe 10% of people get it, so.  The majority of the time it doesn't happen.
+
+PATIENT D106
+Okay.
+
+DOCTOR D106
+Or happens in a small amount.  Alright I'll be right back okay sir, I'm going to talk to my attending and uh I'll be right with you okay?
+
+PATIENT D106  
+Sure.
+
+DOCTOR D106
+How old are you sir?
+
+PATIENT D106
+75.
+
+DOCTOR D106:
+75 okay.
+
+(DOCTOR OUT:  44:01  DOCTOR IN:  48:37)
+
+DOCTOR D106
+Alright sir.  So actually that water pill, my attending wanted just to do it once a day to make it easier for you.
+
+PATIENT D106
+So what I'm taking.
+
+DOCTOR D106
+So at a higher dose but just once a day.
+
+PATIENT D106
+Okay.
+
+DOCTOR D106
+So, so if you can just with the tabs you have right now, just take two tabs until you get the new medicine.
+
+PATIENT D106  
+Okay.
+
+DOCTOR D106
+In the mail.
+
+PATIENT D106
+And then do I still take the glipizide?
+
+DOCTOR D106
+Yeah, yep.  No I'm talking about the water pill.
+
+PATIENT D106
+I know you're talking, I know what you're talking about.
+
+DOCTOR D106
+Okay and the glipizide stays the same.
+
+PATIENT D106  
+Two a day?
+
+DOCTOR D106
+Yeah one in the morning and one at night.
+
+PATIENT D106
+And I'm out of that.
+
+DOCTOR D106
+Yeah so I refilled that in the mail.  Are you completely out?
+
+PATIENT D106
+No I've got two pills left, two pills left.  And I’ve gone one . . .@@@ I'll be out by Tuesday.
+
+DOCTOR D106
+Well why don't you just come in.
+
+PATIENT D106  
+I'd rather just pick it up @@@.
+
+DOCTOR D106
+And the new medication that I'm starting for your diabetes, I have to actually do a special request for it so you won't be able to pick it up today.
+
+PATIENT D106
+Okay but what do I do about the glipizide?  I'll pick up another.
+
+DOCTOR D106
+You can pick up the glipizide today.
+
+PATIENT D106
+Well I'm gonna stop taking it right, when I take this other one?
+
+DOCTOR D106
+No you take it in addition.
+
+PATIENT D106  
+In addition to the glipizide.
+
+DOCTOR D106
+Exactly yes.
+
+PATIENT D106
+Now I'm not talking about the water pill.
+
+DOCTOR D106
+No we're not talking about the water pill.
+
+PATIENT D106
+We're talking about the other pills that's on the way.
+
+DOCTOR D106
+Exactly.  That one you will add in addition to your glipizide.
+
+PATIENT D106  
+Okay.  Just another pill.
+
+DOCTOR D106
+Yeah, yeah I know.
+
+PATIENT D106
+Uh so what, I don't have to go the pharmacy?
+
+DOCTOR D106
+Well you wanted to pick up the glipizide so you don't run out right?
+
+PATIENT D106
+Right.
+
+DOCTOR D106
+Yeah, you'll pick that up.
+
+PATIENT D106  
+Yeah.
+
+DOCTOR D106
+And then the new one will come at home.
+
+PATIENT D106
+Okay.  @@@.
+
+DOCTOR D106
+Oh yes, for a whole year.  And I believe that’s all.  So the new diabetic medication and the water pill will both come home.
+
+PATIENT D106
+Right.
+
+DOCTOR D106
+And the glipizide you'll pick up today.
+
+PATIENT D106  
+Okay.
+
+DOCTOR D106
+And then we're gonna have you check some blood work in two weeks.
+
+PATIENT D106
+And the glipizide @@@ the 9th.
+
+DOCTOR D106
+The 9th exactly.  12/9 and then.
+
+PATIENT D106
+You have to order that and put it in the computer.
+
+DOCTOR D106
+Yes and then um and then I'm gonna have you see DOCTOR in about six weeks.
+
+PATIENT D106  
+Six weeks.
+
+DOCTOR D106
+If they can find an appointment that soon.
+
+PATIENT D106
+Well, see, I’m having a problem with appointments here.  Let me explain.
+
+DOCTOR D106
+Sure.
+
+PATIENT D106
+Uh @@@ appointment with the cardiologist.
+
+DOCTOR D106
+Yeah.
+
+PATIENT D106  
+DOCTOR.
+
+DOCTOR D106
+DOCTOR.
+
+PATIENT D106
+The 17th.
+
+DOCTOR D106
+Uh-huh.
+
+PATIENT D106
+So that's gonna be, maybe I can see him and I don’t know what he’s going to decide. then I'd have B12 shot at the end of December.
+
+DOCTOR D106
+That's right.
+
+PATIENT D106  
+And at the same time, I usually have a blood draw to check on the INR.
+
+DOCTOR D106
+Yes.
+
+PATIENT D106
+Uh, the 9th I've got your blood tests request and @@@ Coumadin test.
+
+DOCTOR D106
+December 9th, yes.
+
+PATIENT D106
+Right.  January 5th I've got to see Dermatology.
+
+DOCTOR D106
+Yes.
+
+PATIENT D106  
+And January 12th I've got to have the dentist.
+
+DOCTOR D106
+Yes.
+
+PATIENT D106
+Massive dentist work.
+
+DOCTOR D106
+Do you want me to move it to two months then?
+
+PATIENT D106
+Yeah at least two months.
+
+DOCTOR D106
+Okay.  I just don't want your diabetes to go @@@.
+
+PATIENT D106  
+Well @@@.  I'm gonna be walking around with black eyes.
+
+DOCTOR D106
+I just don't want your diabetes to go unchecked.
+
+PATIENT D106
+Well I don't either.
+
+DOCTOR D106
+Yeah and so that's why I want to see you.
+
+PATIENT D106
+That's why I was hoping to get back on metformin.  I had control.
+
+DOCTOR D106
+I think metformin is out um at this point um with your kidney function.
+
+PATIENT D106  
+@@@.
+
+
+DOCTOR D106
+Yeah and these since the hospitalization, since you were in the hospital @@@.  Alright.  Any other questions sir?
+
+PATIENT D106
+No.
+
+DOCTOR D106
+Okay.  Well, sorry to add another pill but it's taking the.  It's not really taking the place of the metformin, because metformin is very good, but it’s the next thing, Okay.
+
+PATIENT D106
+Metformin was excellent.
+
+DOCTOR D106
+Yes it was.  Okay sir so.
+
+PATIENT D106  
+Okay doc.  Thank you.
+
+DOCTOR D106
+Here is this.
+
+PATIENT D106
+What do I do with that?
+
+DOCTOR D106
+I'll take it up front.  Here's your medication list.
+
+PATIENT D106
+Now you'll put the order in for the medication I pick up today?
+
+DOCTOR D106
+Yes.
+
+PATIENT D106  
+So I have to go to the Common Room and wait?
+
+DOCTOR D106
+Yes.  So I'll give you this list so that you know which one I am increasing, 40 mg once per day okay.
+
+PATIENT D106
+Okay.
+
+DOCTOR D106
+@@@ make you get in that wheelchair.
+
+PATIENT D106
+Okay.  Sure gave you a hard time didn't I.
+
+DOCTOR D106
+It happens though, you know.
+
+PATIENT D106  
+Well.
+
+DOCTOR D106
+I wish I had something better but.
+
+PATIENT D106
+@@@.
+
+DOCTOR D106
+It was nice meeting you sir.
+
+PATIENT D106
+Nice seeing you.
+
+DOCTOR D106
+You have a good holiday okay.
+
+PATIENT D106  
+You too.  I won't see you till after Christmas.
+
+DOCTOR D106
+See ya later.
+
+(DOCTOR OUT: 54:56)
+
+Time is 3 o'clock.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/JOB#  1235291
+TRANSACTION # 578-10-2-316-0103

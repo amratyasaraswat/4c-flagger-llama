@@ -1,0 +1,495 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@
+
+DOCTOR D393
+PATIENT?
+
+PATIENT D393
+Right here.
+
+DOCTOR D393
+Give me one second.  What can I do for you today sir?
+
+PATIENT D393
+Well I've been wanting to make some changes in my meds doctor.
+
+DOCTOR D393
+I see and I think you haven't seen one in a while is that right?
+
+PATIENT D393
+That is correct.
+
+DOCTOR D393
+Okay.  Are you doing pretty good today otherwise?
+
+PATIENT D393
+For the most part.
+
+DOCTOR D393
+Alright sounds good.  Um you know this is going to be my first time seeing you so I'm just going to take a few seconds here to look through your chart a little bit okay.
+
+PATIENT D393
+Alright.
+
+DOCTOR D393
+Um @@@.  So uh I heard you were in the hospital for a little bit but before that, like when was the last time you saw a gen med doctor?
+
+PATIENT D393
+Uh the last time I saw a Gen. Med. doctor could have been seven or eight months ago maybe.
+
+DOCTOR D393
+Okay, alright.  Was it here or?
+
+PATIENT D393
+Uh it was at Hines.
+
+DOCTOR D393
+At Hines.  Let's see if I can find that information.  Okay, so I understand you have high blood pressure, diabetes.
+
+PATIENT D393
+Uh-huh.
+
+DOCTOR D393
+Um anything else?
+
+PATIENT D393
+High cholesterol.
+
+DOCTOR D393
+Uh-huh.
+
+PATIENT D393
+Uh that's about it.  That's enough.
+
+DOCTOR D393
+Fair enough.  So you were in the hospital for quite a bit, huh?
+
+PATIENT D393
+Yeah.
+
+DOCTOR D393
+What were you doing here, what were you here in for?
+
+PATIENT D393
+Uh this time depression and substance abuse.  
+
+DOCTOR D393
+Well what type of substance abuse did you use?
+
+PATIENT D393
+Cocaine.
+
+DOCTOR D393
+Okay.  When was your last use?
+
+PATIENT D393
+Uh November the 25th.
+
+DOCTOR D393
+Um how much did you use?
+
+PATIENT D393
+Quite a big.
+
+DOCTOR D393
+@@@ okay.  Um let's see what about your depression, how’s that been?
+
+PATIENT D393
+Uh at the present I guess it's slowly getting better.
+
+DOCTOR D393
+I'm really glad to hear that.  It's a long process like anything worthwhile, you know with your substance abuse and your depression you need to take small steps okay hopefully over a long period of time you will notice an improvement you know.  Uh when were you discharged from the hospital?
+
+PATIENT D393
+Uh actually I was discharged from uh 7 East which is the Psych Unit two days ago.
+
+DOCTOR D393
+That's good.  So who do you live with?
+
+PATIENT D393
+Right now I'm inpatient for substance abuse now.
+
+DOCTOR D393
+Okay is that on the 9th floor.
+
+PATIENT D393
+Yes it is.
+
+DOCTOR D393
+Wonderful. I’m glad you’re here. Um so it sounds like somebody's looking in after you for your substance abuse and depression so I'll try to focus on other parts, okay.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+Okay.  Um let me look through your labs and see how your sugars are doing.  Hmm.
+
+PATIENT D393
+They've been rising and falling.
+
+DOCTOR D393
+Yes they have.  We'll talk about that in a second.  And according to your blood pressure, have you been checking your blood pressure, on the psyche floor, or not really.
+
+PATIENT D393
+Uh yeah they did, on a daily basis.
+
+DOCTOR D393
+Okay.  @@@  Someone at Hines you said was the last time you saw a @@@ doctor.
+
+PATIENT D393
+That's correct.
+
+DOCTOR D393
+And @@@ Chicago for a little bit.
+
+PATIENT D393
+I would think uh it was maybe some time in May.
+
+DOCTOR D393
+May of this year?
+
+PATIENT D393
+Yeah.
+
+DOCTOR D393
+@@@ Uh let me look over your medications real quickly here.  So insulin, you use Aspart.  How much before meals?
+
+PATIENT D393
+Uh for breakfast 15 units, lunch 18 units and for dinner 18 units.  
+
+DOCTOR D393
+And the Glargine?
+
+PATIENT D393
+50 units in the morning.
+
+DOCTOR D393
+@@@ perfect. And how long have you been in this regimen of insulin?
+
+PATIENT D393
+Uh for the most part I've been on that regimen I would like to say, I been on that type of insulin for about two, three years.
+
+DOCTOR D393
+Any the dosing?
+
+PATIENT D393
+The dose really hasn't changed much.
+
+DOCTOR D393
+Over the last three years?
+
+PATIENT D393
+Right.
+
+DOCTOR D393
+Okay.  So let me ask you a question, be honest with me, you know cause it helps me take care of you, how good are you at taking this regimen.  
+
+PATIENT D393
+Uh for the most part uh when I was working and my schedule being erratic I wasn't taking the insulin on a time basis.  Uh taking it a lot of times as needed or just before or after a meal and then at times had to adjust the dosage based upon what my blood sugars were running.
+
+DOCTOR D393
+Okay, fair enough.
+
+DOCTOR D393
+Um and I'm looking at your A1c right now.
+
+PATIENT D393
+And that's probably about 10.
+
+DOCTOR D393
+It's 12.
+
+PATIENT D393
+Ooh.  It needs to be about 7.
+
+DOCTOR D393
+Right.  Um your cholesterol is pretty good.  So that was checked a year ago.  So we checked that.  Your blood pressure is a little high.  Now what about your blood pressure medication?
+
+PATIENT D393
+Okay uh at one time I was on lisinopril, hydrochlorothiazide and another blood pressure medication.
+
+DOCTOR D393
+Okay.  So right now you're on just the hydrochlorothiazide and lisinopril.
+
+PATIENT D393
+I need the third other blood medication cause it's been running constantly high without it. Let's see what was it, everything has changed here.  I had been on three medications for years but that's recently been changed and I think they changed it just because I bottomed out at one time.  I bottomed out because of the fact that I was dehydrated.  
+
+DOCTOR D393
+You're a type I diabetic?
+
+PATIENT D393
+Yeah I take insulin.  Uh that's been on uh, that baffles me sometimes.  He said my diabetes was onset after I became an adult.
+
+DOCTOR D393
+Okay.
+
+PATIENT D393
+Uh and at one time they said it was type 2, and then type 1 meaning my pancreas doesn't produce anything, is that correct?
+
+DOCTOR D393
+Uh not exactly @@@.
+
+PATIENT D393
+Or my body is not regularly using insulin officially.
+
+DOCTOR D393
+@@@.  And looking back for years, though I only see your hydrochlorothiazide and uh lisinopril, I don't see anything else.
+
+PATIENT D393
+Uh go back to, go back to 2007, amlodipine and before @@@ they changed from something else before amlodipine.
+
+DOCTOR D393
+Yeah @@@.  So are you taking your blood pressure medications regularly?
+
+PATIENT D393
+Yes sir I am.
+
+DOCTOR D393
+Hydrochlorothiazide and the lisinopril?
+
+PATIENT D393
+That's right.  And right it could be high because I'm under constant stress.
+
+DOCTOR D393
+Well let me ask you this question.  Do you think we should add that third agent today or do you want to come back in a few weeks and see if it's still high and then add another one?
+
+PATIENT D393
+Uh maybe we need to add that third agent uh and just based on that I have the diabetes and high blood pressure and stress a predisposition to be able to have a heart attack.
+
+DOCTOR D393
+Absolutely.  I'm glad you knew that.  Um well how often do you check your sugars during the day?
+
+PATIENT D393
+Uh three times a day.
+
+DOCTOR D393
+Really.
+
+PATIENT D393
+Yeah.
+
+DOCTOR D393
+Do you have a log with you or do you have your machine with you?
+
+PATIENT D393
+No I don't have a machine, oh I need a machine @@@.
+
+DOCTOR D393
+How have you been checking them without a machine?
+
+PATIENT D393
+Uh I've been checking them on the Unit with their machine.
+
+DOCTOR D393
+What have they been running, do you have a log with it?
+
+PATIENT D393
+No I don't have the log of this but I can tell you uh as of late, I don't think I've been over 230 and uh a lot of times I've been running right around the 150s.  If you check from November 27th on, while I was on 7 East they should have it in there, what they've been running.  Is that there?
+
+DOCTOR D393
+Yeah, some of the blood sugars.
+
+PATIENT D393
+What do they look like.  Can you pull up the graph?
+
+DOCTOR D393
+So I think it's @@@ kind of.
+
+PATIENT D393
+Erratic.
+
+DOCTOR D393
+No I was a little more concerned that you don’t @@@.  Granted someone is taking it for you while you're in the hospital right now um but @@@ tough about diabetes @@@ physician can only do so much.
+
+PATIENT D393
+Right.
+
+DOCTOR D393
+@@@ kind of has to be personal type of drive to do better.
+
+PATIENT D393
+Vanish it. To eat better.
+
+DOCTOR D393
+Um.
+
+PATIENT D393
+A see a low there, a 57 something?
+
+DOCTOR D393
+76 on the 5th and a @@@ on the 4th.
+
+PATIENT D393
+Oh.
+
+DOCTOR D393
+111 during the day.  It's 10 o'clock in the morning.
+
+PATIENT D393
+Oh you know what I'm concerned about, I'm supposed @@@ I could take it at nighttime and then when I wake up in the morning it's higher.
+
+DOCTOR D393
+Excuse me?.
+
+PATIENT D393
+I could take it at night, 9 at night and then when I take it at 6 in the morning it'll be significantly higher.
+
+DOCTOR D393
+Your sugar.
+
+PATIENT D393
+Yeah.
+
+DOCTOR D393
+@@@, normal your body's going to @@@ glucose @@@ @@@.  Alright give me one second um, there's a lot of stuff we could do for you.  Um I'm not sure we're going to be able to get it all done but, give me one sec I'm going to bring you back within a month or two to see me again again so we can try to fine tune some of this stuff okay.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+Alright.  I'll be right back okay.
+
+PATIENT D393
+Alright.
+
+(DOCTOR OUT:  49:35  DOCTOR IN:  52:26)
+
+DOCTOR D393
+Alrighty, so a couple of things.  Um I want to show this to you real quick uh, let's see here, so hmm.  Now this is your A1c and you can date it back to 1989 12, 10, 11, 11, 12, 11, almost 12, 12.  So going back 10 years basically your sugars have not been controlled.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+Um I mean I know you've had some numbness already in your arms.
+
+PATIENT D393
+Uh-huh I've had a lot lately, ever since I've been taking the neuortin @@@.  I guess for a while, cause I haven't had pain @@@ a lot.
+
+DOCTOR D393
+I'm really glad to hear that um but um uh I have to tell you with levels of sugars in your body it won't be long before you start feeling more of the effects of your diabetes.  Your kidney function is okay right now but your kidneys can get, shut, shot up, you're right to worry about heart attacks, you're right to worry about strokes um, people start developing ulcers in their legs.  We can work on this uh, if you help we can rapidly get your sugar, there is no reason if you’re using insulin, why we can't bring your blood sugar down very rapidly to more @@@ levels.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+Uh so but you know I really am willing to help you along this process but again I'm helping you, I can't do it for you okay.  I just want to make it abundantly clear that these levels for ten years like this are completely unacceptable for a person on insulin uh.  If you're willing to do it, if we work together, within months your sugars could be much better okay.  Alright.  So right now I'm going to give you the Accu-Chek machine, all the supplies and have you keep a log and bring the machine back in basically so I can look at the sugars.  You need to check it at least three times a day, always in the morning and then the two other times can fluctuate.  Sometimes before meals, sometimes after meals but you have to note in your chart when it is.  Is it before meals or after meals.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+Okay.  Uh I'm not going to change anything with the insulin today because I'm concerned that I have better data to when I should change your insulin okay.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+Uh but if you're getting low blood sugars consistently let us know right away so we can back off on your 60 units of Glargine or whatever, your Aspart okay.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+That's uh high sugars.  The high blood pressure, we'll add a tiny bit of amlodipine for you today, it's a really small amount, 2.5 okay.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+So you can take it once a day and see how it goes.  I'm bringing you back in two weeks to see the Pharm D.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+And she'll see what your sugars do.  
+
+PATIENT D393
+Uh I'm concerned; I'm concerned because uh I've had lichen planus.
+
+DOCTOR D393
+Uh-huh.
+
+PATIENT D393
+And right now I have two stubborn areas, right here.
+
+DOCTOR D393
+Uh-huh.
+
+PATIENT D393
+And well this area is not that bad but uh and uh.
+
+DOCTOR D393
+How long does it usually take for that to heal for you?
+
+PATIENT D393
+Okay if I get a shot of uh, what is that, I can't think of the name of the stuff right now, I don't know what it is.  Uh.
+
+DOCTOR D393
+Have you seen Derm recently?
+
+PATIENT D393
+I haven't seen Derm in a while.
+
+DOCTOR D393
+How long ago?
+
+PATIENT D393
+I haven't seen Derm probably here in years.
+
+DOCTOR D393
+Okay, let's send you back to them and have them take a look at it okay.
+
+PATIENT D393
+Okay and uh and my eyes.
+
+DOCTOR D393
+Okay I'll send you back up to Ophtho and Podiatry as well alright.  Alright um two weeks @@@.
+
+PATIENT D393
+Oh I forgot to tell you I had an aneurysm in my left eye last year.
+
+DOCTOR D393
+Okay.  So you’ll see the Pharm D, you'll see me back in two months.  I'll put in a consult for you so that you see the eye doctors, Dermatology and the foot doctors.
+
+PATIENT D393
+Okay.
+
+DOCTOR D393
+Alright but uh the amlodipine is the only thing I'm changing today and continue everything else. And I’ll order the supplies for  you.
+
+PATIENT D393
+So I'll see you back in.
+
+DOCTOR D393
+Two months.
+
+PATIENT D393
+Two months okay.
+
+DOCTOR D393
+Thank you sir.
+
+PATIENT D393
+Alright thank you.  Do I just go to the Pharmacy and pick up the amlodipine?
+
+DOCTOR D393
+Um go up front so they make that appointment for you um.
+
+PATIENT D393
+Uh-huh.
+
+DOCTOR D393
+And then after that pick up the supplies for your Accu-Chek and the amlodipine.
+
+PATIENT D393
+Okay thanks.
+
+PATIENT LEAVES:  58:03
+
+10:25.
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255157
+TRANSACTION # 578-10-2-316-0103

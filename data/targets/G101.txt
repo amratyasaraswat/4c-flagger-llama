@@ -1,0 +1,57 @@
+Red Flag (606-681): "And uh I figured out last night. In the morning, my blood sugars we're high"
+
+Probe    (818-834): "Well why is that"
+
+Probe    (1086-1158): "What do you think has happened? Why are you not doing as well right now"
+
+Red Flag (2126-2161): "Uh she moved me to 24, I'm doing 24"
+
+Probe    (2445-2525): "Okay this is Pharmacy note says... Okay when did they tell you to increase your"
+
+Red Flag (2590-2636): "Okay cause they didn’t write that in the notes"
+
+Probe    (2641-2676): "who was the pharmacist that you see"
+
+Probe    (3180-3260): "When you get up in the morning, you take the long-acting insulin when you get up"
+
+Red Flag (3745-3828): "Alright and when you get up in the morning you said your blood sugar is in the 200s"
+
+Red Flag (3857-3886): "I drink a lot of fruity water"
+
+Probe    (3905-3934): "What do you mean fruity water"
+
+Probe    (3993-4041): "Is it like Kool-Aid, did you buy it in the store"
+
+Probe    (4127-4165): "So you did the Glargine in the morning"
+
+Red Flag (5095-5144): "You get up its like 284 and that's without eating"
+
+Probe    (5180-5214): "And then you take the 24 units now"
+
+Probe    (5251-5280): "In the morning before you eat"
+
+Probe    (5323-5359): "How long before you eat do you do it"
+
+Red Flag (6634-6677): "I think we need to recheck your A1c as well"
+
+Red Flag (6708-6725): "I’m sure it’s bad"
+
+Red Flag (6740-6759): "Well I'm sure it is"
+
+Red Flag (6861-6869): "Glargine"
+
+Red Flag (7001-7025): "An egg taste in my mouth"
+
+Red Flag (7082-7116): "Yeah not regular @@@ rotten an egg"
+
+Probe    (7171-7199): "Are you not taking it at all"
+
+Probe    (7234-7281): "How many times a week do you miss your Glargine"
+
+Red Flag (9259-9296): "Well then before I had, I had one low"
+
+Red Flag (10525-10607): "And your blood sugars in the morning are still high; they're still very high right"
+
+Red Flag (10623-10628): "Right"
+
+Probe    (10689-10714): "You're doing a lot of pop"

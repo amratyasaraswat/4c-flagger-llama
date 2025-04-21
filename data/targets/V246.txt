@@ -1,0 +1,57 @@
+Red Flag (277-347): "When I'm alone, when I don't talk for a couple of days I lose my voice"
+
+Probe    (421-472): "How come you haven’t been talking for a couple days"
+
+Red Flag (634-667): "I lost a couple of family members"
+
+Red Flag (888-933): "Do you feel like um your depression is better"
+
+Red Flag (1019-1037): "I think it’s worse"
+
+Factor   (1167-1218): "But I don’t even know if that’s worth talking about"
+
+Red Flag (1750-1762): "I lost a son"
+
+Probe    (1847-1885): "Have you gotten to where you feel okay"
+
+Red Flag (2364-2425): "She passed away she was on dialysis and a whole lot of things"
+
+Factor   (2430-2510): "I think a lot of those medications do you in, the side effects, they mess you up"
+
+Red Flag (2555-2596): "Um, have you ever seen Mental Health here"
+
+Red Flag (2612-2650): "No and I don't think I should you know"
+
+Factor   (2670-2704): "I don't know how to interpret that"
+
+CarePlan (2799-2883): "Well, it's called Mental Health, it's really, I mean it's for any kind of depression"
+
+CarePlan (3011-3095): "They can um, they can see you or I can see you and just manage it between me and you"
+
+Red Flag (3469-3515): "A couple of these I've never refilled you know"
+
+Factor   (3527-3558): "I think they are the minor ones"
+
+Red Flag (4031-4067): "I try to do without as much as I can"
+
+CarePlan (4104-4144): "It doesn’t seem to do the job some of it"
+
+Red Flag (4798-4871): "That one I never refilled, one week or a month or so, I never did try it"
+
+Red Flag (4992-5062): "I tried to take it but I don't know, but I literally really didn't @@@"
+
+Factor   (5067-5112): "tried for once a week [but couldn’t remember]"
+
+CarePlan (5171-5259): "I can give you another vitamin D that is daily so it might be easier to remember to take"
+
+Factor   (5275-5294): "Do I really need it"
+
+CarePlan (5329-5401): "I can tell you your vitamin D level was low the last time it was checked"
+
+Red Flag (8654-8744): "I could send you to the Mental Health Clinic where they can follow you a little bit closer"
+
+Red Flag (8760-8776): "Ah not right now"
+
+Factor   (8811-8913): "To tell you the truth, I'm you know, through my Christianity, I try to get help in that area, you know"
+
+Factor   (9625-9737): "You know read those side effects, like I say @@@ my wife perished, she had literally 12 medicines 24 hours a day"

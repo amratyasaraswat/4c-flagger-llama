@@ -1,0 +1,1549 @@
+Date of Encounter: @@/@@/@@ 
+Time of Encounter:  @@@  
+
+DOCTOR C013
+PATIENT?
+
+PATIENT C013
+Yeah.  Where you at?
+
+DOCTOR C013
+PATIENT?
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+Oh you're there, hi.  You were over here.
+
+PATIENT C013
+Yeah, I made it.
+
+DOCTOR C013
+PATIENT @@@.  
+
+PATIENT C013
+PATIENT.  He told me @@@.
+
+DOCTOR C013
+Okay PATIENT.  How you doing?
+
+PATIENT C013
+Oh hanging in there.
+
+DOCTOR C013
+Hanging in there.  @@@.
+
+PATIENT C013
+@@@.
+
+DOCTOR C013
+You brought in to me. (Doctor answers telephone call) Alright PATIENT how are you doing?
+
+PATIENT C013
+Well, I don't know.
+
+DOCTOR C013
+Could be better?
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+What can I do for you today?
+
+PATIENT C013
+Could explain some of the stuff I got, medications?
+
+DOCTOR C013
+Sure, let's go over your medications.
+
+PATIENT C013
+You have them up there?
+
+DOCTOR C013
+I do, alright.  Are you taking?
+
+PATIENT C013
+You got a pen or something I could write down, just for adding for.
+
+DOCTOR C013
+Sure, here.
+
+PATIENT C013
+That's the only one pen you got?
+
+DOCTOR C013
+Uh you can borrow that okay.
+
+PATIENT C013
+Okay cause I'll give it back to you.  What's this first one?
+
+DOCTOR C013
+Which one?
+
+PATIENT C013
+This one is @@@.
+
+DOCTOR C013
+Alprazolam anxiety or for sleep, do you take that?
+
+PATIENT C013
+It's been a long time but I took it I think.
+
+DOCTOR C013
+You haven't taken it in a while?
+
+PATIENT C013
+Yeah.  What's the next one?  That's for urinary.
+
+DOCTOR C013
+Yep.
+
+PATIENT C013
+That one would be good.
+
+DOCTOR C013
+So you're good with that okay.
+
+PATIENT C013
+That's two tablets by mouth every day yeah.  I don't get up at night now.
+
+DOCTOR C013
+That's good.
+
+PATIENT C013
+Next one, @@@.
+
+DOCTOR C013
+Helps you deal with the Parkinson.
+
+PATIENT C013
+What does it do?
+
+DOCTOR C013
+Uh helps with the movement disorders.  Sometimes when you have Parkinson, um long term Parkinson your pace can slow down and your movement can slow down, that can help delay some of the progression.  Are you seeing a neurologist?
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+Yeah so I would leave that up to your neurologist to make changes.  How are you doing?  Sometimes it can help with the tremor.  Are you having any of that?
+
+PATIENT C013
+Tremor, I can almost control it, I just tell myself tow relax and stop the shaking and it does.  My biggest problem now is the balance.
+
+DOCTOR C013
+Your balance.
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+That can help with your balance too.
+
+PATIENT C013
+I don't know.
+
+DOCTOR C013
+Oh my goodness you're 90 huh?
+
+PATIENT C013
+What did you think I was?
+
+DOCTOR C013
+Maybe 60.
+
+PATIENT C013
+Oh, go away.  Now when will I get an appointment to see my guy, cause I just got a new guy @@@.
+
+DOCTOR C013
+DOCTOR, DOCTOR?
+
+PATIENT C013
+He's leaving isn't he?
+
+DOCTOR C013
+Oh I did not know that, is he?
+
+PATIENT C013
+I think he told me he's going to give me somebody else.
+
+DOCTOR C013
+Oh okay, well let me check for you to see if you have an appointment.  Do you feel that your tremor is getting worse or no?
+
+PATIENT C013
+No.  It's less.
+
+DOCTOR C013
+Good.
+
+PATIENT C013
+Cause I can control it.  
+
+DOCTOR C013
+You can control it, very good.  What about your movements, your movement is the same?
+
+PATIENT C013
+Yeah the only thing is balance is bad.
+
+DOCTOR C013
+Balance is bad, what is bad like do you trip over things?
+
+PATIENT C013
+My body turns and my legs don't.
+
+DOCTOR C013
+Yeah that can happen with Parkinson too.
+
+PATIENT C013
+What is it, uh is it next month I won't be able to walk or?
+
+DOCTOR C013
+No.  No I think if you keep on taking your medications and have you seen Physical Therapy cause sometimes they can help you.
+
+PATIENT C013
+Yes, yes.
+
+DOCTOR C013
+You have.
+
+PATIENT C013
+They gave me different exercises.
+
+DOCTOR C013
+Yeah.  Do you think that's helping?
+
+PATIENT C013
+Okay.  Well they say don't change, just go do it.
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+That's what NAME told me.
+
+DOCTOR C013
+Yeah and you should definitely keep up with Physical Therapy.
+
+PATIENT C013
+What's this nasal?
+
+DOCTOR C013
+Fluticasone, your nasal.  Are you having a lot of runny nose?
+
+PATIENT C013
+I haven't filled that for a long time.
+
+DOCTOR C013
+Alright so let me take it off for you.
+
+PATIENT C013
+Okay.  Take on by mouth, what's the furosemide?
+
+DOCTOR C013
+Furosemide.  It's for either for blood pressure or for edema; do you have any of that?
+
+PATIENT C013
+Blood pressure.
+
+DOCTOR C013
+Okay.  It's a diuretic, that's the diuretic pill.
+
+PATIENT C013
+Thyroid next one.
+
+DOCTOR C013
+Yep thyroid.  How's your, any symptoms, weight gain?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+@@@.
+
+PATIENT C013
+Now I'm losing weight.  @@@.
+
+DOCTOR C013
+Did you want to or?
+
+PATIENT C013
+No I want to, no I want to.
+
+DOCTOR C013
+Cause you have to be.
+
+PATIENT C013
+No I wanted to.
+
+DOCTOR C013
+So you're saying you're working @@@ good.
+
+PATIENT C013
+Yeah, yeah.
+
+DOCTOR C013
+What have you been doing?
+
+PATIENT C013
+I eat less.
+
+DOCTOR C013
+You eat less.
+
+PATIENT C013
+I eat less.
+
+DOCTOR C013
+Your portions are less or do you eat less meals?
+
+PATIENT C013
+Well less is good cause sometimes for lunch I'll have a very large meal.
+
+DOCTOR C013
+So you've been trying to lose.
+
+PATIENT C013
+Yes.
+
+DOCTOR C013
+Yes.
+
+PATIENT C013
+Yes.
+
+DOCTOR C013
+Good, good.  What else?
+
+PATIENT C013
+My blood sugars in the evenings are okay.
+
+DOCTOR C013
+Hmm.  Yeah.  What else do you need?
+
+PATIENT C013
+Omeprazole.
+
+DOCTOR C013
+Omeprazole is for your acid reflux.  Are you.
+
+PATIENT C013
+Now the next one, that's for reflux too isn't it?
+
+DOCTOR C013
+Right.
+
+PATIENT C013
+Poly what's this one?
+
+DOCTOR C013
+Polyethylene glycol, that's for constipation.  Were you constipated?
+
+PATIENT C013
+This is for constipation?
+
+DOCTOR C013
+Yes, polyethylene glycol, it's Miralax.
+
+PATIENT C013
+It's a powder.
+
+DOCTOR C013
+Yes Miralax.
+
+PATIENT C013
+Well okay it’s constipation.
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+Potassium, that's for the heart, that's heart.  Okay now take ranitidine.
+
+DOCTOR C013
+Ranitidine is also for acid reflux.
+
+PATIENT C013
+Which one's better?  The first one that we talked about or the second one?
+
+DOCTOR C013
+That depends on your symptoms.  Some people can get away with just one agent; the other people need two of them, two agents.
+
+PATIENT C013
+Two agents, you mean two different pills?
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+Well this one's.
+
+DOCTOR C013
+Is it, I mean how are your symptoms?  Are you having every day symptoms of heartburn?
+
+PATIENT C013
+Maybe not.  Nothing in the daytime.
+
+DOCTOR C013
+Yes.  And at night when you lay flat.
+
+PATIENT C013
+You might get, 11:30, 12 o'clock I wake up.
+
+DOCTOR C013
+Okay every night huh?
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+Okay.
+
+PATIENT C013
+And there's another one here, it's uh.
+
+DOCTOR C013
+Sucralfate.  
+
+PATIENT C013
+Huh?
+
+DOCTOR C013
+Sucralfate that's also for um reflux too, stomach ulcers.
+
+PATIENT C013
+Which one's this, now the last one it is a liquid?
+
+DOCTOR C013
+Yeah sucralfate is a liquid.
+
+PATIENT C013
+But I get constipated from it.
+
+DOCTOR C013
+You do.
+
+PATIENT C013
+I looked up in the computer it said that uh.
+
+DOCTOR C013
+But are your bowel movements normal, like are you going every day?
+
+PATIENT C013
+Well now I am because I'm taking.
+
+DOCTOR C013
+Miralax.  That will be good for you, the sucralfate will be good for you.
+
+PATIENT C013
+Miralax?
+
+DOCTOR C013
+Yes the polyethylene glycol, polyethylene glycol.
+
+PATIENT C013
+Polyethylene that's the one?  But I still could probably get in the habit of weakness of having to have something to move your bowels to get used to it?
+
+DOCTOR C013
+Um you shouldn't get used to it.
+
+PATIENT C013
+If it's correct.
+
+DOCTOR C013
+And you're taking melatonin at bedtime right?  Is that right?
+
+PATIENT C013
+Melatonin what's that?
+
+DOCTOR C013
+Melatonin, melatonin for sleep over-the-counter, are you still taking it?
+
+PATIENT C013
+What’s that?
+
+DOCTOR C013
+Melatonin?
+
+PATIENT C013
+Oh yes, yes that's for that's for, there's something missing right in the body for some people?
+
+DOCTOR C013
+Their hormone yeah.
+
+PATIENT C013
+Yeah that is for sleep.
+
+DOCTOR C013
+Right.
+
+PATIENT C013
+And you're saying that for to correct the constipation I can take that and it'll help.
+
+DOCTOR C013
+Uh-huh.  Well is it helping now?
+
+PATIENT C013
+Yeah but I take it maybe at the third day when I go three days without going to the washroom.
+
+DOCTOR C013
+Okay try uh, are you on a stool softener too?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+Why don't we try that cause sometimes that's better.  So I'll put you, are you going every three days?
+
+PATIENT C013
+Well I when I take this powder and I take Metamucil sometimes, yeah a stool softener.
+
+DOCTOR C013
+Yeah let me give you some stool softener okay.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+How often are you having a bowel movement?
+
+PATIENT C013
+I go every other day.
+
+DOCTOR C013
+Every other day?
+
+PATIENT C013
+Yeah every other day.
+
+DOCTOR C013
+Okay with all of that, with Metamucil and with Calumet?  
+
+PATIENT C013
+No, that's every third day then.
+
+DOCTOR C013
+That you take that.
+
+PATIENT C013
+And when I take that I do get results.
+
+DOCTOR C013
+Good, good.  So why don't I give you some stool softener okay.  I'll send it to your house is that okay?
+
+PATIENT C013
+Very good.
+
+DOCTOR C013
+Take it every day.  Take it every day and try to, try to wean yourself off of that.
+
+PATIENT C013
+What can I do about the uh reflux?  I wake up every night at 11:30.  I have no reflux during the day.
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+And uh around 11:30 I really got, right my throat.  So I get up and take a cough drop that states also for sore throat.
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+And I take that and it really, really relieves it.
+
+DOCTOR C013
+Are you coughing or do you feel the burning sensation?
+
+PATIENT C013
+Burning.
+
+DOCTOR C013
+More like burning.
+
+PATIENT C013
+The burning.
+
+DOCTOR C013
+Okay.  Uh do you eat right before you go to bed?
+
+PATIENT C013
+No, no.
+
+DOCTOR C013
+Okay.
+
+PATIENT C013
+5 o'clock, 4:30.
+
+DOCTOR C013
+Oh okay.
+
+PATIENT C013
+And I'm on an angle.
+
+DOCTOR C013
+Do you eat snacks?
+
+PATIENT C013
+And I'm.
+
+DOCTOR C013
+Are you sleeping on an angle too?
+
+PATIENT C013
+And that don't even help me.
+
+DOCTOR C013
+Hmm.
+
+PATIENT C013
+So I try sitting up.
+
+DOCTOR C013
+Right.
+
+PATIENT C013
+Sitting up is moving to sleep on the sofa.
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+And that seems to help a little bit.
+
+DOCTOR C013
+Okay um.  Have you had a little scope that kind of looks down?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+You've never had that before?
+
+PATIENT C013
+I got speech today I was going to tell her then.  I notice in my throat.  I don't think my soreness is from speaking or from.
+
+DOCTOR C013
+It might be from the heartburn.
+
+PATIENT C013
+That's what I think it is, the heartburn.
+
+DOCTOR C013
+Yeah, I wonder if you want we can send you to the GI specialist and ask him to take a look.
+
+PATIENT C013
+GI is that for ear, nose, throat?
+
+DOCTOR C013
+No Gastroenterology.
+
+PATIENT C013
+Yeah I never was there.
+
+DOCTOR C013
+But you never went there.
+
+PATIENT C013
+Definitely no.
+
+DOCTOR C013
+Okay.  I mean that's a possibility, do you want to do that?
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Are you having any difficult swallowing?
+
+PATIENT C013
+I did last night.  My throat and tongue were swollen.
+
+DOCTOR C013
+Okay.
+
+PATIENT C013
+And then I took a cough drop.  I would say I had a 7 from 1-10, I had a 7.  I take the cough drop, I get down half the capsule and I was down to a 4 and then I got out of bed and I went on the sofa and slept upright and in a half an hour I was back to 2 it all subsided.
+
+DOCTOR C013
+Okay.
+
+PATIENT C013
+Yeah I never had that before.
+
+DOCTOR C013
+Okay.  Alright.  How long have you had heartburn?
+
+PATIENT C013
+Ten years ago I was operated on, with the, they explained it once you take the stomach and put the uh esophagus and it makes a new join here and he puts three holes in my stomach all by mirrors and for two or three years I was good and then about four years ago I went back to him and he said we need another operation and I said no that can wait.  I've had reflux the last four years.
+
+DOCTOR C013
+Okay.  Okay.  Well.
+
+PATIENT C013
+So a gastric guy would be good to talk to.
+
+DOCTOR C013
+Yeah.  Hmm.  Colonoscopy, yeah you did, you had an EGD.
+
+PATIENT C013
+I did have one?
+
+DOCTOR C013
+Yeah @@@.
+
+PATIENT C013
+@@@ when?
+
+DOCTOR C013
+You had an EGD, esophagogastroduodenoscopy, you had that.
+
+PATIENT C013
+And I also take this sucralfate that's the one which is for uh.
+
+DOCTOR C013
+@@@.
+
+PATIENT C013
+Reflux?
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+That's the one's that's giving me constipation.
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+I looked up on the computer to see what the side effects of this are.
+
+DOCTOR C013
+Yeah.  Are you still using the BIPAP, BIPAP at night and everything?
+
+PATIENT C013
+Yeah, sleep apnea.
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+Yeah I still use that.
+
+DOCTOR C013
+Okay really alright.
+
+PATIENT C013
+So you gonna give me, set up uh.
+
+DOCTOR C013
+Yeah I mean, if your heartburn is worsening, every night you have it, pretty much have it.
+
+PATIENT C013
+Last night was worse.
+
+DOCTOR C013
+Yeah.  For the past I mean, for the past couple of months you've been having these daily symptoms?
+
+PATIENT C013
+Oh yeah I get them almost every night.
+
+DOCTOR C013
+Okay.
+
+PATIENT C013
+Now I get.
+
+DOCTOR C013
+You don't have any ulcers or anything?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+No.
+
+PATIENT C013
+When I start to get the reflux uh @@@ lot of vegetables, a lot of fruit, more of that stuff.  That's why I'm losing weight.  Not fast.
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+The last time I think I was 205, now I weigh 200.  I was about a year and a half ago about 235.
+
+DOCTOR C013
+So you're trying to lose weight right?
+
+PATIENT C013
+I'm trying to lose weight yes.  I try to watch my sweets and candy and.  The cardiologist wanted me to lose weight @@@.
+
+DOCTOR C013
+Do you still see him on the outside?
+
+PATIENT C013
+No here.
+
+DOCTOR C013
+@@@.
+
+PATIENT C013
+@@@
+
+DOCTOR C013
+Okay.  Okay.  Do you want, if you want we can have you see the Gastroenterologist here and you can see if they want to take a look down.
+
+PATIENT C013
+I want to have that done yeah.
+
+DOCTOR C013
+Okay, okay.
+
+PATIENT C013
+And maybe they'll give me something.  Do you think that the medicine they gave me for reflux is the best there is @@@.
+
+DOCTOR C013
+And you're on all of them; you're on optimal treatment for it yeah.
+
+PATIENT C013
+Even if I have the pillow real high uh I made myself an incline on a board.
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+Where I raise my head and I get it.  Do they go down the throat?
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+All the way down to the bottom to the stomach.
+
+DOCTOR C013
+No not the bottom, just to your duodenum.
+
+PATIENT C013
+Oh.
+
+DOCTOR C013
+@@@.
+
+PATIENT C013
+Oh I see.
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+And my problem could be that operation that I had on my, what do you call that valve.
+
+DOCTOR C013
+@@@.
+
+PATIENT C013
+It's in the esophagus or the stomach?
+
+DOCTOR C013
+Uh it's just your gastroesophageal obstruction.
+
+PATIENT C013
+Is there a valve there?
+
+DOCTOR C013
+Yeah there's a muscle, a ring of muscle that closes yeah.
+
+PATIENT C013
+Yeah that I think is what the doctor said you know.
+
+DOCTOR C013
+Okay yeah.  Yeah we can have you, we can set you up.  Although there's one more lab that she wants you to get though.
+
+PATIENT C013
+What's that?
+
+DOCTOR C013
+It's an INR.
+
+PATIENT C013
+What do you do?
+
+DOCTOR C013
+It's a blood test, you can usually get that's one @@@.
+
+PATIENT C013
+Oh okay.  I had a blood test today.
+
+DOCTOR C013
+I know.  I'm going to try to see if they can add it on so that you won't have to come back to get it.
+
+PATIENT C013
+Oh.
+
+DOCTOR C013
+But I don't know.  Sit up here for a second.  
+
+PATIENT C013
+Where you from Hawaii?
+
+DOCTOR C013
+Uh uh.
+
+PATIENT C013
+No.
+
+DOCTOR C013
+I'm from here.
+
+PATIENT C013
+With that name?  Oh I thought you might be from Hawaii.
+
+DOCTOR C013
+Nope.  No chest pain, no shortness of breath?
+
+PATIENT C013
+Yeah I feel a little bit weak like I can't run around like I used to.  I can, I feel it’s all old age.
+
+DOCTOR C013
+Okay.  No shortness of breath when you lay flat?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+Or waking up in the middle of the night gasping for air?
+
+PATIENT C013
+No, oh no.
+
+DOCTOR C013
+No swelling in your legs?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+Ah
+
+PATIENT C013
+Ah.
+
+DOCTOR C013
+No cough, fevers, chills, night sweats?
+
+PATIENT C013
+I have a lot of saliva now with the Parkinson so I'm swallowing a lot.
+
+DOCTOR C013
+Hmm.
+
+PATIENT C013
+But I don't think I have.
+
+DOCTOR C013
+Any memory issues?
+
+PATIENT C013
+What do you mean by memory issues?
+
+DOCTOR C013
+Like forgetful, forgetting things?
+
+PATIENT C013
+Yeah, I uh, yeah.  I have to concentrate now when I put something down where I put it.
+
+DOCTOR C013
+Hmm.  Deep breath in and out.  Deep breath, deep breath, deep breath, good.  So now lay down for me.  No blood in your stools or black tarry stools?
+
+PATIENT C013
+No, no, no.  I have spinal stenosis so.
+
+DOCTOR C013
+Spinal stenosis.
+
+PATIENT C013
+I’ve been told they won’t operate on me.  How do I sound?
+
+DOCTOR C013
+Good.  No urinary symptoms?
+
+PATIENT C013
+Oh I get.
+
+DOCTOR C013
+Any burning with urination.
+
+PATIENT C013
+I know that I dribble.
+
+DOCTOR C013
+You dribble.
+
+PATIENT C013
+When I have to go to the washroom I have to go within minutes.
+
+DOCTOR C013
+You have urge?
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+You're wearing stockings huh?  A little bit of swelling?
+
+PATIENT C013
+Yeah.  I take a water pill for that.
+
+DOCTOR C013
+Yeah is it because you have venous insufficiency or what?
+
+PATIENT C013
+No.  Well I slept with my legs down would that do it?
+
+DOCTOR C013
+What?
+
+PATIENT C013
+The water on my ankles.
+
+DOCTOR C013
+Uh-huh.  Did you have an injury on this leg?
+
+PATIENT C013
+No, no.
+
+DOCTOR C013
+Is this leg always a little bit bigger than this one?
+
+PATIENT C013
+That one?
+
+DOCTOR C013
+Yes.
+
+PATIENT C013
+Yes.
+
+DOCTOR C013
+Why?
+
+PATIENT C013
+I don't know.
+
+DOCTOR C013
+Okay.  Has it been like that for years?
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+Yeah okay.  I'll have you sit up for me, that's great.  This is the tremor huh.
+
+PATIENT C013
+Oh yeah.
+
+DOCTOR C013
+Better or getting worse?
+
+PATIENT C013
+My right side.
+
+DOCTOR C013
+Yeah worse on your right.
+
+PATIENT C013
+Especially at night.
+
+DOCTOR C013
+Yeah.  Grab my fingers.  Do you want me to do it on both sides.
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+Any pain?
+
+PATIENT C013
+Yeah I've had a little back pain.
+
+DOCTOR C013
+A little bit.  Right now or no?
+
+PATIENT C013
+I do have a little, probably 2.
+
+DOCTOR C013
+A 2.  Go ahead and stand up.  Can you do this, that's good.  Let's see you walk for me.  That's good, have a seat.  Okay.
+
+PATIENT C013
+I'm walking.
+
+DOCTOR C013
+Oh sometimes uh, sometimes people with Parkinson.
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+At this point can @@@ sometimes it's hard for them to turn.  It's called, we call it postural instability which means they can do fine but when you turn you have a hard time turning.
+
+PATIENT C013
+Well I said that before, my body turns but my legs don't.
+
+DOCTOR C013
+Right.
+
+PATIENT C013
+I found that to be many times.
+
+DOCTOR C013
+Yeah so I mean I think the things that we do with that is of course um uh, um physical therapy, making sure you're on the same medications and making sure you’re seeing neurologist.  It looks like you're seeing DOCTOR.  He's gonna be your new doctor um on June, June 29th.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+So she'll reassess all of your nerves and everything.
+
+PATIENT C013
+All the regular @@@.
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+Good.
+
+DOCTOR C013
+Uh the other thing I wanted to ask is uh.
+
+PATIENT C013
+How soon will I, how often will I see you?
+
+DOCTOR C013
+You can see me as often as you like.  I was thinking we can go every six months but if you wanted to see me sooner we can do that too.  Do you want to be seen sooner?
+
+PATIENT C013
+Well maybe.
+
+DOCTOR C013
+No.  Are you having any, are you having any thyroid symptoms?  Cause sometimes constipation could be from thyroid.
+
+PATIENT C013
+Really?
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+But how would I know that I have a thyroid problem?
+
+DOCTOR C013
+Are you um, you're not gaining weight.  Do you feel like your reaction is slower?  Do you feel fatigued, do you feel like you're skin is dry?  Do you feel like your hair is getting coarse or anything?
+
+PATIENT C013
+No I can't think, if I had I didn’t recognize it.
+
+DOCTOR C013
+Okay.  Your TSH is a little bit higher than before and then that's high.
+
+PATIENT C013
+How about my kidneys and liver?
+
+DOCTOR C013
+Your liver is fine.  Your kidneys I know there's a little bit of um elevated right its.
+
+PATIENT C013
+I didn’t know that.
+
+DOCTOR C013
+Yeah and this hasn't been higher so you're okay.  It's just a little bit you know.
+
+PATIENT C013
+Lower.
+
+DOCTOR C013
+Okay yeah.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Alright.
+
+PATIENT C013
+So besides the Parkinson, sleep apnea, spinal stenosis.
+
+DOCTOR C013
+Uh-huh.
+
+PATIENT C013
+Reflux, high blood pressure I'm okay.  What a mess.
+
+DOCTOR C013
+You're awesome for a 90-year-old.  You're awesome.
+
+PATIENT C013
+(Laughter)
+
+DOCTOR C013
+You're so awesome.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Alright.
+
+PATIENT C013
+Good enough.
+
+DOCTOR C013
+Um alright let me go get your stuff.  You’re okay with seeing me in six months or do you want to be seen sooner?  We'll get your medications all refilled uh just to make sure that I can get that INR so we can have you see our gastroenterologist.
+
+PATIENT C013
+Yes please.
+
+DOCTOR C013
+To make sure there's nothing crooking down there.
+
+PATIENT C013
+Yes please.
+
+DOCTOR C013
+You don't feel like things are stuck?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+Or you don't feel like throwing up?
+
+PATIENT C013
+No.  The only time I get up is like I said every night 11:30, 12:30 I feel right here is something.
+
+DOCTOR C013
+Burning huh?
+
+PATIENT C013
+Burning.
+
+DOCTOR C013
+Okay.  Alright.
+
+PATIENT C013
+During the day no.
+
+DOCTOR C013
+Let's have a look see.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Let me see if I can and then I'll, if I can't add on that lab test that they want, would you go back to the Lab and just get it drawn?
+
+PATIENT C013
+Sure, sure.  When do you want it, today?
+
+DOCTOR C013
+Yeah but let me find out if I can add on to that.
+
+PATIENT C013
+Okay sure.
+
+DOCTOR C013
+So that way you don't have to okay.  I'll be right back.
+
+(DOCTOR OUT:  46:01  DOCTOR IN:  50:28)
+
+DOCTOR C013
+Alright.
+
+PATIENT C013
+We're okay.
+
+DOCTOR C013
+I can't add it on sir so you'll have to go down to the Lab.
+
+PATIENT C013
+Now?
+
+DOCTOR C013
+Sorry.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Is that okay?
+
+PATIENT C013
+Is my name down there?
+
+DOCTOR C013
+Yeah I put it in, the order’s in for an INR.
+
+PATIENT C013
+And by the time I get there why, cause I got a whole hour.  I see my next doctor in an hour.
+
+DOCTOR C013
+Alright just go down.  It should be done by the time you go.  Where is your next doctor?  Who do you see?
+
+PATIENT C013
+Um four, DOCTOR, the skin doctor.
+
+DOCTOR C013
+Oh yeah, I think it should be okay.  So just go.
+
+PATIENT C013
+That'll be easy to do.
+
+DOCTOR C013
+Yeah.  @@@.  Do you want to see your GI doctor or do you want?
+
+PATIENT C013
+Well.
+
+DOCTOR C013
+I can do this, I can do both things.  I can have you see the GI doctor, the stomach doctor.
+
+PATIENT C013
+Right.
+
+DOCTOR C013
+To see if they want to take a look.  Uh in the meantime before you see them, do you want me to change your medications around do you feel @@@ difference?
+
+PATIENT C013
+No.
+
+DOCTOR C013
+No cause I can do this.
+
+PATIENT C013
+Well I'm worried about the reflux.
+
+DOCTOR C013
+That's what I'm saying I can change that around so instead of taking the omeprazole I can try to, I can increase your dose to see if it's different.
+
+PATIENT C013
+Oh really?
+
+DOCTOR C013
+Yeah I can have you do that um.
+
+PATIENT C013
+That's the pills or the liquid?
+
+DOCTOR C013
+The pill.
+
+PATIENT C013
+Alright.  Is it stronger?
+
+DOCTOR C013
+Yeah and then I can increase it, change it.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Or I can change this to a different pill.  Stronger, but a different pill to see if it makes a difference.
+
+PATIENT C013
+Let's try the different pill.
+
+DOCTOR C013
+You want to try the different pill, alright let's do that.
+
+PATIENT C013
+The next time I come to see you we'll scratch some of those off and make the list a little shorter.
+
+DOCTOR C013
+@@@.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Okay.  Let's see what else we can do for you.  
+
+PATIENT C013
+9:30 what @@@?
+
+DOCTOR C013
+Oh you've been through that already, @@@.
+
+PATIENT C013
+Okay.  Now 11:30, Hematology.
+
+DOCTOR C013
+Yeah I can have you go and see.
+
+PATIENT C013
+That's a lot of things.
+
+DOCTOR C013
+@@@ go down there.  I'll have you do that new medicine twice a day okay.  So you stop taking the omeprazole.
+
+PATIENT C013
+Before or after meals?
+
+DOCTOR C013
+Before meals, probably 30 minutes before your meal okay.
+
+PATIENT C013
+That's the new stuff?
+
+DOCTOR C013
+Yeah the pantoprazole.  Do you want to pick it up in the Pharmacy today?  That way you have new pills at home.
+
+PATIENT C013
+I got off the other pills yeah.
+
+DOCTOR C013
+So you stop it.
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+If you're gonna pick this one up, don't take that one.
+
+PATIENT C013
+Which one?
+
+DOCTOR C013
+The omeprazole.  So let's have you go to the Pharmacy and pick it up okay.
+
+PATIENT C013
+That's the omeprazole.
+
+DOCTOR C013
+Here.
+
+PATIENT C013
+Taking both medicines would that help it?
+
+DOCTOR C013
+Yes.  But don't take this one.
+
+PATIENT C013
+No.
+
+DOCTOR C013
+Yeah you need to start pantoprazole and you're gonna pick it up today.
+
+PATIENT C013
+Will it be ready?
+
+DOCTOR C013
+Yes.  By the time your lab and everything.
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+And your appointment it'll be ready.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+So you're gonna take it twice a day too.  Same thing as this, you're gonna take it half an hour before breakfast and a half an hour before dinner.
+
+PATIENT C013
+Nothing before bed.
+
+DOCTOR C013
+Nothing before bed.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Okay.
+
+PATIENT C013
+That was the last thing down.
+
+DOCTOR C013
+You'll go to your dermatology appointment.
+
+PATIENT C013
+Yeah.
+
+DOCTOR C013
+And then you'll go to the Pharmacy to pick it up.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+Okay.
+
+PATIENT C013
+Very good.
+
+DOCTOR C013
+And then I'll.
+
+PATIENT C013
+Meeting you has been such a pleasure.
+
+DOCTOR C013
+Oh you've met me before.
+
+PATIENT C013
+I did?
+
+DOCTOR C013
+Yeah you'll see me in six months.
+
+PATIENT C013
+Really.
+
+DOCTOR C013
+Yeah Hematology.
+
+PATIENT C013
+I've met you before?
+
+DOCTOR C013
+Yeah.
+
+PATIENT C013
+I can't remember.
+
+DOCTOR C013
+Okay we're going to put in a consult. 
+
+PATIENT C013
+What is this?
+
+DOCTOR C013
+It's an @@@ you can look at it, read it, fill it out and mail it back to us if you like.
+
+PATIENT C013
+What is it for?
+
+DOCTOR C013
+Just to have your information on file.  It's information about attorneys, advanced directives.
+
+PATIENT C013
+Okay.
+
+DOCTOR C013
+@@@.  
+
+PATIENT LEAVES:  57:28
+
+Time is @@@.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1269056
+TRANSACTION # 578-10-2-316-0103

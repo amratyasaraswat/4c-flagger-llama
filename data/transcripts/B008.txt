@@ -1,0 +1,553 @@
+Date of Encounter:  @@/@@/@@  
+Time of Encounter:  @@@
+
+DOCTOR B008
+PATIENT.  Hi.
+
+PATIENT B008
+@@@.  How you doing?
+
+DOCTOR B008
+I heard you were in the hospital.
+
+PATIENT B008
+Yeah.
+
+DOCTOR B008
+How you doing?
+
+PATIENT B008
+Well the first thing I need to do is @@@ last time.
+
+DOCTOR B008
+Is that when you went to the hospital?
+
+PATIENT B008
+No I was in the hospital because I had chronic hepatitis and my @@@ was up.
+
+DOCTOR B008
+How you doing now?
+
+PATIENT B008
+Well I feel I'm just doing a little better.  Every now and then I have feels like I got to throw up but it eased.
+
+DOCTOR B008
+I'm trying to find the last notes.  How long were in the hospital for this time?
+
+PATIENT B008
+About a week.
+  
+DOCTOR B008
+Okay.  
+
+PATIENT B008
+One day short of a week.
+
+DOCTOR B008
+So you haven't been hospitalized in a while before this time.
+
+PATIENT B008
+Uh uh.
+
+DOCTOR B008
+@@@ what’s been going on, your ankle been bothering you?
+
+PATIENT B008
+My ankle, yeah, @@@ When they took @@@ it's kind of lightheaded @@@ and I had a lot of pain.  They tried to do that blockage for the nerves for it but it, it helped a little bit.  @@@ but it still hurts.
+  
+DOCTOR B008
+Have you been to the Pain Clinic yet?
+
+PATIENT B008
+Yesterday.
+
+DOCTOR B008
+So it help out a little bit?
+
+PATIENT B008
+Yeah a little bit but you know now when I go, you know when I be going down steps or you sometimes when I lay down and try to get up I'd be in pain or sometimes when I sit down.  But if I'm moving around for a while you know it stops and you know it's kind of like whenever I'm up but whenever I lay down or sit down and have to get up then it gives me all kind of problems.  At nighttime I'll have to you know and when I get up and use the bathroom I have to constant deal with my pain.  I have to stand up before I bend down.  
+
+DOCTOR B008
+So just remind me, so they just took out the hardware right?
+
+PATIENT B008
+Yeah.
+  
+DOCTOR B008
+So they took out some of the hardware.
+
+PATIENT B008
+Yeah.
+
+DOCTOR B008
+And they took out the hardware, when was it?
+
+PATIENT B008
+In February.
+
+DOCTOR B008
+February.  And then since February you've been having a lot of pain in your ankle?
+  
+PATIENT B008
+Yeah.  Cause they said there's a separation in the bone where it broke.  It didn't heal properly because they took the metal out and they don't want to do another surgery.  So they're trying to get the pain management.  Pain Management said it might work and it might not work and you have to go through a series of close to five shots before it would really make a, you know, big difference. 
+
+DOCTOR B008
+So I think probably the best thing is to kind of let's see how it goes, because it’s your first time right?
+
+PATIENT B008
+Yeah.
+
+DOCTOR B008
+@@@ in your ankle?
+
+PATIENT B008
+No what they gave me for my back.
+  
+DOCTOR B008
+For your back.  Are you still taking the pain meds at home?
+
+PATIENT B008
+Uh yeah.
+
+DOCTOR B008
+What are you taking right now?
+
+PATIENT B008
+Morphine which don't really work that much.  Because I been on it for so long that I've built up a tolerance for it.
+
+DOCTOR B008
+Alright.
+
+PATIENT B008
+But I still have the pain and I took @@@.  You know they tried raising it, they give prescriptions now but sometime when I take them it don't even seem like it do no good cause it still has an ache and I have a stabbing pain and sometimes it feels like it's burning.  They gave me some @@@ but @@@.
+  
+DOCTOR B008
+Okay.
+
+PATIENT B008
+Yeah so.
+
+DOCTOR B008
+And you've got diabetes right?
+
+PATIENT B008
+Yes.
+
+DOCTOR B008
+Have you been checking your sugars at home?
+
+PATIENT B008
+Yeah my sugars been running a bit high.
+  
+DOCTOR B008
+Which numbers?
+
+PATIENT B008
+Uh like 275, 188, it's always over the 150.  I forgot to bring my meter cause the meter holds the readings.
+
+DOCTOR B008
+Yeah.
+
+PATIENT B008
+But I forgot to bring it with me.
+
+DOCTOR B008
+So I have you taking 100 units of Glargine @@@lantis?
+
+PATIENT B008
+No.
+  
+DOCTOR B008
+No 14 units.
+
+PATIENT B008
+14.
+
+DOCTOR B008
+Okay and you're also taking the regular, the Novolin? 
+
+PATIENT B008
+Regular at night, well I take regular three times a day almost you know, whenever it's over the 150 and uh I take the other one and that's what I take every nighttime.
+
+DOCTOR B008
+We're gonna have to go up because your sugars, I'm looking back, have been too high.  How's your diet been?
+
+PATIENT B008
+Well my diet's been pretty where I like, you know every now and then you know I have maybe I don't have a desire to eat but most of the time I take my medicine in the morning @@@ I try to you know eat something so you know I have something to work with it.  Yeah.
+  
+DOCTOR B008
+Are you taking the regular insulin three times a day?
+
+PATIENT B008
+Yeah.
+
+DOCTOR B008
+With the sliding scale.
+
+PATIENT B008
+Yes and anytime it goes over 150.  But you know I @@@ gain any weight because now I'm 218 instead of @@@ and I was down, at first I was in the 180s.
+
+DOCTOR B008
+Okay.
+
+PATIENT B008
+And now I'm in the 200s because you know what insulin do for me is I take it on a regular basis, it uh raises the appetite so at nighttime they give us snacks cause I'm in a transition house.
+  
+DOCTOR B008
+Okay.
+
+PATIENT B008
+And sometime I find myself eating cookies and candy and stuff all through the night, potato chips and stuff.
+
+DOCTOR B008
+Well that's going to definitely screw up your diabetes, what you got to do is, and this is serious, I mean now @@@ we can’t keep going up on your insulin forever but try to eat um, if there's candy eat an apple or fruits, okay.
+
+PATIENT B008
+Yeah.
+
+DOCTOR B008
+Different things. All those treats, uh, @@@.  So you're not drinking anything are you?
+
+PATIENT B008
+No.  I haven't drunk since @@@.  I had one drink last August.
+  
+DOCTOR B008
+And you're taking the gabapentin?
+
+PATIENT B008
+Yeah I be taking that every day three times a day but sometimes uh when I take all that medication you know I got a lot of things I have to do through the day and stuff so it makes me tired and sluggish but you know I go to custodian class Monday, Thursday and Friday and every day I go to ATP @@@ you know but I been having problems @@@ ATP.  I went through a lot of @@@ this week.
+
+DOCTOR B008
+@@@.
+
+PATIENT B008
+That's uh for drug and alcohol.
+
+DOCTOR B008
+Okay.
+
+PATIENT B008
+That's where they @@@ training the class.
+  
+DOCTOR B008
+Okay.
+
+PATIENT B008
+For recovery and.
+
+DOCTOR B008
+Okay.  Have you been having any chest pain or anything like that?
+
+PATIENT B008
+No.  But I been having a lot of frequent urination at nighttime.  Sometime I'm going to get up five, six times a night.  It's just like every time I lay down really again, you know like I say my leg, it's real bad when I have to get up and go to the bathroom cause it's real painful.
+
+DOCTOR B008
+Have you been thirsty a lot during the day?
+
+PATIENT B008
+No I cut back.  I really don't drink that much pop anymore.  I don't drink unless it’s dinnertime and usually for a while you know pretty much I was real bloated.  You know my stomach went out to here, it was real puffy, you know up to.
+  
+DOCTOR B008
+Did you ever try the, I think the urinating a lot is probably from your sugars being so high okay.
+
+PATIENT B008
+Uh-huh.
+
+DOCTOR B008
+So we got to try to get these under control and I think we're probably going to help you out with you peeing so much, cause that's a lot.  So that’s a lot of peeing in a day.
+
+PATIENT B008
+Hmm.  And it's at all times at night.  You know during the day, you see I have more urination in the nighttime than I do in the day.  You know @@@ four, five, six times a night you know.  When I'm in the Transition House and there's six men to the room.
+
+DOCTOR B008
+Right.
+
+PATIENT B008
+They say man, you know they be whining, I say well it's probably all these medications, I know it could be my sugars too.
+  
+DOCTOR B008
+Yeah it's probably your sugars more than anything else.
+
+PATIENT B008
+And then at night, @@@ long time that I don't have to go, you know @@@.  Last night was the first time.
+
+DOCTOR B008
+So um you just turned 50 right?
+
+PATIENT B008
+Yeah.
+
+DOCTOR B008
+So you know what happens when you turn 50?
+
+PATIENT B008
+Yeah.
+  
+DOCTOR B008
+It's time to get a colonoscopy okay.  Do you know what that is?
+
+PATIENT B008
+That uh, through your rectum?
+
+DOCTOR B008
+Yeah.  You ever have that done before?
+
+PATIENT B008
+Yeah.
+
+DOCTOR B008
+Okay.  So when was the last time you had one?
+
+PATIENT B008
+It's been a while back.
+  
+DOCTOR B008
+More than 10 years ago?
+
+PATIENT B008
+I don't remember, I don't think so.
+
+DOCTOR B008
+Okay.  Do you take an aspirin?
+
+PATIENT B008
+Yeah I still take the one aspirin that they give me.  You know they give me uh it's a real high potency aspirin but its real tiny like baby aspirin.
+
+DOCTOR B008
+Why did they do a colonoscopy in the past?
+
+PATIENT B008
+Well I think it, I don't think I had one, I don't think I had one I'm not sure.
+  
+DOCTOR B008
+No? Okay.  Do you smoke?
+
+PATIENT B008
+Yeah maybe less than, about maybe during the daytime I might smoke maybe five or six cigarettes.  So a lot of places I go, it's no smoking so you know I be going, like I say I be occupied most of the time and the places you go, like where I sleep we can't smoke, there's no smoking except during break time when you be outside and a little patio outside they got a patio and you smoke out there but you know most of the time I'm there you have groups and we always, they always put me, my time's always lots of time I don't smoke that much.
+
+DOCTOR B008
+Okay.  You're gonna have to @@@ paper @@@ and get your colonoscopy okay.  That way we can check for colon cancer.  Cause I think, let's see.  Then you're gonna see the eye doctor soon right?
+
+PATIENT B008
+Yes.  Now I haven't seen, I used to go to them uh every you know every month and @@@ Lakeside so um once @@@ Lakeside I stopped getting my @@@ and I was telling them I had a kind of like blurry vision sometime and uh that's when they put me in for you know @@@, that was the last time I was in the hospital.  She got me an appointment to see them, I got @@@ that’s the earliest they can see me.
+
+DOCTOR B008
+So it looks like you have an appointment right?
+
+PATIENT B008
+Yeah I have one.
+  
+DOCTOR B008
+You have one on the 10th.  I see that.  So why don't I, will you please have a seat.  
+
+PATIENT B008
+Yeah I had a tooth @@@ but I haven't had.
+
+DOCTOR B008
+@@@.
+
+PATIENT B008
+@@@.  
+
+DOCTOR B008
+Take a deep breath.  Again.  Again.  Again.  Good.  One more time.  Breathe normal.  Any belly pain?
+
+PATIENT B008
+No @@@.
+  
+DOCTOR B008
+Do you want help cutting down on the smoking?
+
+PATIENT B008
+Well I think I'm doing pretty good at the time, you know I don't want to get too much stuff, I got you know.
+
+DOCTOR B008
+Yeah there's a lot going on right now.
+
+PATIENT B008
+Yeah and plus you know, I went to CEP Monday and they are in the process are trying to get a voucher so I could get some housing, permanent housing.
+
+DOCTOR B008
+Do you always have so much swelling in your legs?
+
+PATIENT B008
+Yes it's been like this from the beginning @@@.  Because of the separation @@@.
+  
+DOCTOR B008
+It is always your left.
+
+PATIENT B008
+Yep.
+
+DOCTOR B008
+Is more swollen than the right.
+
+PATIENT B008
+Yes.  But you know whenever you put any pressure, you know it broke clean.
+
+DOCTOR B008
+Okay.  I think the main thing are getting your blood sugars under control you know.
+
+PATIENT B008
+Yeah.
+  
+DOCTOR B008
+I think probably we'll go up to 20 and see how you do.
+
+PATIENT B008
+Well @@@.
+
+DOCTOR B008
+@@@.  You're doing the sliding scale, right?
+
+PATIENT B008
+Yeah during the day.
+
+DOCTOR B008
+And um you gotta be here tomorrow, Friday?
+
+PATIENT B008
+No tomorrow I have class, I have a janitor class.
+  
+DOCTOR B008
+@@@.
+
+PATIENT B008
+Right now I'm going to the @@@ sponsoring me for classes for computers and I took the custodial course.
+
+DOCTOR B008
+Okay.  So the next time you come to the VA.
+
+PATIENT B008
+That'll be uh next Tuesday.
+
+DOCTOR B008
+Okay.
+
+PATIENT B008
+I have uh ATP.
+  
+DOCTOR B008
+Okay so the next time you come to the VA, @@@ you'll need to go to the Lab cause we need to check your screening and your diabetes okay.
+
+PATIENT B008
+Yep.
+
+DOCTOR B008
+And we're going to check your cholesterol too so make sure not to eat the night before.
+
+PATIENT B008
+Is that the Laboratory?
+
+DOCTOR B008
+Yes Laboratory okay, don't forget.
+
+PATIENT B008
+@@@.
+  
+DOCTOR B008
+@@@ okay, alright.  I'm going to go talk to DOCTOR and I'll be right back.
+
+PATIENT B008
+Okay.
+
+(DOCTOR OUT 49:22  DOCTOR IN:  59:10)
+
+DOCTOR B008
+Okay so this is the plan.  So we're doing 20, 20 units of insulin okay.
+
+PATIENT B008
+Okay.
+
+DOCTOR B008
+And uh hopefully that'll get it under control okay.
+
+PATIENT B008
+Alright.
+  
+DOCTOR B008
+And then on Tuesday go to the Lab and make sure you don't eat the night before, okay so we can check your cholesterol.
+
+PATIENT B008
+Oh.
+
+DOCTOR B008
+Okay.  
+
+PATIENT B008
+Alright.
+
+DOCTOR B008
+And if it doesn't get any better come in and I will see you again, maybe like 4-6 weeks.
+
+PATIENT B008
+Yeah.
+  
+DOCTOR B008
+Does that sound good alright.  Now do you check your sugars at home?
+
+PATIENT B008
+Yeah I got a thing.
+
+DOCTOR B008
+Okay, when you go up to 20 if you see that it's still not working you can go up to 25.  @@@
+
+PATIENT B008
+No.  If anything I go, for a long time @@@ normal.  When they put me over the Lantus.
+
+DOCTOR B008
+@@@.
+
+PATIENT B008
+Yeah I started all over @@@.
+  
+DOCTOR B008
+Well @@@ so go to 20 and see how it goes and if you're still going up over 200 go to 25 okay.
+
+PATIENT B008
+See what happened, happened when they switched me over to @@@ I ended up being in the hospital and they kept @@@ ah you don't need no sugars, @@@ insulin.  So what was happening is I hadn’t eaten in like a week.  Of course my readings are going to be @@@.  
+
+DOCTOR B008
+@@@.
+
+PATIENT B008
+@@@ it probably would have stayed alright.
+
+DOCTOR B008
+Do you want to go back to where you are?
+
+PATIENT B008
+Well I was using 10 and uh I was just using @@@.
+  
+DOCTOR B008
+@@@ go to the Lantus.
+
+PATIENT B008
+That's what I'm saying, @@@.
+
+DOCTOR B008
+So do the 20 and then if it's still high go to 25.
+
+PATIENT B008
+Okay yeah.
+
+DOCTOR B008
+Okay.
+
+PATIENT B008
+Okay.  Alright thanks doc.
+  
+DOCTOR B008
+No problem, take care alright.
+
+PATIENT B008
+Alright.
+
+PATIENT LEAVES:  61:30.
+
+It is 4:15.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1255146
+TRANSACTION # 578-10-2-316-0103

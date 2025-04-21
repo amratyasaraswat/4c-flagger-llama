@@ -1,0 +1,803 @@
+Date of Encounter:   @@/@@/@@ 
+Time of Encounter:   @@:@@ 
+
+DOCTOR B393 
+PATIENT.
+
+PATIENT B393
+How you doing?
+
+DOCTOR B393
+Good to see you again, hi.  @@@
+
+PATIENT B393
+Some lady gave me one of those tape recorders.
+
+DOCTOR B393
+Here we go right in there.  Sorry what was that?
+
+PATIENT B393
+They give me one of them tape recorders so.
+
+DOCTOR B393
+Oh they did.
+
+PATIENT B393
+Yeah.  Where do you want me to sit down?
+
+DOCTOR B393
+Uh right there is fine.  How are you doing today?
+
+PATIENT B393
+Uh so far so good.
+
+DOCTOR B393
+Okay um anything specific you wanted to discuss?  I know you were recently in the hospital so we'll talk about that but um anything else or have you been doing okay since you were discharged?
+
+PATIENT B393
+Uh I been doing pretty good all except my leg is hurting me in the morning.
+
+DOCTOR B393
+The leg pain, still having that.
+
+PATIENT B393
+Yeah but @@@.
+
+SECOND PERSON B393
+It is not arthritis and I don't find, he's still having the pain but it is because that he, he has not been taking his Synthroid @@@.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+And um it wasn't arthritis.
+
+DOCTOR B393
+Okay.
+
+SECOND PERSON B393
+Okay.  And I'm a little miffed; I'm little ticked because when we spoke to you.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+Everything that I told you exhibited, I told him I have to rush him here in the ER and he was almost comatose and everything that I told them was, it was classic of hypothyroidism so sometime maybe you know remember to listen to your patients, everything that I told you know don't and I understand this is @@@ deal.  See I been a nurse for a long time so I do understand it but perhaps, maybe not, but perhaps we could have alleviated this and we could have skirted it another way had you listened instead of just maybe sloughing it off and I, so I'm a little ticked.
+
+DOCTOR B393
+Okay.
+
+SECOND PERSON B393
+You understand?
+
+DOCTOR B393
+Yeah.
+
+SECOND PERSON B393
+So it may not help him now but it may help someone else.
+
+DOCTOR B393
+No I understand that um.  Let me just fill something out there.  Yeah so the thing is the last time we had checked his thyroid studies were in March of 2010 and they were normal.
+
+SECOND PERSON B393
+Uh-huh.
+
+DOCTOR B393
+The thing is, we don't routinely check those with patients if they're taking the medications and you know you told me about some of the pains and I'm trying to remember exactly what else we talked about last time.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+Um, you know you've been talking about the hip pain um and then I mean.  You know we talked about the medications.  I know there've been some questionable you know what he'd been taking and what he hadn't been but you know what else did we talk about that detail that may.
+
+SECOND PERSON B393
+We talked, I remember distinctly.  Remember I told you that the skin was ashen.  I told you I said just look at his skin it's just taunt, black, he was having the tearing of the eyes because I think you got him the appointment to go see the eye doctor.  All of this is related to hypothyroidism you know so sometime, maybe you would think that normally, I think that maybe you all need to go the extra nine, just put one foot forward a little bit more and he was quite ill.  He was quite, I ran every light getting him here and had we waited a little longer maybe the results would not have been as good.  It may have been irreversible and that you don't get back.  That means I don't get him back you know so and I know you probably get enough from the attendings but sometimes the little guy that we're supposed to be taking care of we need to take that extra step.
+
+DOCTOR B393
+Sure.  So I do apologize that we missed that.  You know like I said we had checked the labs just you know a year ago and everything was normal and you know I didn't really have any reason to believe he wasn't taking the Synthroid that we were having issues or you know the thing with hypothyroidism a lot of times it is, it you know in retrospect sure, you can look it up and say these are classic symptoms.
+
+SECOND PERSON B393
+Uh-huh.
+
+DOCTOR B393
+But you know it does present very vaguely and you know if you think you can find reasons for those symptoms it's not necessarily the first thing cause a lot of these disease processes present very vaguely.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+You know in retrospect it is easy to say you know I missed it but we didn't really have any reason to believe that that was the number one thing because you didn't tell me that he hadn't been taking the Synthroid and you know the lab had just been checked in a year but I do apologize.  I'm glad you know that they were able to catch that in the ER and that was taken care of.
+
+SECOND PERSON B393
+Yeah it can't be undone; we just go forward with it.  But I think that sometimes as health professionals we forget, we all get tired.
+
+DOCTOR B393
+Sure.
+
+SECOND PERSON B393
+We all have to remember you know there's this thing about do no harm and sometimes you know when we don't do anything it causes harm.You know so I can only speak from this side.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+Because he's my number one priority.
+
+DOCTOR B393
+Sure.
+
+SECOND PERSON B393
+And I knew something was wrong with him you know for a long time.  Okay we're gonna go forward, I said my peace.
+
+DOCTOR B393
+Okay well how are you doing since you were discharged from the hospital?
+
+PATIENT B393
+Well pretty good so far.
+
+DOCTOR B393
+Okay, you're taking the Synthroid.
+
+SECOND PERSON B393
+Uh-huh.
+
+DOCTOR B393
+Okay good.  Symptoms seem to be, are you still having the pain here?
+
+PATIENT B393
+Oh yeah.
+
+DOCTOR B393
+Kind of the back part of the leg here?
+
+PATIENT B393
+Yeah.
+
+DOCTOR B393
+Is it just starting up in the hip or is it just kind of localized?
+
+PATIENT B393
+Uh it moved down here.  It's not over there no more.
+
+DOCTOR B393
+Okay.
+
+PATIENT B393
+I don't know if it's because of my wallet.
+
+DOCTOR B393
+You have it on both sides or just on the one side?
+
+PATIENT B393
+Both sides when I wake up in the morning.
+
+DOCTOR B393
+Okay.
+
+PATIENT B393
+After about after an hour and a half it'll go away.
+
+SECOND PERSON B393
+But he did get this way over night.
+
+PATIENT B393
+But it just seemed like, it seemed like @@@ a water in the car I call it you know.
+
+DOCTOR B393
+Does it go all the way down your leg or does it stop?
+
+PATIENT B393
+Right here on the side, thigh.
+
+DOCTOR B393
+Cause you know like I think we kinda discussed this last time, and it could be you know a nerve, kind of a nerve pain that with some compression.
+
+PATIENT B393
+That's what it feels like.  It feel like the nerve you know.
+
+DOCTOR B393
+Uh-huh.  And that's why you know I kind of wanted to start with the hips to see if anything was getting compressed there, if there were any bony abnormalities.  I don't think those were ever done correct?  Yeah @@@ we talked about but I saw those were not done.  Um you know if it, is there a weakness or just kind of a pain?
+
+PATIENT B393
+It's a pain you know when you stand up.  You feel a pain there when you walk, you gotta walk stiffly so instead of it straightened out.
+
+DOCTOR B393
+Okay.  Yeah I mean, we could if we want to pursue I think we could still take a look and see if there's anything here.  Otherwise if we, you know there's other things we could do.  We could do nerve conduction studies.
+
+PATIENT B393
+What.
+
+DOCTOR B393
+Those are a little more invasive and I don't think that's necessary.
+
+PATIENT B393
+If you don't catch me when I first get up you know about an hour and a half later, it's not there so, nothing to catch.
+
+DOCTOR B393
+Okay.  So I mean I think it could be, you know, you're sleeping all night you're putting pressure here and that could be something and then once you get up.
+
+PATIENT B393
+That's what I thought.  It's easing up now.  I was sleeping on the couch, watching TV.
+
+DOCTOR B393
+Okay.
+
+PATIENT B393
+And uh that's when I stopped sleeping on the couch and getting in bed.
+
+DOCTOR B393
+Uh-huh.
+
+PATIENT B393
+So if I sleep in the bed it don't get as bad since I’ve been sleeping in the bed.
+
+DOCTOR B393
+Okay.
+
+PATIENT B393
+I figured it might because of the couch thing, you’ve got those pillows. You know, pillow to pillow to pillow.
+
+DOCTOR B393
+Uh-huh.
+
+PATIENT B393
+So I figured maybe the pillow, just changing the pillow that might be doing it.
+
+SECOND PERSON B393
+I'm just gonna tell him yeah no that's not it.  We just need a number bed, that's all we need is a number bed.  Now that's what I'm gonna put it on.  I'm holding out for the number bed.
+
+DOCTOR B393
+Okay.
+
+SECOND PERSON B393
+Fine.
+
+DOCTOR B393
+Sure, otherwise the other thing, I was looking through the hospital, you know the discharge summary and I'm sure they talked about doing all the imaging studies.  There's also cysts on your kidneys.
+
+SECOND PERSON B393
+Uh-huh.
+
+PATIENT B393
+Hmm.
+
+DOCTOR B393
+Um there was one on the left kidney that they wanted, you know that may need further work-up just to make sure it's not growing or it’s not.
+
+SECOND PERSON B393
+It's more than one.
+
+DOCTOR B393
+Well there was one specific.
+
+PATIENT B393
+I know there's one they were worried about.
+
+DOCTOR B393
+Yeah he had one multiple small ones but there was one specific on the left kidney that they want a follow-up on you know in terms of re-imaging.
+
+SECOND PERSON 421
+They will, but they will in maybe three months.
+
+DOCTOR B393
+Uh-huh.  Yeah obviously not now but I'm saying that is one thing that we'll need to make sure we follow up on.
+
+SECOND PERSON B393
+Yes.
+
+DOCTOR B393
+So you know make sure it’s not growing or you now anything other than just a simple cyst.
+
+SECOND PERSON B393
+Yes.
+
+DOCTOR B393
+A lot of people have had you know simple cysts in the kidneys with not much to do there but.
+
+SECOND PERSON B393
+No but what he said was on the right there is one, no problem, don't worry about it.  The left side it's the one that is, his term was @@@ and cancerous.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+So for a, he seemed not to have heard it.  I've heard everything that the doctor said.  He kept looking for more; I guess he was waiting until I finally told him I understood.  He said he didn't tell me that.  I'm telling him yes he did.
+
+DOCTOR B393
+Hmm.
+
+SECOND PERSON B393
+Yes he did, so would you tell him?
+
+DOCTOR B393
+Yes.
+
+SECOND PERSON B393
+What he said.
+
+DOCTOR B393
+Yeah I mean the thing is, you can't say it’s cancerous right now, but the reason we want to recheck is to make sure it’s not growing because then you're concerned for cancer.  You know we do a follow-up study and if it looks exactly the same in a couple of months then we're kind of reassured that it is just a cyst.
+
+SECOND PERSON B393
+Yeah.
+
+DOCTOR B393
+But if it has grown then we get a little bit worried, is this a cancerous lesions, do we need to get a biopsy, do we need further studies but we'll cross that bridge when we get to it.  Um but you know in a month or two, probably in two months, you know we'll monitor.
+
+PATIENT B393
+I think he said in three months.
+
+DOCTOR B393
+Yeah so, so I mean that was kind of in the middle, end of November so we'll say around February maybe we'll get a repeat CT scan and see how that looks.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+Okay.
+
+PATIENT B393
+I’m supposed to have this @@@ removed.
+
+SECOND PERSON B393
+They are going to remove it on the 9th of January.
+
+DOCTOR B393
+Yeah I saw that as well um.
+
+SECOND PERSON B393
+Okay he's doing a thousand times.
+
+DOCTOR B393
+Okay.  So going back to kind of cause you know now knowing that you know there were issues with the medications in the past, what was, how can we prevent that from happening again?  What was the exact issue with not able to get the medication or not taking the medication?
+
+PATIENT B393
+Most likely it'd be not taking cause I got plenty of medicine.
+
+SECOND PERSON B393
+And I think his stomach was bothering him.  @@@ we and his stomach was bothering him because he wasn't taking the Synthroid and I think that was the issue that we were not aware of because now that he takes it every morning he hasn't had no problems with his stomach.
+
+DOCTOR B393
+He hasn't had a problem okay.
+
+SECOND PERSON B393
+No @@@.
+
+DOCTOR B393
+And taking the medicine every day.
+
+SECOND PERSON B393
+Every day, every morning, every morning.
+
+DOCTOR B393
+Okay.  Well that's gonna be the key.
+
+SECOND PERSON B393
+At 5 o'clock.
+
+DOCTOR B393
+Okay.  Okay.
+
+SECOND PERSON B393
+He's up, so he's doing good.
+
+DOCTOR B393
+Okay good.  Any other problems today?
+
+PATIENT B393
+Yeah I want to know how many beers can I drink a day.
+
+DOCTOR B393
+What's that?
+
+PATIENT B393
+How many beers can I drink a day?
+
+DOCTOR B393
+Drink?
+
+SECOND PERSON B393
+The doctor told him one.
+
+DOCTOR B393
+Good.
+
+SECOND PERSON B393
+One beer a day.
+
+DOCTOR B393
+Oh one beer year.
+
+SECOND PERSON B393
+He drinks that.  You're not gonna stop him at one but he still gets.
+
+PATIENT B393
+Three.
+
+SECOND PERSON B393
+No.
+
+PATIENT B393
+One every hour.
+
+SECOND PERSON B393
+No.
+
+DOCTOR B393
+No.  It's better to cut down.
+
+PATIENT B393
+Not cut off though.
+
+DOCTOR B393
+Well he said one a day; I think that's probably the right amount.
+
+PATIENT B393
+That's not enough.
+
+SECOND PERSON B393
+He drinks two.
+
+DOCTOR B393
+Okay.
+
+SECOND PERSON B393
+Because he's not gonna do one.
+
+DOCTOR B393
+Hmm.
+
+SECOND PERSON B393
+But he'll.
+
+DOCTOR B393
+He’ll do two.
+
+SECOND PERSON B393
+You're not gonna stop him at one so you have to have a cut off somewhere.  When the doctor told him three, he told him that is enough.
+
+DOCTOR B393
+Hmm.
+
+SECOND PERSON B393
+So he does drink two a day and I don't.
+
+DOCTOR B393
+Okay.  The thing I mean you know we can tell you what we recommend.  Obviously you know you go home and you know it's kind of up to you to go.  I think one or two is probably okay but I would try to cut down to one and eventually, if possible to zero but like I said I know that's a.
+
+PATIENT B393
+What about wine then?
+
+DOCTOR B393
+You can have one glass of wine a day, that's good.  One glass of red wine a day is good for your heart.
+
+PATIENT B393
+One glass of red wine and two glasses of beer?
+
+DOCTOR B393
+One or the other.
+
+PATIENT B393
+Oh shit.
+
+SECOND PERSON B393
+So take the two beers, take the two beers and I'll tell you he went to a birthday celebration.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+And I think he had, that day, I think he had three.  For him that particular day, because it was a celebration he just kind of had to skirt it a little bit.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+But now we back to okay, back to the two.
+
+DOCTOR B393
+Okay good.
+
+SECOND PERSON B393
+And he's been doing good.  He's real invested in trying.
+
+DOCTOR B393
+Good.
+
+SECOND PERSON B393
+I know that he's really been trying.  He is not happy.
+
+DOCTOR B393
+I can tell.  I can tell he’s not happy with that.
+
+SECOND PERSON B393
+But he's really been trying.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+You know I worry but he's really been doing good and I know it's hard.
+
+DOCTOR B393
+Uh-huh.
+
+SECOND PERSON B393
+You know but my priority is to try to keep him here and keep him happy.
+
+DOCTOR B393
+Uh-huh.  That's good, that's really good.  Otherwise anything but you know I just, we just saw him you know a month ago.  Everything looks good since then.  Blood pressure you know, they measured it twice. Initially it was a little high it was 151/55 but they rechecked it 134/63 and then I read they wrote on here did not take blood pressure medicine this morning is that true?
+
+SECOND PERSON B393
+Yes he did.
+
+PATIENT B393
+Did I?
+
+SECOND PERSON B393
+Yes.
+
+PATIENT B393
+Okay.
+
+SECOND PERSON B393
+He took it.
+
+DOCTOR B393
+Okay.
+
+PATIENT B393
+That's that little bitty pill?
+
+SECOND PERSON B393
+Yeah where's the blue thing?
+
+PATIENT B393
+I think I must left it outside.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+@@@.
+
+SECOND PERSON B393
+Okay, yes the pills are in there.
+
+DOCTOR B393
+Okay.
+
+SECOND PERSON B393
+They are in there.
+
+PATIENT B393
+So I did take all my pills.
+
+DOCTOR B393
+Yeah I mean 134/63.
+
+SECOND PERSON B393
+It's really good.
+
+DOCTOR B393
+And maybe he set it up.
+
+SECOND PERSON B393
+And then I make him take his afternoon, it’s a little bitty pill is the tamsulosin that I give him @@@.
+
+DOCTOR B393
+Okay. Yeah so that's an important one, not to miss that as you know so.
+
+SECOND PERSON B393
+Yeah.
+
+DOCTOR B393
+Uh okay do you want to sit up here for me?  Lean back here.  I'll try not to splash on you.
+
+SECOND PERSON B393
+Don’t worry.
+
+DOCTOR B393
+Okay breathe normally for me alright.  Okay.  Nice deep breath for me in and out through your mouth for me.  Okay again, one more okay good.  Okay any pain down here anywhere?
+
+PATIENT B393
+Not yet no.
+
+DOCTOR B393
+Okay.  Any swelling?
+
+SECOND PERSON B393
+No that's fine.
+
+DOCTOR B393
+Okay.  Great.  Uh let me go talk to DOCTOR, I'll be back okay.
+
+(DOCTOR OUT:  20:25  DOCTOR IN:  28:58)
+
+DOCTOR B393
+Okay so a couple of things.  So I saw you have an appointment coming up in January with the Endocrine, right January 3rd.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+So we'll check the thyroid levels, this way before that, I mean we only check about six weeks or so after adjusting the dose or restarting the dose so.
+
+SECOND PERSON B393
+So, we’ll need to get his blood drawn today, right.
+
+DOCTOR B393
+Well no cause they started him again on November 19th when he was admitted.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+So this puts us at about a month so six weeks will kind of be the end of this month, end of December.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+Um so we'll just check it.  That appointment's on the 3rd at 2:30 p.m.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+So you guys could come in the morning and get that drawn so that'll give it enough time to get the tests back or maybe the day before or is that.
+
+PATIENT B393
+Probably that morning.
+
+DOCTOR B393
+Kind of hard.
+
+SECOND PERSON B393
+Maybe in the morning.
+
+DOCTOR B393
+Maybe just that same day.  Just come a couple of hours before your appointment so is has time to kind of run in the Lab.
+
+PATIENT B393
+What's that appointment?
+
+DOCTOR B393
+I think that one for 2:30 um.
+
+PATIENT B393
+@@@.
+
+DOCTOR B393
+So that way you know just come in the morning, get the blood test done.  Cause that way you're gonna see that you know the thyroid specialist essentially so they can look at the numbers and if they need to adjust the dose then they can decide.  Um the CT scan I think we'll do,we’ll go ahead and do in February cause they said about three months.  So I'll put it in the computer now and then I want to see you back in about three months.  Does that sound okay?  So just before the appointment with me just come in and get the CT scan done and if the cyst has grown, if we need to you know.
+
+SECOND PERSON B393
+You'll see it then.
+
+DOCTOR B393
+Yeah exactly.  So we'll have some answers before next time.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+Um otherwise I think everything else is okay cause you know everything else we talked about last time um so I think those are kind of our big issues to focus on now and make sure the thyroid levels are responding you know appropriately and that cyst on the kidney has not grown.  Does that sound okay?
+
+PATIENT B393
+Okay.
+
+DOCTOR B393
+Okay so I'll put those in the computer so just the day of the Endocrine appointment, come in a little bit early to get your blood drawn and you guys know where to do that right by the entrance and then you'll schedule the appointment with me, I think they'll send you something in the mail, that’s what they usually do and before that appointment I'll put the CT scan order in already so you can just come in a couple days before and get the CT scan done.
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+So that sound good?
+
+SECOND PERSON B393
+Okay.
+
+DOCTOR B393
+Any questions?
+
+PATIENT B393
+Uh uh.
+
+DOCTOR B393
+Okay great.  So we'll see you back in three months and I'm glad to see you're doing better okay.  Just take that to the front desk.
+
+PATIENT B393
+Okay and they give me all the appointments again huh?
+
+DOCTOR B393
+Yeah the only appointment we're really scheduling is with me because the Endocrine's already scheduled um and I'll put in you know for the blood tests and CT scan, I just put that in the computer.
+
+SECOND PERSON B393
+Uh-huh.  What they do is when they give him another appointment they run them all again which is fine.
+
+DOCTOR B393
+Oh okay.
+
+SECOND PERSON B393
+They just keep them in running order which is fine; you don't have to keep this one here and that one there.
+
+DOCTOR B393
+You've kind of got everything.
+
+SECOND PERSON B393
+Everything is put into order.  So it's better.
+
+DOCTOR B393
+It's a great system in this place here huh.
+
+SECOND PERSON B393
+It is.  It's a little hard to get to them but it's really good now.
+
+DOCTOR B393
+Yeah, good.  Yeah I'm glad.  Well alright then we will see you back in a couple months and of course if anything comes, you know if anything happens sooner.
+
+SECOND PERSON B393
+I know.
+
+DOCTOR B393
+Come back.
+
+SECOND PERSON B393
+I know that too.
+
+DOCTOR B393
+Before that.  Yeah if you can't get an appointment here the ER or Urgent Care.
+
+SECOND PERSON B393
+Yes.
+
+DOCTOR B393
+But you know.
+
+SECOND PERSON B393
+Okay.
+
+PATIENT B393
+Okay doc.
+
+SECOND PERSON B393
+Alright thank you.
+
+DOCTOR B393
+Alright.  Have a good day.  It's good to see you again.
+
+PATIENT B393
+Alright, that'll do it.
+
+SECOND PERSON B393
+Did you get all your Christmas shopping done?
+
+DOCTOR B393
+Not yet, not yet.
+
+SECOND PERSON B393
+You've got to get it done.
+
+DOCTOR B393
+Yeah right.
+
+SECOND PERSON B393
+Take care.
+
+PATIENT B393
+You waiting around.  Yeah @@@ went to the mall.
+
+SECOND PERSON B393
+That's what he keeps saying, it's not gonna happen.
+
+DOCTOR B393
+@@@ I know it.
+
+PATIENT LEAVES:  32:22
+
+DD: @@/@@/@@
+DT: @@/@@/@@ 
+INFOPRO/800511/JOB#  1300299
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,49 @@
+Red Flag (3808-3897): "But there's something's wrong. I don't know cause they want me to uh do, a test the CPAP"
+
+Probe    (3912-3922): "Who's they"
+
+Red Flag (11346-11396): "I don't know if my CPAP is working properly or not"
+
+Probe    (11481-11535): "Have you had your mask checked at all for fit recently"
+
+Factor   (11551-11556): "Uh no"
+
+CarePlan (12048-12172): "I think I'd like you to get the mask checked. I want you to, when you can, like bring the mask in and we'll see how it fits"
+
+Red Flag (13480-13537): "Okay, they gonna put me on for my ride and I need my ride"
+
+Probe    (13610-13653): "Why did they say that can't give you a ride"
+
+Factor   (13669-13792): "Because they said they want uh, I'm going for end of this month @@@ and then they want to give me what @@@ to catch the bus"
+
+Factor   (13827-13868): "And them buses, I just can't get on a bus"
+
+CarePlan (13883-13956): "Well you've got to the eligibility, talk to the transportation people @@@"
+
+CarePlan (14168-14307): "You're approved for VA travel until then, so you've got to follow up with them and see what you need to do to get re-approved for VA travel"
+
+Factor   (14323-14368): "She said I have to talk to one of the doctors"
+
+CarePlan (14383-14642): "Well I don't what they need. Like I said you'll have to see them and have them bring back, have them let us know what you need. Let me ask DOCTOR, @@@, what I need to do but I don't know if there's anything we can do without them telling us what you need so"
+
+Red Flag (16207-16289): "A three-wheel scooter, the motorized carts? Do you want to try one of those or no"
+
+Red Flag (16350-16370): "I haven't got no way"
+
+Factor   (16371-16404): "to get around in my house with it"
+
+CarePlan (16419-16525): "Well yeah that's uh I mean, the other thing is I'd like to try to get you a walker just to use at home too"
+
+CarePlan (16702-16932): "So I'd like to have you set up with that today. You can go upstairs at Prosthetics and they could probably set you up with that today. The scooter you'll have to come in to be evaluated for if you think you're interested in that"
+
+Factor   (17053-17105): "I got very limited space in the house and everything"
+
+CarePlan (17548-17722): "I'm going to put in the order for the walker so I want to have you go up to Prosthetics on the fourth floor and they'll, they could probably set you up with a walker so today"
+
+CarePlan (18108-18453): "Um and the other thing, the next time you're here, I think you're gonna be here on the 12th again, bring your uh CPAP mask. You bring the mask and bring @@@ they should be able to make sure it's fitting okay cause I think if the mask is fitting better it'll help you sleep too and the sleep will help kind of get rid of at least some of this so"
+
+CarePlan (18664-18676): "Fourth floor"
+
+CarePlan (18692-18749): "Fourth floor. And you want me to get set-up for a walker"
+
+CarePlan (18764-18770): "Uh-huh"

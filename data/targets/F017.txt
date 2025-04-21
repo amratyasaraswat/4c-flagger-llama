@@ -1,0 +1,51 @@
+Red Flag (295-524): "Uh actually I was in the Emergency Room a couple weeks ago with um pain in my arms and my chest and uh now I notice that I'm having uh bouts of headaches along with continued limb pain and some chest pain and uh a lot of coughing"
+
+Probe    (637-683): "And uh why haven't you seen the regular doctor"
+
+Red Flag (699-713): "I haven't been"
+
+Red Flag (819-888): "Now you tell me you were in the ER and they wanted you to be admitted"
+
+Factor   (920-1179): "When I went there the problem had been going on for about three days but after I was in the Emergency I wasn't experiencing that same problem so I didn't feel like I could stay in the hospital for something that I didn't feel like it was a problem at the time"
+
+Red Flag (1483-1512): "I have run out of clopidogrel"
+
+Factor   (1685-1771): "just keeping up with what I'm taking it's just impossible trying to do this online and"
+
+Factor   (1685-1771): "just keeping up with what I'm taking it's just impossible trying to do this online and"
+
+Factor   (1772-1777): "order"
+
+Factor   (1772-1777): "order"
+
+Factor   (1780-1802): "No names, just numbers"
+
+Factor   (1780-1802): "No names, just numbers"
+
+Red Flag (3678-3723): "Okay. When was the last time you took Plavix"
+
+Red Flag (3801-3827): "Uh two days ago, I ran out"
+
+Red Flag (3941-3952): "Simvastatin"
+
+Red Flag (3968-4003): "Simvastatin I don't know about that"
+
+Red Flag (4094-4152): "I'm not missing any of my meds. Maybe my night medication"
+
+Factor   (4159-4264): "because I'm so tired when I come from work, I just get home and pass out rather than taking more medicine"
+
+Red Flag (4427-4458): "How long have you been coughing"
+
+Red Flag (4474-4500): "Uh only about three months"
+
+Red Flag (5521-5555): "What have your sugars been running"
+
+Red Flag (5571-5653): "Last time I did take the time to check they were in the high 100s, like almost 200"
+
+Red Flag (5716-5748): "Yeah a few times it's gotten low"
+
+Red Flag (6324-6374): "Have you been checking your blood pressure at home"
+
+Red Flag (6390-6392): "No"
+
+Red Flag (10178-10224): "No I try to avoid taking over-the-counter meds"

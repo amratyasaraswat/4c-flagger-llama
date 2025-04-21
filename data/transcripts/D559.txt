@@ -1,0 +1,899 @@
+Date of Encounter:   @@/@@/@@
+Time of Encounter:   @@@  
+
+DOCTOR D559
+How are you today?
+
+PATIENT D559
+Okay and you?
+
+DOCTOR D559
+Okay.  So you met with the nurse practitioner in October.
+
+PATIENT D559
+Yes.
+
+DOCTOR D559
+You have a history of hypertension and high cholesterol correct?
+
+PATIENT D559
+Yes.
+
+DOCTOR D559
+Anything else?
+
+PATIENT D559
+Um nope.
+
+DOCTOR D559
+When did you stop taking this?
+
+PATIENT D559
+September 2008.  
+
+DOCTOR D559
+You weren't taking meds for both the blood pressure @@@ since then?
+
+PATIENT D559
+No just for the blood pressure.
+
+DOCTOR D559
+Do you remember the name?
+
+PATIENT D559
+Let's see uh, no I don't.  I didn't go off probably the names, probably the names, I can tell you exactly what it is if you know what the high blood pressure medications, you can probably.
+
+DOCTOR D559
+How many of them?
+
+PATIENT D559
+It's a general name like.
+
+DOCTOR D559
+Metoprolol, hydrochlorothiazide, lisinopril.
+
+PATIENT D559
+I think it's the lisinopril.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+But I'm not gonna guess, there you go.
+
+DOCTOR D559
+You stopped taking it in '08.
+
+PATIENT D559
+Yeah.
+
+DOCTOR D559
+Why was that?
+
+PATIENT D559
+Lazy.
+
+DOCTOR D559
+Okay and do you check your blood pressures or anything?  Okay.
+What were you using for cholesterol?
+
+PATIENT D559
+Uh Lipitor.
+
+DOCTOR D559
+@@@.
+
+PATIENT D559
+No, no.  I never even took that during the service that was years and years and years ago so.
+
+DOCTOR D559
+Do you remember why you stopped it?
+
+PATIENT D559
+Maybe in '99.
+
+DOCTOR D559
+And you don't recheck your blood pressure right?
+
+PATIENT D559
+No.
+
+DOCTOR D559
+Have you ever had any surgeries at all?
+
+PATIENT D559
+Um I had I don't know what the term it was… but I had when they cut just the foreskin off, that's all.  That's the only other surgery.
+
+DOCTOR D559
+Circumcision.
+
+PATIENT D559
+Circumcision.  That's the only thing I've ever had except dental work too.
+
+DOCTOR D559
+What kind of dental?
+
+PATIENT D559
+Uh this is a bridge, a seven tooth bridge I got junk under it and they had to replace my teeth in my mouth.  All of this is fake; all of this is fake so.
+
+DOCTOR D559
+Okay upper teeth right?
+
+PATIENT D559
+Upper teeth and two ones on the bottom on the left-hand side are fake.
+
+DOCTOR D559
+Were you in a fight or something or?
+
+PATIENT D559
+No just standing on the corner, minding my own business.  Drunk Puerto Ricans came by and jump me cause they thought I was in a gang but I wasn't and this was '96.
+
+DOCTOR D559
+Okay do you smoke, do you drink?
+
+PATIENT D559
+I do not smoke cigarettes an occasional cigar but.
+
+DOCTOR D559
+@@@.
+
+PATIENT D559
+It's like once every three weeks or once every four weeks I might have one.
+
+DOCTOR D559
+@@@.
+
+PATIENT D559
+No.  That always stresses me up, like are you a smoker?  No.
+
+DOCTOR D559
+I mean.
+
+PATIENT D559
+You know that's like if somebody stands with a group of people that inhales secondhand smoke, are you a smoker no, but I stand with these people over here sometimes and I talk with them while their smoking, well you're a smoker.
+
+DOCTOR D559
+So you're exposed yes.
+
+PATIENT D559
+Oh of course I'm exposed.
+
+DOCTOR D559
+Do you have, do you drink @@@?
+
+PATIENT D559
+No, no.
+
+DOCTOR D559
+No alcohol use?
+
+PATIENT D559
+Alcohol social and I haven't been social in a while.
+
+DOCTOR D559
+Okay.  Any history of like IV drug use, marijuana, cocaine or illicit drugs?
+
+PATIENT D559
+No, no, no. Good boy.
+
+DOCTOR D559
+Family history of like diabetes, hypertension.
+
+PATIENT D559
+Yes.  My grandmothers, diabetes.  My grandmother's sister had diabetes.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+Uh my cousin had leukemia, I think it was leukemia.  Uh I think that, yeah that's it.
+
+DOCTOR D559
+Okay.  And your grandmother's sister.
+
+PATIENT D559
+Grandmother's sister yes.
+
+DOCTOR D559
+And you're not on any medicines correct?
+
+PATIENT D559
+No meds.
+
+DOCTOR D559
+Uh any allergies?
+
+PATIENT D559
+None, no allergies.
+
+DOCTOR D559
+Do you sometimes get dizzy, lightheaded, headaches?
+
+PATIENT D559
+Yeah sometimes.
+
+DOCTOR D559
+Which one, dizzy and lightheaded?
+
+PATIENT D559
+Yes.
+
+DOCTOR D559
+When does that usually happen?
+
+PATIENT D559
+Um I can be uh walking or just standing or if I'm in a weird position you know I might get them.  A lot is when uh my job too.  When I'm bending over to put the lug nuts on tires, I work at Firestone.
+
+DOCTOR D559
+Uh-huh.
+
+PATIENT D559
+I bend over and I'm very lightheaded and dizzy when I get back up I'm like I got to just stop and try to.
+
+DOCTOR D559
+But does that happen every day?
+
+PATIENT D559
+Uh mostly when I bend over that's why I started raising the cars up instead of bending over to do it, I raise you know.  I adjust myself.
+
+DOCTOR D559
+How long has this been going on?
+
+PATIENT D559
+For a while, for years.
+
+DOCTOR D559
+Do you feel like it’s getting worse or just the same?
+
+PATIENT D559
+Same.
+
+DOCTOR D559
+Um any headaches at random times?
+
+PATIENT D559
+Yeah I might get a shooting pain in the back right here.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+Back of my head but.
+
+DOCTOR D559
+Any changes in your vision?  How long has this been going on?
+
+PATIENT D559
+All my life.
+
+DOCTOR D559
+When was the last time you had your eyes checked?
+
+PATIENT D559
+It was before I got out, maybe in June of last year I think.  I wanted to get a new pair of glasses; maybe you can check that out, I don't know who it was, I was in the service.
+
+DOCTOR D559
+Okay.  Any chest pain, feeling like your heart's beating fast @@@ not normal?
+
+PATIENT D559
+No.
+
+DOCTOR D559
+Any history of heart murmurs?
+
+PATIENT D559
+No.
+
+DOCTOR D559
+Coughing up anything?
+
+PATIENT D559
+No.
+
+DOCTOR D559
+No.  Any belly pain or diarrhea?
+
+PATIENT D559
+Uh diarrhea yes, belly pain, not belly pain but always side cramps right here and my left arm is getting numb and hurting a lot lately too.
+
+DOCTOR D559
+Where in the left arm?
+
+PATIENT D559
+Uh I get all of it here.  All over my arm, sometimes I got to go like this and.
+
+DOCTOR D559
+How often does that happen, like when you're doing stuff, when you wake up?
+
+PATIENT D559
+Uh you know, I think it varies.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+It varies.  I can be sitting there watching TV, I'll kind of go you know like that, I'm like what the, you know where did this come and I shake it out and I just keep doing what.
+
+DOCTOR D559
+Does it start here, does it move or is it here or then?
+
+PATIENT D559
+No it stays up here in my arm area; it doesn't go down to my fingers.  I get locked jaw a lot.  I don't know if that's called locked jaw but there are times when I open up my mouth and its hard and I go like that and I got to rub it out.  I should have brought my medical records, all this stuff is in my records.
+
+DOCTOR D559
+Okay.  Um any trouble urinating or blood in your urine?
+
+PATIENT D559
+No.
+
+DOCTOR D559
+Did you eat today?
+
+PATIENT D559
+I had a Snicker bar and a pack of six donuts, those little out of the vending machine.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+That's about it.
+
+DOCTOR D559
+Okay cause I was trying to see in your files to see if any lab has been ever done on you and the answer is no.
+
+PATIENT D559
+No you're my first doctor I've seen since I've been back.
+
+DOCTOR D559
+In October?
+
+PATIENT D559
+Yeah cause in October I didn't really see a doctor.  I saw the physician, or the person.
+
+DOCTOR D559
+The nurse practitioner?
+
+PATIENT D559
+That does my paperwork and I got a flu shot that day in October.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+And then that's it and @@@.
+
+DOCTOR D559
+Okay.  Then we probably have to have you come back and do labs, screening blood work, including your cholesterol.
+
+PATIENT D559
+Uh-huh.
+
+DOCTOR D559
+You have a history of diabetes um.  Checking your A1C just to make sure that's normal and you have a history of hypertension, probably checking your urine just to make sure things are fine and we're not seeing any protein or any blood in your urine okay.
+
+PATIENT D559
+I don’t think I’m losing protein.
+
+DOCTOR D559
+Are you trying to lose weight at all or?
+
+PATIENT D559
+No, no.
+
+DOCTOR D559
+Why is that?
+
+PATIENT D559
+I'm done losing weight.
+
+DOCTOR D559
+What have you tried?
+
+PATIENT D559
+No I'm done losing weight.  I tried military, I've tried the military and I've tried the military, I'm done trying to lose weight.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+No more, no more Hydroxycut, no more pills.
+
+DOCTOR D559
+Do you kind of watch what you're eating or are you just going based on…?
+
+PATIENT D559
+No I'm just eating what I want, when I want, how I want, how much that I want.
+
+DOCTOR D559
+Uh-huh, okay.  It's something to keep in mind @@@.
+
+PATIENT D559
+I'm good.
+
+DOCTOR D559
+Now I'm trying to see the last time you were here; you're blood pressure was really not that bad, it was like 130/72 and today it is @@@.
+
+PATIENT D559
+That blood pressure is over and it can be like one day like I came in, in the service is a perfect example.  I came in one day to check, everybody was getting their medical check so I came in, got my blood pressure checked and it was extremely high and they're like we need to see you the next day.  I came in it was way low so they like we can't really tell with you and I'm like I know cause it's off.  I can come in one day and people are like you're gonna die and then the next day you're okay.  My blood pressure goes up and down, up and down, up and down, up and down.  Stress, non-stress, what I eat, what I don't eat, what I've done for the day, if I relax all day, @@@.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+Forget it; you'll be like this guy is driving me nuts with the blood pressure.
+
+DOCTOR D559
+No I mean it's been high the several times that you come in.  Let's say its high today and tomorrow its fine and you come back once a month later and its high I may say we need to maybe just start you on something.  I mean that is your choice @@@.
+
+PATIENT D559
+Uh-huh.
+
+DOCTOR D559
+So then we can go from there, we just have to keep an eye on it. So, you’ve tried a weight loss program or just a military work out?
+
+PATIENT D559
+Military.
+
+DOCTOR D559
+Which is fine.
+
+PATIENT D559
+No.  I had to speak to nutritionists.
+
+DOCTOR D559
+Where here?
+
+PATIENT D559
+No in the service.  They sent me to; when you are overweight they send you to a nutritionist right away.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+And you got to sit there and listen to her, uh eat this portion with this and this and this, I'm like can you multiply that by five so I can actually have a good meal?
+
+DOCTOR D559
+Well I guess it's the portion size that.
+
+PATIENT D559
+Oh yeah, yeah.  That kind of stuff never worked for me.  Never worked, they're like okay main thing, I was like are you serious.  I live to eat, I don’t eat to live.
+
+DOCTOR D559
+How so you've been hypertensive since what age?  How long have you had the hypertension?
+
+PATIENT D559
+Hypertensive is what?
+
+DOCTOR D559
+Like high blood pressure.
+
+PATIENT D559
+High blood pressure.
+
+DOCTOR D559
+Yeah that they started you on the medicine you stopped taking?
+
+PATIENT D559
+Uh, let's see when I actually fully got checked out, I'd say maybe in '97 when I joined the Marine Corps and then I was in there for four years and I had and then I got out.
+
+DOCTOR D559
+You had it in '97?
+
+PATIENT D559
+'97 the blood pressure and they gave me meds and I stopped taking it there and I got out for five years, joined the Army, started me on the medication there and then I stopped taking it so it's like.
+
+DOCTOR D559
+Okay.  So maybe since '97, wow that's pretty young and you're 34 right?
+
+PATIENT D559
+That's because, yes 34.
+
+DOCTOR D559
+That's because what?
+
+PATIENT D559
+I was uh a very big boy when I was younger.
+
+DOCTOR D559
+How big?
+
+PATIENT D559
+Uh fat.  I went in @@@.
+
+DOCTOR D559
+You're 246 pounds now.
+
+PATIENT D559
+Yeah I was about that when I joined the Marine Corps and then within three months I came out I was 185 pounds, so in three months I lost all that weight and then a month later.
+
+DOCTOR D559
+From 250, 200?
+
+PATIENT D559
+To 180, cause I was called a fat recruit when they sprayed me with all the lines and I was on diet rations, all that crap and a month after I got out, I was back up again.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+I cleared the systems and I was like bloop, not 250 but I was back up to like 220, 225, you know like that or back up, hey you're fat for your height.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+So.  
+
+DOCTOR D559
+So some things worked for you in the past right.
+
+PATIENT D559
+Yeah if I went back to the Marine Corps boot camp whatever they had me doing there, the exercise and the sweating and the white rice with the skinless chicken and @@@ all the plain stuff that they made me.
+
+DOCTOR D559
+Okay and then you said your left eye is itching?
+
+PATIENT D559
+Yeah.
+
+DOCTOR D559
+What's going on?
+
+PATIENT D559
+I don't know, it just started itching.  I think it's because I had dirty hands or something and I touched my eye at work or something but it just feels funny and it's a little puffy.
+
+DOCTOR D559
+How long has that been going on?
+
+PATIENT D559
+This is day two.
+
+DOCTOR D559
+Anything coming out of it?
+
+PATIENT D559
+No.
+
+DOCTOR D559
+Has it been more red than usual?
+
+PATIENT D559
+Uh-huh.
+
+DOCTOR D559
+Has your eye been pink?
+
+PATIENT D559
+I don't know if it's pink but its red, its looks a little bit red.
+
+DOCTOR D559
+Right now it's red?
+
+PATIENT D559
+Can you tell, I don't know, is there any difference or not?
+
+DOCTOR D559
+It just looks swollen.
+
+PATIENT D559
+It looks swollen okay.  I can feel it when I just move my eyeball.
+
+DOCTOR D559
+It just feels dry?
+
+PATIENT D559
+No not dry.
+
+DOCTOR D559
+Okay.  
+
+PATIENT D559
+It itches.
+
+DOCTOR D559
+What have you tried on it or did you just let it?
+
+PATIENT D559
+I let it, I went into school this morning and I asked some of the mothers that go to school with me what to do and they're like don't do nothing just go get it checked out and get antibiotics so like okay.  I like to ask the moms.  They know best.  You know like Visine, flush, the eyes and see what happened.
+
+DOCTOR D559
+Probably wouldn't help.
+
+PATIENT D559
+That's why I ask the moms.
+
+DOCTOR D559
+Have a seat up here.  Nice and clean. @@@.  Open your mouth, say ah and stick out your tongue, ah.
+
+PATIENT D559
+Ah.
+
+DOCTOR D559
+Okay good.  I want you to swallow for me.  Swallow for me again.  
+
+PATIENT D559
+Is it weird that sometimes my Adam's apple gets stuck and I got to shift it back.
+
+DOCTOR D559
+(laughter)
+
+PATIENT D559
+Into place, is that funny?
+
+DOCTOR D559
+Um.
+
+PATIENT D559
+Or does that happen @@@.
+
+DOCTOR D559
+Um I'm not really; I never had anyone mention that.
+
+PATIENT D559
+No but it's like I'll be laying down on my pillow and it like shifts and I have to pop it back into place.
+
+DOCTOR D559
+How often does it happen?
+
+PATIENT D559
+Oh it's weird, on occasion yeah.  I don't mind, it's like oh let me shift it back that kind of thing.
+
+DOCTOR D559
+Yeah, take a deep breath in for me.  Can you lay back?  I'm just going to go around your belly.  Do you want to try the Nutrition Help here?  No.
+
+PATIENT D559
+Uh uh.
+
+DOCTOR D559
+Alright go ahead and sit up.  When do you think you'll be back to get the labs done?
+
+PATIENT D559
+If you want I could be back next week Thursday.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+That's my day off.  @@@ right after school.  I would like to, also if I could, is there a possible way and how much it would cost if I get a vasectomy done, is it possible?
+
+DOCTOR D559
+Why would you want to do that? 
+
+PATIENT D559
+Because I'm done having children.  I love my babies.
+
+DOCTOR D559
+How many kids do you have?
+
+PATIENT D559
+I have two, one girl and one boy, 8 and 6.
+
+DOCTOR D559
+Okay.
+
+PATIENT D559
+Yeah.
+
+DOCTOR D559
+I'm not sure, I'm not sure if it's at the VA.  I doubt it's a procedure where it's going to be, they would pay for it.  Have you ever looked into that to see if they would pay for it?
+
+PATIENT D559
+When I was in I wanted to do it but I kept, my supervisor, whatever sergeant, he kept saying put it off, put it off, you can't do it, we got this to do.  So I wanted to get it done when I went, I was able to get it done because I was going to talk to the doctor to get it done and get it paid for while I was in.
+
+DOCTOR D559
+Oh.
+
+PATIENT D559
+But the thing is now I'm out and I'm with the VA now, how much out of pocket or what.
+
+DOCTOR D559
+I don't know.
+
+PATIENT D559
+See that's what I need to find, I don't know who to speak to to find out all that's involved.
+
+DOCTOR D559
+I would have to check and see.
+
+PATIENT D559
+Okay.
+
+DOCTOR D559
+Okay, I'll be back.
+
+PATIENT D559
+Alright.
+
+(DOCTOR OUT:  47:04  DOCTOR IN:  54:42)
+
+DOCTOR D559
+Alright good news is I can get you a referral for that @@@ and you would have to, you would have to talk to the urologist and then they'll let you know.
+
+PATIENT D559
+Okay.
+
+DOCTOR D559
+@@@.  So I'm going to do a nurse recheck of your blood pressure.  We could go two ways, if it's consistently high, like obviously in the 140s then I would have to say we need to start you on the medicine okay.  I'll recheck, let me recheck the blood pressure now.  
+
+PATIENT D559
+That @@@ shouldn't even be around my gut.
+
+DOCTOR D559
+@@@.
+
+PATIENT D559
+That's what I'm going to school for and I'm like @@@.
+
+DOCTOR D559
+Oh really.
+
+PATIENT D559
+@@@.
+
+DOCTOR D559
+@@@ turned @@@ down.
+
+PATIENT D559
+Oh, you've got a way to figure it out.
+
+DOCTOR D559
+What shot did you get today.
+
+PATIENT D559
+She gave me the pneumonia.
+
+DOCTOR D559
+Pneumovax.
+
+PATIENT D559
+The Pneumovax.  
+
+DOCTOR D559
+I know it’s tight, I just have to get it higher than the number she got.  140/90.
+
+PATIENT D559
+What'd she get?
+
+DOCTOR D559
+150 something.  So both numbers are high.  So I would say overall the good news is if you do try to as far, even though I know you said you are okay with your weight, at least kind of watch what you eat.  Do you eat out a lot?
+
+PATIENT D559
+Yes every day.
+
+DOCTOR D559
+Okay.  Watching what you eat, low sodium diet, no honestly because sodium kind of ties in to high blood pressure.  So if you're eating out a lot, there's a lot more processed foods and um you're more prone to be hypertensive.  That's just the bottom line and then the other stuff would be as far as you know, I know what you know you were on medication, but at some point you were no longer on meds then if your weight does come down and you're watching what you eat you may not need the medicines.  For blood pressure, for cholesterol and the more your weight goes up the more you'll be prone to be snoring a lot at night.  Some people, I'm sure you've heard, have to use a CPAP, the mask that you use to sleep.  I mean, I'm just giving you things to think about.
+
+PATIENT D559
+Okay.
+
+DOCTOR D559
+As far as long term issue.  I'm not trying to scare you or anything.  Just give you something to think about.
+
+PATIENT D559
+Uh yeah, I get scared @@@.
+
+DOCTOR D559
+And as far as like the eye stuff, I'm not giving you any antibiotics, this could go up on it’s own and usually what people do is use like just very warm compresses, like your washcloth.
+
+PATIENT D559
+Uh-huh.
+
+DOCTOR D559
+And like really warm water and you just put it over it and it should get better within a couple days.
+
+PATIENT D559
+Okay.
+
+DOCTOR D559
+Okay.  I'll go ahead and order your labs and um so you said sometime this week right?
+
+PATIENT D559
+Yes.
+
+DOCTOR D559
+It's usually better, can you come in the morning cause you should not have eaten anything cause we'll be checking your cholesterol.
+
+PATIENT D559
+Let's see Tuesday morning is the only morning I can squeeze in there or Friday morning.
+
+DOCTOR D559
+Okay.  You can come whenever you have time @@@.
+
+PATIENT D559
+Okay.
+
+DOCTOR D559
+We're checking the blood cholesterol and let me put in the referral.
+
+PATIENT D559
+Can I do a warm pack night combo something else because.
+
+DOCTOR D559
+@@@.
+
+PATIENT D559
+Because like there's nothing I could put in my eye right now just like a warm compact plus?
+
+DOCTOR D559
+Uh uh.
+
+PATIENT D559
+Something. 
+
+DOCTOR D559
+Just the warm compresses.
+
+PATIENT D559
+I'm trying to nuke this thing; I don't want it to last three days.
+
+DOCTOR D559
+Just try to make sure it doesn't get infected.  I'll put in your referral and your contact number is PHONE NUMBER?
+
+PATIENT D559
+Yes it is.
+
+DOCTOR D559
+And I think you're all set.  You should hear from me sometime next week or in two weeks to follow up with the labs and the nurse visit to get the blood pressure.  Probably the day you come and get the labs drawn to get a blood pressure check okay.
+
+PATIENT D559
+Okay.
+
+DOCTOR D559
+Anything else?
+
+PATIENT D559
+Nope.
+
+DOCTOR D559
+Um and hopefully I'll be seeing you more regularly in the meantime.
+
+PATIENT D559
+No I don't want uh, I don't like coming to the hospital regularly.
+
+DOCTOR D559
+So for now, let's see we can follow up.
+
+PATIENT D559
+Now as you can see the last time I was here was in October.
+
+DOCTOR D559
+You can follow up in about six months.
+
+PATIENT D559
+Okay.  That's fine.
+
+DOCTOR D559
+And maybe sooner it depends on what the labs show how about that?
+
+PATIENT D559
+Okay.  That's fine.
+
+DOCTOR D559
+Alright.  @@@.
+
+PATIENT D559
+The desk area?
+
+DOCTOR D559
+Uh-huh.
+
+PATIENT D559
+Okay.
+
+DOCTOR D559
+@@@.
+
+PATIENT D559
+Alright.
+
+DOCTOR D559
+@@@.
+
+PATIENT LEAVES:  63:23
+
+Time is 2:30.
+
+DD: @@/@@/@@
+DT: @@/@@/@@   
+INFOPRO/800511/JOB#  1249434
+TRANSACTION # 578-10-2-316-0103
