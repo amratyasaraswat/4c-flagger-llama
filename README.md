@@ -48,8 +48,8 @@ Small toy excerpts (2 transcripts + annotation) live in `data/fixtures/` so t
 
 ## 4 · Limitations & ethical note  
 
-The fine‑tuned model **does not provide medical advice** and may hallucinate contextual factors.  
-Always keep a human in the loop when using AI for clinical decision support.
+This fine‑tuned model performs better than zero-shot Llama 8B model but it still is far from correctly flagging transcripts.
+The main reason can be attributed to complexity for the model to learn red flags and limited data its being trained on (100 transcripts)
 
 ---
 
