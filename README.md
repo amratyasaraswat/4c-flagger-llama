@@ -46,7 +46,7 @@ Small toy excerpts (2 transcripts + annotation) live in `data/fixtures/` so t
 
 ---
 
-## 4 · Limitations & ethical note  
+## 4 · Limitations 
 
 This fine‑tuned model performs better than zero-shot Llama 8B model but it still is far from correctly flagging transcripts.
 The main reason can be attributed to complexity for the model to learn red flags and limited data its being trained on (100 transcripts)
