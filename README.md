@@ -60,7 +60,7 @@ The main reason can be attributed to complexity for the model to learn red flags
   title   = {Fine‑Tuning Llama‑3 8B for 4C Clinical Context Extraction},
   author  = {Saraswat, Amratya},
   year    = {2025},
-  howpublished = {\url{https://github.com/<user>/cs521-llama-4c}}
+  howpublished = {\url{https://github.com/amratyasaraswat/4c-flagger-llama}}
 }
 ```
 
